@@ -1,0 +1,772 @@
+[
+  {
+    "word": "sedentary",
+    "ipa": "/ˈsedntri/",
+    "pos": "adjective",
+    "meaningEn": "involving a lot of sitting and very little physical activity",
+    "meaningVi": "ít vận động",
+    "example": "A sedentary lifestyle significantly increases the risk of heart disease and diabetes.",
+    "exampleVi": "Lối sống ít vận động làm tăng đáng kể nguy cơ mắc bệnh tim và tiểu đường.",
+    "exampleForm": "sedentary",
+    "collocations": [
+      "sedentary lifestyle",
+      "sedentary job",
+      "sedentary behaviour"
+    ],
+    "synonyms": [
+      "inactive"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "obesity",
+    "ipa": "/əʊˈbiːsəti/",
+    "pos": "noun",
+    "meaningEn": "the condition of being extremely overweight in a way that harms health",
+    "meaningVi": "bệnh béo phì",
+    "example": "Childhood obesity rates have risen sharply as children spend less time playing outdoors.",
+    "exampleVi": "Tỉ lệ béo phì ở trẻ em đã tăng mạnh khi trẻ dành ít thời gian vui chơi ngoài trời hơn.",
+    "exampleForm": "obesity",
+    "collocations": [
+      "childhood obesity",
+      "obesity epidemic",
+      "tackle obesity"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "nutritious",
+    "ipa": "/njuˈtrɪʃəs/",
+    "pos": "adjective",
+    "meaningEn": "containing the substances your body needs to stay healthy",
+    "meaningVi": "bổ dưỡng, giàu dinh dưỡng",
+    "example": "Schools should provide free nutritious meals to ensure that every child can concentrate in class.",
+    "exampleVi": "Trường học nên cung cấp bữa ăn bổ dưỡng miễn phí để đảm bảo mọi trẻ em đều có thể tập trung trong lớp.",
+    "exampleForm": "nutritious",
+    "collocations": [
+      "nutritious food",
+      "nutritious meals",
+      "highly nutritious"
+    ],
+    "synonyms": [
+      "nourishing",
+      "wholesome"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "balanced diet",
+    "ipa": "/ˌbælənst ˈdaɪət/",
+    "pos": "noun",
+    "meaningEn": "a diet containing the right amounts of different types of food",
+    "meaningVi": "chế độ ăn uống cân bằng",
+    "example": "Maintaining a balanced diet is more effective than taking expensive vitamin supplements.",
+    "exampleVi": "Duy trì chế độ ăn uống cân bằng hiệu quả hơn so với việc dùng các loại vitamin bổ sung đắt tiền.",
+    "exampleForm": "balanced diet",
+    "collocations": [
+      "maintain a balanced diet",
+      "eat a balanced diet",
+      "part of a balanced diet"
+    ],
+    "synonyms": [
+      "healthy diet"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "well-being",
+    "ipa": "/ˌwel ˈbiːɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the state of feeling healthy and happy",
+    "meaningVi": "sức khoẻ và hạnh phúc, sự khoẻ mạnh về thể chất lẫn tinh thần",
+    "example": "Regular exercise benefits not only physical health but also emotional well-being.",
+    "exampleVi": "Tập thể dục thường xuyên không chỉ có lợi cho sức khoẻ thể chất mà còn cho sự khoẻ mạnh về mặt cảm xúc.",
+    "exampleForm": "well-being",
+    "collocations": [
+      "mental well-being",
+      "sense of well-being",
+      "promote well-being"
+    ],
+    "synonyms": [
+      "welfare",
+      "health"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "chronic",
+    "ipa": "/ˈkrɒnɪk/",
+    "pos": "adjective",
+    "meaningEn": "(of an illness) lasting for a long time and difficult to cure",
+    "meaningVi": "mãn tính",
+    "example": "The ageing population means more people will live with chronic conditions such as arthritis.",
+    "exampleVi": "Dân số già hoá đồng nghĩa với việc sẽ có nhiều người phải sống chung với các bệnh mãn tính như viêm khớp.",
+    "exampleForm": "chronic",
+    "collocations": [
+      "chronic disease",
+      "chronic pain",
+      "chronic illness"
+    ],
+    "synonyms": [
+      "long-term",
+      "persistent"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "epidemic",
+    "ipa": "/ˌepɪˈdemɪk/",
+    "pos": "noun",
+    "meaningEn": "a disease, or a harmful trend, that spreads quickly and affects many people",
+    "meaningVi": "dịch bệnh, sự lan rộng (của một vấn đề)",
+    "example": "Health experts warn that the world is facing an epidemic of type 2 diabetes.",
+    "exampleVi": "Các chuyên gia y tế cảnh báo rằng thế giới đang đối mặt với tình trạng bệnh tiểu đường tuýp 2 bùng phát thành dịch.",
+    "exampleForm": "epidemic",
+    "collocations": [
+      "obesity epidemic",
+      "flu epidemic",
+      "reach epidemic proportions"
+    ],
+    "synonyms": [
+      "outbreak",
+      "plague"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "pandemic",
+    "ipa": "/pænˈdemɪk/",
+    "pos": "noun",
+    "meaningEn": "a disease that spreads across many countries or the whole world",
+    "meaningVi": "đại dịch",
+    "example": "The pandemic exposed serious weaknesses in many countries' healthcare systems.",
+    "exampleVi": "Đại dịch đã phơi bày những điểm yếu nghiêm trọng trong hệ thống y tế của nhiều quốc gia.",
+    "exampleForm": "pandemic",
+    "collocations": [
+      "global pandemic",
+      "during the pandemic",
+      "pandemic preparedness"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "vaccine",
+    "ipa": "/ˈvæksiːn/",
+    "pos": "noun",
+    "meaningEn": "a substance given to people to protect them against a disease",
+    "meaningVi": "vắc-xin",
+    "example": "Making vaccines freely available is one of the most cost-effective ways to save lives.",
+    "exampleVi": "Cung cấp vắc-xin miễn phí là một trong những cách tiết kiệm chi phí nhất để cứu sống con người.",
+    "exampleForm": "vaccines",
+    "collocations": [
+      "develop a vaccine",
+      "flu vaccine",
+      "vaccine rollout"
+    ],
+    "synonyms": [
+      "jab"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "immune system",
+    "ipa": "/ɪˈmjuːn sɪstəm/",
+    "pos": "noun",
+    "meaningEn": "the cells and tissues in the body that fight infection and disease",
+    "meaningVi": "hệ miễn dịch",
+    "example": "Lack of sleep can weaken the immune system and make people more vulnerable to infection.",
+    "exampleVi": "Thiếu ngủ có thể làm suy yếu hệ miễn dịch và khiến con người dễ bị nhiễm trùng hơn.",
+    "exampleForm": "immune system",
+    "collocations": [
+      "weaken the immune system",
+      "boost the immune system",
+      "a healthy immune system"
+    ],
+    "synonyms": [
+      "immunity"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "life expectancy",
+    "ipa": "/ˌlaɪf ɪkˈspektənsi/",
+    "pos": "noun",
+    "meaningEn": "the average number of years a person is expected to live",
+    "meaningVi": "tuổi thọ trung bình",
+    "example": "Improvements in sanitation and medicine have greatly increased life expectancy over the past century.",
+    "exampleVi": "Những cải thiện về vệ sinh và y học đã giúp tuổi thọ trung bình tăng mạnh trong thế kỷ qua.",
+    "exampleForm": "life expectancy",
+    "collocations": [
+      "average life expectancy",
+      "increase life expectancy",
+      "life expectancy at birth"
+    ],
+    "synonyms": [
+      "lifespan"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "preventive",
+    "ipa": "/prɪˈventɪv/",
+    "pos": "adjective",
+    "meaningEn": "intended to stop illness or problems before they happen",
+    "meaningVi": "phòng ngừa, dự phòng",
+    "example": "Spending more on preventive medicine would reduce the long-term burden on hospitals.",
+    "exampleVi": "Chi tiêu nhiều hơn cho y học dự phòng sẽ giảm gánh nặng lâu dài cho các bệnh viện.",
+    "exampleForm": "preventive",
+    "collocations": [
+      "preventive medicine",
+      "preventive measures",
+      "preventive healthcare"
+    ],
+    "synonyms": [
+      "preventative",
+      "precautionary"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "diagnose",
+    "ipa": "/ˈdaɪəɡnəʊz/",
+    "pos": "verb",
+    "meaningEn": "to identify an illness by examining a patient",
+    "meaningVi": "chẩn đoán",
+    "example": "Many types of cancer can be cured if they are diagnosed at an early stage.",
+    "exampleVi": "Nhiều loại ung thư có thể chữa khỏi nếu được chẩn đoán ở giai đoạn sớm.",
+    "exampleForm": "diagnosed",
+    "collocations": [
+      "diagnose a disease",
+      "be diagnosed with",
+      "diagnosed early"
+    ],
+    "synonyms": [
+      "identify",
+      "detect"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "symptom",
+    "ipa": "/ˈsɪmptəm/",
+    "pos": "noun",
+    "meaningEn": "a sign that someone has an illness",
+    "meaningVi": "triệu chứng",
+    "example": "Many people ignore the early symptoms of depression until the condition becomes serious.",
+    "exampleVi": "Nhiều người phớt lờ các triệu chứng ban đầu của bệnh trầm cảm cho đến khi tình trạng trở nên nghiêm trọng.",
+    "exampleForm": "symptoms",
+    "collocations": [
+      "early symptoms",
+      "common symptoms",
+      "develop symptoms"
+    ],
+    "synonyms": [
+      "sign",
+      "indication"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "side effect",
+    "ipa": "/ˈsaɪd ɪfekt/",
+    "pos": "noun",
+    "meaningEn": "an unwanted effect of a drug or medical treatment",
+    "meaningVi": "tác dụng phụ",
+    "example": "Patients should be fully informed about the possible side effects of any medication they take.",
+    "exampleVi": "Bệnh nhân cần được thông tin đầy đủ về những tác dụng phụ có thể xảy ra của bất kỳ loại thuốc nào họ dùng.",
+    "exampleForm": "side effects",
+    "collocations": [
+      "serious side effects",
+      "possible side effects",
+      "suffer side effects"
+    ],
+    "synonyms": [
+      "adverse reaction"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "prescription",
+    "ipa": "/prɪˈskrɪpʃn/",
+    "pos": "noun",
+    "meaningEn": "a doctor's written instruction allowing a patient to get a medicine",
+    "meaningVi": "đơn thuốc",
+    "example": "In some countries, powerful antibiotics can be bought without a prescription, which fuels drug resistance.",
+    "exampleVi": "Ở một số quốc gia, có thể mua thuốc kháng sinh mạnh mà không cần đơn thuốc, điều này làm gia tăng tình trạng kháng thuốc.",
+    "exampleForm": "prescription",
+    "collocations": [
+      "without a prescription",
+      "prescription drugs",
+      "write a prescription"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "junk food",
+    "ipa": "/ˈdʒʌŋk fuːd/",
+    "pos": "noun",
+    "meaningEn": "unhealthy food that is high in fat, sugar or salt",
+    "meaningVi": "đồ ăn vặt không lành mạnh, đồ ăn nhanh",
+    "example": "Some governments have banned junk food advertising during children's television programmes.",
+    "exampleVi": "Một số chính phủ đã cấm quảng cáo đồ ăn vặt không lành mạnh trong các chương trình truyền hình dành cho trẻ em.",
+    "exampleForm": "junk food",
+    "collocations": [
+      "eat junk food",
+      "junk food advertising",
+      "a tax on junk food"
+    ],
+    "synonyms": [
+      "fast food"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "processed food",
+    "ipa": "/ˌprəʊsest ˈfuːd/",
+    "pos": "noun",
+    "meaningEn": "food that has been changed industrially, often with added salt, sugar or chemicals",
+    "meaningVi": "thực phẩm chế biến sẵn",
+    "example": "Diets high in processed food have been linked to rising rates of heart disease.",
+    "exampleVi": "Chế độ ăn nhiều thực phẩm chế biến sẵn có liên quan đến tỉ lệ mắc bệnh tim ngày càng tăng.",
+    "exampleForm": "processed food",
+    "collocations": [
+      "highly processed food",
+      "cut down on processed food",
+      "processed food industry"
+    ],
+    "synonyms": [
+      "convenience food"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "cardiovascular",
+    "ipa": "/ˌkɑːdiəʊˈvæskjələ/",
+    "pos": "adjective",
+    "meaningEn": "relating to the heart and blood vessels",
+    "meaningVi": "(thuộc) tim mạch",
+    "example": "Cardiovascular disease remains the leading cause of death in many developed nations.",
+    "exampleVi": "Bệnh tim mạch vẫn là nguyên nhân gây tử vong hàng đầu ở nhiều quốc gia phát triển.",
+    "exampleForm": "Cardiovascular",
+    "collocations": [
+      "cardiovascular disease",
+      "cardiovascular exercise",
+      "cardiovascular health"
+    ],
+    "synonyms": [],
+    "level": "C2"
+  },
+  {
+    "word": "malnutrition",
+    "ipa": "/ˌmælnjuːˈtrɪʃn/",
+    "pos": "noun",
+    "meaningEn": "poor health caused by not eating enough or eating the wrong food",
+    "meaningVi": "tình trạng suy dinh dưỡng",
+    "example": "Despite global food surpluses, millions of children still suffer from malnutrition.",
+    "exampleVi": "Mặc dù lương thực toàn cầu dư thừa, hàng triệu trẻ em vẫn đang bị suy dinh dưỡng.",
+    "exampleForm": "malnutrition",
+    "collocations": [
+      "suffer from malnutrition",
+      "severe malnutrition",
+      "child malnutrition"
+    ],
+    "synonyms": [
+      "undernourishment"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "infectious",
+    "ipa": "/ɪnˈfekʃəs/",
+    "pos": "adjective",
+    "meaningEn": "(of a disease) able to spread from one person to another",
+    "meaningVi": "truyền nhiễm, lây nhiễm",
+    "example": "Overcrowded living conditions allow infectious diseases to spread rapidly.",
+    "exampleVi": "Điều kiện sống chật chội tạo điều kiện cho các bệnh truyền nhiễm lây lan nhanh chóng.",
+    "exampleForm": "infectious",
+    "collocations": [
+      "infectious disease",
+      "highly infectious",
+      "infectious agent"
+    ],
+    "synonyms": [
+      "contagious",
+      "communicable"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "contagious",
+    "ipa": "/kənˈteɪdʒəs/",
+    "pos": "adjective",
+    "meaningEn": "(of a disease) spread by close contact between people",
+    "meaningVi": "dễ lây, lây lan qua tiếp xúc",
+    "example": "Measles is so contagious that a single case can quickly lead to a local outbreak.",
+    "exampleVi": "Bệnh sởi dễ lây đến mức chỉ một ca bệnh cũng có thể nhanh chóng dẫn đến một đợt bùng phát tại địa phương.",
+    "exampleForm": "contagious",
+    "collocations": [
+      "highly contagious",
+      "contagious disease",
+      "contagious virus"
+    ],
+    "synonyms": [
+      "infectious",
+      "catching"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "work out",
+    "ipa": "/ˌwɜːk ˈaʊt/",
+    "pos": "phrasal verb",
+    "meaningEn": "to exercise in order to improve your health or strength",
+    "meaningVi": "tập thể dục, tập luyện",
+    "example": "I try to work out at the gym at least three times a week to stay in shape.",
+    "exampleVi": "Tôi cố gắng tập luyện ở phòng gym ít nhất ba lần một tuần để giữ dáng.",
+    "exampleForm": "work out",
+    "collocations": [
+      "work out regularly",
+      "work out at the gym",
+      "work out every day"
+    ],
+    "synonyms": [
+      "exercise",
+      "train"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "stamina",
+    "ipa": "/ˈstæmɪnə/",
+    "pos": "noun",
+    "meaningEn": "the physical or mental strength to continue doing something for a long time",
+    "meaningVi": "sức bền, thể lực",
+    "example": "Swimming is an excellent way to build stamina without putting pressure on your joints.",
+    "exampleVi": "Bơi lội là cách tuyệt vời để tăng cường sức bền mà không gây áp lực lên các khớp.",
+    "exampleForm": "stamina",
+    "collocations": [
+      "build up stamina",
+      "physical stamina",
+      "lack stamina"
+    ],
+    "synonyms": [
+      "endurance",
+      "staying power"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "mental health",
+    "ipa": "/ˌmentl ˈhelθ/",
+    "pos": "noun",
+    "meaningEn": "the condition of a person's mind and emotions",
+    "meaningVi": "sức khoẻ tinh thần",
+    "example": "Employers are becoming more aware of the importance of supporting their staff's mental health.",
+    "exampleVi": "Các nhà tuyển dụng ngày càng nhận thức rõ hơn tầm quan trọng của việc hỗ trợ sức khoẻ tinh thần cho nhân viên.",
+    "exampleForm": "mental health",
+    "collocations": [
+      "mental health problems",
+      "mental health services",
+      "raise awareness of mental health"
+    ],
+    "synonyms": [
+      "psychological well-being"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "therapy",
+    "ipa": "/ˈθerəpi/",
+    "pos": "noun",
+    "meaningEn": "treatment for a physical or mental illness, often without drugs or surgery",
+    "meaningVi": "liệu pháp, phương pháp điều trị",
+    "example": "Talking therapy can be just as effective as medication for treating mild depression.",
+    "exampleVi": "Liệu pháp trò chuyện có thể hiệu quả không kém thuốc trong việc điều trị trầm cảm nhẹ.",
+    "exampleForm": "therapy",
+    "collocations": [
+      "undergo therapy",
+      "physical therapy",
+      "therapy session"
+    ],
+    "synonyms": [
+      "treatment"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "recovery",
+    "ipa": "/rɪˈkʌvəri/",
+    "pos": "noun",
+    "meaningEn": "the process of becoming healthy again after an illness or injury",
+    "meaningVi": "sự hồi phục, sự bình phục",
+    "example": "Support from family and friends can speed up a patient's recovery after surgery.",
+    "exampleVi": "Sự hỗ trợ từ gia đình và bạn bè có thể giúp bệnh nhân hồi phục nhanh hơn sau phẫu thuật.",
+    "exampleForm": "recovery",
+    "collocations": [
+      "make a full recovery",
+      "speedy recovery",
+      "road to recovery"
+    ],
+    "synonyms": [
+      "recuperation",
+      "healing"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "healthcare",
+    "ipa": "/ˈhelθkeə/",
+    "pos": "noun",
+    "meaningEn": "the services that provide medical care",
+    "meaningVi": "dịch vụ chăm sóc sức khoẻ, y tế",
+    "example": "Access to free healthcare should be a basic right for every citizen.",
+    "exampleVi": "Tiếp cận dịch vụ chăm sóc sức khoẻ miễn phí nên là quyền cơ bản của mọi công dân.",
+    "exampleForm": "healthcare",
+    "collocations": [
+      "healthcare system",
+      "access to healthcare",
+      "public healthcare"
+    ],
+    "synonyms": [
+      "medical care",
+      "health service"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "health insurance",
+    "ipa": "/ˈhelθ ɪnˌʃʊərəns/",
+    "pos": "noun",
+    "meaningEn": "an arrangement in which you pay money to cover future medical costs",
+    "meaningVi": "bảo hiểm y tế",
+    "example": "Without health insurance, a single serious illness can push a family into poverty.",
+    "exampleVi": "Nếu không có bảo hiểm y tế, chỉ một căn bệnh nghiêm trọng cũng có thể đẩy cả gia đình vào cảnh nghèo đói.",
+    "exampleForm": "health insurance",
+    "collocations": [
+      "private health insurance",
+      "health insurance coverage",
+      "take out health insurance"
+    ],
+    "synonyms": [
+      "medical insurance"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "longevity",
+    "ipa": "/lɒnˈdʒevəti/",
+    "pos": "noun",
+    "meaningEn": "long life",
+    "meaningVi": "sự trường thọ, tuổi thọ",
+    "example": "Researchers believe that strong social connections play a key role in human longevity.",
+    "exampleVi": "Các nhà nghiên cứu tin rằng các mối quan hệ xã hội bền chặt đóng vai trò then chốt đối với tuổi thọ của con người.",
+    "exampleForm": "longevity",
+    "collocations": [
+      "increased longevity",
+      "the secret of longevity",
+      "promote longevity"
+    ],
+    "synonyms": [
+      "long life"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "surgery",
+    "ipa": "/ˈsɜːdʒəri/",
+    "pos": "noun",
+    "meaningEn": "medical treatment in which a doctor cuts open the body to repair or remove something",
+    "meaningVi": "phẫu thuật, ca mổ",
+    "example": "Patients in public hospitals sometimes wait months for routine surgery.",
+    "exampleVi": "Bệnh nhân ở các bệnh viện công đôi khi phải chờ hàng tháng trời cho những ca phẫu thuật thông thường.",
+    "exampleForm": "surgery",
+    "collocations": [
+      "undergo surgery",
+      "cosmetic surgery",
+      "heart surgery"
+    ],
+    "synonyms": [
+      "operation"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "alternative medicine",
+    "ipa": "/ɔːlˌtɜːnətɪv ˈmedsn/",
+    "pos": "noun",
+    "meaningEn": "treatments such as herbal remedies or acupuncture, outside conventional medicine",
+    "meaningVi": "y học thay thế",
+    "example": "Some patients turn to alternative medicine when conventional treatments fail to relieve their pain.",
+    "exampleVi": "Một số bệnh nhân tìm đến y học thay thế khi các phương pháp điều trị thông thường không làm giảm được cơn đau.",
+    "exampleForm": "alternative medicine",
+    "collocations": [
+      "practise alternative medicine",
+      "turn to alternative medicine",
+      "forms of alternative medicine"
+    ],
+    "synonyms": [
+      "complementary medicine"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "general practitioner",
+    "ipa": "/ˌdʒenrəl prækˈtɪʃənə/",
+    "pos": "noun",
+    "meaningEn": "a doctor who treats general health problems in a local community",
+    "meaningVi": "bác sĩ đa khoa",
+    "example": "In the UK, patients usually need a referral from their general practitioner to see a specialist.",
+    "exampleVi": "Ở Anh, bệnh nhân thường cần giấy giới thiệu từ bác sĩ đa khoa để được khám chuyên khoa.",
+    "exampleForm": "general practitioner",
+    "collocations": [
+      "see a general practitioner",
+      "local general practitioner",
+      "register with a general practitioner"
+    ],
+    "synonyms": [
+      "GP",
+      "family doctor"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "outbreak",
+    "ipa": "/ˈaʊtbreɪk/",
+    "pos": "noun",
+    "meaningEn": "the sudden start of a disease affecting many people",
+    "meaningVi": "sự bùng phát (dịch bệnh)",
+    "example": "Health authorities acted quickly to contain the outbreak of cholera in the refugee camp.",
+    "exampleVi": "Cơ quan y tế đã hành động nhanh chóng để khống chế đợt bùng phát dịch tả trong trại tị nạn.",
+    "exampleForm": "outbreak",
+    "collocations": [
+      "contain an outbreak",
+      "outbreak of disease",
+      "a major outbreak"
+    ],
+    "synonyms": [
+      "epidemic",
+      "flare-up"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "addiction",
+    "ipa": "/əˈdɪkʃn/",
+    "pos": "noun",
+    "meaningEn": "a condition in which someone cannot stop using a harmful substance or doing something",
+    "meaningVi": "chứng nghiện, sự nghiện",
+    "example": "Nicotine addiction is extremely difficult to overcome without professional support.",
+    "exampleVi": "Chứng nghiện nicotine cực kỳ khó vượt qua nếu không có sự hỗ trợ chuyên môn.",
+    "exampleForm": "addiction",
+    "collocations": [
+      "drug addiction",
+      "overcome an addiction",
+      "addiction to"
+    ],
+    "synonyms": [
+      "dependence",
+      "dependency"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "hygiene",
+    "ipa": "/ˈhaɪdʒiːn/",
+    "pos": "noun",
+    "meaningEn": "the practice of keeping yourself and your surroundings clean to prevent disease",
+    "meaningVi": "vệ sinh",
+    "example": "Good personal hygiene, such as regular hand washing, can prevent the spread of many illnesses.",
+    "exampleVi": "Vệ sinh cá nhân tốt, như rửa tay thường xuyên, có thể ngăn ngừa sự lây lan của nhiều bệnh.",
+    "exampleForm": "hygiene",
+    "collocations": [
+      "personal hygiene",
+      "food hygiene",
+      "poor hygiene"
+    ],
+    "synonyms": [
+      "cleanliness",
+      "sanitation"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "fatigue",
+    "ipa": "/fəˈtiːɡ/",
+    "pos": "noun",
+    "meaningEn": "a feeling of extreme tiredness",
+    "meaningVi": "sự mệt mỏi, kiệt sức",
+    "example": "Doctors working long night shifts often suffer from fatigue, which can lead to medical errors.",
+    "exampleVi": "Các bác sĩ làm ca đêm kéo dài thường bị mệt mỏi, điều này có thể dẫn đến sai sót y khoa.",
+    "exampleForm": "fatigue",
+    "collocations": [
+      "suffer from fatigue",
+      "chronic fatigue",
+      "mental fatigue"
+    ],
+    "synonyms": [
+      "exhaustion",
+      "tiredness"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "calorie",
+    "ipa": "/ˈkæləri/",
+    "pos": "noun",
+    "meaningEn": "a unit for measuring how much energy food provides",
+    "meaningVi": "ca-lo (đơn vị năng lượng của thức ăn)",
+    "example": "Displaying the number of calories on restaurant menus could help people make healthier choices.",
+    "exampleVi": "Hiển thị lượng ca-lo trên thực đơn nhà hàng có thể giúp mọi người đưa ra lựa chọn lành mạnh hơn.",
+    "exampleForm": "calories",
+    "collocations": [
+      "burn calories",
+      "calorie intake",
+      "low in calories"
+    ],
+    "synonyms": [],
+    "level": "B1"
+  },
+  {
+    "word": "deficiency",
+    "ipa": "/dɪˈfɪʃnsi/",
+    "pos": "noun",
+    "meaningEn": "a lack of something the body needs, such as a vitamin",
+    "meaningVi": "sự thiếu hụt (chất dinh dưỡng)",
+    "example": "Office workers who rarely go outside are at risk of vitamin D deficiency.",
+    "exampleVi": "Nhân viên văn phòng hiếm khi ra ngoài có nguy cơ bị thiếu hụt vitamin D.",
+    "exampleForm": "deficiency",
+    "collocations": [
+      "vitamin deficiency",
+      "iron deficiency",
+      "nutritional deficiency"
+    ],
+    "synonyms": [
+      "shortage",
+      "lack"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "life-threatening",
+    "ipa": "/ˈlaɪf θretnɪŋ/",
+    "pos": "adjective",
+    "meaningEn": "serious enough to cause death",
+    "meaningVi": "đe doạ tính mạng, nguy hiểm đến tính mạng",
+    "example": "Emergency departments must prioritise patients with life-threatening injuries.",
+    "exampleVi": "Khoa cấp cứu phải ưu tiên những bệnh nhân bị thương nguy hiểm đến tính mạng.",
+    "exampleForm": "life-threatening",
+    "collocations": [
+      "life-threatening illness",
+      "life-threatening condition",
+      "potentially life-threatening"
+    ],
+    "synonyms": [
+      "potentially fatal",
+      "critical"
+    ],
+    "level": "C1"
+  }
+]

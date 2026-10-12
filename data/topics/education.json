@@ -1,0 +1,768 @@
+[
+  {
+    "word": "tertiary education",
+    "ipa": "/ˌtɜːʃəri ˌedʒuˈkeɪʃn/",
+    "pos": "noun",
+    "meaningEn": "education at college or university level",
+    "meaningVi": "giáo dục bậc đại học, giáo dục sau phổ thông",
+    "example": "Access to tertiary education should not depend on a student's family income.",
+    "exampleVi": "Cơ hội tiếp cận giáo dục đại học không nên phụ thuộc vào thu nhập gia đình của sinh viên.",
+    "exampleForm": "tertiary education",
+    "collocations": [
+      "access to tertiary education",
+      "free tertiary education",
+      "tertiary education institutions"
+    ],
+    "synonyms": [
+      "higher education"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "curriculum",
+    "ipa": "/kəˈrɪkjələm/",
+    "pos": "noun",
+    "meaningEn": "the subjects included in a course of study at a school or college",
+    "meaningVi": "chương trình giảng dạy, chương trình học",
+    "example": "Many experts argue that financial literacy should be part of the national curriculum.",
+    "exampleVi": "Nhiều chuyên gia cho rằng kiến thức tài chính nên được đưa vào chương trình giảng dạy quốc gia.",
+    "exampleForm": "curriculum",
+    "collocations": [
+      "national curriculum",
+      "school curriculum",
+      "broaden the curriculum"
+    ],
+    "synonyms": [
+      "syllabus",
+      "programme of study"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "rote learning",
+    "ipa": "/ˌrəʊt ˈlɜːnɪŋ/",
+    "pos": "noun",
+    "meaningEn": "learning by repeating information until you remember it, not by understanding it",
+    "meaningVi": "học vẹt, học thuộc lòng máy móc",
+    "example": "An over-reliance on rote learning can prevent students from developing genuine understanding.",
+    "exampleVi": "Việc quá phụ thuộc vào học vẹt có thể khiến học sinh không phát triển được sự hiểu biết thực sự.",
+    "exampleForm": "rote learning",
+    "collocations": [
+      "rely on rote learning",
+      "rote learning methods"
+    ],
+    "synonyms": [
+      "memorisation"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "extracurricular",
+    "ipa": "/ˌekstrəkəˈrɪkjələ/",
+    "pos": "adjective",
+    "meaningEn": "done by students in addition to their normal classes",
+    "meaningVi": "ngoại khóa",
+    "example": "Extracurricular activities such as sports and drama help children build confidence and teamwork skills.",
+    "exampleVi": "Các hoạt động ngoại khóa như thể thao và kịch giúp trẻ em xây dựng sự tự tin và kỹ năng làm việc nhóm.",
+    "exampleForm": "Extracurricular",
+    "collocations": [
+      "extracurricular activities",
+      "extracurricular clubs"
+    ],
+    "synonyms": [
+      "after-school"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "vocational",
+    "ipa": "/vəʊˈkeɪʃənl/",
+    "pos": "adjective",
+    "meaningEn": "providing the skills and training needed for a particular job",
+    "meaningVi": "(thuộc) dạy nghề, hướng nghiệp",
+    "example": "Vocational training offers young people a practical alternative to an academic university degree.",
+    "exampleVi": "Đào tạo nghề mang đến cho người trẻ một lựa chọn thực tế thay cho bằng đại học thiên về học thuật.",
+    "exampleForm": "Vocational",
+    "collocations": [
+      "vocational training",
+      "vocational courses",
+      "vocational qualifications"
+    ],
+    "synonyms": [
+      "job-related",
+      "technical"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "tuition fee",
+    "ipa": "/tjuˈɪʃn fiː/",
+    "pos": "noun",
+    "meaningEn": "money paid for being taught, especially at a college or university",
+    "meaningVi": "học phí",
+    "example": "Rising tuition fees have discouraged many talented students from low-income families from applying to university.",
+    "exampleVi": "Học phí tăng cao đã khiến nhiều sinh viên tài năng từ các gia đình thu nhập thấp không dám nộp đơn vào đại học.",
+    "exampleForm": "tuition fees",
+    "collocations": [
+      "pay tuition fees",
+      "rising tuition fees",
+      "abolish tuition fees"
+    ],
+    "synonyms": [
+      "school fees"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "scholarship",
+    "ipa": "/ˈskɒləʃɪp/",
+    "pos": "noun",
+    "meaningEn": "money given to a student to help pay for their studies",
+    "meaningVi": "học bổng",
+    "example": "She was awarded a full scholarship to study engineering at a leading university abroad.",
+    "exampleVi": "Cô ấy đã nhận được học bổng toàn phần để học kỹ thuật tại một trường đại học hàng đầu ở nước ngoài.",
+    "exampleForm": "scholarship",
+    "collocations": [
+      "win a scholarship",
+      "full scholarship",
+      "apply for a scholarship"
+    ],
+    "synonyms": [
+      "grant",
+      "bursary"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "literacy",
+    "ipa": "/ˈlɪtərəsi/",
+    "pos": "noun",
+    "meaningEn": "the ability to read and write",
+    "meaningVi": "khả năng đọc viết, sự biết chữ",
+    "example": "Improving adult literacy rates is essential for reducing poverty in developing countries.",
+    "exampleVi": "Nâng cao tỷ lệ biết chữ ở người trưởng thành là điều thiết yếu để giảm nghèo ở các nước đang phát triển.",
+    "exampleForm": "literacy",
+    "collocations": [
+      "literacy rate",
+      "adult literacy",
+      "basic literacy skills"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "numeracy",
+    "ipa": "/ˈnjuːmərəsi/",
+    "pos": "noun",
+    "meaningEn": "the ability to understand and work with numbers",
+    "meaningVi": "khả năng tính toán, kỹ năng làm việc với con số",
+    "example": "Primary schools should focus on basic literacy and numeracy before introducing more specialised subjects.",
+    "exampleVi": "Các trường tiểu học nên tập trung vào kỹ năng đọc viết và tính toán cơ bản trước khi đưa vào các môn học chuyên sâu hơn.",
+    "exampleForm": "numeracy",
+    "collocations": [
+      "numeracy skills",
+      "literacy and numeracy"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "compulsory",
+    "ipa": "/kəmˈpʌlsəri/",
+    "pos": "adjective",
+    "meaningEn": "required by a rule or law",
+    "meaningVi": "bắt buộc",
+    "example": "In many countries, education is compulsory for all children between the ages of six and sixteen.",
+    "exampleVi": "Ở nhiều quốc gia, giáo dục là bắt buộc đối với mọi trẻ em trong độ tuổi từ sáu đến mười sáu.",
+    "exampleForm": "compulsory",
+    "collocations": [
+      "compulsory education",
+      "compulsory subject",
+      "make something compulsory"
+    ],
+    "synonyms": [
+      "mandatory",
+      "obligatory"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "syllabus",
+    "ipa": "/ˈsɪləbəs/",
+    "pos": "noun",
+    "meaningEn": "a list of the topics covered in a particular course or exam",
+    "meaningVi": "đề cương môn học, chương trình (của một môn/khóa học)",
+    "example": "Teachers often feel pressured to rush through the syllabus instead of exploring topics in depth.",
+    "exampleVi": "Giáo viên thường chịu áp lực phải dạy cho kịp đề cương thay vì khai thác các chủ đề một cách sâu sắc.",
+    "exampleForm": "syllabus",
+    "collocations": [
+      "cover the syllabus",
+      "exam syllabus",
+      "on the syllabus"
+    ],
+    "synonyms": [
+      "curriculum",
+      "course outline"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "undergraduate",
+    "ipa": "/ˌʌndəˈɡrædʒuət/",
+    "pos": "noun",
+    "meaningEn": "a university student who is studying for a first degree",
+    "meaningVi": "sinh viên đại học (chưa tốt nghiệp)",
+    "example": "Many undergraduates take part-time jobs to cover their living expenses while studying.",
+    "exampleVi": "Nhiều sinh viên đại học làm thêm bán thời gian để trang trải chi phí sinh hoạt trong lúc đi học.",
+    "exampleForm": "undergraduates",
+    "collocations": [
+      "undergraduate degree",
+      "undergraduate course",
+      "first-year undergraduates"
+    ],
+    "synonyms": [
+      "student"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "postgraduate",
+    "ipa": "/ˌpəʊstˈɡrædʒuət/",
+    "pos": "adjective",
+    "meaningEn": "relating to studies done after a first university degree",
+    "meaningVi": "(thuộc) sau đại học",
+    "example": "An increasing number of graduates are pursuing postgraduate qualifications to stand out in a competitive job market.",
+    "exampleVi": "Ngày càng nhiều người tốt nghiệp theo đuổi các bằng cấp sau đại học để nổi bật trên thị trường việc làm cạnh tranh.",
+    "exampleForm": "postgraduate",
+    "collocations": [
+      "postgraduate degree",
+      "postgraduate study",
+      "postgraduate research"
+    ],
+    "synonyms": [
+      "graduate"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "distance learning",
+    "ipa": "/ˌdɪstəns ˈlɜːnɪŋ/",
+    "pos": "noun",
+    "meaningEn": "studying from home using online or posted materials, not attending classes",
+    "meaningVi": "học từ xa",
+    "example": "Distance learning allows working adults to gain qualifications without giving up their jobs.",
+    "exampleVi": "Học từ xa cho phép người lớn đang đi làm lấy được bằng cấp mà không phải bỏ việc.",
+    "exampleForm": "Distance learning",
+    "collocations": [
+      "distance learning course",
+      "via distance learning"
+    ],
+    "synonyms": [
+      "online learning",
+      "e-learning"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "pedagogy",
+    "ipa": "/ˈpedəɡɒdʒi/",
+    "pos": "noun",
+    "meaningEn": "the study of teaching methods and how people learn",
+    "meaningVi": "phương pháp sư phạm, khoa sư phạm",
+    "example": "Modern pedagogy places greater emphasis on student participation than on teacher-led lectures.",
+    "exampleVi": "Phương pháp sư phạm hiện đại chú trọng sự tham gia của học sinh hơn là các bài giảng do giáo viên dẫn dắt.",
+    "exampleForm": "pedagogy",
+    "collocations": [
+      "modern pedagogy",
+      "effective pedagogy",
+      "student-centred pedagogy"
+    ],
+    "synonyms": [
+      "teaching methods"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "critical thinking",
+    "ipa": "/ˌkrɪtɪkl ˈθɪŋkɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the process of carefully analysing information to form a judgement",
+    "meaningVi": "tư duy phản biện",
+    "example": "Schools should foster critical thinking rather than simply requiring students to memorise facts.",
+    "exampleVi": "Nhà trường nên bồi dưỡng tư duy phản biện thay vì chỉ yêu cầu học sinh ghi nhớ kiến thức.",
+    "exampleForm": "critical thinking",
+    "collocations": [
+      "develop critical thinking",
+      "critical thinking skills",
+      "encourage critical thinking"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "enrol",
+    "ipa": "/ɪnˈrəʊl/",
+    "pos": "verb",
+    "meaningEn": "to officially join a school, college or course",
+    "meaningVi": "đăng ký học, ghi danh, nhập học",
+    "example": "More mature students are choosing to enrol on part-time courses to update their skills.",
+    "exampleVi": "Ngày càng nhiều người học lớn tuổi chọn đăng ký các khóa học bán thời gian để cập nhật kỹ năng.",
+    "exampleForm": "enrol",
+    "collocations": [
+      "enrol on a course",
+      "enrol at a university",
+      "enrol in a programme"
+    ],
+    "synonyms": [
+      "register",
+      "sign up"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "drop out",
+    "ipa": "/drɒp ˈaʊt/",
+    "pos": "phrasal verb",
+    "meaningEn": "to leave school or college before finishing a course",
+    "meaningVi": "bỏ học (giữa chừng)",
+    "example": "Financial pressure forces some students to drop out of university before completing their degrees.",
+    "exampleVi": "Áp lực tài chính buộc một số sinh viên phải bỏ học đại học giữa chừng trước khi hoàn thành chương trình.",
+    "exampleForm": "drop out",
+    "collocations": [
+      "drop out of school",
+      "drop out of university"
+    ],
+    "synonyms": [
+      "quit",
+      "leave"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "mixed-ability",
+    "ipa": "/ˌmɪkst əˈbɪləti/",
+    "pos": "adjective",
+    "meaningEn": "including students with different levels of ability in the same class",
+    "meaningVi": "(lớp học) gồm học sinh có trình độ khác nhau",
+    "example": "Teaching mixed-ability classes requires teachers to adapt their lessons to suit every learner.",
+    "exampleVi": "Dạy các lớp có trình độ không đồng đều đòi hỏi giáo viên phải điều chỉnh bài giảng cho phù hợp với từng học sinh.",
+    "exampleForm": "mixed-ability",
+    "collocations": [
+      "mixed-ability classes",
+      "mixed-ability groups",
+      "mixed-ability teaching"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "single-sex",
+    "ipa": "/ˌsɪŋɡl ˈseks/",
+    "pos": "adjective",
+    "meaningEn": "for only boys or only girls",
+    "meaningVi": "(trường) chỉ dành cho nam hoặc chỉ dành cho nữ",
+    "example": "Some parents believe single-sex schools allow pupils to concentrate better on their studies.",
+    "exampleVi": "Một số phụ huynh tin rằng các trường chỉ dành cho nam hoặc nữ giúp học sinh tập trung học tốt hơn.",
+    "exampleForm": "single-sex",
+    "collocations": [
+      "single-sex school",
+      "single-sex education"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "boarding school",
+    "ipa": "/ˈbɔːdɪŋ skuːl/",
+    "pos": "noun",
+    "meaningEn": "a school where students live during the term",
+    "meaningVi": "trường nội trú",
+    "example": "Attending a boarding school can make children more independent, but they may miss their families.",
+    "exampleVi": "Học trường nội trú có thể giúp trẻ tự lập hơn, nhưng các em có thể nhớ gia đình.",
+    "exampleForm": "boarding school",
+    "collocations": [
+      "attend a boarding school",
+      "send children to boarding school"
+    ],
+    "synonyms": [],
+    "level": "B1"
+  },
+  {
+    "word": "lifelong learning",
+    "ipa": "/ˌlaɪflɒŋ ˈlɜːnɪŋ/",
+    "pos": "noun",
+    "meaningEn": "continuing to learn and gain new skills throughout your life",
+    "meaningVi": "học tập suốt đời",
+    "example": "In a rapidly changing job market, lifelong learning has become a necessity rather than a choice.",
+    "exampleVi": "Trong một thị trường việc làm thay đổi nhanh chóng, học tập suốt đời đã trở thành một nhu cầu thiết yếu chứ không còn là lựa chọn.",
+    "exampleForm": "lifelong learning",
+    "collocations": [
+      "promote lifelong learning",
+      "commitment to lifelong learning"
+    ],
+    "synonyms": [
+      "continuing education"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "standardised testing",
+    "ipa": "/ˌstændədaɪzd ˈtestɪŋ/",
+    "pos": "noun",
+    "meaningEn": "testing all students with the same exam, marked in the same way",
+    "meaningVi": "thi cử theo chuẩn chung, kiểm tra chuẩn hóa",
+    "example": "Critics argue that standardised testing encourages teachers to teach to the test.",
+    "exampleVi": "Những người phản đối cho rằng hình thức thi chuẩn hóa khiến giáo viên chỉ dạy để học sinh đi thi.",
+    "exampleForm": "standardised testing",
+    "collocations": [
+      "reliance on standardised testing",
+      "standardised testing system"
+    ],
+    "synonyms": [
+      "standardised exams"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "plagiarism",
+    "ipa": "/ˈpleɪdʒərɪzəm/",
+    "pos": "noun",
+    "meaningEn": "using another person's work or ideas and pretending they are your own",
+    "meaningVi": "đạo văn, sao chép ý tưởng của người khác",
+    "example": "Universities now use software to detect plagiarism in students' essays and assignments.",
+    "exampleVi": "Các trường đại học hiện nay sử dụng phần mềm để phát hiện đạo văn trong bài luận và bài tập của sinh viên.",
+    "exampleForm": "plagiarism",
+    "collocations": [
+      "detect plagiarism",
+      "accused of plagiarism",
+      "academic plagiarism"
+    ],
+    "synonyms": [
+      "copying"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "dissertation",
+    "ipa": "/ˌdɪsəˈteɪʃn/",
+    "pos": "noun",
+    "meaningEn": "a long piece of writing on a subject, especially for a university degree",
+    "meaningVi": "luận văn, luận án",
+    "example": "Final-year students must complete a dissertation based on their own independent research.",
+    "exampleVi": "Sinh viên năm cuối phải hoàn thành một luận văn dựa trên nghiên cứu độc lập của chính mình.",
+    "exampleForm": "dissertation",
+    "collocations": [
+      "write a dissertation",
+      "submit a dissertation",
+      "dissertation supervisor"
+    ],
+    "synonyms": [
+      "thesis"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "mentor",
+    "ipa": "/ˈmentɔː/",
+    "pos": "noun",
+    "meaningEn": "an experienced person who advises and helps a less experienced person",
+    "meaningVi": "người cố vấn, người hướng dẫn",
+    "example": "A good teacher can act as a mentor, guiding students through both academic and personal challenges.",
+    "exampleVi": "Một giáo viên giỏi có thể đóng vai trò người cố vấn, dẫn dắt học sinh vượt qua cả những thử thách trong học tập lẫn cuộc sống.",
+    "exampleForm": "mentor",
+    "collocations": [
+      "act as a mentor",
+      "a mentor to young people"
+    ],
+    "synonyms": [
+      "adviser",
+      "guide"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "coursework",
+    "ipa": "/ˈkɔːswɜːk/",
+    "pos": "noun",
+    "meaningEn": "work done by students during a course that counts towards their final mark",
+    "meaningVi": "bài tập tính điểm trong khóa học, bài tập lớn",
+    "example": "Assessing students through coursework rather than final exams reduces stress and rewards consistent effort.",
+    "exampleVi": "Đánh giá học sinh qua bài tập trong suốt khóa học thay vì kỳ thi cuối kỳ giúp giảm căng thẳng và ghi nhận sự nỗ lực bền bỉ.",
+    "exampleForm": "coursework",
+    "collocations": [
+      "submit coursework",
+      "coursework assessment",
+      "coursework deadline"
+    ],
+    "synonyms": [
+      "assignments"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "truancy",
+    "ipa": "/ˈtruːənsi/",
+    "pos": "noun",
+    "meaningEn": "the act of staying away from school without permission",
+    "meaningVi": "trốn học",
+    "example": "Persistent truancy is often linked to problems at home rather than simple laziness.",
+    "exampleVi": "Tình trạng trốn học kéo dài thường liên quan đến các vấn đề trong gia đình hơn là do lười biếng đơn thuần.",
+    "exampleForm": "truancy",
+    "collocations": [
+      "persistent truancy",
+      "truancy rates",
+      "tackle truancy"
+    ],
+    "synonyms": [
+      "absenteeism"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "gifted",
+    "ipa": "/ˈɡɪftɪd/",
+    "pos": "adjective",
+    "meaningEn": "having a natural ability or very high intelligence",
+    "meaningVi": "có năng khiếu, thiên bẩm",
+    "example": "Gifted children may become bored if lessons are not challenging enough for them.",
+    "exampleVi": "Trẻ có năng khiếu có thể cảm thấy nhàm chán nếu bài học không đủ thử thách đối với các em.",
+    "exampleForm": "Gifted",
+    "collocations": [
+      "gifted children",
+      "academically gifted",
+      "gifted and talented"
+    ],
+    "synonyms": [
+      "talented",
+      "able"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "hands-on",
+    "ipa": "/ˌhændz ˈɒn/",
+    "pos": "adjective",
+    "meaningEn": "involving doing something yourself rather than just reading or watching",
+    "meaningVi": "thực hành, trực tiếp làm",
+    "example": "Hands-on experience in laboratories helps science students understand theories far more deeply.",
+    "exampleVi": "Kinh nghiệm thực hành trong phòng thí nghiệm giúp sinh viên khoa học hiểu lý thuyết sâu sắc hơn nhiều.",
+    "exampleForm": "Hands-on",
+    "collocations": [
+      "hands-on experience",
+      "hands-on learning",
+      "hands-on approach"
+    ],
+    "synonyms": [
+      "practical"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "cram",
+    "ipa": "/kræm/",
+    "pos": "verb",
+    "meaningEn": "to study a lot in a short time, especially just before an exam",
+    "meaningVi": "học nhồi nhét, học dồn (trước kỳ thi)",
+    "example": "Students who cram the night before an exam rarely retain the information for long.",
+    "exampleVi": "Những học sinh học nhồi nhét vào đêm trước kỳ thi hiếm khi nhớ được kiến thức lâu.",
+    "exampleForm": "cram",
+    "collocations": [
+      "cram for an exam",
+      "cram school"
+    ],
+    "synonyms": [
+      "swot",
+      "revise intensively"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "graduate",
+    "ipa": "/ˈɡrædʒueɪt/",
+    "pos": "verb",
+    "meaningEn": "to complete a university degree or school course successfully",
+    "meaningVi": "tốt nghiệp",
+    "example": "Many students who graduate with a degree in the arts struggle to find relevant employment.",
+    "exampleVi": "Nhiều sinh viên tốt nghiệp ngành nghệ thuật gặp khó khăn trong việc tìm kiếm công việc phù hợp.",
+    "exampleForm": "graduate",
+    "collocations": [
+      "graduate from university",
+      "graduate with honours",
+      "graduate with a degree in"
+    ],
+    "synonyms": [
+      "complete your studies"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "homeschooling",
+    "ipa": "/ˌhəʊmˈskuːlɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the practice of educating children at home instead of at school",
+    "meaningVi": "việc học tại nhà (thay cho đến trường)",
+    "example": "Although homeschooling offers flexibility, children may miss out on valuable social interaction with peers.",
+    "exampleVi": "Mặc dù học tại nhà mang lại sự linh hoạt, trẻ có thể bỏ lỡ những tương tác xã hội quý giá với bạn bè cùng trang lứa.",
+    "exampleForm": "homeschooling",
+    "collocations": [
+      "choose homeschooling",
+      "benefits of homeschooling"
+    ],
+    "synonyms": [
+      "home education"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "qualification",
+    "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/",
+    "pos": "noun",
+    "meaningEn": "an official record showing you have finished a course or passed an exam",
+    "meaningVi": "bằng cấp, văn bằng, chứng chỉ",
+    "example": "Young people without formal qualifications often find themselves trapped in low-paid jobs.",
+    "exampleVi": "Những người trẻ không có bằng cấp chính thức thường bị mắc kẹt trong những công việc lương thấp.",
+    "exampleForm": "qualifications",
+    "collocations": [
+      "academic qualifications",
+      "gain a qualification",
+      "formal qualifications"
+    ],
+    "synonyms": [
+      "degree",
+      "certificate"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "self-study",
+    "ipa": "/ˌself ˈstʌdi/",
+    "pos": "noun",
+    "meaningEn": "studying on your own without a teacher",
+    "meaningVi": "tự học",
+    "example": "Online resources have made self-study a realistic option for learners who cannot afford private tuition.",
+    "exampleVi": "Các tài liệu trực tuyến đã khiến việc tự học trở thành lựa chọn khả thi cho những người không đủ tiền học thêm.",
+    "exampleForm": "self-study",
+    "collocations": [
+      "self-study materials",
+      "time for self-study"
+    ],
+    "synonyms": [
+      "independent study"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "alumni",
+    "ipa": "/əˈlʌmnaɪ/",
+    "pos": "noun",
+    "meaningEn": "former students of a school, college or university",
+    "meaningVi": "cựu sinh viên, cựu học sinh",
+    "example": "Prestigious universities often rely on donations from wealthy alumni to fund new facilities.",
+    "exampleVi": "Các trường đại học danh tiếng thường dựa vào khoản quyên góp từ những cựu sinh viên giàu có để xây dựng cơ sở vật chất mới.",
+    "exampleForm": "alumni",
+    "collocations": [
+      "alumni network",
+      "distinguished alumni"
+    ],
+    "synonyms": [
+      "graduates",
+      "former students"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "faculty",
+    "ipa": "/ˈfækəlti/",
+    "pos": "noun",
+    "meaningEn": "a group of university departments, or all the teaching staff",
+    "meaningVi": "khoa (trong trường đại học), đội ngũ giảng viên",
+    "example": "She is currently studying in the Faculty of Law at one of the country's oldest universities.",
+    "exampleVi": "Cô ấy hiện đang theo học tại Khoa Luật của một trong những trường đại học lâu đời nhất cả nước.",
+    "exampleForm": "Faculty",
+    "collocations": [
+      "faculty of law",
+      "faculty members",
+      "arts faculty"
+    ],
+    "synonyms": [
+      "department",
+      "academic staff"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "impart",
+    "ipa": "/ɪmˈpɑːt/",
+    "pos": "verb",
+    "meaningEn": "to pass knowledge, skills or values to someone",
+    "meaningVi": "truyền đạt, truyền thụ (kiến thức, giá trị)",
+    "example": "The role of a teacher is not only to impart knowledge but also to inspire curiosity.",
+    "exampleVi": "Vai trò của người thầy không chỉ là truyền đạt kiến thức mà còn là khơi gợi sự tò mò.",
+    "exampleForm": "impart",
+    "collocations": [
+      "impart knowledge",
+      "impart values",
+      "impart skills"
+    ],
+    "synonyms": [
+      "convey",
+      "pass on"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "student loan",
+    "ipa": "/ˌstjuːdnt ˈləʊn/",
+    "pos": "noun",
+    "meaningEn": "money lent to a student to pay for their studies",
+    "meaningVi": "khoản vay dành cho sinh viên, vay vốn học tập",
+    "example": "Many graduates spend decades repaying their student loans after leaving university.",
+    "exampleVi": "Nhiều người tốt nghiệp mất hàng chục năm để trả hết khoản vay sinh viên sau khi ra trường.",
+    "exampleForm": "student loans",
+    "collocations": [
+      "take out a student loan",
+      "repay a student loan",
+      "student loan debt"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "well-rounded",
+    "ipa": "/ˌwel ˈraʊndɪd/",
+    "pos": "adjective",
+    "meaningEn": "having a wide range of skills, experiences and interests",
+    "meaningVi": "toàn diện, phát triển cân bằng",
+    "example": "Arts and sports are vital for producing well-rounded individuals, not just academic high achievers.",
+    "exampleVi": "Nghệ thuật và thể thao đóng vai trò thiết yếu trong việc đào tạo nên những con người toàn diện, chứ không chỉ những người học giỏi.",
+    "exampleForm": "well-rounded",
+    "collocations": [
+      "well-rounded education",
+      "well-rounded individuals"
+    ],
+    "synonyms": [
+      "all-round",
+      "balanced"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "discipline",
+    "ipa": "/ˈdɪsəplɪn/",
+    "pos": "noun",
+    "meaningEn": "training people to obey rules and controlling their behaviour",
+    "meaningVi": "kỷ luật, tính kỷ luật",
+    "example": "Strict discipline in schools can help students develop good study habits.",
+    "exampleVi": "Kỷ luật nghiêm khắc ở trường học có thể giúp học sinh hình thành thói quen học tập tốt.",
+    "exampleForm": "discipline",
+    "collocations": [
+      "maintain discipline",
+      "self-discipline"
+    ],
+    "synonyms": [
+      "order",
+      "control"
+    ],
+    "level": "B2"
+  }
+]

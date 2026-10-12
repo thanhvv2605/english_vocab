@@ -1,0 +1,784 @@
+[
+  {
+    "word": "fluctuate",
+    "ipa": "/ˈflʌktʃueɪt/",
+    "pos": "verb",
+    "meaningEn": "to change frequently, going up and down",
+    "meaningVi": "dao động, biến động lên xuống",
+    "example": "The price of coffee fluctuated between $2 and $3 per kilogram throughout the decade.",
+    "exampleVi": "Giá cà phê dao động trong khoảng 2 đến 3 đô la mỗi kilôgam suốt cả thập kỷ.",
+    "exampleForm": "fluctuated",
+    "collocations": [
+      "fluctuate wildly",
+      "fluctuate between X and Y",
+      "fluctuate slightly"
+    ],
+    "synonyms": [
+      "vary",
+      "oscillate"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "plummet",
+    "ipa": "/ˈplʌmɪt/",
+    "pos": "verb",
+    "meaningEn": "to fall very suddenly and quickly",
+    "meaningVi": "giảm mạnh, lao dốc",
+    "example": "The number of international tourists plummeted to just 2 million in 2020.",
+    "exampleVi": "Số lượng khách du lịch quốc tế giảm mạnh xuống chỉ còn 2 triệu người vào năm 2020.",
+    "exampleForm": "plummeted",
+    "collocations": [
+      "plummet to",
+      "plummet by",
+      "sales plummeted"
+    ],
+    "synonyms": [
+      "plunge",
+      "nosedive"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "surge",
+    "ipa": "/sɜːdʒ/",
+    "pos": "verb",
+    "meaningEn": "to increase suddenly and by a large amount",
+    "meaningVi": "tăng vọt, tăng đột biến",
+    "example": "Online sales surged by 45% in the first quarter, reaching a record high of $8 billion.",
+    "exampleVi": "Doanh số bán hàng trực tuyến tăng vọt 45% trong quý đầu tiên, đạt mức cao kỷ lục 8 tỷ đô la.",
+    "exampleForm": "surged",
+    "collocations": [
+      "surge to",
+      "surge by",
+      "a surge in"
+    ],
+    "synonyms": [
+      "soar",
+      "jump"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "plateau",
+    "ipa": "/ˈplætəʊ/",
+    "pos": "verb",
+    "meaningEn": "to stay at the same level after a period of growth or progress",
+    "meaningVi": "chững lại, đi ngang (sau khi tăng)",
+    "example": "After rising steadily for a decade, the unemployment rate plateaued at around 6% from 2015 onwards.",
+    "exampleVi": "Sau một thập kỷ tăng đều, tỷ lệ thất nghiệp chững lại ở mức khoảng 6% từ năm 2015 trở đi.",
+    "exampleForm": "plateaued",
+    "collocations": [
+      "plateau at",
+      "reach a plateau"
+    ],
+    "synonyms": [
+      "level off",
+      "stabilise"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "peak",
+    "ipa": "/piːk/",
+    "pos": "verb",
+    "meaningEn": "to reach the highest point or level",
+    "meaningVi": "đạt đỉnh, lên mức cao nhất",
+    "example": "Electricity consumption peaked at 9,000 megawatts at around 6 pm before dropping sharply.",
+    "exampleVi": "Mức tiêu thụ điện đạt đỉnh 9.000 megawatt vào khoảng 6 giờ tối trước khi giảm mạnh.",
+    "exampleForm": "peaked",
+    "collocations": [
+      "peak at",
+      "reach a peak",
+      "peak in (year)"
+    ],
+    "synonyms": [
+      "top out",
+      "reach a high"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "steadily",
+    "ipa": "/ˈstedəli/",
+    "pos": "adverb",
+    "meaningEn": "gradually and at an even, regular rate",
+    "meaningVi": "đều đặn, ổn định",
+    "example": "The proportion of households with internet access rose steadily from 20% in 2000 to 85% in 2020.",
+    "exampleVi": "Tỷ lệ hộ gia đình có kết nối internet tăng đều từ 20% năm 2000 lên 85% năm 2020.",
+    "exampleForm": "steadily",
+    "collocations": [
+      "rise steadily",
+      "decline steadily",
+      "increase steadily"
+    ],
+    "synonyms": [
+      "gradually",
+      "consistently"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "marginally",
+    "ipa": "/ˈmɑːdʒɪnəli/",
+    "pos": "adverb",
+    "meaningEn": "by a very small amount",
+    "meaningVi": "(cao/thấp hơn) một chút, không đáng kể",
+    "example": "Female enrolment was marginally higher than male enrolment, at 51% and 49% respectively.",
+    "exampleVi": "Tỷ lệ nhập học của nữ nhỉnh hơn một chút so với nam, lần lượt ở mức 51% và 49%.",
+    "exampleForm": "marginally",
+    "collocations": [
+      "marginally higher",
+      "marginally lower",
+      "increase marginally"
+    ],
+    "synonyms": [
+      "slightly",
+      "fractionally"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "account for",
+    "ipa": "/əˈkaʊnt fɔː/",
+    "pos": "phrasal verb",
+    "meaningEn": "to form a particular amount or part of something",
+    "meaningVi": "chiếm (tỷ lệ, phần)",
+    "example": "Coal accounted for nearly half of the country's total energy production in 1990.",
+    "exampleVi": "Than đá chiếm gần một nửa tổng sản lượng năng lượng của quốc gia vào năm 1990.",
+    "exampleForm": "accounted for",
+    "collocations": [
+      "account for X%",
+      "account for the largest share",
+      "account for a third of"
+    ],
+    "synonyms": [
+      "make up",
+      "represent",
+      "constitute"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "a fraction of",
+    "ipa": "/ə ˈfrækʃn əv/",
+    "pos": "phrase",
+    "meaningEn": "a very small part or amount of something",
+    "meaningVi": "một phần rất nhỏ của",
+    "example": "Spending on public transport was only a fraction of the amount allocated to road building.",
+    "exampleVi": "Chi tiêu cho giao thông công cộng chỉ bằng một phần rất nhỏ so với khoản dành cho xây dựng đường bộ.",
+    "exampleForm": "a fraction of",
+    "collocations": [
+      "only a fraction of",
+      "a small fraction of",
+      "a tiny fraction of"
+    ],
+    "synonyms": [
+      "a small proportion of"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "respectively",
+    "ipa": "/rɪˈspektɪvli/",
+    "pos": "adverb",
+    "meaningEn": "in the same order as the things you have just mentioned",
+    "meaningVi": "lần lượt, tương ứng",
+    "example": "The figures for Japan and Germany stood at 15% and 22% respectively in 2010.",
+    "exampleVi": "Số liệu của Nhật Bản và Đức lần lượt ở mức 15% và 22% vào năm 2010.",
+    "exampleForm": "respectively",
+    "collocations": [
+      "X and Y respectively",
+      "at 20% and 30% respectively"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "level off",
+    "ipa": "/ˌlevl ˈɒf/",
+    "pos": "phrasal verb",
+    "meaningEn": "to stop rising or falling and remain at a steady level",
+    "meaningVi": "chững lại, ổn định (sau khi tăng hoặc giảm)",
+    "example": "Car sales increased rapidly until 2008, after which they levelled off at about 3 million a year.",
+    "exampleVi": "Doanh số ô tô tăng nhanh cho đến năm 2008, sau đó ổn định ở mức khoảng 3 triệu chiếc mỗi năm.",
+    "exampleForm": "levelled off",
+    "collocations": [
+      "level off at",
+      "begin to level off"
+    ],
+    "synonyms": [
+      "plateau",
+      "stabilise",
+      "flatten out"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "dip",
+    "ipa": "/dɪp/",
+    "pos": "noun",
+    "meaningEn": "a small, usually temporary decrease",
+    "meaningVi": "sự sụt giảm nhẹ (tạm thời)",
+    "example": "Apart from a slight dip in 2009, the company's profits grew every year during the period.",
+    "exampleVi": "Ngoài sự sụt giảm nhẹ vào năm 2009, lợi nhuận của công ty tăng đều hằng năm trong suốt giai đoạn này.",
+    "exampleForm": "dip",
+    "collocations": [
+      "a slight dip",
+      "a brief dip",
+      "a dip in sales"
+    ],
+    "synonyms": [
+      "drop",
+      "fall"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "soar",
+    "ipa": "/sɔː/",
+    "pos": "verb",
+    "meaningEn": "to rise very quickly to a high level",
+    "meaningVi": "tăng vọt, tăng cao chóng mặt",
+    "example": "House prices in the capital soared from £200,000 to over £500,000 between 2000 and 2015.",
+    "exampleVi": "Giá nhà ở thủ đô tăng vọt từ 200.000 bảng lên hơn 500.000 bảng trong giai đoạn 2000–2015.",
+    "exampleForm": "soared",
+    "collocations": [
+      "soar to",
+      "prices soared",
+      "soaring demand"
+    ],
+    "synonyms": [
+      "rocket",
+      "skyrocket"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "decline",
+    "ipa": "/dɪˈklaɪn/",
+    "pos": "verb",
+    "meaningEn": "to become less in amount, importance or quality",
+    "meaningVi": "giảm, suy giảm",
+    "example": "The birth rate declined gradually over the period, falling from 2.5 to 1.6 children per woman.",
+    "exampleVi": "Tỷ lệ sinh giảm dần trong suốt giai đoạn, từ 2,5 xuống còn 1,6 con trên mỗi phụ nữ.",
+    "exampleForm": "declined",
+    "collocations": [
+      "decline sharply",
+      "decline steadily",
+      "decline by X%"
+    ],
+    "synonyms": [
+      "decrease",
+      "fall",
+      "drop"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "gradual",
+    "ipa": "/ˈɡrædʒuəl/",
+    "pos": "adjective",
+    "meaningEn": "happening slowly over a long period of time",
+    "meaningVi": "dần dần, từ từ",
+    "example": "There was a gradual increase in the number of students studying abroad between 2005 and 2015.",
+    "exampleVi": "Số lượng sinh viên du học tăng dần trong giai đoạn từ 2005 đến 2015.",
+    "exampleForm": "gradual",
+    "collocations": [
+      "a gradual increase",
+      "a gradual decline",
+      "gradual change"
+    ],
+    "synonyms": [
+      "steady",
+      "slow"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "sharply",
+    "ipa": "/ˈʃɑːpli/",
+    "pos": "adverb",
+    "meaningEn": "suddenly and by a large amount",
+    "meaningVi": "mạnh, đột ngột",
+    "example": "The unemployment rate rose sharply in 2009, reaching a peak of 10%.",
+    "exampleVi": "Tỷ lệ thất nghiệp tăng mạnh vào năm 2009, đạt đỉnh ở mức 10%.",
+    "exampleForm": "sharply",
+    "collocations": [
+      "rise sharply",
+      "fall sharply",
+      "drop sharply"
+    ],
+    "synonyms": [
+      "steeply",
+      "dramatically"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "dramatically",
+    "ipa": "/drəˈmætɪkli/",
+    "pos": "adverb",
+    "meaningEn": "very suddenly or noticeably, by a large amount",
+    "meaningVi": "mạnh, đáng kể, đột ngột",
+    "example": "The use of mobile phones for online shopping increased dramatically over the ten-year period.",
+    "exampleVi": "Việc sử dụng điện thoại di động để mua sắm trực tuyến tăng mạnh trong khoảng thời gian mười năm.",
+    "exampleForm": "dramatically",
+    "collocations": [
+      "increase dramatically",
+      "change dramatically",
+      "fall dramatically"
+    ],
+    "synonyms": [
+      "significantly",
+      "sharply"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "slightly",
+    "ipa": "/ˈslaɪtli/",
+    "pos": "adverb",
+    "meaningEn": "a little; to a small degree",
+    "meaningVi": "nhẹ, một chút",
+    "example": "Average temperatures in July were slightly higher than in August, at 28°C and 27°C respectively.",
+    "exampleVi": "Nhiệt độ trung bình tháng Bảy cao hơn một chút so với tháng Tám, lần lượt là 28°C và 27°C.",
+    "exampleForm": "slightly",
+    "collocations": [
+      "slightly higher",
+      "slightly lower",
+      "fall slightly"
+    ],
+    "synonyms": [
+      "marginally",
+      "a little"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "double",
+    "ipa": "/ˈdʌbl/",
+    "pos": "verb",
+    "meaningEn": "to become twice as large or numerous",
+    "meaningVi": "tăng gấp đôi",
+    "example": "The number of cyclists in the city doubled from 50,000 to 100,000 within just five years.",
+    "exampleVi": "Số người đi xe đạp trong thành phố tăng gấp đôi từ 50.000 lên 100.000 người chỉ trong năm năm.",
+    "exampleForm": "doubled",
+    "collocations": [
+      "almost double",
+      "more than double",
+      "double in size"
+    ],
+    "synonyms": [
+      "increase twofold"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "proportion",
+    "ipa": "/prəˈpɔːʃn/",
+    "pos": "noun",
+    "meaningEn": "a part or share of a whole, often shown as a percentage",
+    "meaningVi": "tỷ lệ, phần",
+    "example": "The proportion of elderly people in the population is expected to reach 25% by 2050.",
+    "exampleVi": "Tỷ lệ người cao tuổi trong dân số được dự đoán sẽ đạt 25% vào năm 2050.",
+    "exampleForm": "proportion",
+    "collocations": [
+      "a large proportion of",
+      "the proportion of",
+      "a small proportion"
+    ],
+    "synonyms": [
+      "percentage",
+      "share"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "the majority of",
+    "ipa": "/ðə məˈdʒɒrəti əv/",
+    "pos": "phrase",
+    "meaningEn": "most of the people or things in a group",
+    "meaningVi": "phần lớn, đa số",
+    "example": "The majority of respondents, around 68%, said they preferred working from home.",
+    "exampleVi": "Phần lớn người được khảo sát, khoảng 68%, cho biết họ thích làm việc tại nhà hơn.",
+    "exampleForm": "The majority of",
+    "collocations": [
+      "the vast majority of",
+      "the overwhelming majority of"
+    ],
+    "synonyms": [
+      "most of"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "approximately",
+    "ipa": "/əˈprɒksɪmətli/",
+    "pos": "adverb",
+    "meaningEn": "close to a particular number but not exactly",
+    "meaningVi": "xấp xỉ, khoảng",
+    "example": "Approximately one in five adults in the survey reported using public transport daily.",
+    "exampleVi": "Xấp xỉ một phần năm số người trưởng thành trong khảo sát cho biết họ sử dụng phương tiện công cộng hằng ngày.",
+    "exampleForm": "Approximately",
+    "collocations": [
+      "approximately X%",
+      "approximately half",
+      "approximately equal"
+    ],
+    "synonyms": [
+      "roughly",
+      "around"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "just under",
+    "ipa": "/dʒʌst ˈʌndə/",
+    "pos": "phrase",
+    "meaningEn": "slightly less than a particular number or amount",
+    "meaningVi": "chưa đến, gần bằng (thấp hơn một chút)",
+    "example": "In 2015, just under a third of the energy consumed came from renewable sources.",
+    "exampleVi": "Vào năm 2015, chưa đến một phần ba lượng năng lượng tiêu thụ đến từ các nguồn tái tạo.",
+    "exampleForm": "just under",
+    "collocations": [
+      "just under half",
+      "just under a third",
+      "just under X%"
+    ],
+    "synonyms": [
+      "slightly less than",
+      "nearly"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "overtake",
+    "ipa": "/ˌəʊvəˈteɪk/",
+    "pos": "verb",
+    "meaningEn": "to become greater in number or amount than something else",
+    "meaningVi": "vượt qua",
+    "example": "In 2012, online advertising overtook television as the largest source of advertising revenue.",
+    "exampleVi": "Năm 2012, quảng cáo trực tuyến đã vượt qua truyền hình để trở thành nguồn doanh thu quảng cáo lớn nhất.",
+    "exampleForm": "overtook",
+    "collocations": [
+      "overtake X as",
+      "be overtaken by"
+    ],
+    "synonyms": [
+      "surpass",
+      "exceed"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "remain stable",
+    "ipa": "/rɪˌmeɪn ˈsteɪbl/",
+    "pos": "phrase",
+    "meaningEn": "to stay at the same level without changing",
+    "meaningVi": "duy trì ổn định, giữ nguyên",
+    "example": "The number of library visitors remained stable at around 4,000 per month throughout the year.",
+    "exampleVi": "Số lượng khách đến thư viện duy trì ổn định ở mức khoảng 4.000 người mỗi tháng trong suốt cả năm.",
+    "exampleForm": "remained stable",
+    "collocations": [
+      "remain stable at",
+      "remain relatively stable",
+      "remain broadly stable"
+    ],
+    "synonyms": [
+      "remain constant",
+      "stay the same"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "upward trend",
+    "ipa": "/ˌʌpwəd ˈtrend/",
+    "pos": "noun",
+    "meaningEn": "a general pattern of increase over time",
+    "meaningVi": "xu hướng tăng",
+    "example": "Overall, the number of electric vehicles sold showed a clear upward trend over the period.",
+    "exampleVi": "Nhìn chung, số lượng xe điện bán ra cho thấy xu hướng tăng rõ rệt trong suốt giai đoạn.",
+    "exampleForm": "upward trend",
+    "collocations": [
+      "a clear upward trend",
+      "show an upward trend",
+      "a steady upward trend"
+    ],
+    "synonyms": [
+      "rising trend"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "downturn",
+    "ipa": "/ˈdaʊntɜːn/",
+    "pos": "noun",
+    "meaningEn": "a fall in the amount of activity, especially in business or the economy",
+    "meaningVi": "sự suy giảm, sự đi xuống",
+    "example": "Following a sharp downturn in 2020, tourism revenue recovered to pre-pandemic levels by 2023.",
+    "exampleVi": "Sau sự sụt giảm mạnh vào năm 2020, doanh thu du lịch đã phục hồi về mức trước đại dịch vào năm 2023.",
+    "exampleForm": "downturn",
+    "collocations": [
+      "a sharp downturn",
+      "an economic downturn",
+      "a downturn in"
+    ],
+    "synonyms": [
+      "decline",
+      "slump"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "rocket",
+    "ipa": "/ˈrɒkɪt/",
+    "pos": "verb",
+    "meaningEn": "to increase extremely quickly",
+    "meaningVi": "tăng vọt, tăng chóng mặt",
+    "example": "Smartphone ownership rocketed from 10% to 75% of the adult population in just six years.",
+    "exampleVi": "Tỷ lệ sở hữu điện thoại thông minh tăng vọt từ 10% lên 75% dân số trưởng thành chỉ trong sáu năm.",
+    "exampleForm": "rocketed",
+    "collocations": [
+      "rocket to",
+      "rocket from X to Y"
+    ],
+    "synonyms": [
+      "soar",
+      "skyrocket"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "bottom out",
+    "ipa": "/ˌbɒtəm ˈaʊt/",
+    "pos": "phrasal verb",
+    "meaningEn": "to reach the lowest point before starting to rise again",
+    "meaningVi": "chạm đáy (rồi bắt đầu tăng trở lại)",
+    "example": "Sales of printed books bottomed out at 1.2 million in 2014 and then began to recover.",
+    "exampleVi": "Doanh số sách in chạm đáy ở mức 1,2 triệu cuốn vào năm 2014 rồi bắt đầu phục hồi.",
+    "exampleForm": "bottomed out",
+    "collocations": [
+      "bottom out at",
+      "begin to bottom out"
+    ],
+    "synonyms": [
+      "hit a low",
+      "reach a trough"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "negligible",
+    "ipa": "/ˈneɡlɪdʒəbl/",
+    "pos": "adjective",
+    "meaningEn": "so small that it is not important",
+    "meaningVi": "không đáng kể",
+    "example": "The contribution of wind power was negligible in 1990, accounting for less than 1% of the total.",
+    "exampleVi": "Đóng góp của điện gió là không đáng kể vào năm 1990, chiếm chưa đến 1% tổng số.",
+    "exampleForm": "negligible",
+    "collocations": [
+      "a negligible amount",
+      "negligible change",
+      "almost negligible"
+    ],
+    "synonyms": [
+      "insignificant",
+      "minimal"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "exponential",
+    "ipa": "/ˌekspəˈnenʃl/",
+    "pos": "adjective",
+    "meaningEn": "becoming faster and faster as it grows",
+    "meaningVi": "theo cấp số nhân, tăng cực nhanh",
+    "example": "The graph shows exponential growth in global data usage, which tripled every two years.",
+    "exampleVi": "Biểu đồ cho thấy lượng dữ liệu sử dụng toàn cầu tăng theo cấp số nhân, cứ hai năm lại tăng gấp ba.",
+    "exampleForm": "exponential",
+    "collocations": [
+      "exponential growth",
+      "an exponential increase",
+      "exponential rise"
+    ],
+    "synonyms": [
+      "rapidly accelerating"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "in comparison with",
+    "ipa": "/ɪn kəmˈpærɪsn wɪð/",
+    "pos": "phrase",
+    "meaningEn": "when compared to something else",
+    "meaningVi": "so với",
+    "example": "In comparison with men, women spent almost twice as much time on household chores.",
+    "exampleVi": "So với nam giới, phụ nữ dành gần gấp đôi thời gian cho việc nhà.",
+    "exampleForm": "In comparison with",
+    "collocations": [
+      "in comparison with the previous year",
+      "by comparison"
+    ],
+    "synonyms": [
+      "compared with",
+      "relative to"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "outnumber",
+    "ipa": "/ˌaʊtˈnʌmbə/",
+    "pos": "verb",
+    "meaningEn": "to be greater in number than another group",
+    "meaningVi": "đông hơn, nhiều hơn về số lượng",
+    "example": "Female graduates outnumbered their male counterparts in every subject except engineering.",
+    "exampleVi": "Số sinh viên nữ tốt nghiệp nhiều hơn nam ở tất cả các ngành, ngoại trừ kỹ thuật.",
+    "exampleForm": "outnumbered",
+    "collocations": [
+      "outnumber X by two to one",
+      "be heavily outnumbered"
+    ],
+    "synonyms": [
+      "exceed in number"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "figure",
+    "ipa": "/ˈfɪɡə/",
+    "pos": "noun",
+    "meaningEn": "a number representing an amount, especially in official statistics",
+    "meaningVi": "số liệu, con số",
+    "example": "The figure for Australia was considerably lower, standing at just 12% in 2010.",
+    "exampleVi": "Số liệu của Úc thấp hơn đáng kể, chỉ ở mức 12% vào năm 2010.",
+    "exampleForm": "figure",
+    "collocations": [
+      "the figure for",
+      "official figures",
+      "the corresponding figure"
+    ],
+    "synonyms": [
+      "number",
+      "statistic"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "consistently",
+    "ipa": "/kənˈsɪstəntli/",
+    "pos": "adverb",
+    "meaningEn": "always in the same way or at the same level",
+    "meaningVi": "liên tục, nhất quán",
+    "example": "Rice was consistently the most widely consumed food throughout the period shown.",
+    "exampleVi": "Gạo liên tục là thực phẩm được tiêu thụ rộng rãi nhất trong suốt giai đoạn được thể hiện.",
+    "exampleForm": "consistently",
+    "collocations": [
+      "consistently higher",
+      "consistently above",
+      "consistently high"
+    ],
+    "synonyms": [
+      "constantly",
+      "steadily"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "threefold",
+    "ipa": "/ˈθriːfəʊld/",
+    "pos": "adjective",
+    "meaningEn": "three times as large or as many",
+    "meaningVi": "gấp ba lần",
+    "example": "The chart shows a threefold increase in the number of foreign visitors between 2000 and 2020.",
+    "exampleVi": "Biểu đồ cho thấy số lượng khách nước ngoài tăng gấp ba lần trong giai đoạn 2000–2020.",
+    "exampleForm": "threefold",
+    "collocations": [
+      "a threefold increase",
+      "a threefold rise"
+    ],
+    "synonyms": [
+      "triple"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "erratic",
+    "ipa": "/ɪˈrætɪk/",
+    "pos": "adjective",
+    "meaningEn": "changing often and irregularly, without a clear pattern",
+    "meaningVi": "thất thường, không ổn định",
+    "example": "Rainfall followed an erratic pattern, with sudden spikes in March and almost none in June.",
+    "exampleVi": "Lượng mưa diễn biến thất thường, tăng đột ngột vào tháng Ba và gần như không có vào tháng Sáu.",
+    "exampleForm": "erratic",
+    "collocations": [
+      "an erratic pattern",
+      "erratic fluctuations",
+      "highly erratic"
+    ],
+    "synonyms": [
+      "irregular",
+      "unpredictable"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "considerably",
+    "ipa": "/kənˈsɪdərəbli/",
+    "pos": "adverb",
+    "meaningEn": "much; to a large degree",
+    "meaningVi": "đáng kể, rất nhiều",
+    "example": "Spending on healthcare in the USA was considerably higher than in any other country shown.",
+    "exampleVi": "Chi tiêu y tế ở Mỹ cao hơn đáng kể so với bất kỳ quốc gia nào khác được thể hiện.",
+    "exampleForm": "considerably",
+    "collocations": [
+      "considerably higher",
+      "considerably lower",
+      "vary considerably"
+    ],
+    "synonyms": [
+      "significantly",
+      "substantially"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "recover",
+    "ipa": "/rɪˈkʌvə/",
+    "pos": "verb",
+    "meaningEn": "to return to a previous, higher level after a fall",
+    "meaningVi": "phục hồi, hồi phục",
+    "example": "Share prices fell to a low of $40 in March but recovered to $65 by the end of the year.",
+    "exampleVi": "Giá cổ phiếu giảm xuống mức thấp 40 đô la vào tháng Ba nhưng đã phục hồi lên 65 đô la vào cuối năm.",
+    "exampleForm": "recovered",
+    "collocations": [
+      "recover to",
+      "recover slightly",
+      "recover fully"
+    ],
+    "synonyms": [
+      "rebound",
+      "pick up"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "stand at",
+    "ipa": "/ˈstænd æt/",
+    "pos": "phrasal verb",
+    "meaningEn": "to be at a particular level or amount",
+    "meaningVi": "ở mức, đạt mức",
+    "example": "In 1990, the literacy rate stood at 65%, but it had risen to 92% by 2020.",
+    "exampleVi": "Vào năm 1990, tỷ lệ biết chữ ở mức 65%, nhưng đến năm 2020 đã tăng lên 92%.",
+    "exampleForm": "stood at",
+    "collocations": [
+      "stand at X%",
+      "stand at a record high"
+    ],
+    "synonyms": [
+      "be at",
+      "reach"
+    ],
+    "level": "B2"
+  }
+]

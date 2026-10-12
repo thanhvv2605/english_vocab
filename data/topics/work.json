@@ -1,0 +1,776 @@
+[
+  {
+    "word": "remuneration",
+    "ipa": "/rɪˌmjuːnəˈreɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the amount of money paid to someone for their work",
+    "meaningVi": "thù lao, tiền công, đãi ngộ",
+    "example": "Attractive remuneration packages are essential for retaining highly skilled employees.",
+    "exampleVi": "Các gói đãi ngộ hấp dẫn là yếu tố thiết yếu để giữ chân những nhân viên có tay nghề cao.",
+    "exampleForm": "remuneration",
+    "collocations": [
+      "remuneration package",
+      "fair remuneration",
+      "financial remuneration"
+    ],
+    "synonyms": [
+      "pay",
+      "salary",
+      "compensation"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "job satisfaction",
+    "ipa": "/ˈdʒɒb sætɪsˌfækʃn/",
+    "pos": "noun",
+    "meaningEn": "the feeling of pleasure you get from doing your job",
+    "meaningVi": "sự hài lòng trong công việc",
+    "example": "For many people, job satisfaction matters more than a high salary.",
+    "exampleVi": "Đối với nhiều người, sự hài lòng trong công việc quan trọng hơn một mức lương cao.",
+    "exampleForm": "job satisfaction",
+    "collocations": [
+      "high job satisfaction",
+      "derive job satisfaction from",
+      "levels of job satisfaction"
+    ],
+    "synonyms": [
+      "fulfilment"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "work-life balance",
+    "ipa": "/ˌwɜːk ˈlaɪf ˌbæləns/",
+    "pos": "noun",
+    "meaningEn": "the right amount of time spent on work compared with personal life",
+    "meaningVi": "sự cân bằng giữa công việc và cuộc sống",
+    "example": "Long working hours make it extremely difficult for parents to achieve a healthy work-life balance.",
+    "exampleVi": "Thời gian làm việc kéo dài khiến các bậc cha mẹ vô cùng khó đạt được sự cân bằng lành mạnh giữa công việc và cuộc sống.",
+    "exampleForm": "work-life balance",
+    "collocations": [
+      "achieve a work-life balance",
+      "a healthy work-life balance",
+      "improve work-life balance"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "burnout",
+    "ipa": "/ˈbɜːnaʊt/",
+    "pos": "noun",
+    "meaningEn": "extreme tiredness caused by working too hard for too long",
+    "meaningVi": "tình trạng kiệt sức (vì làm việc quá sức)",
+    "example": "Excessive workloads and constant pressure are leading causes of burnout among young professionals.",
+    "exampleVi": "Khối lượng công việc quá lớn và áp lực liên tục là những nguyên nhân hàng đầu gây kiệt sức ở người đi làm trẻ.",
+    "exampleForm": "burnout",
+    "collocations": [
+      "suffer from burnout",
+      "risk of burnout",
+      "prevent burnout"
+    ],
+    "synonyms": [
+      "exhaustion"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "promotion",
+    "ipa": "/prəˈməʊʃn/",
+    "pos": "noun",
+    "meaningEn": "a move to a more important job or rank in an organisation",
+    "meaningVi": "sự thăng chức, sự thăng tiến",
+    "example": "Employees who consistently exceed their targets are more likely to be considered for promotion.",
+    "exampleVi": "Những nhân viên liên tục vượt chỉ tiêu có nhiều khả năng được xem xét thăng chức hơn.",
+    "exampleForm": "promotion",
+    "collocations": [
+      "get a promotion",
+      "be considered for promotion",
+      "opportunities for promotion"
+    ],
+    "synonyms": [
+      "advancement"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "redundancy",
+    "ipa": "/rɪˈdʌndənsi/",
+    "pos": "noun",
+    "meaningEn": "losing your job because your employer no longer needs you",
+    "meaningVi": "sự cắt giảm nhân sự, sự mất việc (do dôi dư)",
+    "example": "Automation has led to widespread redundancies in the manufacturing sector.",
+    "exampleVi": "Tự động hóa đã dẫn đến tình trạng cắt giảm nhân sự trên diện rộng trong ngành sản xuất.",
+    "exampleForm": "redundancies",
+    "collocations": [
+      "face redundancy",
+      "redundancy pay",
+      "compulsory redundancies"
+    ],
+    "synonyms": [
+      "lay-off",
+      "job loss"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "lay off",
+    "ipa": "/ˌleɪ ˈɒf/",
+    "pos": "phrasal verb",
+    "meaningEn": "to stop employing someone because there is not enough work",
+    "meaningVi": "cho nghỉ việc, sa thải (do thiếu việc)",
+    "example": "During the economic crisis, the company was forced to lay off nearly a third of its staff.",
+    "exampleVi": "Trong cuộc khủng hoảng kinh tế, công ty buộc phải cho gần một phần ba nhân viên nghỉ việc.",
+    "exampleForm": "lay off",
+    "collocations": [
+      "lay off workers",
+      "lay off staff"
+    ],
+    "synonyms": [
+      "make redundant",
+      "dismiss"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "freelance",
+    "ipa": "/ˈfriːlɑːns/",
+    "pos": "adjective",
+    "meaningEn": "working for different companies rather than being employed by one",
+    "meaningVi": "tự do, làm việc tự do (không thuộc biên chế công ty nào)",
+    "example": "Freelance work offers greater flexibility but often lacks the financial security of a permanent job.",
+    "exampleVi": "Công việc tự do mang lại sự linh hoạt hơn nhưng thường thiếu sự ổn định tài chính của một công việc cố định.",
+    "exampleForm": "Freelance",
+    "collocations": [
+      "freelance work",
+      "freelance writer",
+      "work on a freelance basis"
+    ],
+    "synonyms": [
+      "self-employed",
+      "independent"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "gig economy",
+    "ipa": "/ˈɡɪɡ iˌkɒnəmi/",
+    "pos": "noun",
+    "meaningEn": "a labour market of short-term jobs rather than permanent employment",
+    "meaningVi": "nền kinh tế việc làm tự do, kinh tế làm việc ngắn hạn",
+    "example": "Workers in the gig economy, such as delivery drivers, rarely receive sick pay or pensions.",
+    "exampleVi": "Những người lao động trong nền kinh tế việc làm tự do, như tài xế giao hàng, hiếm khi được hưởng lương ốm hay lương hưu.",
+    "exampleForm": "gig economy",
+    "collocations": [
+      "gig economy workers",
+      "the rise of the gig economy"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "remote working",
+    "ipa": "/rɪˌməʊt ˈwɜːkɪŋ/",
+    "pos": "noun",
+    "meaningEn": "working from home or another place away from the office",
+    "meaningVi": "làm việc từ xa",
+    "example": "Remote working eliminates long commutes, but it can leave employees feeling isolated from their colleagues.",
+    "exampleVi": "Làm việc từ xa giúp loại bỏ việc đi lại xa xôi, nhưng có thể khiến nhân viên cảm thấy bị cô lập với đồng nghiệp.",
+    "exampleForm": "Remote working",
+    "collocations": [
+      "shift to remote working",
+      "remote working arrangements"
+    ],
+    "synonyms": [
+      "working from home",
+      "teleworking"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "flexitime",
+    "ipa": "/ˈfleksitaɪm/",
+    "pos": "noun",
+    "meaningEn": "a system allowing employees to choose their own working hours",
+    "meaningVi": "chế độ giờ làm việc linh hoạt",
+    "example": "Offering flexitime allows working parents to fit their jobs around childcare responsibilities.",
+    "exampleVi": "Áp dụng giờ làm việc linh hoạt cho phép những người làm cha mẹ sắp xếp công việc phù hợp với việc chăm sóc con cái.",
+    "exampleForm": "flexitime",
+    "collocations": [
+      "work flexitime",
+      "flexitime arrangements"
+    ],
+    "synonyms": [
+      "flexible hours"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "workforce",
+    "ipa": "/ˈwɜːkfɔːs/",
+    "pos": "noun",
+    "meaningEn": "all the people who work in a company, industry or country",
+    "meaningVi": "lực lượng lao động",
+    "example": "An ageing population means that the national workforce is likely to shrink in the coming decades.",
+    "exampleVi": "Dân số già hóa đồng nghĩa với việc lực lượng lao động quốc gia có khả năng thu hẹp trong những thập kỷ tới.",
+    "exampleForm": "workforce",
+    "collocations": [
+      "skilled workforce",
+      "enter the workforce",
+      "a diverse workforce"
+    ],
+    "synonyms": [
+      "labour force",
+      "staff"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "recruit",
+    "ipa": "/rɪˈkruːt/",
+    "pos": "verb",
+    "meaningEn": "to find new people to work for an organisation",
+    "meaningVi": "tuyển dụng, tuyển mộ",
+    "example": "Technology firms are struggling to recruit enough qualified software engineers.",
+    "exampleVi": "Các công ty công nghệ đang gặp khó khăn trong việc tuyển dụng đủ kỹ sư phần mềm có trình độ.",
+    "exampleForm": "recruit",
+    "collocations": [
+      "recruit staff",
+      "recruit graduates",
+      "actively recruit"
+    ],
+    "synonyms": [
+      "hire",
+      "employ",
+      "take on"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "vacancy",
+    "ipa": "/ˈveɪkənsi/",
+    "pos": "noun",
+    "meaningEn": "a job that is available for someone to do",
+    "meaningVi": "vị trí còn trống, chỗ làm còn trống",
+    "example": "There are currently thousands of unfilled vacancies in the healthcare sector.",
+    "exampleVi": "Hiện có hàng nghìn vị trí còn trống chưa được tuyển trong ngành y tế.",
+    "exampleForm": "vacancies",
+    "collocations": [
+      "fill a vacancy",
+      "job vacancies",
+      "advertise a vacancy"
+    ],
+    "synonyms": [
+      "opening",
+      "position"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "applicant",
+    "ipa": "/ˈæplɪkənt/",
+    "pos": "noun",
+    "meaningEn": "a person who formally asks for a job or a place",
+    "meaningVi": "người nộp đơn, ứng viên",
+    "example": "Employers increasingly value applicants with strong communication skills over those with perfect grades.",
+    "exampleVi": "Nhà tuyển dụng ngày càng đánh giá cao những ứng viên có kỹ năng giao tiếp tốt hơn những người chỉ có điểm số hoàn hảo.",
+    "exampleForm": "applicants",
+    "collocations": [
+      "successful applicant",
+      "job applicants",
+      "shortlist applicants"
+    ],
+    "synonyms": [
+      "candidate"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "job security",
+    "ipa": "/ˈdʒɒb sɪˌkjʊərəti/",
+    "pos": "noun",
+    "meaningEn": "the likelihood that you will keep your job",
+    "meaningVi": "sự ổn định công việc, sự đảm bảo việc làm",
+    "example": "Many young Vietnamese still prefer working for the state because it offers greater job security.",
+    "exampleVi": "Nhiều người trẻ Việt Nam vẫn thích làm việc cho nhà nước vì công việc ổn định hơn.",
+    "exampleForm": "job security",
+    "collocations": [
+      "lack of job security",
+      "offer job security"
+    ],
+    "synonyms": [
+      "employment security",
+      "stability"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "incentive",
+    "ipa": "/ɪnˈsentɪv/",
+    "pos": "noun",
+    "meaningEn": "something that encourages a person to work harder or do something",
+    "meaningVi": "sự khuyến khích, động lực, ưu đãi",
+    "example": "Performance bonuses provide a strong incentive for staff to improve their productivity.",
+    "exampleVi": "Tiền thưởng theo hiệu suất tạo động lực mạnh mẽ để nhân viên nâng cao năng suất làm việc.",
+    "exampleForm": "incentive",
+    "collocations": [
+      "financial incentive",
+      "provide an incentive",
+      "incentive scheme"
+    ],
+    "synonyms": [
+      "motivation",
+      "encouragement"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "productivity",
+    "ipa": "/ˌprɒdʌkˈtɪvəti/",
+    "pos": "noun",
+    "meaningEn": "the rate at which a worker or company produces goods or work",
+    "meaningVi": "năng suất (lao động)",
+    "example": "Several studies suggest that a four-day working week does not reduce employee productivity.",
+    "exampleVi": "Một số nghiên cứu cho thấy tuần làm việc bốn ngày không làm giảm năng suất của nhân viên.",
+    "exampleForm": "productivity",
+    "collocations": [
+      "boost productivity",
+      "labour productivity",
+      "increase productivity"
+    ],
+    "synonyms": [
+      "efficiency",
+      "output"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "colleague",
+    "ipa": "/ˈkɒliːɡ/",
+    "pos": "noun",
+    "meaningEn": "a person you work with",
+    "meaningVi": "đồng nghiệp",
+    "example": "Having supportive colleagues can make even a demanding job far more enjoyable.",
+    "exampleVi": "Có những đồng nghiệp luôn hỗ trợ có thể khiến ngay cả một công việc vất vả cũng trở nên thú vị hơn nhiều.",
+    "exampleForm": "colleagues",
+    "collocations": [
+      "work colleague",
+      "supportive colleagues",
+      "senior colleague"
+    ],
+    "synonyms": [
+      "co-worker"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "self-employed",
+    "ipa": "/ˌself ɪmˈplɔɪd/",
+    "pos": "adjective",
+    "meaningEn": "working for yourself rather than for an employer",
+    "meaningVi": "tự kinh doanh, tự làm chủ",
+    "example": "Being self-employed means you can set your own schedule, but your income may be unpredictable.",
+    "exampleVi": "Tự làm chủ nghĩa là bạn có thể tự sắp xếp lịch làm việc, nhưng thu nhập có thể không ổn định.",
+    "exampleForm": "self-employed",
+    "collocations": [
+      "become self-employed",
+      "self-employed workers"
+    ],
+    "synonyms": [
+      "freelance",
+      "independent"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "manual labour",
+    "ipa": "/ˌmænjuəl ˈleɪbə/",
+    "pos": "noun",
+    "meaningEn": "physical work done with the hands",
+    "meaningVi": "lao động chân tay",
+    "example": "Robots are increasingly replacing manual labour in factories and warehouses.",
+    "exampleVi": "Robot đang ngày càng thay thế lao động chân tay trong các nhà máy và nhà kho.",
+    "exampleForm": "manual labour",
+    "collocations": [
+      "do manual labour",
+      "unskilled manual labour"
+    ],
+    "synonyms": [
+      "physical work"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "white-collar",
+    "ipa": "/ˌwaɪt ˈkɒlə/",
+    "pos": "adjective",
+    "meaningEn": "relating to people who work in offices rather than doing physical work",
+    "meaningVi": "(thuộc) công việc văn phòng, dân văn phòng",
+    "example": "Artificial intelligence may soon threaten white-collar jobs such as accounting and legal research.",
+    "exampleVi": "Trí tuệ nhân tạo có thể sớm đe dọa các công việc văn phòng như kế toán và nghiên cứu pháp lý.",
+    "exampleForm": "white-collar",
+    "collocations": [
+      "white-collar jobs",
+      "white-collar workers"
+    ],
+    "synonyms": [
+      "office-based"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "blue-collar",
+    "ipa": "/ˌbluː ˈkɒlə/",
+    "pos": "adjective",
+    "meaningEn": "relating to people who do physical work, especially in factories",
+    "meaningVi": "(thuộc) lao động chân tay, giới công nhân",
+    "example": "Blue-collar workers have been hit hardest by the closure of traditional manufacturing plants.",
+    "exampleVi": "Công nhân lao động chân tay là những người chịu ảnh hưởng nặng nề nhất khi các nhà máy sản xuất truyền thống đóng cửa.",
+    "exampleForm": "Blue-collar",
+    "collocations": [
+      "blue-collar workers",
+      "blue-collar jobs"
+    ],
+    "synonyms": [
+      "working-class"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "internship",
+    "ipa": "/ˈɪntɜːnʃɪp/",
+    "pos": "noun",
+    "meaningEn": "a period of work, often unpaid, to gain experience",
+    "meaningVi": "kỳ thực tập, đợt thực tập",
+    "example": "Completing an internship gives students valuable insight into the realities of the workplace.",
+    "exampleVi": "Hoàn thành một kỳ thực tập giúp sinh viên có cái nhìn quý giá về thực tế môi trường làm việc.",
+    "exampleForm": "internship",
+    "collocations": [
+      "do an internship",
+      "unpaid internship",
+      "summer internship"
+    ],
+    "synonyms": [
+      "work placement",
+      "traineeship"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "apprenticeship",
+    "ipa": "/əˈprentɪʃɪp/",
+    "pos": "noun",
+    "meaningEn": "a period of learning a skilled job while working for an employer",
+    "meaningVi": "thời gian học nghề, chương trình học việc",
+    "example": "An apprenticeship allows young people to earn a wage while learning a practical trade.",
+    "exampleVi": "Chương trình học nghề cho phép người trẻ vừa có thu nhập vừa học một nghề thực tế.",
+    "exampleForm": "apprenticeship",
+    "collocations": [
+      "serve an apprenticeship",
+      "apprenticeship scheme",
+      "complete an apprenticeship"
+    ],
+    "synonyms": [
+      "traineeship"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "career prospects",
+    "ipa": "/kəˈrɪə ˌprɒspekts/",
+    "pos": "noun",
+    "meaningEn": "the chances of being successful and progressing in a job",
+    "meaningVi": "triển vọng nghề nghiệp, cơ hội thăng tiến",
+    "example": "Learning a second language can significantly improve your career prospects in a globalised world.",
+    "exampleVi": "Học thêm một ngoại ngữ có thể cải thiện đáng kể triển vọng nghề nghiệp của bạn trong một thế giới toàn cầu hóa.",
+    "exampleForm": "career prospects",
+    "collocations": [
+      "improve career prospects",
+      "good career prospects",
+      "limited career prospects"
+    ],
+    "synonyms": [
+      "job prospects",
+      "career opportunities"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "job-hopping",
+    "ipa": "/ˈdʒɒb hɒpɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the practice of changing jobs frequently",
+    "meaningVi": "việc nhảy việc liên tục",
+    "example": "Frequent job-hopping may suggest to employers that a candidate lacks commitment.",
+    "exampleVi": "Việc nhảy việc liên tục có thể khiến nhà tuyển dụng cho rằng ứng viên thiếu sự gắn bó.",
+    "exampleForm": "job-hopping",
+    "collocations": [
+      "frequent job-hopping",
+      "a culture of job-hopping"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "resign",
+    "ipa": "/rɪˈzaɪn/",
+    "pos": "verb",
+    "meaningEn": "to officially leave your job",
+    "meaningVi": "từ chức, xin nghỉ việc",
+    "example": "A toxic working environment is one of the main reasons why talented employees resign.",
+    "exampleVi": "Môi trường làm việc độc hại là một trong những lý do chính khiến những nhân viên giỏi xin nghỉ việc.",
+    "exampleForm": "resign",
+    "collocations": [
+      "resign from a job",
+      "resign from a post",
+      "be forced to resign"
+    ],
+    "synonyms": [
+      "quit",
+      "step down"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "retirement",
+    "ipa": "/rɪˈtaɪəmənt/",
+    "pos": "noun",
+    "meaningEn": "the period when you stop working, usually because of age",
+    "meaningVi": "sự nghỉ hưu, thời kỳ nghỉ hưu",
+    "example": "Raising the retirement age could help governments cope with the costs of an ageing population.",
+    "exampleVi": "Nâng tuổi nghỉ hưu có thể giúp các chính phủ ứng phó với chi phí của tình trạng dân số già hóa.",
+    "exampleForm": "retirement",
+    "collocations": [
+      "early retirement",
+      "retirement age",
+      "save for retirement"
+    ],
+    "synonyms": [],
+    "level": "B1"
+  },
+  {
+    "word": "workload",
+    "ipa": "/ˈwɜːkləʊd/",
+    "pos": "noun",
+    "meaningEn": "the amount of work a person has to do",
+    "meaningVi": "khối lượng công việc",
+    "example": "Teachers frequently complain that their heavy workload leaves little time for lesson planning.",
+    "exampleVi": "Giáo viên thường than phiền rằng khối lượng công việc nặng nề khiến họ có rất ít thời gian để soạn bài.",
+    "exampleForm": "workload",
+    "collocations": [
+      "heavy workload",
+      "manageable workload",
+      "reduce the workload"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "overtime",
+    "ipa": "/ˈəʊvətaɪm/",
+    "pos": "noun",
+    "meaningEn": "time worked beyond your normal working hours",
+    "meaningVi": "giờ làm thêm, tăng ca",
+    "example": "Factory workers often have to do unpaid overtime to meet tight production deadlines.",
+    "exampleVi": "Công nhân nhà máy thường phải tăng ca không lương để kịp các thời hạn sản xuất gấp rút.",
+    "exampleForm": "overtime",
+    "collocations": [
+      "work overtime",
+      "unpaid overtime",
+      "overtime pay"
+    ],
+    "synonyms": [
+      "extra hours"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "maternity leave",
+    "ipa": "/məˈtɜːnəti liːv/",
+    "pos": "noun",
+    "meaningEn": "time off work that a mother takes before and after having a baby",
+    "meaningVi": "chế độ nghỉ thai sản",
+    "example": "Generous maternity leave helps women return to their careers without sacrificing time with their newborns.",
+    "exampleVi": "Chế độ nghỉ thai sản ưu đãi giúp phụ nữ quay lại sự nghiệp mà không phải hy sinh thời gian bên con nhỏ.",
+    "exampleForm": "maternity leave",
+    "collocations": [
+      "on maternity leave",
+      "paid maternity leave",
+      "take maternity leave"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "headhunt",
+    "ipa": "/ˈhedhʌnt/",
+    "pos": "verb",
+    "meaningEn": "to persuade someone to leave their job and work for another company",
+    "meaningVi": "săn đầu người, chiêu mộ nhân tài",
+    "example": "Top engineers are frequently headhunted by rival firms offering higher salaries and better benefits.",
+    "exampleVi": "Các kỹ sư hàng đầu thường xuyên bị các công ty đối thủ chiêu mộ bằng mức lương và phúc lợi tốt hơn.",
+    "exampleForm": "headhunted",
+    "collocations": [
+      "be headhunted by",
+      "headhunt talent"
+    ],
+    "synonyms": [
+      "poach",
+      "recruit"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "hierarchy",
+    "ipa": "/ˈhaɪərɑːki/",
+    "pos": "noun",
+    "meaningEn": "a system in which people are organised into levels of importance",
+    "meaningVi": "hệ thống cấp bậc, thứ bậc",
+    "example": "In companies with a rigid hierarchy, junior staff may feel reluctant to share new ideas.",
+    "exampleVi": "Trong những công ty có hệ thống cấp bậc cứng nhắc, nhân viên cấp dưới có thể ngại chia sẻ ý tưởng mới.",
+    "exampleForm": "hierarchy",
+    "collocations": [
+      "rigid hierarchy",
+      "corporate hierarchy",
+      "move up the hierarchy"
+    ],
+    "synonyms": [
+      "chain of command",
+      "ranking"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "delegate",
+    "ipa": "/ˈdelɪɡeɪt/",
+    "pos": "verb",
+    "meaningEn": "to give part of your work or responsibility to someone else",
+    "meaningVi": "giao phó, ủy thác (công việc, trách nhiệm)",
+    "example": "Effective managers know how to delegate tasks rather than trying to do everything themselves.",
+    "exampleVi": "Những nhà quản lý giỏi biết cách giao việc thay vì cố gắng tự mình làm mọi thứ.",
+    "exampleForm": "delegate",
+    "collocations": [
+      "delegate tasks",
+      "delegate responsibility",
+      "delegate authority"
+    ],
+    "synonyms": [
+      "assign",
+      "entrust"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "occupational",
+    "ipa": "/ˌɒkjuˈpeɪʃənl/",
+    "pos": "adjective",
+    "meaningEn": "connected with a person's job",
+    "meaningVi": "(thuộc) nghề nghiệp",
+    "example": "Back pain is a common occupational hazard for people who sit at a desk all day.",
+    "exampleVi": "Đau lưng là một rủi ro nghề nghiệp phổ biến đối với những người ngồi bàn giấy cả ngày.",
+    "exampleForm": "occupational",
+    "collocations": [
+      "occupational hazard",
+      "occupational health",
+      "occupational stress"
+    ],
+    "synonyms": [
+      "work-related",
+      "professional"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "unemployment",
+    "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+    "pos": "noun",
+    "meaningEn": "the state of not having a job, or the number of people without jobs",
+    "meaningVi": "tình trạng thất nghiệp, nạn thất nghiệp",
+    "example": "High youth unemployment can lead to social problems such as crime and depression.",
+    "exampleVi": "Tỷ lệ thất nghiệp cao ở thanh niên có thể dẫn đến các vấn đề xã hội như tội phạm và trầm cảm.",
+    "exampleForm": "unemployment",
+    "collocations": [
+      "youth unemployment",
+      "unemployment rate",
+      "long-term unemployment"
+    ],
+    "synonyms": [
+      "joblessness"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "minimum wage",
+    "ipa": "/ˌmɪnɪməm ˈweɪdʒ/",
+    "pos": "noun",
+    "meaningEn": "the lowest amount of pay that employers are legally allowed to pay",
+    "meaningVi": "mức lương tối thiểu",
+    "example": "Raising the minimum wage would help low-paid workers keep up with the rising cost of living.",
+    "exampleVi": "Tăng lương tối thiểu sẽ giúp người lao động thu nhập thấp theo kịp chi phí sinh hoạt ngày càng tăng.",
+    "exampleForm": "minimum wage",
+    "collocations": [
+      "raise the minimum wage",
+      "earn the minimum wage",
+      "national minimum wage"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "perk",
+    "ipa": "/pɜːk/",
+    "pos": "noun",
+    "meaningEn": "an extra benefit you get from your job in addition to pay",
+    "meaningVi": "phúc lợi thêm, đặc quyền (ngoài lương)",
+    "example": "Perks such as free meals and gym membership help companies attract younger employees.",
+    "exampleVi": "Những phúc lợi thêm như bữa ăn miễn phí và thẻ tập gym giúp các công ty thu hút nhân viên trẻ.",
+    "exampleForm": "Perks",
+    "collocations": [
+      "job perks",
+      "a perk of the job",
+      "enjoy the perks"
+    ],
+    "synonyms": [
+      "benefit",
+      "fringe benefit"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "transferable skills",
+    "ipa": "/trænsˌfɜːrəbl ˈskɪlz/",
+    "pos": "noun",
+    "meaningEn": "skills that are useful in many different jobs",
+    "meaningVi": "kỹ năng có thể áp dụng cho nhiều công việc, kỹ năng chuyển đổi",
+    "example": "Volunteering helps young people develop transferable skills such as leadership and problem-solving.",
+    "exampleVi": "Hoạt động tình nguyện giúp người trẻ phát triển những kỹ năng có thể áp dụng ở nhiều công việc như khả năng lãnh đạo và giải quyết vấn đề.",
+    "exampleForm": "transferable skills",
+    "collocations": [
+      "develop transferable skills",
+      "valuable transferable skills"
+    ],
+    "synonyms": [
+      "portable skills"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "pension",
+    "ipa": "/ˈpenʃn/",
+    "pos": "noun",
+    "meaningEn": "money paid regularly to someone who has retired",
+    "meaningVi": "lương hưu",
+    "example": "Many employees worry that their pension will not be enough to live on after they retire.",
+    "exampleVi": "Nhiều nhân viên lo rằng lương hưu sẽ không đủ để sống sau khi họ nghỉ hưu.",
+    "exampleForm": "pension",
+    "collocations": [
+      "a state pension",
+      "pension scheme"
+    ],
+    "synonyms": [
+      "retirement income"
+    ],
+    "level": "B2"
+  }
+]

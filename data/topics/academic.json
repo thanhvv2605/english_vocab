@@ -1,0 +1,789 @@
+[
+  {
+    "word": "significant",
+    "ipa": "/sɪɡˈnɪfɪkənt/",
+    "pos": "adjective",
+    "meaningEn": "large or important enough to have an effect or be noticed",
+    "meaningVi": "đáng kể, quan trọng",
+    "example": "Social media has had a significant impact on the way young people form opinions.",
+    "exampleVi": "Mạng xã hội đã có tác động đáng kể đến cách người trẻ hình thành quan điểm.",
+    "exampleForm": "significant",
+    "collocations": [
+      "a significant impact",
+      "a significant role",
+      "statistically significant"
+    ],
+    "synonyms": [
+      "considerable",
+      "notable"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "analyse",
+    "ipa": "/ˈænəlaɪz/",
+    "pos": "verb",
+    "meaningEn": "to examine something in detail in order to understand it",
+    "meaningVi": "phân tích",
+    "example": "Before introducing new laws, policymakers should carefully analyse their potential long-term effects.",
+    "exampleVi": "Trước khi ban hành luật mới, các nhà hoạch định chính sách nên phân tích kỹ lưỡng những tác động lâu dài có thể xảy ra.",
+    "exampleForm": "analyse",
+    "collocations": [
+      "analyse data",
+      "carefully analyse",
+      "analyse the causes of"
+    ],
+    "synonyms": [
+      "examine",
+      "evaluate"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "crucial",
+    "ipa": "/ˈkruːʃl/",
+    "pos": "adjective",
+    "meaningEn": "extremely important because it affects other things",
+    "meaningVi": "then chốt, cốt yếu, mang tính quyết định",
+    "example": "Parents play a crucial role in shaping their children's attitudes towards learning.",
+    "exampleVi": "Cha mẹ đóng vai trò then chốt trong việc hình thành thái độ học tập của con cái.",
+    "exampleForm": "crucial",
+    "collocations": [
+      "play a crucial role",
+      "crucial to",
+      "of crucial importance"
+    ],
+    "synonyms": [
+      "vital",
+      "essential"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "inevitable",
+    "ipa": "/ɪnˈevɪtəbl/",
+    "pos": "adjective",
+    "meaningEn": "certain to happen and impossible to avoid",
+    "meaningVi": "không thể tránh khỏi, tất yếu",
+    "example": "Some people believe that the loss of traditional cultures is an inevitable consequence of globalisation.",
+    "exampleVi": "Một số người tin rằng sự mai một của các nền văn hoá truyền thống là hệ quả tất yếu của toàn cầu hoá.",
+    "exampleForm": "inevitable",
+    "collocations": [
+      "an inevitable consequence",
+      "seem inevitable",
+      "almost inevitable"
+    ],
+    "synonyms": [
+      "unavoidable",
+      "certain"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "exacerbate",
+    "ipa": "/ɪɡˈzæsəbeɪt/",
+    "pos": "verb",
+    "meaningEn": "to make a bad situation or problem worse",
+    "meaningVi": "làm trầm trọng thêm, làm tồi tệ hơn",
+    "example": "Cutting public funding would only exacerbate the inequality between rich and poor students.",
+    "exampleVi": "Cắt giảm ngân sách công sẽ chỉ làm trầm trọng thêm sự bất bình đẳng giữa học sinh giàu và nghèo.",
+    "exampleForm": "exacerbate",
+    "collocations": [
+      "exacerbate the problem",
+      "further exacerbate",
+      "exacerbate inequality"
+    ],
+    "synonyms": [
+      "aggravate",
+      "worsen"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "detrimental",
+    "ipa": "/ˌdetrɪˈmentl/",
+    "pos": "adjective",
+    "meaningEn": "causing harm or damage",
+    "meaningVi": "có hại, gây tổn hại",
+    "example": "Spending excessive time on screens can have a detrimental effect on children's concentration.",
+    "exampleVi": "Dành quá nhiều thời gian trước màn hình có thể gây ảnh hưởng có hại đến khả năng tập trung của trẻ.",
+    "exampleForm": "detrimental",
+    "collocations": [
+      "a detrimental effect on",
+      "detrimental to",
+      "potentially detrimental"
+    ],
+    "synonyms": [
+      "harmful",
+      "damaging"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "feasible",
+    "ipa": "/ˈfiːzəbl/",
+    "pos": "adjective",
+    "meaningEn": "possible and likely to be achieved in practice",
+    "meaningVi": "khả thi",
+    "example": "Banning private cars entirely is not a feasible solution for most large cities.",
+    "exampleVi": "Cấm hoàn toàn ô tô cá nhân không phải là giải pháp khả thi đối với hầu hết các thành phố lớn.",
+    "exampleForm": "feasible",
+    "collocations": [
+      "a feasible solution",
+      "economically feasible",
+      "technically feasible"
+    ],
+    "synonyms": [
+      "practicable",
+      "achievable"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "advocate",
+    "ipa": "/ˈædvəkeɪt/",
+    "pos": "verb",
+    "meaningEn": "to publicly support a particular policy or way of doing things",
+    "meaningVi": "ủng hộ, chủ trương (công khai)",
+    "example": "Many experts advocate raising taxes on sugary drinks to combat obesity.",
+    "exampleVi": "Nhiều chuyên gia ủng hộ việc tăng thuế đồ uống có đường để chống lại béo phì.",
+    "exampleForm": "advocate",
+    "collocations": [
+      "strongly advocate",
+      "advocate a policy",
+      "advocate the use of"
+    ],
+    "synonyms": [
+      "support",
+      "champion"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "undermine",
+    "ipa": "/ˌʌndəˈmaɪn/",
+    "pos": "verb",
+    "meaningEn": "to gradually make something weaker or less effective",
+    "meaningVi": "làm suy yếu, làm xói mòn (dần dần)",
+    "example": "The spread of misinformation online may undermine public trust in science.",
+    "exampleVi": "Sự lan truyền thông tin sai lệch trên mạng có thể làm xói mòn niềm tin của công chúng vào khoa học.",
+    "exampleForm": "undermine",
+    "collocations": [
+      "undermine confidence",
+      "undermine trust",
+      "seriously undermine"
+    ],
+    "synonyms": [
+      "weaken",
+      "erode"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "consequently",
+    "ipa": "/ˈkɒnsɪkwəntli/",
+    "pos": "adverb",
+    "meaningEn": "as a result",
+    "meaningVi": "do đó, vì vậy, kết quả là",
+    "example": "Housing costs have soared in recent years; consequently, many young adults still live with their parents.",
+    "exampleVi": "Chi phí nhà ở đã tăng vọt trong những năm gần đây; do đó, nhiều người trẻ vẫn sống cùng cha mẹ.",
+    "exampleForm": "consequently",
+    "collocations": [
+      "and consequently",
+      "consequently, it is"
+    ],
+    "synonyms": [
+      "therefore",
+      "as a result"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "nevertheless",
+    "ipa": "/ˌnevəðəˈles/",
+    "pos": "adverb",
+    "meaningEn": "despite what has just been said",
+    "meaningVi": "tuy nhiên, dù vậy",
+    "example": "Online learning offers great flexibility. Nevertheless, it cannot fully replace face-to-face interaction.",
+    "exampleVi": "Học trực tuyến mang lại sự linh hoạt lớn. Tuy nhiên, nó không thể thay thế hoàn toàn việc tương tác trực tiếp.",
+    "exampleForm": "Nevertheless",
+    "collocations": [
+      "but nevertheless",
+      "nevertheless, it is true that"
+    ],
+    "synonyms": [
+      "nonetheless",
+      "however"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "a key factor",
+    "ipa": "/ə ˌkiː ˈfæktə/",
+    "pos": "phrase",
+    "meaningEn": "one of the most important causes or influences",
+    "meaningVi": "một yếu tố then chốt",
+    "example": "Access to quality education is a key factor in reducing poverty in the long term.",
+    "exampleVi": "Khả năng tiếp cận giáo dục chất lượng là một yếu tố then chốt để giảm nghèo về lâu dài.",
+    "exampleForm": "a key factor",
+    "collocations": [
+      "a key factor in",
+      "be a key factor behind"
+    ],
+    "synonyms": [
+      "a major factor",
+      "a crucial element"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "substantial",
+    "ipa": "/səbˈstænʃl/",
+    "pos": "adjective",
+    "meaningEn": "large in amount, size or importance",
+    "meaningVi": "lớn, đáng kể",
+    "example": "Building a high-speed railway would require a substantial investment of public money.",
+    "exampleVi": "Xây dựng đường sắt cao tốc sẽ đòi hỏi một khoản đầu tư công rất lớn.",
+    "exampleForm": "substantial",
+    "collocations": [
+      "a substantial amount",
+      "substantial investment",
+      "substantial evidence"
+    ],
+    "synonyms": [
+      "considerable",
+      "sizeable"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "compelling",
+    "ipa": "/kəmˈpelɪŋ/",
+    "pos": "adjective",
+    "meaningEn": "so convincing that you must accept it",
+    "meaningVi": "thuyết phục, có sức thuyết phục cao",
+    "example": "There is compelling evidence that regular exercise improves both physical and mental health.",
+    "exampleVi": "Có bằng chứng rất thuyết phục rằng tập thể dục đều đặn cải thiện cả sức khoẻ thể chất lẫn tinh thần.",
+    "exampleForm": "compelling",
+    "collocations": [
+      "compelling evidence",
+      "a compelling argument",
+      "a compelling reason"
+    ],
+    "synonyms": [
+      "convincing",
+      "persuasive"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "paramount",
+    "ipa": "/ˈpærəmaʊnt/",
+    "pos": "adjective",
+    "meaningEn": "more important than anything else",
+    "meaningVi": "tối quan trọng, quan trọng hàng đầu",
+    "example": "When designing public buildings, the safety of users should be of paramount importance.",
+    "exampleVi": "Khi thiết kế các công trình công cộng, sự an toàn của người sử dụng phải là điều quan trọng hàng đầu.",
+    "exampleForm": "paramount",
+    "collocations": [
+      "of paramount importance",
+      "a paramount concern"
+    ],
+    "synonyms": [
+      "supreme",
+      "foremost"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "alleviate",
+    "ipa": "/əˈliːvieɪt/",
+    "pos": "verb",
+    "meaningEn": "to make a problem or suffering less severe",
+    "meaningVi": "làm giảm bớt, xoa dịu",
+    "example": "Expanding public transport would help alleviate traffic congestion in major cities.",
+    "exampleVi": "Mở rộng giao thông công cộng sẽ giúp giảm bớt tình trạng tắc nghẽn giao thông ở các thành phố lớn.",
+    "exampleForm": "alleviate",
+    "collocations": [
+      "alleviate poverty",
+      "alleviate the problem",
+      "help alleviate"
+    ],
+    "synonyms": [
+      "ease",
+      "relieve"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "foster",
+    "ipa": "/ˈfɒstə/",
+    "pos": "verb",
+    "meaningEn": "to encourage something to develop",
+    "meaningVi": "thúc đẩy, nuôi dưỡng (sự phát triển)",
+    "example": "Team sports can foster a sense of cooperation and responsibility among young people.",
+    "exampleVi": "Các môn thể thao đồng đội có thể nuôi dưỡng tinh thần hợp tác và trách nhiệm ở người trẻ.",
+    "exampleForm": "foster",
+    "collocations": [
+      "foster creativity",
+      "foster a sense of",
+      "foster cooperation"
+    ],
+    "synonyms": [
+      "promote",
+      "nurture"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "hinder",
+    "ipa": "/ˈhɪndə/",
+    "pos": "verb",
+    "meaningEn": "to make it difficult for something to develop or happen",
+    "meaningVi": "cản trở, gây trở ngại",
+    "example": "A lack of reliable internet access continues to hinder economic development in rural areas.",
+    "exampleVi": "Việc thiếu kết nối internet ổn định tiếp tục cản trở sự phát triển kinh tế ở vùng nông thôn.",
+    "exampleForm": "hinder",
+    "collocations": [
+      "hinder progress",
+      "hinder development",
+      "seriously hinder"
+    ],
+    "synonyms": [
+      "hamper",
+      "impede"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "justify",
+    "ipa": "/ˈdʒʌstɪfaɪ/",
+    "pos": "verb",
+    "meaningEn": "to give a good reason for something that others may think is wrong",
+    "meaningVi": "biện minh, chứng minh là đúng",
+    "example": "It is difficult to justify spending billions on space exploration while millions live in poverty.",
+    "exampleVi": "Thật khó để biện minh cho việc chi hàng tỷ đô la cho thám hiểm không gian khi hàng triệu người vẫn sống trong nghèo đói.",
+    "exampleForm": "justify",
+    "collocations": [
+      "justify the cost",
+      "difficult to justify",
+      "justify a decision"
+    ],
+    "synonyms": [
+      "defend",
+      "warrant"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "outweigh",
+    "ipa": "/ˌaʊtˈweɪ/",
+    "pos": "verb",
+    "meaningEn": "to be greater or more important than something else",
+    "meaningVi": "lớn hơn, vượt trội hơn (về tầm quan trọng)",
+    "example": "In my opinion, the benefits of studying abroad far outweigh the drawbacks.",
+    "exampleVi": "Theo tôi, lợi ích của việc du học lớn hơn nhiều so với những bất lợi.",
+    "exampleForm": "outweigh",
+    "collocations": [
+      "far outweigh",
+      "the advantages outweigh the disadvantages"
+    ],
+    "synonyms": [
+      "exceed",
+      "be greater than"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "furthermore",
+    "ipa": "/ˌfɜːðəˈmɔː/",
+    "pos": "adverb",
+    "meaningEn": "in addition; used to add another point",
+    "meaningVi": "hơn nữa, ngoài ra",
+    "example": "Electric cars produce no exhaust emissions. Furthermore, they are cheaper to run than petrol vehicles.",
+    "exampleVi": "Xe điện không thải khí thải. Hơn nữa, chi phí vận hành của chúng còn rẻ hơn xe chạy xăng.",
+    "exampleForm": "Furthermore",
+    "collocations": [
+      "furthermore, it is",
+      "and furthermore"
+    ],
+    "synonyms": [
+      "moreover",
+      "in addition"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "whereas",
+    "ipa": "/ˌweərˈæz/",
+    "pos": "conjunction",
+    "meaningEn": "used to compare or contrast two facts",
+    "meaningVi": "trong khi (đó), còn",
+    "example": "Older generations tend to read printed newspapers, whereas younger people mainly get news from social media.",
+    "exampleVi": "Thế hệ lớn tuổi có xu hướng đọc báo in, trong khi người trẻ chủ yếu cập nhật tin tức qua mạng xã hội.",
+    "exampleForm": "whereas",
+    "collocations": [
+      ", whereas",
+      "whereas others argue"
+    ],
+    "synonyms": [
+      "while",
+      "whilst"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "albeit",
+    "ipa": "/ˌɔːlˈbiːɪt/",
+    "pos": "conjunction",
+    "meaningEn": "although",
+    "meaningVi": "mặc dù, dù cho",
+    "example": "The new policy has reduced unemployment, albeit at a slower rate than the government had promised.",
+    "exampleVi": "Chính sách mới đã làm giảm tỷ lệ thất nghiệp, dù với tốc độ chậm hơn so với cam kết của chính phủ.",
+    "exampleForm": "albeit",
+    "collocations": [
+      "albeit slowly",
+      "albeit at a cost",
+      "albeit to a lesser extent"
+    ],
+    "synonyms": [
+      "although",
+      "though"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "in contrast",
+    "ipa": "/ɪn ˈkɒntrɑːst/",
+    "pos": "phrase",
+    "meaningEn": "used to show a clear difference between two things",
+    "meaningVi": "ngược lại, trái lại",
+    "example": "Rural areas have experienced population decline. In contrast, cities continue to grow rapidly.",
+    "exampleVi": "Các vùng nông thôn đã chứng kiến dân số suy giảm. Ngược lại, các thành phố vẫn tiếp tục phát triển nhanh chóng.",
+    "exampleForm": "In contrast",
+    "collocations": [
+      "in contrast to",
+      "in stark contrast",
+      "by contrast"
+    ],
+    "synonyms": [
+      "conversely",
+      "on the other hand"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "by and large",
+    "ipa": "/ˌbaɪ ən ˈlɑːdʒ/",
+    "pos": "phrase",
+    "meaningEn": "generally; when everything is considered",
+    "meaningVi": "nhìn chung, nói chung",
+    "example": "By and large, people who exercise regularly report higher levels of life satisfaction.",
+    "exampleVi": "Nhìn chung, những người tập thể dục đều đặn cho biết họ hài lòng với cuộc sống hơn.",
+    "exampleForm": "By and large",
+    "collocations": [
+      "by and large, it is",
+      "by and large successful"
+    ],
+    "synonyms": [
+      "on the whole",
+      "generally"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "controversial",
+    "ipa": "/ˌkɒntrəˈvɜːʃl/",
+    "pos": "adjective",
+    "meaningEn": "causing a lot of public disagreement",
+    "meaningVi": "gây tranh cãi",
+    "example": "Animal testing remains a highly controversial issue in medical research.",
+    "exampleVi": "Thử nghiệm trên động vật vẫn là một vấn đề gây nhiều tranh cãi trong nghiên cứu y học.",
+    "exampleForm": "controversial",
+    "collocations": [
+      "a controversial issue",
+      "highly controversial",
+      "a controversial decision"
+    ],
+    "synonyms": [
+      "contentious",
+      "debatable"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "perspective",
+    "ipa": "/pəˈspektɪv/",
+    "pos": "noun",
+    "meaningEn": "a particular way of thinking about something",
+    "meaningVi": "góc nhìn, quan điểm",
+    "example": "From an economic perspective, investing in renewable energy creates long-term savings.",
+    "exampleVi": "Từ góc độ kinh tế, đầu tư vào năng lượng tái tạo giúp tiết kiệm chi phí về lâu dài.",
+    "exampleForm": "perspective",
+    "collocations": [
+      "from a ... perspective",
+      "a different perspective",
+      "put things into perspective"
+    ],
+    "synonyms": [
+      "viewpoint",
+      "standpoint"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "implication",
+    "ipa": "/ˌɪmplɪˈkeɪʃn/",
+    "pos": "noun",
+    "meaningEn": "a possible future effect or result of an action or decision",
+    "meaningVi": "hệ quả, tác động (có thể xảy ra), hàm ý",
+    "example": "An ageing population has serious implications for healthcare and pension systems.",
+    "exampleVi": "Dân số già hoá kéo theo những hệ quả nghiêm trọng đối với hệ thống y tế và lương hưu.",
+    "exampleForm": "implications",
+    "collocations": [
+      "serious implications",
+      "implications for",
+      "far-reaching implications"
+    ],
+    "synonyms": [
+      "consequence",
+      "ramification"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "drawback",
+    "ipa": "/ˈdrɔːbæk/",
+    "pos": "noun",
+    "meaningEn": "a disadvantage or problem",
+    "meaningVi": "nhược điểm, hạn chế",
+    "example": "The main drawback of working from home is the lack of social interaction with colleagues.",
+    "exampleVi": "Nhược điểm chính của làm việc tại nhà là thiếu sự giao tiếp xã hội với đồng nghiệp.",
+    "exampleForm": "drawback",
+    "collocations": [
+      "a major drawback",
+      "the main drawback",
+      "benefits and drawbacks"
+    ],
+    "synonyms": [
+      "disadvantage",
+      "downside"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "viable",
+    "ipa": "/ˈvaɪəbl/",
+    "pos": "adjective",
+    "meaningEn": "able to work successfully",
+    "meaningVi": "khả thi, có thể thực hiện thành công",
+    "example": "Solar power has become a viable alternative to fossil fuels in many sunny countries.",
+    "exampleVi": "Năng lượng mặt trời đã trở thành một giải pháp thay thế khả thi cho nhiên liệu hoá thạch ở nhiều quốc gia nhiều nắng.",
+    "exampleForm": "viable",
+    "collocations": [
+      "a viable alternative",
+      "a viable option",
+      "economically viable"
+    ],
+    "synonyms": [
+      "workable",
+      "feasible"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "prevalent",
+    "ipa": "/ˈprevələnt/",
+    "pos": "adjective",
+    "meaningEn": "existing very commonly at a particular time or place",
+    "meaningVi": "phổ biến, thịnh hành",
+    "example": "Obesity is becoming increasingly prevalent among children in developed countries.",
+    "exampleVi": "Béo phì ngày càng trở nên phổ biến ở trẻ em tại các nước phát triển.",
+    "exampleForm": "prevalent",
+    "collocations": [
+      "increasingly prevalent",
+      "prevalent among",
+      "widely prevalent"
+    ],
+    "synonyms": [
+      "widespread",
+      "common"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "profound",
+    "ipa": "/prəˈfaʊnd/",
+    "pos": "adjective",
+    "meaningEn": "very great or strong; having a deep effect",
+    "meaningVi": "sâu sắc, sâu rộng",
+    "example": "The invention of the internet has had a profound effect on almost every aspect of daily life.",
+    "exampleVi": "Sự ra đời của internet đã có tác động sâu sắc đến hầu hết mọi khía cạnh của đời sống hằng ngày.",
+    "exampleForm": "profound",
+    "collocations": [
+      "a profound effect",
+      "a profound impact",
+      "profound changes"
+    ],
+    "synonyms": [
+      "far-reaching",
+      "deep"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "address",
+    "ipa": "/əˈdres/",
+    "pos": "verb",
+    "meaningEn": "to start dealing with a problem",
+    "meaningVi": "giải quyết, xử lý (vấn đề)",
+    "example": "Governments must address the root causes of crime rather than simply building more prisons.",
+    "exampleVi": "Chính phủ phải giải quyết tận gốc nguyên nhân gây ra tội phạm thay vì chỉ xây thêm nhà tù.",
+    "exampleForm": "address",
+    "collocations": [
+      "address the issue",
+      "address the problem",
+      "address concerns"
+    ],
+    "synonyms": [
+      "tackle",
+      "deal with"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "tackle",
+    "ipa": "/ˈtækl/",
+    "pos": "verb",
+    "meaningEn": "to make a determined effort to deal with a difficult problem",
+    "meaningVi": "giải quyết, đối phó (vấn đề khó khăn)",
+    "example": "International cooperation is essential if we are to tackle climate change effectively.",
+    "exampleVi": "Hợp tác quốc tế là điều thiết yếu nếu chúng ta muốn giải quyết biến đổi khí hậu một cách hiệu quả.",
+    "exampleForm": "tackle",
+    "collocations": [
+      "tackle the problem",
+      "tackle unemployment",
+      "tackle the issue of"
+    ],
+    "synonyms": [
+      "address",
+      "combat"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "arguably",
+    "ipa": "/ˈɑːɡjuəbli/",
+    "pos": "adverb",
+    "meaningEn": "used to say something is probably true, though others may disagree",
+    "meaningVi": "có thể nói là, có lẽ",
+    "example": "Smartphones are arguably the most influential invention of the twenty-first century.",
+    "exampleVi": "Điện thoại thông minh có thể nói là phát minh có sức ảnh hưởng lớn nhất thế kỷ 21.",
+    "exampleForm": "arguably",
+    "collocations": [
+      "arguably the most",
+      "arguably the best"
+    ],
+    "synonyms": [
+      "possibly",
+      "perhaps"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "inherently",
+    "ipa": "/ɪnˈhɪərəntli/",
+    "pos": "adverb",
+    "meaningEn": "as a basic or natural part of something",
+    "meaningVi": "vốn dĩ, về bản chất",
+    "example": "Competition is not inherently harmful; it can motivate students to reach their full potential.",
+    "exampleVi": "Cạnh tranh về bản chất không có hại; nó có thể thúc đẩy học sinh phát huy hết tiềm năng.",
+    "exampleForm": "inherently",
+    "collocations": [
+      "inherently dangerous",
+      "inherently unfair",
+      "not inherently bad"
+    ],
+    "synonyms": [
+      "intrinsically",
+      "by nature"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "notwithstanding",
+    "ipa": "/ˌnɒtwɪθˈstændɪŋ/",
+    "pos": "preposition",
+    "meaningEn": "despite something",
+    "meaningVi": "mặc dù, bất chấp",
+    "example": "Notwithstanding its high cost, nuclear energy remains an important low-carbon power source.",
+    "exampleVi": "Mặc dù chi phí cao, năng lượng hạt nhân vẫn là một nguồn điện ít phát thải carbon quan trọng.",
+    "exampleForm": "Notwithstanding",
+    "collocations": [
+      "notwithstanding the fact that",
+      "notwithstanding these concerns"
+    ],
+    "synonyms": [
+      "despite",
+      "in spite of"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "to a large extent",
+    "ipa": "/tə ə ˌlɑːdʒ ɪkˈstent/",
+    "pos": "phrase",
+    "meaningEn": "mostly; in many ways",
+    "meaningVi": "ở mức độ lớn, phần lớn",
+    "example": "I agree to a large extent that governments should fund university education for all students.",
+    "exampleVi": "Ở mức độ lớn, tôi đồng ý rằng chính phủ nên tài trợ giáo dục đại học cho tất cả sinh viên.",
+    "exampleForm": "to a large extent",
+    "collocations": [
+      "agree to a large extent",
+      "depend to a large extent on"
+    ],
+    "synonyms": [
+      "largely",
+      "to a great extent"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "counterproductive",
+    "ipa": "/ˌkaʊntəprəˈdʌktɪv/",
+    "pos": "adjective",
+    "meaningEn": "having the opposite effect to the one intended",
+    "meaningVi": "phản tác dụng",
+    "example": "Harsh punishments may prove counterproductive, as they can make young offenders more likely to reoffend.",
+    "exampleVi": "Hình phạt quá khắc nghiệt có thể gây phản tác dụng, vì chúng khiến người phạm tội trẻ tuổi dễ tái phạm hơn.",
+    "exampleForm": "counterproductive",
+    "collocations": [
+      "prove counterproductive",
+      "highly counterproductive"
+    ],
+    "synonyms": [
+      "self-defeating",
+      "ineffective"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "trade-off",
+    "ipa": "/ˈtreɪd ɒf/",
+    "pos": "noun",
+    "meaningEn": "a balance between two opposing things, accepting less of one to get more of another",
+    "meaningVi": "sự đánh đổi",
+    "example": "There is often a trade-off between economic growth and environmental protection.",
+    "exampleVi": "Thường có sự đánh đổi giữa tăng trưởng kinh tế và bảo vệ môi trường.",
+    "exampleForm": "trade-off",
+    "collocations": [
+      "a trade-off between",
+      "an acceptable trade-off"
+    ],
+    "synonyms": [
+      "compromise",
+      "balance"
+    ],
+    "level": "C1"
+  }
+]

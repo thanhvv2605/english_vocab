@@ -1,0 +1,762 @@
+[
+  {
+    "word": "recession",
+    "ipa": "/rɪˈseʃn/",
+    "pos": "noun",
+    "meaningEn": "a period when a country's economy is doing badly",
+    "meaningVi": "suy thoái kinh tế",
+    "example": "During a recession, governments often cut interest rates to encourage spending and investment.",
+    "exampleVi": "Trong thời kỳ suy thoái kinh tế, các chính phủ thường hạ lãi suất để khuyến khích chi tiêu và đầu tư.",
+    "exampleForm": "recession",
+    "collocations": [
+      "economic recession",
+      "global recession",
+      "plunge into recession"
+    ],
+    "synonyms": [
+      "slump",
+      "depression"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "inflation",
+    "ipa": "/ɪnˈfleɪʃn/",
+    "pos": "noun",
+    "meaningEn": "a general rise in prices, reducing what money can buy",
+    "meaningVi": "lạm phát",
+    "example": "Rising inflation means that ordinary families can afford fewer goods with the same income.",
+    "exampleVi": "Lạm phát gia tăng đồng nghĩa với việc các gia đình bình thường mua được ít hàng hóa hơn với cùng mức thu nhập.",
+    "exampleForm": "inflation",
+    "collocations": [
+      "high inflation",
+      "inflation rate",
+      "curb inflation"
+    ],
+    "synonyms": [
+      "price increases"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "consumerism",
+    "ipa": "/kənˈsjuːmərɪzəm/",
+    "pos": "noun",
+    "meaningEn": "the belief that buying more goods is good for people and the economy",
+    "meaningVi": "chủ nghĩa tiêu dùng, lối sống tiêu dùng",
+    "example": "Rampant consumerism has encouraged people to replace items long before they are worn out.",
+    "exampleVi": "Chủ nghĩa tiêu dùng tràn lan đã khiến mọi người thay thế đồ đạc từ rất lâu trước khi chúng hỏng.",
+    "exampleForm": "consumerism",
+    "collocations": [
+      "rampant consumerism",
+      "culture of consumerism"
+    ],
+    "synonyms": [
+      "materialism"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "brand loyalty",
+    "ipa": "/ˌbrænd ˈlɔɪəlti/",
+    "pos": "noun",
+    "meaningEn": "the tendency to keep buying products from the same company",
+    "meaningVi": "lòng trung thành với thương hiệu",
+    "example": "Companies invest heavily in advertising to build brand loyalty among young consumers.",
+    "exampleVi": "Các công ty đầu tư mạnh vào quảng cáo để xây dựng lòng trung thành với thương hiệu ở người tiêu dùng trẻ.",
+    "exampleForm": "brand loyalty",
+    "collocations": [
+      "build brand loyalty",
+      "strong brand loyalty"
+    ],
+    "synonyms": [
+      "customer loyalty"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "disposable income",
+    "ipa": "/dɪˌspəʊzəbl ˈɪnkʌm/",
+    "pos": "noun",
+    "meaningEn": "money left to spend after paying taxes and essential bills",
+    "meaningVi": "thu nhập khả dụng, tiền còn lại để chi tiêu",
+    "example": "As disposable income rises, people tend to spend more on travel and entertainment.",
+    "exampleVi": "Khi thu nhập khả dụng tăng lên, người ta có xu hướng chi tiêu nhiều hơn cho du lịch và giải trí.",
+    "exampleForm": "disposable income",
+    "collocations": [
+      "higher disposable income",
+      "household disposable income"
+    ],
+    "synonyms": [
+      "spending money"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "entrepreneur",
+    "ipa": "/ˌɒntrəprəˈnɜː/",
+    "pos": "noun",
+    "meaningEn": "a person who starts their own business, often taking financial risks",
+    "meaningVi": "doanh nhân, người khởi nghiệp",
+    "example": "Governments should offer tax breaks to young entrepreneurs who want to launch innovative businesses.",
+    "exampleVi": "Chính phủ nên ưu đãi thuế cho các doanh nhân trẻ muốn thành lập những doanh nghiệp sáng tạo.",
+    "exampleForm": "entrepreneurs",
+    "collocations": [
+      "young entrepreneur",
+      "successful entrepreneur",
+      "aspiring entrepreneur"
+    ],
+    "synonyms": [
+      "business owner",
+      "founder"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "start-up",
+    "ipa": "/ˈstɑːtʌp/",
+    "pos": "noun",
+    "meaningEn": "a small new business, especially one based on new technology",
+    "meaningVi": "công ty khởi nghiệp",
+    "example": "The majority of start-ups fail within their first five years due to a lack of funding.",
+    "exampleVi": "Phần lớn các công ty khởi nghiệp thất bại trong năm năm đầu tiên do thiếu vốn.",
+    "exampleForm": "start-ups",
+    "collocations": [
+      "tech start-up",
+      "launch a start-up",
+      "start-up capital"
+    ],
+    "synonyms": [
+      "new venture"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "trade deficit",
+    "ipa": "/ˈtreɪd ˌdefɪsɪt/",
+    "pos": "noun",
+    "meaningEn": "a situation in which a country imports more than it exports",
+    "meaningVi": "thâm hụt thương mại",
+    "example": "A persistent trade deficit may indicate that a country relies too heavily on imported goods.",
+    "exampleVi": "Thâm hụt thương mại kéo dài có thể cho thấy một quốc gia phụ thuộc quá nhiều vào hàng nhập khẩu.",
+    "exampleForm": "trade deficit",
+    "collocations": [
+      "widening trade deficit",
+      "reduce the trade deficit"
+    ],
+    "synonyms": [
+      "trade gap"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "free trade",
+    "ipa": "/ˌfriː ˈtreɪd/",
+    "pos": "noun",
+    "meaningEn": "trade between countries without taxes or limits on imports and exports",
+    "meaningVi": "thương mại tự do",
+    "example": "Free trade agreements have made Vietnam an attractive destination for foreign manufacturers.",
+    "exampleVi": "Các hiệp định thương mại tự do đã biến Việt Nam thành điểm đến hấp dẫn đối với các nhà sản xuất nước ngoài.",
+    "exampleForm": "Free trade",
+    "collocations": [
+      "free trade agreement",
+      "promote free trade",
+      "free trade zone"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "tariff",
+    "ipa": "/ˈtærɪf/",
+    "pos": "noun",
+    "meaningEn": "a tax on goods coming into or leaving a country",
+    "meaningVi": "thuế quan",
+    "example": "Imposing high tariffs on imported cars may protect domestic producers but raises prices for consumers.",
+    "exampleVi": "Áp thuế quan cao đối với ô tô nhập khẩu có thể bảo vệ nhà sản xuất trong nước nhưng lại đẩy giá lên cao đối với người tiêu dùng.",
+    "exampleForm": "tariffs",
+    "collocations": [
+      "impose tariffs",
+      "import tariffs",
+      "lift tariffs"
+    ],
+    "synonyms": [
+      "duty",
+      "import tax"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "export",
+    "ipa": "/ɪkˈspɔːt/",
+    "pos": "verb",
+    "meaningEn": "to send goods to another country to be sold",
+    "meaningVi": "xuất khẩu",
+    "example": "Vietnam exports large quantities of rice, coffee and electronics to markets around the world.",
+    "exampleVi": "Việt Nam xuất khẩu số lượng lớn gạo, cà phê và hàng điện tử sang các thị trường trên khắp thế giới.",
+    "exampleForm": "exports",
+    "collocations": [
+      "export goods",
+      "export to",
+      "export-oriented economy"
+    ],
+    "synonyms": [
+      "sell abroad"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "multinational",
+    "ipa": "/ˌmʌltiˈnæʃnəl/",
+    "pos": "noun",
+    "meaningEn": "a large company that operates in several countries",
+    "meaningVi": "công ty đa quốc gia",
+    "example": "Multinationals often move their factories to countries where labour costs are lower.",
+    "exampleVi": "Các công ty đa quốc gia thường chuyển nhà máy sang những nước có chi phí lao động thấp hơn.",
+    "exampleForm": "Multinationals",
+    "collocations": [
+      "large multinationals",
+      "multinational corporation",
+      "multinational company"
+    ],
+    "synonyms": [
+      "global corporation"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "monopoly",
+    "ipa": "/məˈnɒpəli/",
+    "pos": "noun",
+    "meaningEn": "complete control of a market by one company",
+    "meaningVi": "sự độc quyền",
+    "example": "When one company holds a monopoly, consumers have little choice and prices tend to rise.",
+    "exampleVi": "Khi một công ty nắm độc quyền, người tiêu dùng có rất ít lựa chọn và giá cả có xu hướng tăng.",
+    "exampleForm": "monopoly",
+    "collocations": [
+      "hold a monopoly",
+      "break up a monopoly",
+      "state monopoly"
+    ],
+    "synonyms": [
+      "exclusive control"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "revenue",
+    "ipa": "/ˈrevənjuː/",
+    "pos": "noun",
+    "meaningEn": "income that a company or government receives",
+    "meaningVi": "doanh thu, nguồn thu",
+    "example": "Tourism generates substantial revenue for coastal cities but can also damage the local environment.",
+    "exampleVi": "Du lịch tạo ra nguồn thu đáng kể cho các thành phố ven biển nhưng cũng có thể gây hại cho môi trường địa phương.",
+    "exampleForm": "revenue",
+    "collocations": [
+      "generate revenue",
+      "tax revenue",
+      "advertising revenue"
+    ],
+    "synonyms": [
+      "income",
+      "earnings"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "profitable",
+    "ipa": "/ˈprɒfɪtəbl/",
+    "pos": "adjective",
+    "meaningEn": "making money",
+    "meaningVi": "có lãi, sinh lời",
+    "example": "Small family farms are finding it harder to remain profitable in competition with large agribusinesses.",
+    "exampleVi": "Các trang trại gia đình nhỏ ngày càng khó duy trì lợi nhuận khi cạnh tranh với các tập đoàn nông nghiệp lớn.",
+    "exampleForm": "profitable",
+    "collocations": [
+      "highly profitable",
+      "remain profitable",
+      "profitable business"
+    ],
+    "synonyms": [
+      "lucrative",
+      "money-making"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "invest",
+    "ipa": "/ɪnˈvest/",
+    "pos": "verb",
+    "meaningEn": "to put money into something to make a profit or improve it",
+    "meaningVi": "đầu tư",
+    "example": "Countries that invest heavily in infrastructure tend to attract more foreign businesses.",
+    "exampleVi": "Những quốc gia đầu tư mạnh vào cơ sở hạ tầng thường thu hút được nhiều doanh nghiệp nước ngoài hơn.",
+    "exampleForm": "invest",
+    "collocations": [
+      "invest heavily in",
+      "invest money",
+      "invest in the future"
+    ],
+    "synonyms": [
+      "fund",
+      "put money into"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "stock market",
+    "ipa": "/ˈstɒk ˌmɑːkɪt/",
+    "pos": "noun",
+    "meaningEn": "the business of buying and selling shares in companies",
+    "meaningVi": "thị trường chứng khoán",
+    "example": "Investing in the stock market can be profitable, but inexperienced investors risk losing their savings.",
+    "exampleVi": "Đầu tư vào thị trường chứng khoán có thể sinh lời, nhưng nhà đầu tư thiếu kinh nghiệm có nguy cơ mất hết tiền tiết kiệm.",
+    "exampleForm": "stock market",
+    "collocations": [
+      "stock market crash",
+      "invest in the stock market"
+    ],
+    "synonyms": [
+      "stock exchange"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "e-commerce",
+    "ipa": "/ˌiː ˈkɒmɜːs/",
+    "pos": "noun",
+    "meaningEn": "buying and selling goods and services on the internet",
+    "meaningVi": "thương mại điện tử",
+    "example": "The rapid growth of e-commerce has made it possible for small businesses to reach customers nationwide.",
+    "exampleVi": "Sự phát triển nhanh chóng của thương mại điện tử đã giúp các doanh nghiệp nhỏ tiếp cận khách hàng trên toàn quốc.",
+    "exampleForm": "e-commerce",
+    "collocations": [
+      "e-commerce platform",
+      "the growth of e-commerce"
+    ],
+    "synonyms": [
+      "online shopping",
+      "online retail"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "GDP",
+    "ipa": "/ˌdʒiː diː ˈpiː/",
+    "pos": "noun",
+    "meaningEn": "gross domestic product: the total value of goods and services a country produces",
+    "meaningVi": "tổng sản phẩm quốc nội",
+    "example": "A rising GDP does not necessarily mean that ordinary citizens are enjoying a better quality of life.",
+    "exampleVi": "GDP tăng không nhất thiết có nghĩa là người dân bình thường đang được hưởng chất lượng cuộc sống tốt hơn.",
+    "exampleForm": "GDP",
+    "collocations": [
+      "GDP growth",
+      "GDP per capita",
+      "share of GDP"
+    ],
+    "synonyms": [
+      "gross domestic product"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "impulse buying",
+    "ipa": "/ˈɪmpʌls ˌbaɪɪŋ/",
+    "pos": "noun",
+    "meaningEn": "buying things suddenly without planning or thinking carefully",
+    "meaningVi": "mua sắm bốc đồng, mua theo cảm hứng",
+    "example": "Online shopping platforms are designed to encourage impulse buying through flash sales and countdown timers.",
+    "exampleVi": "Các nền tảng mua sắm trực tuyến được thiết kế để kích thích mua sắm bốc đồng thông qua các đợt giảm giá chớp nhoáng và đồng hồ đếm ngược.",
+    "exampleForm": "impulse buying",
+    "collocations": [
+      "encourage impulse buying",
+      "resist impulse buying"
+    ],
+    "synonyms": [
+      "impulse shopping"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "consumer goods",
+    "ipa": "/kənˈsjuːmə ɡʊdz/",
+    "pos": "noun",
+    "meaningEn": "products such as food, clothes and electronics bought for personal use",
+    "meaningVi": "hàng tiêu dùng",
+    "example": "Mass production has made consumer goods cheaper but has also generated enormous amounts of waste.",
+    "exampleVi": "Sản xuất hàng loạt đã làm hàng tiêu dùng rẻ hơn nhưng cũng tạo ra lượng rác thải khổng lồ.",
+    "exampleForm": "consumer goods",
+    "collocations": [
+      "demand for consumer goods",
+      "cheap consumer goods"
+    ],
+    "synonyms": [
+      "products",
+      "merchandise"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "purchasing power",
+    "ipa": "/ˈpɜːtʃəsɪŋ ˌpaʊə/",
+    "pos": "noun",
+    "meaningEn": "the amount of goods and services that money can buy",
+    "meaningVi": "sức mua",
+    "example": "If wages fail to keep pace with prices, workers' purchasing power will gradually decline.",
+    "exampleVi": "Nếu tiền lương không theo kịp giá cả, sức mua của người lao động sẽ dần dần giảm sút.",
+    "exampleForm": "purchasing power",
+    "collocations": [
+      "consumer purchasing power",
+      "lose purchasing power"
+    ],
+    "synonyms": [
+      "buying power"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "debt",
+    "ipa": "/det/",
+    "pos": "noun",
+    "meaningEn": "money that you owe to someone",
+    "meaningVi": "khoản nợ, món nợ",
+    "example": "Easy access to credit cards has caused many young people to fall into debt.",
+    "exampleVi": "Việc dễ dàng sở hữu thẻ tín dụng đã khiến nhiều người trẻ rơi vào cảnh nợ nần.",
+    "exampleForm": "debt",
+    "collocations": [
+      "fall into debt",
+      "pay off a debt",
+      "national debt"
+    ],
+    "synonyms": [
+      "liability"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "budget",
+    "ipa": "/ˈbʌdʒɪt/",
+    "pos": "noun",
+    "meaningEn": "a plan of how much money will be spent on something",
+    "meaningVi": "ngân sách, ngân quỹ",
+    "example": "Governments with a limited budget must decide whether to prioritise healthcare or education.",
+    "exampleVi": "Những chính phủ có ngân sách hạn hẹp phải quyết định nên ưu tiên y tế hay giáo dục.",
+    "exampleForm": "budget",
+    "collocations": [
+      "limited budget",
+      "on a tight budget",
+      "budget deficit"
+    ],
+    "synonyms": [
+      "funds",
+      "allocation"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "interest rate",
+    "ipa": "/ˈɪntrəst reɪt/",
+    "pos": "noun",
+    "meaningEn": "the percentage charged by a bank for borrowing money",
+    "meaningVi": "lãi suất",
+    "example": "When central banks raise interest rates, borrowing becomes more expensive and consumer spending usually falls.",
+    "exampleVi": "Khi ngân hàng trung ương tăng lãi suất, việc vay tiền trở nên đắt đỏ hơn và chi tiêu của người tiêu dùng thường giảm.",
+    "exampleForm": "interest rates",
+    "collocations": [
+      "raise interest rates",
+      "low interest rates",
+      "cut interest rates"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "subsidy",
+    "ipa": "/ˈsʌbsədi/",
+    "pos": "noun",
+    "meaningEn": "money a government pays to reduce the cost of a product or service",
+    "meaningVi": "khoản trợ cấp, tiền bao cấp",
+    "example": "Agricultural subsidies help farmers survive bad harvests but may distort international trade.",
+    "exampleVi": "Trợ cấp nông nghiệp giúp nông dân vượt qua những vụ mùa thất bát nhưng có thể làm méo mó thương mại quốc tế.",
+    "exampleForm": "subsidies",
+    "collocations": [
+      "government subsidy",
+      "agricultural subsidies",
+      "provide subsidies"
+    ],
+    "synonyms": [
+      "grant",
+      "financial support"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "bankrupt",
+    "ipa": "/ˈbæŋkrʌpt/",
+    "pos": "adjective",
+    "meaningEn": "unable to pay your debts",
+    "meaningVi": "phá sản, vỡ nợ",
+    "example": "Many small retailers went bankrupt after online giants began offering lower prices and free delivery.",
+    "exampleVi": "Nhiều nhà bán lẻ nhỏ đã phá sản sau khi các ông lớn trực tuyến bắt đầu đưa ra giá thấp hơn và miễn phí giao hàng.",
+    "exampleForm": "bankrupt",
+    "collocations": [
+      "go bankrupt",
+      "be declared bankrupt"
+    ],
+    "synonyms": [
+      "insolvent",
+      "broke"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "affluent",
+    "ipa": "/ˈæfluənt/",
+    "pos": "adjective",
+    "meaningEn": "having a lot of money and a high standard of living",
+    "meaningVi": "giàu có, sung túc",
+    "example": "As societies become more affluent, demand for luxury goods and overseas holidays tends to grow.",
+    "exampleVi": "Khi xã hội trở nên giàu có hơn, nhu cầu về hàng xa xỉ và du lịch nước ngoài có xu hướng tăng lên.",
+    "exampleForm": "affluent",
+    "collocations": [
+      "affluent society",
+      "affluent consumers",
+      "affluent nations"
+    ],
+    "synonyms": [
+      "wealthy",
+      "prosperous",
+      "well-off"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "cost of living",
+    "ipa": "/ˌkɒst əv ˈlɪvɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the amount of money needed to pay for basic things like food and housing",
+    "meaningVi": "chi phí sinh hoạt, giá cả sinh hoạt",
+    "example": "The high cost of living in major cities forces many young couples to delay starting a family.",
+    "exampleVi": "Chi phí sinh hoạt cao ở các thành phố lớn buộc nhiều cặp vợ chồng trẻ phải trì hoãn việc sinh con.",
+    "exampleForm": "cost of living",
+    "collocations": [
+      "rising cost of living",
+      "high cost of living",
+      "cost-of-living crisis"
+    ],
+    "synonyms": [
+      "living expenses"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "lucrative",
+    "ipa": "/ˈluːkrətɪv/",
+    "pos": "adjective",
+    "meaningEn": "producing a lot of money",
+    "meaningVi": "béo bở, sinh lợi nhiều",
+    "example": "Online advertising has become a lucrative industry worth billions of dollars every year.",
+    "exampleVi": "Quảng cáo trực tuyến đã trở thành một ngành béo bở trị giá hàng tỷ đô la mỗi năm.",
+    "exampleForm": "lucrative",
+    "collocations": [
+      "lucrative business",
+      "lucrative contract",
+      "highly lucrative"
+    ],
+    "synonyms": [
+      "profitable",
+      "well-paid"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "commodity",
+    "ipa": "/kəˈmɒdəti/",
+    "pos": "noun",
+    "meaningEn": "a product that can be bought and sold, such as oil or coffee",
+    "meaningVi": "hàng hóa, mặt hàng (thường là nguyên liệu thô)",
+    "example": "Economies that depend on a single commodity, such as oil, are vulnerable to sudden price changes.",
+    "exampleVi": "Những nền kinh tế phụ thuộc vào một mặt hàng duy nhất như dầu mỏ rất dễ bị tổn thương trước biến động giá đột ngột.",
+    "exampleForm": "commodity",
+    "collocations": [
+      "commodity prices",
+      "valuable commodity",
+      "commodity exports"
+    ],
+    "synonyms": [
+      "goods",
+      "product"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "supply and demand",
+    "ipa": "/səˌplaɪ ənd dɪˈmɑːnd/",
+    "pos": "phrase",
+    "meaningEn": "the relationship between how much of something is available and how much people want",
+    "meaningVi": "cung và cầu, quy luật cung cầu",
+    "example": "Housing prices are largely determined by supply and demand in the local property market.",
+    "exampleVi": "Giá nhà phần lớn được quyết định bởi quan hệ cung cầu trên thị trường bất động sản địa phương.",
+    "exampleForm": "supply and demand",
+    "collocations": [
+      "the law of supply and demand",
+      "balance supply and demand"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "mass production",
+    "ipa": "/ˌmæs prəˈdʌkʃn/",
+    "pos": "noun",
+    "meaningEn": "producing goods in very large quantities using machines",
+    "meaningVi": "sản xuất hàng loạt",
+    "example": "Mass production has lowered the price of clothing, fuelling the rise of fast fashion.",
+    "exampleVi": "Sản xuất hàng loạt đã làm giảm giá quần áo, thúc đẩy sự trỗi dậy của thời trang nhanh.",
+    "exampleForm": "Mass production",
+    "collocations": [
+      "mass production of goods",
+      "go into mass production"
+    ],
+    "synonyms": [
+      "large-scale production"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "outsource",
+    "ipa": "/ˈaʊtsɔːs/",
+    "pos": "verb",
+    "meaningEn": "to pay another company, often abroad, to do work for you",
+    "meaningVi": "thuê ngoài, gia công bên ngoài",
+    "example": "Many Western companies outsource their customer service operations to countries with cheaper labour.",
+    "exampleVi": "Nhiều công ty phương Tây thuê ngoài bộ phận chăm sóc khách hàng ở các nước có nhân công rẻ hơn.",
+    "exampleForm": "outsource",
+    "collocations": [
+      "outsource production",
+      "outsource jobs",
+      "outsource work to"
+    ],
+    "synonyms": [
+      "subcontract",
+      "contract out"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "fiscal",
+    "ipa": "/ˈfɪskl/",
+    "pos": "adjective",
+    "meaningEn": "relating to government taxes and public spending",
+    "meaningVi": "(thuộc) tài khóa, ngân sách nhà nước",
+    "example": "Strict fiscal policies may reduce national debt but can slow down economic growth.",
+    "exampleVi": "Các chính sách tài khóa thắt chặt có thể giảm nợ quốc gia nhưng cũng có thể làm chậm tăng trưởng kinh tế.",
+    "exampleForm": "fiscal",
+    "collocations": [
+      "fiscal policy",
+      "fiscal year",
+      "fiscal deficit"
+    ],
+    "synonyms": [
+      "financial",
+      "budgetary"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "shareholder",
+    "ipa": "/ˈʃeəhəʊldə/",
+    "pos": "noun",
+    "meaningEn": "a person who owns shares in a company",
+    "meaningVi": "cổ đông",
+    "example": "Corporations are often criticised for putting shareholders' profits ahead of workers' welfare.",
+    "exampleVi": "Các tập đoàn thường bị chỉ trích vì đặt lợi nhuận của cổ đông lên trên phúc lợi của người lao động.",
+    "exampleForm": "shareholders",
+    "collocations": [
+      "major shareholder",
+      "shareholder value"
+    ],
+    "synonyms": [
+      "stockholder",
+      "investor"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "merger",
+    "ipa": "/ˈmɜːdʒə/",
+    "pos": "noun",
+    "meaningEn": "the joining of two or more companies into one",
+    "meaningVi": "sự sáp nhập (công ty)",
+    "example": "The merger of the two airlines raised concerns that ticket prices would increase.",
+    "exampleVi": "Việc sáp nhập hai hãng hàng không đã làm dấy lên lo ngại rằng giá vé sẽ tăng.",
+    "exampleForm": "merger",
+    "collocations": [
+      "mergers and acquisitions",
+      "propose a merger"
+    ],
+    "synonyms": [
+      "amalgamation",
+      "consolidation"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "thrifty",
+    "ipa": "/ˈθrɪfti/",
+    "pos": "adjective",
+    "meaningEn": "careful with money and not wasting it",
+    "meaningVi": "tiết kiệm, biết chi tiêu",
+    "example": "My grandparents were extremely thrifty and taught me never to buy things I did not need.",
+    "exampleVi": "Ông bà tôi cực kỳ tiết kiệm và dạy tôi không bao giờ mua những thứ mình không cần.",
+    "exampleForm": "thrifty",
+    "collocations": [
+      "thrifty habits",
+      "thrifty shopper"
+    ],
+    "synonyms": [
+      "frugal",
+      "economical"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "retail",
+    "ipa": "/ˈriːteɪl/",
+    "pos": "noun",
+    "meaningEn": "the activity of selling goods directly to the public",
+    "meaningVi": "bán lẻ, ngành bán lẻ",
+    "example": "The growth of e-commerce has transformed retail, forcing many high-street shops to close.",
+    "exampleVi": "Sự phát triển của thương mại điện tử đã làm thay đổi ngành bán lẻ, khiến nhiều cửa hàng mặt phố phải đóng cửa.",
+    "exampleForm": "retail",
+    "collocations": [
+      "retail sector",
+      "retail sales",
+      "online retail"
+    ],
+    "synonyms": [
+      "selling"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "counterfeit",
+    "ipa": "/ˈkaʊntəfɪt/",
+    "pos": "adjective",
+    "meaningEn": "made to look exactly like the real thing in order to deceive",
+    "meaningVi": "giả, hàng giả, hàng nhái",
+    "example": "The sale of counterfeit goods costs legitimate brands billions and can endanger consumers' health.",
+    "exampleVi": "Việc buôn bán hàng giả khiến các thương hiệu chính hãng thiệt hại hàng tỷ đô la và có thể gây nguy hiểm cho sức khỏe người tiêu dùng.",
+    "exampleForm": "counterfeit",
+    "collocations": [
+      "counterfeit goods",
+      "counterfeit products",
+      "counterfeit money"
+    ],
+    "synonyms": [
+      "fake",
+      "forged"
+    ],
+    "level": "C1"
+  }
+]

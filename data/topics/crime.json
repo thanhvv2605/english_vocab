@@ -1,0 +1,761 @@
+[
+  {
+    "word": "offender",
+    "ipa": "/əˈfendə/",
+    "pos": "noun",
+    "meaningEn": "a person who has committed a crime",
+    "meaningVi": "người phạm tội, kẻ phạm pháp",
+    "example": "Young offenders should be given education and training rather than simply being locked up.",
+    "exampleVi": "Những người phạm tội ở độ tuổi vị thành niên nên được giáo dục và đào tạo nghề thay vì chỉ bị giam giữ.",
+    "exampleForm": "offenders",
+    "collocations": [
+      "young offenders",
+      "repeat offenders",
+      "first-time offender"
+    ],
+    "synonyms": [
+      "criminal",
+      "lawbreaker"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "reoffend",
+    "ipa": "/ˌriːəˈfend/",
+    "pos": "verb",
+    "meaningEn": "to commit another crime after being punished for a previous one",
+    "meaningVi": "tái phạm",
+    "example": "Prisoners who learn a trade while serving their sentence are far less likely to reoffend.",
+    "exampleVi": "Những tù nhân học nghề trong thời gian thụ án ít có khả năng tái phạm hơn nhiều.",
+    "exampleForm": "reoffend",
+    "collocations": [
+      "likely to reoffend",
+      "prevent offenders from reoffending"
+    ],
+    "synonyms": [
+      "relapse"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "recidivism",
+    "ipa": "/rɪˈsɪdɪvɪzəm/",
+    "pos": "noun",
+    "meaningEn": "the habit of continuing to commit crimes after being punished",
+    "meaningVi": "tình trạng tái phạm tội",
+    "example": "High rates of recidivism suggest that prisons are failing to rehabilitate those in their care.",
+    "exampleVi": "Tỷ lệ tái phạm cao cho thấy các nhà tù đang thất bại trong việc cải tạo những người bị giam giữ.",
+    "exampleForm": "recidivism",
+    "collocations": [
+      "rates of recidivism",
+      "reduce recidivism"
+    ],
+    "synonyms": [
+      "reoffending"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "juvenile delinquency",
+    "ipa": "/ˌdʒuːvənaɪl dɪˈlɪŋkwənsi/",
+    "pos": "noun",
+    "meaningEn": "criminal or antisocial behaviour by young people",
+    "meaningVi": "tình trạng phạm pháp ở trẻ vị thành niên",
+    "example": "A lack of parental supervision is often cited as a major cause of juvenile delinquency.",
+    "exampleVi": "Sự thiếu giám sát của cha mẹ thường được xem là một nguyên nhân chính dẫn đến tình trạng phạm pháp ở trẻ vị thành niên.",
+    "exampleForm": "juvenile delinquency",
+    "collocations": [
+      "prevent juvenile delinquency",
+      "the causes of juvenile delinquency"
+    ],
+    "synonyms": [
+      "youth crime"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "deterrent",
+    "ipa": "/dɪˈterənt/",
+    "pos": "noun",
+    "meaningEn": "something that makes people decide not to do something",
+    "meaningVi": "biện pháp răn đe, sức răn đe",
+    "example": "Supporters of long prison sentences believe they act as a powerful deterrent to potential criminals.",
+    "exampleVi": "Những người ủng hộ án tù dài hạn tin rằng chúng là biện pháp răn đe mạnh mẽ đối với những kẻ có ý định phạm tội.",
+    "exampleForm": "deterrent",
+    "collocations": [
+      "an effective deterrent",
+      "act as a deterrent",
+      "a strong deterrent"
+    ],
+    "synonyms": [
+      "disincentive"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "deter",
+    "ipa": "/dɪˈtɜː/",
+    "pos": "verb",
+    "meaningEn": "to make someone less likely to do something by making them afraid",
+    "meaningVi": "răn đe, ngăn chặn",
+    "example": "Visible police patrols in city centres can deter people from committing street crime.",
+    "exampleVi": "Việc cảnh sát tuần tra công khai ở trung tâm thành phố có thể ngăn chặn người ta phạm tội trên đường phố.",
+    "exampleForm": "deter",
+    "collocations": [
+      "deter crime",
+      "deter someone from doing something"
+    ],
+    "synonyms": [
+      "discourage",
+      "prevent"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "rehabilitation",
+    "ipa": "/ˌriːəˌbɪlɪˈteɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the process of helping a criminal return to a normal, law-abiding life",
+    "meaningVi": "sự cải tạo, sự phục hồi nhân cách",
+    "example": "Many experts argue that prisons should focus on rehabilitation rather than punishment alone.",
+    "exampleVi": "Nhiều chuyên gia cho rằng nhà tù nên tập trung vào việc cải tạo thay vì chỉ trừng phạt.",
+    "exampleForm": "rehabilitation",
+    "collocations": [
+      "rehabilitation programmes",
+      "the rehabilitation of offenders"
+    ],
+    "synonyms": [
+      "reform"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "capital punishment",
+    "ipa": "/ˌkæpɪtl ˈpʌnɪʃmənt/",
+    "pos": "noun",
+    "meaningEn": "punishment by death for a serious crime",
+    "meaningVi": "án tử hình",
+    "example": "Opponents of capital punishment point out that innocent people have sometimes been wrongly executed.",
+    "exampleVi": "Những người phản đối án tử hình chỉ ra rằng đôi khi người vô tội đã bị xử tử oan.",
+    "exampleForm": "capital punishment",
+    "collocations": [
+      "abolish capital punishment",
+      "reintroduce capital punishment"
+    ],
+    "synonyms": [
+      "the death penalty"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "custodial sentence",
+    "ipa": "/kʌˌstəʊdiəl ˈsentəns/",
+    "pos": "noun",
+    "meaningEn": "a punishment in which someone is sent to prison",
+    "meaningVi": "án tù giam",
+    "example": "For minor, non-violent offences, a custodial sentence may do more harm than good.",
+    "exampleVi": "Đối với các tội nhẹ, không dùng bạo lực, án tù giam có thể gây hại nhiều hơn lợi.",
+    "exampleForm": "custodial sentence",
+    "collocations": [
+      "receive a custodial sentence",
+      "a lengthy custodial sentence"
+    ],
+    "synonyms": [
+      "prison sentence",
+      "jail term"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "community service",
+    "ipa": "/kəˌmjuːnəti ˈsɜːvɪs/",
+    "pos": "noun",
+    "meaningEn": "unpaid work for the community that an offender is ordered to do",
+    "meaningVi": "lao động công ích",
+    "example": "Ordering vandals to do community service, such as cleaning graffiti, teaches them to respect public property.",
+    "exampleVi": "Buộc những kẻ phá hoại làm lao động công ích, chẳng hạn như xoá hình vẽ bậy, sẽ dạy họ biết tôn trọng tài sản công.",
+    "exampleForm": "community service",
+    "collocations": [
+      "do community service",
+      "be sentenced to community service"
+    ],
+    "synonyms": [
+      "community work"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "incarceration",
+    "ipa": "/ɪnˌkɑːsəˈreɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the state of being kept in prison",
+    "meaningVi": "sự giam giữ, sự bỏ tù",
+    "example": "The cost of incarceration is enormous, so alternatives to prison deserve serious consideration.",
+    "exampleVi": "Chi phí giam giữ là rất lớn, vì vậy các hình phạt thay thế án tù đáng được xem xét nghiêm túc.",
+    "exampleForm": "incarceration",
+    "collocations": [
+      "mass incarceration",
+      "rates of incarceration"
+    ],
+    "synonyms": [
+      "imprisonment",
+      "confinement"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "imprison",
+    "ipa": "/ɪmˈprɪzn/",
+    "pos": "verb",
+    "meaningEn": "to put someone in prison",
+    "meaningVi": "bỏ tù, giam cầm",
+    "example": "Drunk drivers who cause fatal accidents should be imprisoned for a considerable length of time.",
+    "exampleVi": "Những tài xế say rượu gây tai nạn chết người nên bị bỏ tù trong một thời gian dài.",
+    "exampleForm": "imprisoned",
+    "collocations": [
+      "be imprisoned for",
+      "wrongly imprisoned"
+    ],
+    "synonyms": [
+      "jail",
+      "lock up"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "prosecute",
+    "ipa": "/ˈprɒsɪkjuːt/",
+    "pos": "verb",
+    "meaningEn": "to officially accuse someone of a crime in a court of law",
+    "meaningVi": "truy tố, khởi tố",
+    "example": "Companies that dump toxic waste illegally should be prosecuted and heavily fined.",
+    "exampleVi": "Các công ty xả chất thải độc hại trái phép cần bị truy tố và phạt thật nặng.",
+    "exampleForm": "prosecuted",
+    "collocations": [
+      "be prosecuted for",
+      "prosecute offenders"
+    ],
+    "synonyms": [
+      "charge",
+      "take to court"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "convict",
+    "ipa": "/kənˈvɪkt/",
+    "pos": "verb",
+    "meaningEn": "to officially decide in court that someone is guilty of a crime",
+    "meaningVi": "kết án, tuyên có tội",
+    "example": "Anyone convicted of a violent crime should be banned from working with children.",
+    "exampleVi": "Bất kỳ ai bị kết án về tội bạo lực đều nên bị cấm làm việc với trẻ em.",
+    "exampleForm": "convicted",
+    "collocations": [
+      "be convicted of",
+      "wrongly convicted"
+    ],
+    "synonyms": [
+      "find guilty",
+      "declare guilty"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "acquit",
+    "ipa": "/əˈkwɪt/",
+    "pos": "verb",
+    "meaningEn": "to officially decide in court that someone is not guilty",
+    "meaningVi": "tuyên trắng án",
+    "example": "Several defendants were acquitted after new DNA evidence proved they could not have committed the crime.",
+    "exampleVi": "Một số bị cáo đã được tuyên trắng án sau khi bằng chứng ADN mới chứng minh họ không thể là người gây án.",
+    "exampleForm": "acquitted",
+    "collocations": [
+      "be acquitted of",
+      "acquitted on all charges"
+    ],
+    "synonyms": [
+      "clear",
+      "exonerate"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "verdict",
+    "ipa": "/ˈvɜːdɪkt/",
+    "pos": "noun",
+    "meaningEn": "an official decision in a court about whether someone is guilty",
+    "meaningVi": "phán quyết (của bồi thẩm đoàn, toà án)",
+    "example": "The jury took three days to reach a verdict in the high-profile fraud case.",
+    "exampleVi": "Bồi thẩm đoàn mất ba ngày để đưa ra phán quyết trong vụ án lừa đảo gây chú ý này.",
+    "exampleForm": "verdict",
+    "collocations": [
+      "reach a verdict",
+      "a guilty verdict",
+      "deliver a verdict"
+    ],
+    "synonyms": [
+      "ruling",
+      "judgement"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "jury",
+    "ipa": "/ˈdʒʊəri/",
+    "pos": "noun",
+    "meaningEn": "a group of ordinary citizens who decide a verdict in a trial",
+    "meaningVi": "bồi thẩm đoàn",
+    "example": "Some people question whether a jury of ordinary citizens can understand complex financial crimes.",
+    "exampleVi": "Một số người đặt câu hỏi liệu bồi thẩm đoàn gồm những công dân bình thường có thể hiểu được các tội phạm tài chính phức tạp hay không.",
+    "exampleForm": "jury",
+    "collocations": [
+      "serve on a jury",
+      "trial by jury",
+      "the jury found"
+    ],
+    "synonyms": [
+      "jurors"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "testimony",
+    "ipa": "/ˈtestɪməni/",
+    "pos": "noun",
+    "meaningEn": "a formal statement that something is true, given in a court",
+    "meaningVi": "lời khai, lời làm chứng",
+    "example": "The suspect was convicted largely on the testimony of two eyewitnesses.",
+    "exampleVi": "Nghi phạm bị kết án chủ yếu dựa trên lời khai của hai nhân chứng tận mắt.",
+    "exampleForm": "testimony",
+    "collocations": [
+      "give testimony",
+      "witness testimony",
+      "sworn testimony"
+    ],
+    "synonyms": [
+      "evidence",
+      "statement"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "law enforcement",
+    "ipa": "/ˈlɔː ɪnˌfɔːsmənt/",
+    "pos": "noun",
+    "meaningEn": "the work of making sure people obey the law, mainly by the police",
+    "meaningVi": "việc thực thi pháp luật, lực lượng thực thi pháp luật",
+    "example": "Law enforcement agencies need more funding to keep pace with increasingly sophisticated criminals.",
+    "exampleVi": "Các cơ quan thực thi pháp luật cần thêm kinh phí để theo kịp những tội phạm ngày càng tinh vi.",
+    "exampleForm": "Law enforcement",
+    "collocations": [
+      "law enforcement agencies",
+      "law enforcement officers"
+    ],
+    "synonyms": [
+      "policing"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "petty crime",
+    "ipa": "/ˌpeti ˈkraɪm/",
+    "pos": "noun",
+    "meaningEn": "minor crime, such as stealing small amounts of money",
+    "meaningVi": "tội phạm vặt, tội nhẹ",
+    "example": "Petty crime such as pickpocketing tends to be more common in crowded tourist areas.",
+    "exampleVi": "Tội phạm vặt như móc túi thường phổ biến hơn ở những khu du lịch đông đúc.",
+    "exampleForm": "Petty crime",
+    "collocations": [
+      "commit petty crime",
+      "a rise in petty crime"
+    ],
+    "synonyms": [
+      "minor offence"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "white-collar crime",
+    "ipa": "/ˌwaɪt ˌkɒlə ˈkraɪm/",
+    "pos": "noun",
+    "meaningEn": "non-violent financial crime committed by business or professional people",
+    "meaningVi": "tội phạm cổ cồn trắng, tội phạm kinh tế",
+    "example": "White-collar crime can cause as much damage to society as violent crime, yet it is often punished less severely.",
+    "exampleVi": "Tội phạm cổ cồn trắng có thể gây thiệt hại cho xã hội không kém tội phạm bạo lực, nhưng thường bị xử phạt nhẹ hơn.",
+    "exampleForm": "White-collar crime",
+    "collocations": [
+      "investigate white-collar crime",
+      "white-collar crime such as fraud"
+    ],
+    "synonyms": [
+      "corporate crime"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "cybercrime",
+    "ipa": "/ˈsaɪbəkraɪm/",
+    "pos": "noun",
+    "meaningEn": "crime committed using computers or the internet",
+    "meaningVi": "tội phạm mạng",
+    "example": "As more people bank online, cybercrime has become one of the fastest-growing threats to ordinary citizens.",
+    "exampleVi": "Khi ngày càng nhiều người giao dịch ngân hàng trực tuyến, tội phạm mạng đã trở thành một trong những mối đe doạ gia tăng nhanh nhất đối với người dân.",
+    "exampleForm": "cybercrime",
+    "collocations": [
+      "combat cybercrime",
+      "victims of cybercrime"
+    ],
+    "synonyms": [
+      "computer crime",
+      "online fraud"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "vandalism",
+    "ipa": "/ˈvændəlɪzəm/",
+    "pos": "noun",
+    "meaningEn": "deliberate damage to public or private property",
+    "meaningVi": "hành vi phá hoại tài sản (công cộng)",
+    "example": "Providing youth clubs and sports facilities can reduce vandalism by giving teenagers something constructive to do.",
+    "exampleVi": "Xây dựng câu lạc bộ thanh thiếu niên và cơ sở thể thao có thể giảm hành vi phá hoại tài sản vì giúp thanh thiếu niên có việc bổ ích để làm.",
+    "exampleForm": "vandalism",
+    "collocations": [
+      "acts of vandalism",
+      "mindless vandalism"
+    ],
+    "synonyms": [
+      "destruction",
+      "property damage"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "burglary",
+    "ipa": "/ˈbɜːɡləri/",
+    "pos": "noun",
+    "meaningEn": "the crime of entering a building illegally to steal things",
+    "meaningVi": "vụ trộm đột nhập, tội trộm cắp nhà",
+    "example": "Installing security cameras and better locks has led to a sharp fall in burglary in my neighbourhood.",
+    "exampleVi": "Việc lắp camera an ninh và khoá tốt hơn đã giúp số vụ trộm đột nhập ở khu tôi sống giảm mạnh.",
+    "exampleForm": "burglary",
+    "collocations": [
+      "commit a burglary",
+      "a rise in burglary",
+      "domestic burglary"
+    ],
+    "synonyms": [
+      "break-in",
+      "housebreaking"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "fraud",
+    "ipa": "/frɔːd/",
+    "pos": "noun",
+    "meaningEn": "the crime of deceiving people to get money or goods",
+    "meaningVi": "tội lừa đảo, sự gian lận",
+    "example": "Elderly people are frequently targeted by telephone fraud because they tend to be more trusting.",
+    "exampleVi": "Người cao tuổi thường là mục tiêu của các vụ lừa đảo qua điện thoại vì họ dễ tin người hơn.",
+    "exampleForm": "fraud",
+    "collocations": [
+      "commit fraud",
+      "tax fraud",
+      "online fraud"
+    ],
+    "synonyms": [
+      "deception",
+      "scam"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "shoplifting",
+    "ipa": "/ˈʃɒplɪftɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the crime of stealing goods from a shop",
+    "meaningVi": "hành vi ăn cắp trong cửa hàng",
+    "example": "Most teenagers caught shoplifting are given a warning rather than a criminal record.",
+    "exampleVi": "Phần lớn thanh thiếu niên bị bắt quả tang ăn cắp trong cửa hàng chỉ bị cảnh cáo chứ không bị ghi vào tiền án.",
+    "exampleForm": "shoplifting",
+    "collocations": [
+      "be caught shoplifting",
+      "arrested for shoplifting"
+    ],
+    "synonyms": [
+      "theft"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "commit",
+    "ipa": "/kəˈmɪt/",
+    "pos": "verb",
+    "meaningEn": "to do something illegal or wrong",
+    "meaningVi": "phạm (tội), gây ra (tội ác)",
+    "example": "Research shows that people who commit crimes at a young age often come from unstable homes.",
+    "exampleVi": "Nghiên cứu cho thấy những người phạm tội khi còn trẻ thường xuất thân từ những gia đình không ổn định.",
+    "exampleForm": "commit",
+    "collocations": [
+      "commit a crime",
+      "commit an offence",
+      "commit murder"
+    ],
+    "synonyms": [
+      "perpetrate",
+      "carry out"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "victim",
+    "ipa": "/ˈvɪktɪm/",
+    "pos": "noun",
+    "meaningEn": "a person who has been harmed or killed as a result of a crime",
+    "meaningVi": "nạn nhân",
+    "example": "Victims of violent crime often need long-term psychological support to recover from the trauma.",
+    "exampleVi": "Nạn nhân của tội phạm bạo lực thường cần được hỗ trợ tâm lý lâu dài để vượt qua sang chấn.",
+    "exampleForm": "Victims",
+    "collocations": [
+      "crime victims",
+      "fall victim to",
+      "innocent victims"
+    ],
+    "synonyms": [
+      "casualty"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "witness",
+    "ipa": "/ˈwɪtnəs/",
+    "pos": "noun",
+    "meaningEn": "a person who sees a crime happen or gives evidence in court",
+    "meaningVi": "nhân chứng",
+    "example": "Many witnesses are reluctant to come forward because they fear revenge from the criminals involved.",
+    "exampleVi": "Nhiều nhân chứng ngại ra trình báo vì sợ bị những kẻ phạm tội trả thù.",
+    "exampleForm": "witnesses",
+    "collocations": [
+      "a key witness",
+      "come forward as a witness",
+      "witness protection"
+    ],
+    "synonyms": [
+      "eyewitness",
+      "observer"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "lenient",
+    "ipa": "/ˈliːniənt/",
+    "pos": "adjective",
+    "meaningEn": "punishing someone less severely than expected",
+    "meaningVi": "nhẹ tay, khoan hồng",
+    "example": "Many members of the public feel that judges are too lenient on people who drink and drive.",
+    "exampleVi": "Nhiều người dân cảm thấy các thẩm phán quá nhẹ tay với những người lái xe sau khi uống rượu.",
+    "exampleForm": "lenient",
+    "collocations": [
+      "a lenient sentence",
+      "too lenient on",
+      "lenient punishment"
+    ],
+    "synonyms": [
+      "merciful",
+      "soft"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "penalty",
+    "ipa": "/ˈpenəlti/",
+    "pos": "noun",
+    "meaningEn": "a punishment for breaking a law or rule",
+    "meaningVi": "hình phạt, mức phạt",
+    "example": "Introducing harsher penalties for littering has made the streets of Singapore remarkably clean.",
+    "exampleVi": "Việc áp dụng mức phạt nặng hơn đối với hành vi xả rác đã giúp đường phố Singapore sạch sẽ đáng kể.",
+    "exampleForm": "penalties",
+    "collocations": [
+      "harsh penalties",
+      "impose a penalty",
+      "the maximum penalty"
+    ],
+    "synonyms": [
+      "punishment",
+      "fine"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "loophole",
+    "ipa": "/ˈluːphəʊl/",
+    "pos": "noun",
+    "meaningEn": "a small mistake in a law that allows people to avoid obeying it",
+    "meaningVi": "kẽ hở pháp luật, lỗ hổng",
+    "example": "Wealthy individuals often exploit legal loopholes to avoid paying their fair share of tax.",
+    "exampleVi": "Giới nhà giàu thường lợi dụng kẽ hở pháp luật để né tránh nghĩa vụ thuế tương xứng.",
+    "exampleForm": "loopholes",
+    "collocations": [
+      "a legal loophole",
+      "exploit a loophole",
+      "close a loophole"
+    ],
+    "synonyms": [
+      "gap",
+      "technicality"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "patrol",
+    "ipa": "/pəˈtrəʊl/",
+    "pos": "verb",
+    "meaningEn": "to go around an area regularly to check that there is no trouble",
+    "meaningVi": "tuần tra",
+    "example": "Residents feel much safer when police officers patrol their streets on foot rather than in cars.",
+    "exampleVi": "Người dân cảm thấy an toàn hơn nhiều khi cảnh sát đi bộ tuần tra trên đường phố thay vì đi bằng ô tô.",
+    "exampleForm": "patrol",
+    "collocations": [
+      "patrol the streets",
+      "police patrol",
+      "regularly patrol"
+    ],
+    "synonyms": [
+      "guard",
+      "monitor"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "criminal record",
+    "ipa": "/ˌkrɪmɪnl ˈrekɔːd/",
+    "pos": "noun",
+    "meaningEn": "an official record of the crimes a person has committed",
+    "meaningVi": "tiền án, hồ sơ tiền án tiền sự",
+    "example": "Having a criminal record makes it extremely difficult for ex-prisoners to find stable employment.",
+    "exampleVi": "Việc có tiền án khiến những người mãn hạn tù rất khó tìm được việc làm ổn định.",
+    "exampleForm": "criminal record",
+    "collocations": [
+      "have a criminal record",
+      "a clean criminal record"
+    ],
+    "synonyms": [
+      "police record"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "parole",
+    "ipa": "/pəˈrəʊl/",
+    "pos": "noun",
+    "meaningEn": "permission for a prisoner to leave prison early if they behave well",
+    "meaningVi": "sự tạm tha có điều kiện",
+    "example": "Prisoners who show genuine remorse and good behaviour may be released on parole.",
+    "exampleVi": "Những tù nhân thể hiện sự hối cải thực sự và cải tạo tốt có thể được tạm tha có điều kiện.",
+    "exampleForm": "parole",
+    "collocations": [
+      "be released on parole",
+      "parole board",
+      "eligible for parole"
+    ],
+    "synonyms": [
+      "conditional release"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "inmate",
+    "ipa": "/ˈɪnmeɪt/",
+    "pos": "noun",
+    "meaningEn": "a person who is kept in a prison",
+    "meaningVi": "phạm nhân, tù nhân",
+    "example": "Overcrowded prisons make it almost impossible to provide inmates with meaningful education programmes.",
+    "exampleVi": "Các nhà tù quá tải khiến việc tổ chức chương trình giáo dục thiết thực cho phạm nhân gần như là không thể.",
+    "exampleForm": "inmates",
+    "collocations": [
+      "prison inmates",
+      "fellow inmates"
+    ],
+    "synonyms": [
+      "prisoner",
+      "convict"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "law-abiding",
+    "ipa": "/ˈlɔː əˌbaɪdɪŋ/",
+    "pos": "adjective",
+    "meaningEn": "obeying the law and never committing crimes",
+    "meaningVi": "tuân thủ pháp luật, sống lương thiện",
+    "example": "The aim of rehabilitation is to help offenders become law-abiding members of society.",
+    "exampleVi": "Mục tiêu của việc cải tạo là giúp người phạm tội trở thành những công dân tuân thủ pháp luật.",
+    "exampleForm": "law-abiding",
+    "collocations": [
+      "law-abiding citizens",
+      "a law-abiding life"
+    ],
+    "synonyms": [
+      "honest",
+      "upright"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "crime rate",
+    "ipa": "/ˈkraɪm reɪt/",
+    "pos": "noun",
+    "meaningEn": "the number of crimes in a particular area or period",
+    "meaningVi": "tỷ lệ tội phạm",
+    "example": "Cities with higher youth unemployment generally have a higher crime rate than more prosperous areas.",
+    "exampleVi": "Các thành phố có tỷ lệ thanh niên thất nghiệp cao thường có tỷ lệ tội phạm cao hơn những khu vực thịnh vượng hơn.",
+    "exampleForm": "crime rate",
+    "collocations": [
+      "a rising crime rate",
+      "reduce the crime rate",
+      "a low crime rate"
+    ],
+    "synonyms": [
+      "level of crime"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "criminal justice system",
+    "ipa": "/ˌkrɪmɪnl ˈdʒʌstɪs ˌsɪstəm/",
+    "pos": "noun",
+    "meaningEn": "the police, courts and prisons that deal with crime",
+    "meaningVi": "hệ thống tư pháp hình sự",
+    "example": "Public trust in the criminal justice system depends on everyone being treated equally before the law.",
+    "exampleVi": "Niềm tin của công chúng vào hệ thống tư pháp hình sự phụ thuộc vào việc mọi người được đối xử bình đẳng trước pháp luật.",
+    "exampleForm": "criminal justice system",
+    "collocations": [
+      "reform the criminal justice system",
+      "confidence in the criminal justice system"
+    ],
+    "synonyms": [
+      "justice system"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "crack down on",
+    "ipa": "/ˌkræk ˈdaʊn ɒn/",
+    "pos": "phrasal verb",
+    "meaningEn": "to start dealing with a problem or crime much more strictly",
+    "meaningVi": "trấn áp, xử lý mạnh tay",
+    "example": "The government has promised to crack down on drink-driving by introducing random roadside tests.",
+    "exampleVi": "Chính phủ đã cam kết xử lý mạnh tay nạn lái xe sau khi uống rượu bằng cách kiểm tra nồng độ cồn ngẫu nhiên trên đường.",
+    "exampleForm": "crack down on",
+    "collocations": [
+      "crack down on crime",
+      "crack down hard on"
+    ],
+    "synonyms": [
+      "clamp down on",
+      "tackle"
+    ],
+    "level": "C1"
+  }
+]

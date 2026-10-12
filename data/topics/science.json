@@ -1,0 +1,757 @@
+[
+  {
+    "word": "hypothesis",
+    "ipa": "/haɪˈpɒθəsɪs/",
+    "pos": "noun",
+    "meaningEn": "an idea that is suggested as an explanation and then tested",
+    "meaningVi": "giả thuyết",
+    "example": "The researchers carried out a series of experiments to test their hypothesis.",
+    "exampleVi": "Các nhà nghiên cứu đã tiến hành một loạt thí nghiệm để kiểm chứng giả thuyết của họ.",
+    "exampleForm": "hypothesis",
+    "collocations": [
+      "test a hypothesis",
+      "support a hypothesis",
+      "formulate a hypothesis"
+    ],
+    "synonyms": [
+      "theory",
+      "assumption"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "empirical",
+    "ipa": "/ɪmˈpɪrɪkl/",
+    "pos": "adjective",
+    "meaningEn": "based on observation or experiment rather than theory",
+    "meaningVi": "thực nghiệm, dựa trên thực tế quan sát",
+    "example": "There is little empirical evidence to support the claim that the supplement improves memory.",
+    "exampleVi": "Có rất ít bằng chứng thực nghiệm ủng hộ khẳng định rằng loại thực phẩm bổ sung này cải thiện trí nhớ.",
+    "exampleForm": "empirical",
+    "collocations": [
+      "empirical evidence",
+      "empirical research",
+      "empirical data"
+    ],
+    "synonyms": [
+      "experimental",
+      "observed"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "breakthrough",
+    "ipa": "/ˈbreɪkθruː/",
+    "pos": "noun",
+    "meaningEn": "an important discovery or development that helps solve a problem",
+    "meaningVi": "bước đột phá",
+    "example": "The development of antibiotics was one of the greatest scientific breakthroughs of the twentieth century.",
+    "exampleVi": "Việc phát triển thuốc kháng sinh là một trong những bước đột phá khoa học vĩ đại nhất của thế kỷ hai mươi.",
+    "exampleForm": "breakthroughs",
+    "collocations": [
+      "major breakthrough",
+      "scientific breakthrough",
+      "make a breakthrough"
+    ],
+    "synonyms": [
+      "advance",
+      "discovery"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "experiment",
+    "ipa": "/ɪkˈsperɪmənt/",
+    "pos": "noun",
+    "meaningEn": "a scientific test done to discover or prove something",
+    "meaningVi": "thí nghiệm, cuộc thử nghiệm",
+    "example": "Students learn far more when they conduct experiments themselves rather than just reading about them.",
+    "exampleVi": "Học sinh học được nhiều hơn hẳn khi tự mình tiến hành thí nghiệm thay vì chỉ đọc về chúng.",
+    "exampleForm": "experiments",
+    "collocations": [
+      "conduct an experiment",
+      "carry out an experiment",
+      "controlled experiment"
+    ],
+    "synonyms": [
+      "test",
+      "trial"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "laboratory",
+    "ipa": "/ləˈbɒrətri/",
+    "pos": "noun",
+    "meaningEn": "a room or building used for scientific research and experiments",
+    "meaningVi": "phòng thí nghiệm",
+    "example": "Many new vaccines are developed in government-funded laboratories before being tested on humans.",
+    "exampleVi": "Nhiều loại vắc-xin mới được phát triển tại các phòng thí nghiệm do chính phủ tài trợ trước khi được thử nghiệm trên người.",
+    "exampleForm": "laboratories",
+    "collocations": [
+      "research laboratory",
+      "laboratory conditions",
+      "laboratory equipment"
+    ],
+    "synonyms": [
+      "lab"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "peer review",
+    "ipa": "/ˌpɪə rɪˈvjuː/",
+    "pos": "noun",
+    "meaningEn": "the evaluation of research by other experts in the same field",
+    "meaningVi": "bình duyệt (đánh giá bởi các chuyên gia cùng lĩnh vực)",
+    "example": "Every study must undergo rigorous peer review before it can be published in a reputable journal.",
+    "exampleVi": "Mọi nghiên cứu đều phải trải qua quá trình bình duyệt nghiêm ngặt trước khi được đăng trên một tạp chí uy tín.",
+    "exampleForm": "peer review",
+    "collocations": [
+      "undergo peer review",
+      "rigorous peer review",
+      "peer review process"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "replicate",
+    "ipa": "/ˈreplɪkeɪt/",
+    "pos": "verb",
+    "meaningEn": "to repeat an experiment and get the same results",
+    "meaningVi": "lặp lại (thí nghiệm, kết quả), tái tạo",
+    "example": "Other scientists have so far been unable to replicate the team's surprising results.",
+    "exampleVi": "Cho đến nay, các nhà khoa học khác vẫn chưa thể lặp lại những kết quả đáng ngạc nhiên của nhóm nghiên cứu.",
+    "exampleForm": "replicate",
+    "collocations": [
+      "replicate results",
+      "replicate a study",
+      "difficult to replicate"
+    ],
+    "synonyms": [
+      "reproduce",
+      "repeat"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "variable",
+    "ipa": "/ˈveəriəbl/",
+    "pos": "noun",
+    "meaningEn": "a factor that can change and may affect the result of an experiment",
+    "meaningVi": "biến số, yếu tố thay đổi",
+    "example": "In a fair test, scientists change only one variable while keeping all others constant.",
+    "exampleVi": "Trong một thí nghiệm công bằng, các nhà khoa học chỉ thay đổi một biến số và giữ nguyên tất cả các biến còn lại.",
+    "exampleForm": "variable",
+    "collocations": [
+      "control variables",
+      "independent variable",
+      "key variable"
+    ],
+    "synonyms": [
+      "factor"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "phenomenon",
+    "ipa": "/fəˈnɒmɪnən/",
+    "pos": "noun",
+    "meaningEn": "something that exists or happens, especially one that is unusual or studied",
+    "meaningVi": "hiện tượng",
+    "example": "Scientists are still trying to fully explain the phenomenon of the northern lights.",
+    "exampleVi": "Các nhà khoa học vẫn đang cố gắng giải thích trọn vẹn hiện tượng cực quang phương bắc.",
+    "exampleForm": "phenomenon",
+    "collocations": [
+      "natural phenomenon",
+      "explain a phenomenon",
+      "a widespread phenomenon"
+    ],
+    "synonyms": [
+      "occurrence",
+      "event"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "scientific method",
+    "ipa": "/ˌsaɪəntɪfɪk ˈmeθəd/",
+    "pos": "noun",
+    "meaningEn": "a process of observing, forming hypotheses and testing them with experiments",
+    "meaningVi": "phương pháp khoa học",
+    "example": "Teaching children the scientific method encourages them to question claims rather than accept them blindly.",
+    "exampleVi": "Dạy trẻ em phương pháp khoa học khuyến khích các em đặt câu hỏi về các khẳng định thay vì chấp nhận chúng một cách mù quáng.",
+    "exampleForm": "scientific method",
+    "collocations": [
+      "apply the scientific method",
+      "follow the scientific method",
+      "principles of the scientific method"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "genetic engineering",
+    "ipa": "/dʒəˌnetɪk ˌendʒɪˈnɪərɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the science of changing the genes of living things",
+    "meaningVi": "kỹ thuật di truyền",
+    "example": "Supporters argue that genetic engineering could help eliminate inherited diseases in future generations.",
+    "exampleVi": "Những người ủng hộ cho rằng kỹ thuật di truyền có thể giúp loại bỏ các bệnh di truyền ở các thế hệ tương lai.",
+    "exampleForm": "genetic engineering",
+    "collocations": [
+      "advances in genetic engineering",
+      "ethics of genetic engineering",
+      "human genetic engineering"
+    ],
+    "synonyms": [
+      "genetic modification"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "genetically modified",
+    "ipa": "/dʒəˌnetɪkli ˈmɒdɪfaɪd/",
+    "pos": "adjective",
+    "meaningEn": "(of a plant or animal) having had its genes artificially changed",
+    "meaningVi": "biến đổi gen",
+    "example": "Genetically modified crops can resist pests and produce higher yields in harsh climates.",
+    "exampleVi": "Cây trồng biến đổi gen có thể kháng sâu bệnh và cho năng suất cao hơn trong điều kiện khí hậu khắc nghiệt.",
+    "exampleForm": "Genetically modified",
+    "collocations": [
+      "genetically modified crops",
+      "genetically modified food",
+      "genetically modified organisms"
+    ],
+    "synonyms": [
+      "GM",
+      "genetically engineered"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "cloning",
+    "ipa": "/ˈkləʊnɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the process of making an exact genetic copy of an organism",
+    "meaningVi": "sự nhân bản vô tính",
+    "example": "Human cloning remains illegal in most countries because of serious ethical concerns.",
+    "exampleVi": "Việc nhân bản vô tính người vẫn bị cấm ở hầu hết các quốc gia vì những lo ngại nghiêm trọng về mặt đạo đức.",
+    "exampleForm": "cloning",
+    "collocations": [
+      "human cloning",
+      "animal cloning",
+      "ban on cloning"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "stem cell",
+    "ipa": "/ˈstem sel/",
+    "pos": "noun",
+    "meaningEn": "a basic cell that can develop into many different types of cell",
+    "meaningVi": "tế bào gốc",
+    "example": "Stem cell research offers hope for treating conditions such as Parkinson's disease.",
+    "exampleVi": "Nghiên cứu tế bào gốc mang lại hy vọng điều trị các bệnh như bệnh Parkinson.",
+    "exampleForm": "Stem cell",
+    "collocations": [
+      "stem cell research",
+      "stem cell therapy",
+      "embryonic stem cells"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "DNA",
+    "ipa": "/ˌdiː en ˈeɪ/",
+    "pos": "noun",
+    "meaningEn": "the chemical in cells that carries genetic information",
+    "meaningVi": "ADN (axit deoxyribonucleic), vật liệu di truyền",
+    "example": "Advances in DNA analysis have transformed both medical research and criminal investigations.",
+    "exampleVi": "Những tiến bộ trong phân tích ADN đã làm thay đổi sâu sắc cả nghiên cứu y học lẫn công tác điều tra hình sự.",
+    "exampleForm": "DNA",
+    "collocations": [
+      "DNA analysis",
+      "DNA sample",
+      "DNA sequencing"
+    ],
+    "synonyms": [
+      "genetic material"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "molecule",
+    "ipa": "/ˈmɒlɪkjuːl/",
+    "pos": "noun",
+    "meaningEn": "the smallest unit of a substance, made of two or more atoms",
+    "meaningVi": "phân tử",
+    "example": "Chemists have designed a new molecule that can break down plastic in a matter of days.",
+    "exampleVi": "Các nhà hoá học đã thiết kế một phân tử mới có thể phân huỷ nhựa chỉ trong vài ngày.",
+    "exampleForm": "molecule",
+    "collocations": [
+      "water molecule",
+      "complex molecule",
+      "a protein molecule"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "organism",
+    "ipa": "/ˈɔːɡənɪzəm/",
+    "pos": "noun",
+    "meaningEn": "a single living thing, such as a plant, animal or bacterium",
+    "meaningVi": "sinh vật",
+    "example": "Some microscopic organisms can survive in extreme temperatures deep beneath the ocean floor.",
+    "exampleVi": "Một số sinh vật cực nhỏ có thể sống sót ở nhiệt độ khắc nghiệt sâu bên dưới đáy đại dương.",
+    "exampleForm": "organisms",
+    "collocations": [
+      "living organisms",
+      "microscopic organisms",
+      "single-celled organism"
+    ],
+    "synonyms": [
+      "life form",
+      "creature"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "evolution",
+    "ipa": "/ˌiːvəˈluːʃn/",
+    "pos": "noun",
+    "meaningEn": "the gradual development of living things over millions of years",
+    "meaningVi": "sự tiến hoá",
+    "example": "Darwin's theory of evolution fundamentally changed the way we understand life on Earth.",
+    "exampleVi": "Thuyết tiến hoá của Darwin đã thay đổi tận gốc cách chúng ta hiểu về sự sống trên Trái Đất.",
+    "exampleForm": "evolution",
+    "collocations": [
+      "theory of evolution",
+      "human evolution",
+      "process of evolution"
+    ],
+    "synonyms": [
+      "development"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "space exploration",
+    "ipa": "/ˌspeɪs ˌekspləˈreɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the use of technology to investigate outer space",
+    "meaningVi": "thám hiểm không gian, khám phá vũ trụ",
+    "example": "Critics argue that money spent on space exploration should be used to tackle poverty on Earth.",
+    "exampleVi": "Những người phản đối cho rằng tiền chi cho thám hiểm không gian nên được dùng để giải quyết nghèo đói trên Trái Đất.",
+    "exampleForm": "space exploration",
+    "collocations": [
+      "fund space exploration",
+      "manned space exploration",
+      "the future of space exploration"
+    ],
+    "synonyms": [
+      "space travel"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "astronaut",
+    "ipa": "/ˈæstrənɔːt/",
+    "pos": "noun",
+    "meaningEn": "a person who is trained to travel in a spacecraft",
+    "meaningVi": "phi hành gia",
+    "example": "Astronauts aboard the International Space Station carry out hundreds of experiments each year.",
+    "exampleVi": "Các phi hành gia trên Trạm Vũ trụ Quốc tế thực hiện hàng trăm thí nghiệm mỗi năm.",
+    "exampleForm": "Astronauts",
+    "collocations": [
+      "trained astronaut",
+      "astronaut training",
+      "send astronauts into space"
+    ],
+    "synonyms": [
+      "spaceman",
+      "cosmonaut"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "satellite",
+    "ipa": "/ˈsætəlaɪt/",
+    "pos": "noun",
+    "meaningEn": "a device sent into space to travel around the Earth, collecting or sending information",
+    "meaningVi": "vệ tinh",
+    "example": "Satellite images allow scientists to monitor the melting of polar ice in real time.",
+    "exampleVi": "Hình ảnh vệ tinh cho phép các nhà khoa học theo dõi quá trình tan băng ở vùng cực theo thời gian thực.",
+    "exampleForm": "Satellite",
+    "collocations": [
+      "satellite images",
+      "launch a satellite",
+      "satellite navigation"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "orbit",
+    "ipa": "/ˈɔːbɪt/",
+    "pos": "verb",
+    "meaningEn": "to move in a curved path around a planet, moon or star",
+    "meaningVi": "bay quanh, quay quanh (theo quỹ đạo)",
+    "example": "Thousands of man-made objects currently orbit the Earth, creating a serious problem of space debris.",
+    "exampleVi": "Hàng nghìn vật thể nhân tạo hiện đang bay quanh Trái Đất, tạo ra vấn đề nghiêm trọng về rác thải vũ trụ.",
+    "exampleForm": "orbit",
+    "collocations": [
+      "orbit the Earth",
+      "orbit the sun",
+      "orbit the Moon"
+    ],
+    "synonyms": [
+      "circle",
+      "revolve around"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "telescope",
+    "ipa": "/ˈtelɪskəʊp/",
+    "pos": "noun",
+    "meaningEn": "a device that makes distant objects, such as stars, look closer",
+    "meaningVi": "kính thiên văn, kính viễn vọng",
+    "example": "Powerful space telescopes have revealed thousands of planets orbiting distant stars.",
+    "exampleVi": "Các kính thiên văn không gian mạnh mẽ đã phát hiện hàng nghìn hành tinh quay quanh những ngôi sao xa xôi.",
+    "exampleForm": "telescopes",
+    "collocations": [
+      "space telescope",
+      "powerful telescope",
+      "through a telescope"
+    ],
+    "synonyms": [],
+    "level": "B1"
+  },
+  {
+    "word": "galaxy",
+    "ipa": "/ˈɡæləksi/",
+    "pos": "noun",
+    "meaningEn": "a very large group of stars and planets",
+    "meaningVi": "thiên hà, dải ngân hà",
+    "example": "Our solar system is just a tiny part of a galaxy containing billions of stars.",
+    "exampleVi": "Hệ Mặt Trời của chúng ta chỉ là một phần nhỏ bé của một thiên hà chứa hàng tỷ ngôi sao.",
+    "exampleForm": "galaxy",
+    "collocations": [
+      "distant galaxy",
+      "spiral galaxy",
+      "the Milky Way galaxy"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "extraterrestrial",
+    "ipa": "/ˌekstrətəˈrestriəl/",
+    "pos": "adjective",
+    "meaningEn": "existing or coming from outside the planet Earth",
+    "meaningVi": "ngoài Trái Đất",
+    "example": "Many scientists believe that the discovery of extraterrestrial life is only a matter of time.",
+    "exampleVi": "Nhiều nhà khoa học tin rằng việc phát hiện sự sống ngoài Trái Đất chỉ còn là vấn đề thời gian.",
+    "exampleForm": "extraterrestrial",
+    "collocations": [
+      "extraterrestrial life",
+      "extraterrestrial intelligence",
+      "extraterrestrial beings"
+    ],
+    "synonyms": [
+      "alien"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "astronomy",
+    "ipa": "/əˈstrɒnəmi/",
+    "pos": "noun",
+    "meaningEn": "the scientific study of stars, planets and other objects in space",
+    "meaningVi": "thiên văn học",
+    "example": "Amateur astronomy has become more popular thanks to affordable telescopes and online star maps.",
+    "exampleVi": "Thiên văn học nghiệp dư ngày càng phổ biến nhờ kính thiên văn giá rẻ và các bản đồ sao trực tuyến.",
+    "exampleForm": "astronomy",
+    "collocations": [
+      "amateur astronomy",
+      "modern astronomy",
+      "study astronomy"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "microscope",
+    "ipa": "/ˈmaɪkrəskəʊp/",
+    "pos": "noun",
+    "meaningEn": "a device that makes very small objects look much larger",
+    "meaningVi": "kính hiển vi",
+    "example": "Bacteria are far too small to be seen without the aid of a microscope.",
+    "exampleVi": "Vi khuẩn quá nhỏ để có thể nhìn thấy nếu không có sự hỗ trợ của kính hiển vi.",
+    "exampleForm": "microscope",
+    "collocations": [
+      "under a microscope",
+      "electron microscope",
+      "examine under a microscope"
+    ],
+    "synonyms": [],
+    "level": "B1"
+  },
+  {
+    "word": "specimen",
+    "ipa": "/ˈspesɪmən/",
+    "pos": "noun",
+    "meaningEn": "a sample of something, such as blood or a plant, used for study",
+    "meaningVi": "mẫu vật, mẫu (xét nghiệm)",
+    "example": "The museum holds thousands of rare plant specimens collected by Victorian explorers.",
+    "exampleVi": "Bảo tàng lưu giữ hàng nghìn mẫu vật thực vật quý hiếm do các nhà thám hiểm thời Victoria thu thập.",
+    "exampleForm": "specimens",
+    "collocations": [
+      "collect specimens",
+      "blood specimen",
+      "rare specimen"
+    ],
+    "synonyms": [
+      "sample",
+      "example"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "pioneering",
+    "ipa": "/ˌpaɪəˈnɪərɪŋ/",
+    "pos": "adjective",
+    "meaningEn": "being the first to develop new ideas or methods",
+    "meaningVi": "tiên phong, mở đường",
+    "example": "Marie Curie's pioneering work on radioactivity laid the foundations for modern cancer treatment.",
+    "exampleVi": "Công trình tiên phong của Marie Curie về phóng xạ đã đặt nền móng cho phương pháp điều trị ung thư hiện đại.",
+    "exampleForm": "pioneering",
+    "collocations": [
+      "pioneering work",
+      "pioneering research",
+      "pioneering scientist"
+    ],
+    "synonyms": [
+      "innovative",
+      "ground-breaking"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "groundbreaking",
+    "ipa": "/ˈɡraʊndbreɪkɪŋ/",
+    "pos": "adjective",
+    "meaningEn": "introducing new ideas or methods that are very important",
+    "meaningVi": "mang tính đột phá",
+    "example": "The team published a groundbreaking study showing how the brain repairs itself after injury.",
+    "exampleVi": "Nhóm nghiên cứu đã công bố một công trình mang tính đột phá cho thấy cách não bộ tự phục hồi sau chấn thương.",
+    "exampleForm": "groundbreaking",
+    "collocations": [
+      "groundbreaking research",
+      "groundbreaking discovery",
+      "groundbreaking study"
+    ],
+    "synonyms": [
+      "revolutionary",
+      "innovative"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "bioethics",
+    "ipa": "/ˌbaɪəʊˈeθɪks/",
+    "pos": "noun",
+    "meaningEn": "the study of moral issues raised by advances in biology and medicine",
+    "meaningVi": "đạo đức sinh học",
+    "example": "Gene editing in human embryos has raised difficult questions in the field of bioethics.",
+    "exampleVi": "Việc chỉnh sửa gen ở phôi người đã đặt ra những câu hỏi hóc búa trong lĩnh vực đạo đức sinh học.",
+    "exampleForm": "bioethics",
+    "collocations": [
+      "field of bioethics",
+      "bioethics committee",
+      "issues in bioethics"
+    ],
+    "synonyms": [],
+    "level": "C2"
+  },
+  {
+    "word": "research grant",
+    "ipa": "/rɪˈsɜːtʃ ɡrɑːnt/",
+    "pos": "noun",
+    "meaningEn": "money given by an organisation to pay for scientific research",
+    "meaningVi": "khoản tài trợ nghiên cứu",
+    "example": "Young scientists often struggle to secure research grants for long-term projects.",
+    "exampleVi": "Các nhà khoa học trẻ thường gặp khó khăn trong việc giành được các khoản tài trợ nghiên cứu cho những dự án dài hạn.",
+    "exampleForm": "research grants",
+    "collocations": [
+      "secure a research grant",
+      "apply for a research grant",
+      "award a research grant"
+    ],
+    "synonyms": [
+      "research funding"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "trial and error",
+    "ipa": "/ˌtraɪəl ənd ˈerə/",
+    "pos": "phrase",
+    "meaningEn": "a way of solving problems by trying different methods and learning from mistakes",
+    "meaningVi": "phương pháp thử và sai",
+    "example": "Many important inventions were developed through a long process of trial and error.",
+    "exampleVi": "Nhiều phát minh quan trọng đã ra đời qua một quá trình thử và sai kéo dài.",
+    "exampleForm": "trial and error",
+    "collocations": [
+      "by trial and error",
+      "through trial and error",
+      "a process of trial and error"
+    ],
+    "synonyms": [
+      "experimentation"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "observation",
+    "ipa": "/ˌɒbzəˈveɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the act of carefully watching something to gain information",
+    "meaningVi": "sự quan sát",
+    "example": "Early astronomers relied entirely on careful observation of the night sky.",
+    "exampleVi": "Các nhà thiên văn học thời kỳ đầu hoàn toàn dựa vào việc quan sát kỹ lưỡng bầu trời đêm.",
+    "exampleForm": "observation",
+    "collocations": [
+      "careful observation",
+      "direct observation",
+      "under observation"
+    ],
+    "synonyms": [
+      "monitoring",
+      "examination"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "dissect",
+    "ipa": "/daɪˈsekt/",
+    "pos": "verb",
+    "meaningEn": "to cut open a dead body, animal or plant to study its structure",
+    "meaningVi": "mổ xẻ, giải phẫu",
+    "example": "Some students refuse to dissect frogs in biology lessons on moral grounds.",
+    "exampleVi": "Một số học sinh từ chối mổ ếch trong giờ sinh học vì lý do đạo đức.",
+    "exampleForm": "dissect",
+    "collocations": [
+      "dissect a frog",
+      "dissect specimens",
+      "carefully dissect"
+    ],
+    "synonyms": [
+      "cut up",
+      "anatomise"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "animal testing",
+    "ipa": "/ˌænɪml ˈtestɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the use of animals in experiments to test drugs or products",
+    "meaningVi": "thử nghiệm trên động vật",
+    "example": "Although animal testing has led to medical advances, many people consider it cruel and unnecessary.",
+    "exampleVi": "Mặc dù thử nghiệm trên động vật đã giúp y học tiến bộ, nhiều người vẫn coi đó là tàn nhẫn và không cần thiết.",
+    "exampleForm": "animal testing",
+    "collocations": [
+      "ban animal testing",
+      "oppose animal testing",
+      "alternatives to animal testing"
+    ],
+    "synonyms": [
+      "animal experimentation"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "particle",
+    "ipa": "/ˈpɑːtɪkl/",
+    "pos": "noun",
+    "meaningEn": "an extremely small piece of matter",
+    "meaningVi": "hạt, mảnh rất nhỏ",
+    "example": "Physicists use enormous machines to study how subatomic particles behave at high speeds.",
+    "exampleVi": "Các nhà vật lý sử dụng những cỗ máy khổng lồ để nghiên cứu cách các hạt hạ nguyên tử vận động ở tốc độ cao.",
+    "exampleForm": "particles",
+    "collocations": [
+      "subatomic particles",
+      "dust particles",
+      "particle physics"
+    ],
+    "synonyms": [
+      "fragment",
+      "speck"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "gravity",
+    "ipa": "/ˈɡrævəti/",
+    "pos": "noun",
+    "meaningEn": "the force that pulls objects towards each other, especially towards the Earth",
+    "meaningVi": "trọng lực, lực hấp dẫn",
+    "example": "Long periods without gravity can weaken astronauts' bones and muscles considerably.",
+    "exampleVi": "Những khoảng thời gian dài không có trọng lực có thể làm xương và cơ của phi hành gia suy yếu đáng kể.",
+    "exampleForm": "gravity",
+    "collocations": [
+      "force of gravity",
+      "zero gravity",
+      "law of gravity"
+    ],
+    "synonyms": [
+      "gravitation"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "unravel",
+    "ipa": "/ʌnˈrævl/",
+    "pos": "verb",
+    "meaningEn": "to explain or solve something complicated or mysterious",
+    "meaningVi": "làm sáng tỏ, giải mã (điều bí ẩn)",
+    "example": "Researchers hope the new telescope will help unravel the mysteries of how the universe began.",
+    "exampleVi": "Các nhà nghiên cứu hy vọng kính thiên văn mới sẽ giúp làm sáng tỏ những bí ẩn về cách vũ trụ hình thành.",
+    "exampleForm": "unravel",
+    "collocations": [
+      "unravel the mystery",
+      "unravel the secrets of",
+      "begin to unravel"
+    ],
+    "synonyms": [
+      "solve",
+      "decipher"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "cosmos",
+    "ipa": "/ˈkɒzmɒs/",
+    "pos": "noun",
+    "meaningEn": "the universe considered as an ordered system",
+    "meaningVi": "vũ trụ",
+    "example": "Studying the cosmos reminds us how small and fragile our own planet really is.",
+    "exampleVi": "Nghiên cứu vũ trụ nhắc nhở chúng ta rằng hành tinh của mình thực sự nhỏ bé và mong manh đến nhường nào.",
+    "exampleForm": "cosmos",
+    "collocations": [
+      "explore the cosmos",
+      "the origins of the cosmos",
+      "across the cosmos"
+    ],
+    "synonyms": [
+      "universe"
+    ],
+    "level": "C1"
+  }
+]

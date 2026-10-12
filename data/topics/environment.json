@@ -1,0 +1,801 @@
+[
+  {
+    "word": "sustainable",
+    "ipa": "/səˈsteɪnəbl/",
+    "pos": "adjective",
+    "meaningEn": "able to continue without harming the environment or using up resources",
+    "meaningVi": "bền vững",
+    "example": "Investing in sustainable agriculture is essential if we are to feed a growing global population.",
+    "exampleVi": "Đầu tư vào nông nghiệp bền vững là điều thiết yếu nếu chúng ta muốn nuôi sống dân số toàn cầu ngày càng tăng.",
+    "exampleForm": "sustainable",
+    "collocations": [
+      "sustainable development",
+      "sustainable energy",
+      "environmentally sustainable"
+    ],
+    "synonyms": [
+      "eco-friendly",
+      "green"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "deforestation",
+    "ipa": "/diːˌfɒrɪˈsteɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the cutting down of trees over a large area",
+    "meaningVi": "nạn phá rừng",
+    "example": "Large-scale deforestation in the Amazon has destroyed the habitats of countless species.",
+    "exampleVi": "Nạn phá rừng quy mô lớn ở Amazon đã phá huỷ môi trường sống của vô số loài.",
+    "exampleForm": "deforestation",
+    "collocations": [
+      "large-scale deforestation",
+      "tackle deforestation",
+      "rate of deforestation"
+    ],
+    "synonyms": [
+      "forest clearance"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "carbon footprint",
+    "ipa": "/ˌkɑːbən ˈfʊtprɪnt/",
+    "pos": "noun",
+    "meaningEn": "the amount of carbon dioxide a person or activity produces",
+    "meaningVi": "lượng khí thải carbon (do một cá nhân, tổ chức hoặc hoạt động tạo ra)",
+    "example": "Individuals can reduce their carbon footprint by cycling to work instead of driving.",
+    "exampleVi": "Mỗi cá nhân có thể giảm lượng khí thải carbon của mình bằng cách đạp xe đi làm thay vì lái xe.",
+    "exampleForm": "carbon footprint",
+    "collocations": [
+      "reduce your carbon footprint",
+      "leave a carbon footprint",
+      "a large carbon footprint"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "greenhouse gas",
+    "ipa": "/ˌɡriːnhaʊs ˈɡæs/",
+    "pos": "noun",
+    "meaningEn": "a gas, such as carbon dioxide, that traps heat in the atmosphere",
+    "meaningVi": "khí nhà kính",
+    "example": "Livestock farming is responsible for a considerable share of global greenhouse gas emissions.",
+    "exampleVi": "Chăn nuôi gia súc là nguồn gây ra một phần đáng kể lượng khí thải nhà kính toàn cầu.",
+    "exampleForm": "greenhouse gas",
+    "collocations": [
+      "greenhouse gas emissions",
+      "cut greenhouse gases",
+      "release greenhouse gases"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "renewable",
+    "ipa": "/rɪˈnjuːəbl/",
+    "pos": "adjective",
+    "meaningEn": "(of energy) produced from sources that are naturally replaced, like wind or sun",
+    "meaningVi": "tái tạo (năng lượng), có thể phục hồi",
+    "example": "Many countries are shifting towards renewable energy sources such as wind and solar power.",
+    "exampleVi": "Nhiều quốc gia đang chuyển dần sang các nguồn năng lượng tái tạo như năng lượng gió và mặt trời.",
+    "exampleForm": "renewable",
+    "collocations": [
+      "renewable energy",
+      "renewable resources",
+      "renewable sources"
+    ],
+    "synonyms": [
+      "sustainable",
+      "clean"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "fossil fuel",
+    "ipa": "/ˈfɒsl fjuːəl/",
+    "pos": "noun",
+    "meaningEn": "a fuel such as coal, oil or gas formed from ancient organisms",
+    "meaningVi": "nhiên liệu hoá thạch",
+    "example": "Our heavy dependence on fossil fuels is the main driver of climate change.",
+    "exampleVi": "Sự phụ thuộc nặng nề của chúng ta vào nhiên liệu hoá thạch là nguyên nhân chính gây ra biến đổi khí hậu.",
+    "exampleForm": "fossil fuels",
+    "collocations": [
+      "burn fossil fuels",
+      "dependence on fossil fuels",
+      "phase out fossil fuels"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "emission",
+    "ipa": "/iˈmɪʃn/",
+    "pos": "noun",
+    "meaningEn": "gas or other substance sent out into the air",
+    "meaningVi": "khí thải, sự phát thải",
+    "example": "Stricter regulations are needed to curb vehicle emissions in major cities.",
+    "exampleVi": "Cần có những quy định nghiêm ngặt hơn để hạn chế khí thải xe cộ ở các thành phố lớn.",
+    "exampleForm": "emissions",
+    "collocations": [
+      "carbon emissions",
+      "cut emissions",
+      "reduce emissions"
+    ],
+    "synonyms": [
+      "discharge",
+      "release"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "biodiversity",
+    "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+    "pos": "noun",
+    "meaningEn": "the variety of plants and animals living in a particular area",
+    "meaningVi": "đa dạng sinh học",
+    "example": "Protecting tropical rainforests is vital for preserving the planet's biodiversity.",
+    "exampleVi": "Bảo vệ rừng mưa nhiệt đới là điều sống còn để gìn giữ đa dạng sinh học của hành tinh.",
+    "exampleForm": "biodiversity",
+    "collocations": [
+      "loss of biodiversity",
+      "preserve biodiversity",
+      "rich biodiversity"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "habitat",
+    "ipa": "/ˈhæbɪtæt/",
+    "pos": "noun",
+    "meaningEn": "the natural home of an animal or plant",
+    "meaningVi": "môi trường sống, sinh cảnh",
+    "example": "Urban expansion is rapidly destroying the natural habitat of many wild animals.",
+    "exampleVi": "Sự mở rộng đô thị đang nhanh chóng phá huỷ môi trường sống tự nhiên của nhiều loài động vật hoang dã.",
+    "exampleForm": "habitat",
+    "collocations": [
+      "natural habitat",
+      "habitat loss",
+      "destroy habitats"
+    ],
+    "synonyms": [
+      "environment",
+      "home"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "endangered",
+    "ipa": "/ɪnˈdeɪndʒəd/",
+    "pos": "adjective",
+    "meaningEn": "(of a plant or animal) at risk of no longer existing",
+    "meaningVi": "có nguy cơ tuyệt chủng",
+    "example": "Governments should impose heavy fines on anyone caught trading endangered species.",
+    "exampleVi": "Chính phủ nên áp dụng mức phạt nặng đối với bất kỳ ai bị bắt quả tang buôn bán các loài có nguy cơ tuyệt chủng.",
+    "exampleForm": "endangered",
+    "collocations": [
+      "endangered species",
+      "critically endangered",
+      "endangered wildlife"
+    ],
+    "synonyms": [
+      "threatened",
+      "at risk"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "extinction",
+    "ipa": "/ɪkˈstɪŋkʃn/",
+    "pos": "noun",
+    "meaningEn": "a situation in which a type of plant or animal stops existing",
+    "meaningVi": "sự tuyệt chủng",
+    "example": "Without urgent action, many marine species could be driven to extinction within decades.",
+    "exampleVi": "Nếu không có hành động khẩn cấp, nhiều loài sinh vật biển có thể bị đẩy đến bờ tuyệt chủng trong vài thập kỷ tới.",
+    "exampleForm": "extinction",
+    "collocations": [
+      "on the brink of extinction",
+      "face extinction",
+      "mass extinction"
+    ],
+    "synonyms": [
+      "dying out"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "conservation",
+    "ipa": "/ˌkɒnsəˈveɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the protection of nature, wildlife and natural resources",
+    "meaningVi": "sự bảo tồn, sự bảo vệ (thiên nhiên, tài nguyên)",
+    "example": "Wildlife conservation projects often depend on funding from international organisations.",
+    "exampleVi": "Các dự án bảo tồn động vật hoang dã thường phụ thuộc vào nguồn tài trợ từ các tổ chức quốc tế.",
+    "exampleForm": "conservation",
+    "collocations": [
+      "wildlife conservation",
+      "energy conservation",
+      "conservation efforts"
+    ],
+    "synonyms": [
+      "preservation",
+      "protection"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "ecosystem",
+    "ipa": "/ˈiːkəʊsɪstəm/",
+    "pos": "noun",
+    "meaningEn": "all the living things in an area and how they affect each other",
+    "meaningVi": "hệ sinh thái",
+    "example": "Plastic waste poses a serious threat to fragile marine ecosystems around the world.",
+    "exampleVi": "Rác thải nhựa đang gây ra mối đe doạ nghiêm trọng đối với các hệ sinh thái biển mong manh trên khắp thế giới.",
+    "exampleForm": "ecosystems",
+    "collocations": [
+      "fragile ecosystem",
+      "marine ecosystem",
+      "disrupt the ecosystem"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "pollutant",
+    "ipa": "/pəˈluːtənt/",
+    "pos": "noun",
+    "meaningEn": "a substance that makes air, water or soil dirty and harmful",
+    "meaningVi": "chất gây ô nhiễm",
+    "example": "Factories that release harmful pollutants into rivers should face severe penalties.",
+    "exampleVi": "Các nhà máy xả chất gây ô nhiễm độc hại ra sông nên phải chịu những hình phạt nghiêm khắc.",
+    "exampleForm": "pollutants",
+    "collocations": [
+      "harmful pollutants",
+      "air pollutants",
+      "release pollutants"
+    ],
+    "synonyms": [
+      "contaminant"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "contaminate",
+    "ipa": "/kənˈtæmɪneɪt/",
+    "pos": "verb",
+    "meaningEn": "to make something dirty or harmful by adding a dangerous substance",
+    "meaningVi": "làm ô nhiễm, làm nhiễm bẩn",
+    "example": "Chemical runoff from farms has contaminated the drinking water supply in many rural areas.",
+    "exampleVi": "Hoá chất chảy tràn từ các trang trại đã làm ô nhiễm nguồn nước uống ở nhiều vùng nông thôn.",
+    "exampleForm": "contaminated",
+    "collocations": [
+      "contaminate water supplies",
+      "contaminated soil",
+      "heavily contaminated"
+    ],
+    "synonyms": [
+      "pollute",
+      "poison"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "landfill",
+    "ipa": "/ˈlændfɪl/",
+    "pos": "noun",
+    "meaningEn": "a place where large amounts of rubbish are buried under the ground",
+    "meaningVi": "bãi chôn lấp rác",
+    "example": "Millions of tonnes of household waste end up in landfill sites every year.",
+    "exampleVi": "Hàng triệu tấn rác thải sinh hoạt bị đưa đến các bãi chôn lấp mỗi năm.",
+    "exampleForm": "landfill",
+    "collocations": [
+      "landfill site",
+      "end up in landfill",
+      "divert waste from landfill"
+    ],
+    "synonyms": [
+      "rubbish dump",
+      "tip"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "biodegradable",
+    "ipa": "/ˌbaɪəʊdɪˈɡreɪdəbl/",
+    "pos": "adjective",
+    "meaningEn": "able to decay naturally without harming the environment",
+    "meaningVi": "có thể phân huỷ sinh học",
+    "example": "Supermarkets should replace plastic bags with biodegradable packaging made from plant fibres.",
+    "exampleVi": "Các siêu thị nên thay túi nhựa bằng bao bì có thể phân huỷ sinh học làm từ sợi thực vật.",
+    "exampleForm": "biodegradable",
+    "collocations": [
+      "biodegradable packaging",
+      "biodegradable materials",
+      "fully biodegradable"
+    ],
+    "synonyms": [
+      "compostable"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "recycle",
+    "ipa": "/ˌriːˈsaɪkl/",
+    "pos": "verb",
+    "meaningEn": "to treat used materials so that they can be used again",
+    "meaningVi": "tái chế",
+    "example": "Local councils should make it easier for residents to recycle glass, paper and plastic.",
+    "exampleVi": "Chính quyền địa phương nên tạo điều kiện để người dân tái chế thuỷ tinh, giấy và nhựa dễ dàng hơn.",
+    "exampleForm": "recycle",
+    "collocations": [
+      "recycle waste",
+      "recycled materials",
+      "recycling bin"
+    ],
+    "synonyms": [
+      "reuse",
+      "reprocess"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "drought",
+    "ipa": "/draʊt/",
+    "pos": "noun",
+    "meaningEn": "a long period with little or no rain",
+    "meaningVi": "hạn hán",
+    "example": "Prolonged droughts have caused severe food shortages across parts of sub-Saharan Africa.",
+    "exampleVi": "Những đợt hạn hán kéo dài đã gây ra tình trạng thiếu lương thực nghiêm trọng ở nhiều khu vực châu Phi cận Sahara.",
+    "exampleForm": "droughts",
+    "collocations": [
+      "severe drought",
+      "prolonged drought",
+      "drought-stricken areas"
+    ],
+    "synonyms": [
+      "dry spell"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "global warming",
+    "ipa": "/ˌɡləʊbl ˈwɔːmɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the gradual rise in the Earth's temperature caused by pollution",
+    "meaningVi": "sự nóng lên toàn cầu",
+    "example": "Rising sea levels caused by global warming threaten low-lying coastal cities.",
+    "exampleVi": "Mực nước biển dâng cao do sự nóng lên toàn cầu đang đe doạ các thành phố ven biển có địa hình thấp.",
+    "exampleForm": "global warming",
+    "collocations": [
+      "tackle global warming",
+      "effects of global warming",
+      "contribute to global warming"
+    ],
+    "synonyms": [
+      "climate change"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "single-use plastic",
+    "ipa": "/ˌsɪŋɡl juːs ˈplæstɪk/",
+    "pos": "noun",
+    "meaningEn": "plastic items designed to be used only once and then thrown away",
+    "meaningVi": "nhựa dùng một lần",
+    "example": "Several countries have banned single-use plastic straws and cutlery to protect marine life.",
+    "exampleVi": "Một số quốc gia đã cấm ống hút và dao nĩa nhựa dùng một lần để bảo vệ sinh vật biển.",
+    "exampleForm": "single-use plastic",
+    "collocations": [
+      "ban single-use plastics",
+      "reduce single-use plastic",
+      "single-use plastic bags"
+    ],
+    "synonyms": [
+      "disposable plastic"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "ozone layer",
+    "ipa": "/ˈəʊzəʊn leɪə/",
+    "pos": "noun",
+    "meaningEn": "a layer of gas high above the Earth that blocks harmful sun rays",
+    "meaningVi": "tầng ôzôn",
+    "example": "International agreements have helped the ozone layer gradually recover over recent decades.",
+    "exampleVi": "Các hiệp định quốc tế đã giúp tầng ôzôn dần phục hồi trong những thập kỷ gần đây.",
+    "exampleForm": "ozone layer",
+    "collocations": [
+      "damage the ozone layer",
+      "hole in the ozone layer",
+      "ozone layer depletion"
+    ],
+    "synonyms": [],
+    "level": "B1"
+  },
+  {
+    "word": "depletion",
+    "ipa": "/dɪˈpliːʃn/",
+    "pos": "noun",
+    "meaningEn": "the reduction of something, especially a natural resource, until little remains",
+    "meaningVi": "sự cạn kiệt, sự suy giảm (tài nguyên)",
+    "example": "The rapid depletion of groundwater is a growing concern for farmers in arid regions.",
+    "exampleVi": "Sự cạn kiệt nhanh chóng của nguồn nước ngầm đang là mối lo ngại ngày càng lớn đối với nông dân ở các vùng khô hạn.",
+    "exampleForm": "depletion",
+    "collocations": [
+      "resource depletion",
+      "ozone depletion",
+      "depletion of fish stocks"
+    ],
+    "synonyms": [
+      "exhaustion",
+      "reduction"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "degrade",
+    "ipa": "/dɪˈɡreɪd/",
+    "pos": "verb",
+    "meaningEn": "to make land, water or the environment worse in quality",
+    "meaningVi": "làm suy thoái, làm xuống cấp, phân huỷ",
+    "example": "Intensive farming methods have severely degraded the soil in many agricultural regions.",
+    "exampleVi": "Các phương thức canh tác thâm canh đã làm suy thoái nghiêm trọng đất đai ở nhiều vùng nông nghiệp.",
+    "exampleForm": "degraded",
+    "collocations": [
+      "degrade the environment",
+      "degraded land",
+      "severely degraded"
+    ],
+    "synonyms": [
+      "damage",
+      "deteriorate"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "eco-friendly",
+    "ipa": "/ˌiːkəʊ ˈfrendli/",
+    "pos": "adjective",
+    "meaningEn": "not harmful to the environment",
+    "meaningVi": "thân thiện với môi trường",
+    "example": "Consumers are increasingly willing to pay more for eco-friendly products.",
+    "exampleVi": "Người tiêu dùng ngày càng sẵn lòng trả nhiều tiền hơn cho các sản phẩm thân thiện với môi trường.",
+    "exampleForm": "eco-friendly",
+    "collocations": [
+      "eco-friendly products",
+      "eco-friendly lifestyle",
+      "eco-friendly alternative"
+    ],
+    "synonyms": [
+      "green",
+      "environmentally friendly"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "carbon neutral",
+    "ipa": "/ˌkɑːbən ˈnjuːtrəl/",
+    "pos": "adjective",
+    "meaningEn": "causing no overall increase in carbon dioxide in the atmosphere",
+    "meaningVi": "trung hoà carbon",
+    "example": "Several major cities have pledged to become carbon neutral by 2050.",
+    "exampleVi": "Một số thành phố lớn đã cam kết đạt mức trung hoà carbon vào năm 2050.",
+    "exampleForm": "carbon neutral",
+    "collocations": [
+      "become carbon neutral",
+      "carbon neutral by 2050",
+      "carbon neutral economy"
+    ],
+    "synonyms": [
+      "net-zero"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "offset",
+    "ipa": "/ˌɒfˈset/",
+    "pos": "verb",
+    "meaningEn": "to balance the negative effect of something with an opposite action",
+    "meaningVi": "bù đắp, bù trừ",
+    "example": "Some airlines allow passengers to offset their emissions by funding tree-planting schemes.",
+    "exampleVi": "Một số hãng hàng không cho phép hành khách bù đắp lượng khí thải của mình bằng cách tài trợ cho các chương trình trồng cây.",
+    "exampleForm": "offset",
+    "collocations": [
+      "offset carbon emissions",
+      "offset the cost",
+      "partly offset"
+    ],
+    "synonyms": [
+      "counterbalance",
+      "compensate for"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "smog",
+    "ipa": "/smɒɡ/",
+    "pos": "noun",
+    "meaningEn": "a mixture of smoke, gases and fog that pollutes city air",
+    "meaningVi": "khói mù (ô nhiễm), sương khói",
+    "example": "Thick smog regularly forces schools in some Asian cities to close during winter.",
+    "exampleVi": "Khói mù dày đặc thường xuyên buộc các trường học ở một số thành phố châu Á phải đóng cửa vào mùa đông.",
+    "exampleForm": "smog",
+    "collocations": [
+      "thick smog",
+      "a blanket of smog",
+      "smog-filled city"
+    ],
+    "synonyms": [
+      "haze",
+      "air pollution"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "toxic",
+    "ipa": "/ˈtɒksɪk/",
+    "pos": "adjective",
+    "meaningEn": "poisonous and harmful to people, animals or the environment",
+    "meaningVi": "độc hại",
+    "example": "The illegal dumping of toxic waste has poisoned rivers and killed thousands of fish.",
+    "exampleVi": "Việc đổ trộm chất thải độc hại đã đầu độc các dòng sông và giết chết hàng nghìn con cá.",
+    "exampleForm": "toxic",
+    "collocations": [
+      "toxic waste",
+      "toxic chemicals",
+      "toxic fumes"
+    ],
+    "synonyms": [
+      "poisonous",
+      "hazardous"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "wildlife",
+    "ipa": "/ˈwaɪldlaɪf/",
+    "pos": "noun",
+    "meaningEn": "animals, birds and plants living in natural conditions",
+    "meaningVi": "động vật hoang dã, đời sống hoang dã",
+    "example": "Oil spills can have devastating effects on coastal wildlife for many years.",
+    "exampleVi": "Sự cố tràn dầu có thể gây ra những tác động tàn khốc đối với động vật hoang dã ven biển trong nhiều năm.",
+    "exampleForm": "wildlife",
+    "collocations": [
+      "protect wildlife",
+      "wildlife reserve",
+      "wildlife habitat"
+    ],
+    "synonyms": [
+      "fauna",
+      "nature"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "natural disaster",
+    "ipa": "/ˌnætʃrəl dɪˈzɑːstə/",
+    "pos": "noun",
+    "meaningEn": "a sudden natural event, such as a flood or earthquake, causing great damage",
+    "meaningVi": "thiên tai",
+    "example": "Climate change is making natural disasters such as floods and wildfires more frequent.",
+    "exampleVi": "Biến đổi khí hậu đang khiến các thiên tai như lũ lụt và cháy rừng xảy ra thường xuyên hơn.",
+    "exampleForm": "natural disasters",
+    "collocations": [
+      "devastating natural disaster",
+      "prone to natural disasters",
+      "victims of natural disasters"
+    ],
+    "synonyms": [
+      "catastrophe"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "desertification",
+    "ipa": "/dɪˌzɜːtɪfɪˈkeɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the process by which fertile land becomes desert",
+    "meaningVi": "sự sa mạc hoá",
+    "example": "Overgrazing and deforestation have accelerated desertification across much of northern China.",
+    "exampleVi": "Chăn thả quá mức và phá rừng đã đẩy nhanh quá trình sa mạc hoá ở phần lớn miền bắc Trung Quốc.",
+    "exampleForm": "desertification",
+    "collocations": [
+      "combat desertification",
+      "accelerate desertification",
+      "land degradation and desertification"
+    ],
+    "synonyms": [],
+    "level": "C2"
+  },
+  {
+    "word": "poaching",
+    "ipa": "/ˈpəʊtʃɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the illegal hunting or catching of animals",
+    "meaningVi": "nạn săn bắt trộm, săn bắn trái phép",
+    "example": "Rhino populations have declined sharply because of poaching for their horns.",
+    "exampleVi": "Số lượng tê giác đã giảm mạnh do nạn săn trộm để lấy sừng.",
+    "exampleForm": "poaching",
+    "collocations": [
+      "ivory poaching",
+      "crack down on poaching",
+      "anti-poaching patrols"
+    ],
+    "synonyms": [
+      "illegal hunting"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "irreversible",
+    "ipa": "/ˌɪrɪˈvɜːsəbl/",
+    "pos": "adjective",
+    "meaningEn": "impossible to change back to a previous condition",
+    "meaningVi": "không thể đảo ngược, không thể khắc phục",
+    "example": "Scientists warn that some damage to coral reefs may already be irreversible.",
+    "exampleVi": "Các nhà khoa học cảnh báo rằng một số thiệt hại đối với rạn san hô có thể đã không thể đảo ngược.",
+    "exampleForm": "irreversible",
+    "collocations": [
+      "irreversible damage",
+      "irreversible changes",
+      "largely irreversible"
+    ],
+    "synonyms": [
+      "permanent",
+      "irreparable"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "ecological",
+    "ipa": "/ˌiːkəˈlɒdʒɪkl/",
+    "pos": "adjective",
+    "meaningEn": "connected with the relationship between living things and their environment",
+    "meaningVi": "(thuộc) sinh thái",
+    "example": "The oil spill was described as one of the worst ecological disasters in the region's history.",
+    "exampleVi": "Vụ tràn dầu được mô tả là một trong những thảm hoạ sinh thái tồi tệ nhất trong lịch sử khu vực.",
+    "exampleForm": "ecological",
+    "collocations": [
+      "ecological disaster",
+      "ecological balance",
+      "ecological damage"
+    ],
+    "synonyms": [
+      "environmental"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "environmentalist",
+    "ipa": "/ɪnˌvaɪrənˈmentəlɪst/",
+    "pos": "noun",
+    "meaningEn": "a person who works to protect the natural environment",
+    "meaningVi": "nhà bảo vệ môi trường, nhà hoạt động môi trường",
+    "example": "Environmentalists have strongly criticised the government's decision to build a new coal plant.",
+    "exampleVi": "Các nhà bảo vệ môi trường đã chỉ trích gay gắt quyết định xây dựng nhà máy nhiệt điện than mới của chính phủ.",
+    "exampleForm": "Environmentalists",
+    "collocations": [
+      "leading environmentalist",
+      "environmentalists warn",
+      "environmentalist groups"
+    ],
+    "synonyms": [
+      "conservationist",
+      "green activist"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "solar panel",
+    "ipa": "/ˌsəʊlə ˈpænl/",
+    "pos": "noun",
+    "meaningEn": "a flat device that converts sunlight into electricity",
+    "meaningVi": "tấm pin năng lượng mặt trời",
+    "example": "Offering subsidies for solar panels would encourage more households to generate their own electricity.",
+    "exampleVi": "Trợ giá cho tấm pin năng lượng mặt trời sẽ khuyến khích nhiều hộ gia đình tự sản xuất điện hơn.",
+    "exampleForm": "solar panels",
+    "collocations": [
+      "install solar panels",
+      "rooftop solar panels",
+      "solar panel efficiency"
+    ],
+    "synonyms": [],
+    "level": "B1"
+  },
+  {
+    "word": "erosion",
+    "ipa": "/ɪˈrəʊʒn/",
+    "pos": "noun",
+    "meaningEn": "the gradual wearing away of land by wind, water or ice",
+    "meaningVi": "sự xói mòn, sự sạt lở",
+    "example": "Planting trees along riverbanks can significantly reduce soil erosion during heavy rain.",
+    "exampleVi": "Trồng cây dọc bờ sông có thể giảm đáng kể tình trạng xói mòn đất khi mưa lớn.",
+    "exampleForm": "erosion",
+    "collocations": [
+      "soil erosion",
+      "coastal erosion",
+      "prevent erosion"
+    ],
+    "synonyms": [
+      "wearing away"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "wind turbine",
+    "ipa": "/ˈwɪnd tɜːbaɪn/",
+    "pos": "noun",
+    "meaningEn": "a tall structure with blades that uses wind to produce electricity",
+    "meaningVi": "tua-bin gió",
+    "example": "Offshore wind turbines now supply a growing proportion of the country's electricity.",
+    "exampleVi": "Các tua-bin gió ngoài khơi hiện đang cung cấp một tỉ lệ ngày càng lớn lượng điện của cả nước.",
+    "exampleForm": "wind turbines",
+    "collocations": [
+      "offshore wind turbines",
+      "install wind turbines",
+      "giant wind turbines"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "dispose of",
+    "ipa": "/dɪˈspəʊz əv/",
+    "pos": "phrasal verb",
+    "meaningEn": "to get rid of something, especially waste, properly",
+    "meaningVi": "xử lý, vứt bỏ (rác thải)",
+    "example": "Many people still do not know how to dispose of electronic waste safely.",
+    "exampleVi": "Nhiều người vẫn chưa biết cách xử lý rác thải điện tử một cách an toàn.",
+    "exampleForm": "dispose of",
+    "collocations": [
+      "dispose of waste",
+      "dispose of safely",
+      "properly dispose of"
+    ],
+    "synonyms": [
+      "discard",
+      "throw away"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "climate change",
+    "ipa": "/ˈklaɪmət tʃeɪndʒ/",
+    "pos": "noun",
+    "meaningEn": "long-term changes in the earth's weather, especially rising temperatures",
+    "meaningVi": "biến đổi khí hậu",
+    "example": "Climate change is widely regarded as the most serious threat facing humanity today.",
+    "exampleVi": "Biến đổi khí hậu được nhiều người coi là mối đe doạ nghiêm trọng nhất mà nhân loại đang phải đối mặt.",
+    "exampleForm": "Climate change",
+    "collocations": [
+      "tackle climate change",
+      "the effects of climate change",
+      "combat climate change"
+    ],
+    "synonyms": [
+      "global warming"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "pollution",
+    "ipa": "/pəˈluːʃn/",
+    "pos": "noun",
+    "meaningEn": "harmful substances that make air, water or soil dirty",
+    "meaningVi": "sự ô nhiễm, ô nhiễm",
+    "example": "Air pollution in major cities has been linked to a rise in respiratory diseases.",
+    "exampleVi": "Ô nhiễm không khí ở các thành phố lớn có liên quan đến sự gia tăng các bệnh về đường hô hấp.",
+    "exampleForm": "pollution",
+    "collocations": [
+      "air pollution",
+      "reduce pollution",
+      "pollution levels"
+    ],
+    "synonyms": [
+      "contamination"
+    ],
+    "level": "B1"
+  }
+]

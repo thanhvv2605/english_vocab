@@ -1,0 +1,1535 @@
+[
+  {
+    "word": "regarding",
+    "ipa": "/rɪˈɡɑːdɪŋ/",
+    "pos": "preposition",
+    "meaningEn": "about or connected with something",
+    "meaningVi": "về, liên quan đến, đối với",
+    "example": "Many residents have expressed serious concerns regarding the construction of a new airport near the city.",
+    "exampleVi": "Nhiều cư dân đã bày tỏ lo ngại nghiêm trọng về việc xây dựng một sân bay mới gần thành phố.",
+    "exampleForm": "regarding",
+    "collocations": [
+      "concerns regarding",
+      "questions regarding",
+      "regarding the issue of"
+    ],
+    "synonyms": [
+      "concerning",
+      "about",
+      "with regard to"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "consultant",
+    "ipa": "/kənˈsʌltənt/",
+    "pos": "noun",
+    "meaningEn": "an expert who gives professional advice to people or organisations",
+    "meaningVi": "chuyên viên tư vấn, cố vấn",
+    "example": "The company hired an independent consultant to review its environmental policies and recommend improvements.",
+    "exampleVi": "Công ty đã thuê một chuyên viên tư vấn độc lập để rà soát các chính sách môi trường và đề xuất cải tiến.",
+    "exampleForm": "consultant",
+    "collocations": [
+      "management consultant",
+      "independent consultant",
+      "hire a consultant"
+    ],
+    "synonyms": [
+      "adviser",
+      "expert"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "perseverance",
+    "ipa": "/ˌpɜːsɪˈvɪərəns/",
+    "pos": "noun",
+    "meaningEn": "continued effort to achieve something despite difficulties",
+    "meaningVi": "sự kiên trì, sự bền bỉ",
+    "example": "Learning a foreign language to a high standard requires considerable perseverance and daily practice.",
+    "exampleVi": "Học một ngoại ngữ đến trình độ cao đòi hỏi sự kiên trì đáng kể và luyện tập hằng ngày.",
+    "exampleForm": "perseverance",
+    "collocations": [
+      "show perseverance",
+      "patience and perseverance",
+      "sheer perseverance"
+    ],
+    "synonyms": [
+      "persistence",
+      "determination",
+      "tenacity"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "resilience",
+    "ipa": "/rɪˈzɪliəns/",
+    "pos": "noun",
+    "meaningEn": "the ability to recover quickly from difficulties or shocks",
+    "meaningVi": "sự kiên cường, khả năng phục hồi",
+    "example": "Children who face setbacks early in life often develop remarkable resilience that serves them well as adults.",
+    "exampleVi": "Những đứa trẻ gặp trắc trở từ sớm thường hình thành sự kiên cường đáng nể, giúp ích nhiều cho chúng khi trưởng thành.",
+    "exampleForm": "resilience",
+    "collocations": [
+      "build resilience",
+      "emotional resilience",
+      "economic resilience"
+    ],
+    "synonyms": [
+      "toughness",
+      "adaptability"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "belief",
+    "ipa": "/bɪˈliːf/",
+    "pos": "noun",
+    "meaningEn": "a feeling that something is true or exists; an opinion",
+    "meaningVi": "niềm tin, quan niệm",
+    "example": "There is a widespread belief that a university degree guarantees a well-paid job, but this is not always true.",
+    "exampleVi": "Có một quan niệm phổ biến rằng bằng đại học đảm bảo một công việc lương cao, nhưng điều này không phải lúc nào cũng đúng.",
+    "exampleForm": "belief",
+    "collocations": [
+      "widespread belief",
+      "firm belief",
+      "religious belief"
+    ],
+    "synonyms": [
+      "conviction",
+      "view",
+      "faith"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "amenity",
+    "ipa": "/əˈmiːnəti/",
+    "pos": "noun",
+    "meaningEn": "a facility that makes a place pleasant, comfortable or easy to live in",
+    "meaningVi": "tiện nghi, tiện ích, dịch vụ",
+    "example": "Newly built suburbs often lack basic amenities such as schools, clinics and public transport.",
+    "exampleVi": "Các khu ngoại ô mới xây thường thiếu những tiện ích cơ bản như trường học, phòng khám và giao thông công cộng.",
+    "exampleForm": "amenities",
+    "collocations": [
+      "basic amenities",
+      "local amenities",
+      "public amenities"
+    ],
+    "synonyms": [
+      "facility",
+      "service",
+      "convenience"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "establish",
+    "ipa": "/ɪˈstæblɪʃ/",
+    "pos": "verb",
+    "meaningEn": "to start an organisation or system; to discover or prove facts",
+    "meaningVi": "thành lập, thiết lập, tạo dựng, xác minh",
+    "example": "The charity was established in 1998 to provide free education for children in rural areas.",
+    "exampleVi": "Tổ chức từ thiện này được thành lập năm 1998 nhằm cung cấp giáo dục miễn phí cho trẻ em ở vùng nông thôn.",
+    "exampleForm": "established",
+    "collocations": [
+      "establish a company",
+      "establish a relationship",
+      "establish the cause of"
+    ],
+    "synonyms": [
+      "found",
+      "set up",
+      "create"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "statue",
+    "ipa": "/ˈstætʃuː/",
+    "pos": "noun",
+    "meaningEn": "a figure of a person or animal made of stone, metal, etc.",
+    "meaningVi": "tượng, bức tượng",
+    "example": "A bronze statue of the city's founder stands in the centre of the main square.",
+    "exampleVi": "Một bức tượng đồng của người sáng lập thành phố đứng ở trung tâm quảng trường chính.",
+    "exampleForm": "statue",
+    "collocations": [
+      "bronze statue",
+      "marble statue",
+      "erect a statue"
+    ],
+    "synonyms": [
+      "sculpture",
+      "monument"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "troops",
+    "ipa": "/truːps/",
+    "pos": "noun",
+    "meaningEn": "soldiers, especially in large groups",
+    "meaningVi": "quân đội, lực lượng quân sự, binh lính",
+    "example": "The government sent troops to the flooded region to help evacuate thousands of residents.",
+    "exampleVi": "Chính phủ đã điều quân đội đến vùng bị lũ lụt để giúp sơ tán hàng nghìn cư dân.",
+    "exampleForm": "troops",
+    "collocations": [
+      "send troops",
+      "deploy troops",
+      "withdraw troops"
+    ],
+    "synonyms": [
+      "soldiers",
+      "forces"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "consult",
+    "ipa": "/kənˈsʌlt/",
+    "pos": "verb",
+    "meaningEn": "to go to someone or something for information or advice",
+    "meaningVi": "hỏi ý kiến, tham khảo",
+    "example": "Patients should always consult a doctor before taking any new medication or supplements.",
+    "exampleVi": "Bệnh nhân nên luôn hỏi ý kiến bác sĩ trước khi dùng bất kỳ loại thuốc hay thực phẩm bổ sung mới nào.",
+    "exampleForm": "consult",
+    "collocations": [
+      "consult a doctor",
+      "consult an expert",
+      "consult the public"
+    ],
+    "synonyms": [
+      "seek advice from",
+      "refer to"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "reputation",
+    "ipa": "/ˌrepjuˈteɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the opinion that people generally have about someone or something",
+    "meaningVi": "danh tiếng, uy tín, tiếng tăm",
+    "example": "The university has built an excellent reputation for research in engineering and medicine.",
+    "exampleVi": "Trường đại học này đã gây dựng được danh tiếng xuất sắc về nghiên cứu trong lĩnh vực kỹ thuật và y khoa.",
+    "exampleForm": "reputation",
+    "collocations": [
+      "build a reputation",
+      "damage a reputation",
+      "excellent reputation"
+    ],
+    "synonyms": [
+      "standing",
+      "prestige",
+      "name"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "poverty",
+    "ipa": "/ˈpɒvəti/",
+    "pos": "noun",
+    "meaningEn": "the state of being extremely poor",
+    "meaningVi": "sự nghèo đói, cảnh nghèo",
+    "example": "Millions of people around the world still live in extreme poverty without access to clean water.",
+    "exampleVi": "Hàng triệu người trên thế giới vẫn sống trong cảnh nghèo đói cùng cực, không được tiếp cận nước sạch.",
+    "exampleForm": "poverty",
+    "collocations": [
+      "live in poverty",
+      "extreme poverty",
+      "reduce poverty"
+    ],
+    "synonyms": [
+      "deprivation",
+      "hardship"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "sustainable",
+    "ipa": "/səˈsteɪnəbl/",
+    "pos": "adjective",
+    "meaningEn": "able to continue over time without harming the environment",
+    "meaningVi": "bền vững",
+    "example": "Governments should invest in sustainable forms of energy such as wind and solar power.",
+    "exampleVi": "Các chính phủ nên đầu tư vào những dạng năng lượng bền vững như điện gió và điện mặt trời.",
+    "exampleForm": "sustainable",
+    "collocations": [
+      "sustainable development",
+      "sustainable growth",
+      "environmentally sustainable"
+    ],
+    "synonyms": [
+      "renewable",
+      "eco-friendly"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "unforeseen",
+    "ipa": "/ˌʌnfɔːˈsiːn/",
+    "pos": "adjective",
+    "meaningEn": "not expected or predicted",
+    "meaningVi": "không lường trước được, bất ngờ",
+    "example": "The project was delayed by several months due to unforeseen technical problems and rising costs.",
+    "exampleVi": "Dự án bị chậm vài tháng do những sự cố kỹ thuật không lường trước được và chi phí tăng cao.",
+    "exampleForm": "unforeseen",
+    "collocations": [
+      "unforeseen circumstances",
+      "unforeseen problems",
+      "unforeseen consequences"
+    ],
+    "synonyms": [
+      "unexpected",
+      "unpredicted"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "measure",
+    "ipa": "/ˈmeʒə/",
+    "pos": "verb",
+    "meaningEn": "to find the size, amount or degree of something",
+    "meaningVi": "đo lường, đo đạc, đánh giá",
+    "example": "It is difficult to measure the true impact of social media on teenagers' mental health.",
+    "exampleVi": "Thật khó để đo lường tác động thực sự của mạng xã hội đối với sức khỏe tâm thần của thanh thiếu niên.",
+    "exampleForm": "measure",
+    "collocations": [
+      "measure the impact",
+      "measure performance",
+      "accurately measure"
+    ],
+    "synonyms": [
+      "assess",
+      "gauge",
+      "quantify"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "obvious",
+    "ipa": "/ˈɒbviəs/",
+    "pos": "adjective",
+    "meaningEn": "easy to see, recognise or understand",
+    "meaningVi": "rõ ràng, hiển nhiên, rành rành",
+    "example": "It is obvious that public transport needs significant investment if traffic congestion is to be reduced.",
+    "exampleVi": "Rõ ràng là giao thông công cộng cần được đầu tư đáng kể nếu muốn giảm ùn tắc giao thông.",
+    "exampleForm": "obvious",
+    "collocations": [
+      "obvious reason",
+      "fairly obvious",
+      "it is obvious that"
+    ],
+    "synonyms": [
+      "clear",
+      "evident",
+      "apparent"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "medieval",
+    "ipa": "/ˌmediˈiːvl/",
+    "pos": "adjective",
+    "meaningEn": "relating to the Middle Ages, about AD 1000 to 1500",
+    "meaningVi": "(thuộc) thời trung cổ",
+    "example": "The old town, with its narrow streets and medieval churches, attracts thousands of tourists every summer.",
+    "exampleVi": "Khu phố cổ, với những con phố hẹp và các nhà thờ thời trung cổ, thu hút hàng nghìn du khách mỗi mùa hè.",
+    "exampleForm": "medieval",
+    "collocations": [
+      "medieval castle",
+      "medieval period",
+      "medieval architecture"
+    ],
+    "synonyms": [
+      "mediaeval",
+      "Middle Ages"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "choreography",
+    "ipa": "/ˌkɒriˈɒɡrəfi/",
+    "pos": "noun",
+    "meaningEn": "the art of designing the steps and movements of a dance",
+    "meaningVi": "vũ đạo, nghệ thuật biên đạo múa",
+    "example": "The performance was praised by critics for its stunning choreography and imaginative costume design.",
+    "exampleVi": "Màn trình diễn được giới phê bình khen ngợi nhờ phần vũ đạo ấn tượng và thiết kế trang phục giàu sáng tạo.",
+    "exampleForm": "choreography",
+    "collocations": [
+      "stunning choreography",
+      "dance choreography",
+      "complex choreography"
+    ],
+    "synonyms": [
+      "dance routine",
+      "dance composition"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "revival",
+    "ipa": "/rɪˈvaɪvl/",
+    "pos": "noun",
+    "meaningEn": "the process of becoming popular, active or successful again",
+    "meaningVi": "sự hồi sinh, sự phục hưng",
+    "example": "Recent years have seen a revival of interest in traditional crafts among young people.",
+    "exampleVi": "Những năm gần đây đã chứng kiến sự hồi sinh của niềm yêu thích các nghề thủ công truyền thống trong giới trẻ.",
+    "exampleForm": "revival",
+    "collocations": [
+      "economic revival",
+      "revival of interest",
+      "cultural revival"
+    ],
+    "synonyms": [
+      "resurgence",
+      "renaissance",
+      "comeback"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "further",
+    "ipa": "/ˈfɜːðə/",
+    "pos": "adverb",
+    "meaningEn": "to a greater degree or extent; at or to a greater distance",
+    "meaningVi": "sâu hơn, thêm nữa, xa hơn",
+    "example": "Before making a final decision, the committee needs to investigate the matter further.",
+    "exampleVi": "Trước khi đưa ra quyết định cuối cùng, ủy ban cần điều tra vấn đề này sâu hơn.",
+    "exampleForm": "further",
+    "collocations": [
+      "investigate further",
+      "go further",
+      "further increase"
+    ],
+    "synonyms": [
+      "more",
+      "additionally"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "disappearance",
+    "ipa": "/ˌdɪsəˈpɪərəns/",
+    "pos": "noun",
+    "meaningEn": "the fact of no longer existing or being seen",
+    "meaningVi": "sự biến mất, sự tiêu biến",
+    "example": "The rapid disappearance of tropical rainforests poses a serious threat to global biodiversity.",
+    "exampleVi": "Sự biến mất nhanh chóng của rừng mưa nhiệt đới gây ra mối đe dọa nghiêm trọng đối với đa dạng sinh học toàn cầu.",
+    "exampleForm": "disappearance",
+    "collocations": [
+      "rapid disappearance",
+      "gradual disappearance",
+      "mysterious disappearance"
+    ],
+    "synonyms": [
+      "loss",
+      "vanishing",
+      "extinction"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "minimise",
+    "ipa": "/ˈmɪnɪmaɪz/",
+    "pos": "verb",
+    "meaningEn": "to reduce something, especially something bad, to the lowest possible level",
+    "meaningVi": "giảm thiểu",
+    "example": "Companies should take practical steps to minimise the amount of waste they produce.",
+    "exampleVi": "Các công ty nên thực hiện những bước thiết thực để giảm thiểu lượng rác thải mà họ tạo ra.",
+    "exampleForm": "minimise",
+    "collocations": [
+      "minimise the risk",
+      "minimise costs",
+      "minimise the impact"
+    ],
+    "synonyms": [
+      "reduce",
+      "lessen",
+      "cut"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "concentrate",
+    "ipa": "/ˈkɒnsntreɪt/",
+    "pos": "verb",
+    "meaningEn": "to give all your attention to something",
+    "meaningVi": "tập trung",
+    "example": "Many students find it hard to concentrate on their studies when their phones are nearby.",
+    "exampleVi": "Nhiều học sinh thấy khó tập trung vào việc học khi điện thoại ở ngay bên cạnh.",
+    "exampleForm": "concentrate",
+    "collocations": [
+      "concentrate on",
+      "concentrate hard",
+      "unable to concentrate"
+    ],
+    "synonyms": [
+      "focus",
+      "pay attention"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "antique",
+    "ipa": "/ænˈtiːk/",
+    "pos": "noun",
+    "meaningEn": "an old, valuable object such as furniture or jewellery",
+    "meaningVi": "đồ cổ",
+    "example": "My grandfather collects antiques, and his most valuable piece is an eighteenth-century clock.",
+    "exampleVi": "Ông tôi sưu tầm đồ cổ, và món giá trị nhất của ông là một chiếc đồng hồ từ thế kỷ mười tám.",
+    "exampleForm": "antiques",
+    "collocations": [
+      "antique dealer",
+      "collect antiques",
+      "valuable antique"
+    ],
+    "synonyms": [
+      "collectible",
+      "relic"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "apprenticeship",
+    "ipa": "/əˈprentɪʃɪp/",
+    "pos": "noun",
+    "meaningEn": "a period of time spent learning a skilled job from an employer",
+    "meaningVi": "thời gian học việc, sự học nghề",
+    "example": "After leaving school, he completed a four-year apprenticeship as an electrician rather than going to university.",
+    "exampleVi": "Sau khi rời ghế nhà trường, anh ấy đã hoàn thành bốn năm học nghề thợ điện thay vì vào đại học.",
+    "exampleForm": "apprenticeship",
+    "collocations": [
+      "serve an apprenticeship",
+      "complete an apprenticeship",
+      "apprenticeship scheme"
+    ],
+    "synonyms": [
+      "traineeship",
+      "training"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "piece of advice",
+    "ipa": "/ˌpiːs əv ədˈvaɪs/",
+    "pos": "phrase",
+    "meaningEn": "a single suggestion about what someone should do",
+    "meaningVi": "lời khuyên",
+    "example": "The best piece of advice I have ever received was to never stop learning.",
+    "exampleVi": "Lời khuyên tốt nhất tôi từng nhận được là đừng bao giờ ngừng học hỏi.",
+    "exampleForm": "piece of advice",
+    "collocations": [
+      "a useful piece of advice",
+      "the best piece of advice",
+      "give a piece of advice"
+    ],
+    "synonyms": [
+      "tip",
+      "suggestion",
+      "recommendation"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "coastal",
+    "ipa": "/ˈkəʊstl/",
+    "pos": "adjective",
+    "meaningEn": "on or near the coast",
+    "meaningVi": "(thuộc) duyên hải, ven biển",
+    "example": "Rising sea levels are threatening many coastal communities with more frequent and severe flooding.",
+    "exampleVi": "Mực nước biển dâng đang đe dọa nhiều cộng đồng ven biển với những trận lũ lụt thường xuyên và nghiêm trọng hơn.",
+    "exampleForm": "coastal",
+    "collocations": [
+      "coastal areas",
+      "coastal erosion",
+      "coastal communities"
+    ],
+    "synonyms": [
+      "seaside",
+      "littoral"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "mistake",
+    "ipa": "/mɪˈsteɪk/",
+    "pos": "noun",
+    "meaningEn": "an action, decision or judgement that is wrong",
+    "meaningVi": "lỗi, sai lầm, (động từ) phạm lỗi, nhầm lẫn",
+    "example": "Making mistakes is a natural part of learning, so students should not be afraid of them.",
+    "exampleVi": "Mắc lỗi là một phần tự nhiên của việc học, vì vậy học sinh không nên sợ sai.",
+    "exampleForm": "mistakes",
+    "collocations": [
+      "make a mistake",
+      "learn from mistakes",
+      "costly mistake"
+    ],
+    "synonyms": [
+      "error",
+      "fault",
+      "blunder"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "drainage",
+    "ipa": "/ˈdreɪnɪdʒ/",
+    "pos": "noun",
+    "meaningEn": "the system or process by which water is carried away",
+    "meaningVi": "sự thoát nước, hệ thống thoát nước",
+    "example": "Poor drainage in many urban areas leads to severe flooding during the rainy season.",
+    "exampleVi": "Hệ thống thoát nước kém ở nhiều khu đô thị dẫn đến ngập lụt nghiêm trọng vào mùa mưa.",
+    "exampleForm": "drainage",
+    "collocations": [
+      "drainage system",
+      "poor drainage",
+      "improve drainage"
+    ],
+    "synonyms": [
+      "sewerage",
+      "draining"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "dispose of",
+    "ipa": "/dɪˈspəʊz əv/",
+    "pos": "phrasal verb",
+    "meaningEn": "to get rid of something, especially something difficult to deal with",
+    "meaningVi": "vứt bỏ, thải bỏ, xử lý",
+    "example": "Households should be encouraged to dispose of electronic waste responsibly rather than throwing it away.",
+    "exampleVi": "Các hộ gia đình nên được khuyến khích xử lý rác thải điện tử một cách có trách nhiệm thay vì vứt bừa đi.",
+    "exampleForm": "dispose of",
+    "collocations": [
+      "dispose of waste",
+      "safely dispose of",
+      "dispose of rubbish"
+    ],
+    "synonyms": [
+      "get rid of",
+      "discard",
+      "throw away"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "coordination",
+    "ipa": "/kəʊˌɔːdɪˈneɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the organisation of different people or things so they work together well",
+    "meaningVi": "sự phối hợp, sự điều phối",
+    "example": "Effective disaster relief requires close coordination between government agencies and local charities.",
+    "exampleVi": "Công tác cứu trợ thiên tai hiệu quả đòi hỏi sự phối hợp chặt chẽ giữa các cơ quan chính phủ và các tổ chức từ thiện địa phương.",
+    "exampleForm": "coordination",
+    "collocations": [
+      "close coordination",
+      "coordination between",
+      "lack of coordination"
+    ],
+    "synonyms": [
+      "cooperation",
+      "collaboration",
+      "organisation"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "agreement",
+    "ipa": "/əˈɡriːmənt/",
+    "pos": "noun",
+    "meaningEn": "an arrangement or decision accepted by two or more parties; the state of agreeing",
+    "meaningVi": "sự thoả thuận, sự đồng ý",
+    "example": "After months of negotiations, the two countries finally reached an agreement on trade tariffs.",
+    "exampleVi": "Sau nhiều tháng đàm phán, hai nước cuối cùng đã đạt được thỏa thuận về thuế quan thương mại.",
+    "exampleForm": "agreement",
+    "collocations": [
+      "reach an agreement",
+      "sign an agreement",
+      "in agreement with"
+    ],
+    "synonyms": [
+      "deal",
+      "accord",
+      "consensus"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "handout",
+    "ipa": "/ˈhændaʊt/",
+    "pos": "noun",
+    "meaningEn": "a document given to students or audiences with information about a topic",
+    "meaningVi": "tài liệu phát tay, tờ rơi",
+    "example": "The lecturer gave each student a handout summarising the key points of the presentation.",
+    "exampleVi": "Giảng viên phát cho mỗi sinh viên một tài liệu tóm tắt các ý chính của bài thuyết trình.",
+    "exampleForm": "handout",
+    "collocations": [
+      "distribute a handout",
+      "printed handout",
+      "lecture handout"
+    ],
+    "synonyms": [
+      "leaflet",
+      "worksheet",
+      "flyer"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "implication",
+    "ipa": "/ˌɪmplɪˈkeɪʃn/",
+    "pos": "noun",
+    "meaningEn": "a possible effect or result of an action or decision; something suggested indirectly",
+    "meaningVi": "hệ quả (có thể xảy ra), hàm ý, ẩn ý",
+    "example": "Scientists are still studying the long-term implications of climate change for food production.",
+    "exampleVi": "Các nhà khoa học vẫn đang nghiên cứu những hệ quả lâu dài của biến đổi khí hậu đối với sản xuất lương thực.",
+    "exampleForm": "implications",
+    "collocations": [
+      "serious implications",
+      "long-term implications",
+      "implications for"
+    ],
+    "synonyms": [
+      "consequence",
+      "ramification",
+      "suggestion"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "tidal",
+    "ipa": "/ˈtaɪdl/",
+    "pos": "adjective",
+    "meaningEn": "relating to or affected by the rise and fall of the sea",
+    "meaningVi": "(thuộc) thuỷ triều",
+    "example": "Tidal energy is a reliable renewable source because the movement of the oceans is highly predictable.",
+    "exampleVi": "Năng lượng thủy triều là một nguồn tái tạo đáng tin cậy vì sự chuyển động của đại dương rất dễ dự đoán.",
+    "exampleForm": "Tidal",
+    "collocations": [
+      "tidal energy",
+      "tidal wave",
+      "tidal range"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "fence",
+    "ipa": "/fens/",
+    "pos": "noun",
+    "meaningEn": "a structure of wood, metal or wire that divides or encloses an area",
+    "meaningVi": "hàng rào",
+    "example": "The farmer built a tall wooden fence around the field to keep wild animals out.",
+    "exampleVi": "Người nông dân dựng một hàng rào gỗ cao quanh cánh đồng để ngăn thú hoang vào.",
+    "exampleForm": "fence",
+    "collocations": [
+      "wooden fence",
+      "electric fence",
+      "build a fence"
+    ],
+    "synonyms": [
+      "barrier",
+      "railing"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "crop",
+    "ipa": "/krɒp/",
+    "pos": "noun",
+    "meaningEn": "a plant grown in large amounts, or the amount harvested in a season",
+    "meaningVi": "cây trồng, vụ mùa",
+    "example": "Prolonged droughts have destroyed crops in many regions, forcing food prices to rise sharply.",
+    "exampleVi": "Những đợt hạn hán kéo dài đã tàn phá cây trồng ở nhiều vùng, khiến giá lương thực tăng mạnh.",
+    "exampleForm": "crops",
+    "collocations": [
+      "grow crops",
+      "crop yield",
+      "crop failure"
+    ],
+    "synonyms": [
+      "harvest",
+      "produce"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "association",
+    "ipa": "/əˌsəʊsiˈeɪʃn/",
+    "pos": "noun",
+    "meaningEn": "an organisation of people with a shared interest; a connection between things",
+    "meaningVi": "hiệp hội, hội đoàn, sự liên kết",
+    "example": "The local residents' association has campaigned for years to create more green spaces in the neighbourhood.",
+    "exampleVi": "Hội cư dân địa phương đã vận động nhiều năm để tạo thêm không gian xanh trong khu phố.",
+    "exampleForm": "association",
+    "collocations": [
+      "residents' association",
+      "in association with",
+      "strong association"
+    ],
+    "synonyms": [
+      "organisation",
+      "society",
+      "connection"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "repercussion",
+    "ipa": "/ˌriːpəˈkʌʃn/",
+    "pos": "noun",
+    "meaningEn": "an unintended, usually bad, effect of an action or event",
+    "meaningVi": "hậu quả, tác động xấu",
+    "example": "Cutting funding for public education could have serious repercussions for the economy in the long term.",
+    "exampleVi": "Việc cắt giảm ngân sách cho giáo dục công có thể gây ra những hậu quả nghiêm trọng cho nền kinh tế về lâu dài.",
+    "exampleForm": "repercussions",
+    "collocations": [
+      "serious repercussions",
+      "have repercussions for",
+      "far-reaching repercussions"
+    ],
+    "synonyms": [
+      "consequence",
+      "aftermath"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "turn-taking",
+    "ipa": "/ˈtɜːn teɪkɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the practice of people speaking or acting one after another in turn",
+    "meaningVi": "sự luân phiên, thay phiên nhau (lượt nói/lượt chơi)",
+    "example": "Board games help young children learn turn-taking and patience, which are essential social skills.",
+    "exampleVi": "Trò chơi cờ bàn giúp trẻ nhỏ học cách thay phiên nhau và tính kiên nhẫn, những kỹ năng xã hội thiết yếu.",
+    "exampleForm": "turn-taking",
+    "collocations": [
+      "turn-taking skills",
+      "conversational turn-taking"
+    ],
+    "synonyms": [
+      "alternation"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "victim",
+    "ipa": "/ˈvɪktɪm/",
+    "pos": "noun",
+    "meaningEn": "a person harmed or killed by a crime, accident, illness or disaster",
+    "meaningVi": "nạn nhân, người bị hại",
+    "example": "Many victims of online fraud are reluctant to report the crime because they feel embarrassed.",
+    "exampleVi": "Nhiều nạn nhân của lừa đảo trực tuyến ngần ngại trình báo vì họ cảm thấy xấu hổ.",
+    "exampleForm": "victims",
+    "collocations": [
+      "victim of crime",
+      "fall victim to",
+      "innocent victim"
+    ],
+    "synonyms": [
+      "casualty",
+      "sufferer"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "misuse",
+    "ipa": "/ˌmɪsˈjuːz/",
+    "pos": "verb",
+    "meaningEn": "to use something wrongly or for a bad or dishonest purpose",
+    "meaningVi": "lạm dụng, sử dụng sai mục đích",
+    "example": "Personal data can easily be misused by companies if strict privacy regulations are not enforced.",
+    "exampleVi": "Dữ liệu cá nhân có thể dễ dàng bị các công ty lạm dụng nếu các quy định nghiêm ngặt về quyền riêng tư không được thực thi.",
+    "exampleForm": "misused",
+    "collocations": [
+      "misuse power",
+      "misuse public funds",
+      "misuse drugs"
+    ],
+    "synonyms": [
+      "abuse",
+      "misapply"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "carry out",
+    "ipa": "/ˌkæri ˈaʊt/",
+    "pos": "phrasal verb",
+    "meaningEn": "to do or complete a task, plan, test or piece of research",
+    "meaningVi": "tiến hành, thực hiện",
+    "example": "Researchers carried out a large-scale survey to examine how social media affects teenagers' sleep.",
+    "exampleVi": "Các nhà nghiên cứu đã tiến hành một cuộc khảo sát quy mô lớn để xem xét mạng xã hội ảnh hưởng thế nào đến giấc ngủ của thanh thiếu niên.",
+    "exampleForm": "carried out",
+    "collocations": [
+      "carry out research",
+      "carry out a survey",
+      "carry out an experiment"
+    ],
+    "synonyms": [
+      "conduct",
+      "perform",
+      "execute"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "tendency",
+    "ipa": "/ˈtendənsi/",
+    "pos": "noun",
+    "meaningEn": "a likelihood to behave or develop in a particular way",
+    "meaningVi": "xu hướng, khuynh hướng",
+    "example": "There is a growing tendency for young professionals to delay marriage until their thirties.",
+    "exampleVi": "Ngày càng có xu hướng người trẻ đi làm trì hoãn việc kết hôn cho đến tuổi ba mươi.",
+    "exampleForm": "tendency",
+    "collocations": [
+      "a growing tendency",
+      "have a tendency to",
+      "natural tendency"
+    ],
+    "synonyms": [
+      "trend",
+      "inclination",
+      "propensity"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "particularly",
+    "ipa": "/pəˈtɪkjələli/",
+    "pos": "adverb",
+    "meaningEn": "especially; more than usual or more than others",
+    "meaningVi": "đặc biệt, nhất là",
+    "example": "Air pollution is a serious problem in big cities, particularly for elderly people and young children.",
+    "exampleVi": "Ô nhiễm không khí là một vấn đề nghiêm trọng ở các thành phố lớn, đặc biệt là đối với người cao tuổi và trẻ nhỏ.",
+    "exampleForm": "particularly",
+    "collocations": [
+      "particularly important",
+      "particularly true of",
+      "particularly in"
+    ],
+    "synonyms": [
+      "especially",
+      "notably",
+      "specifically"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "invent",
+    "ipa": "/ɪnˈvent/",
+    "pos": "verb",
+    "meaningEn": "to design or create something that has never existed before",
+    "meaningVi": "phát minh, sáng chế",
+    "example": "Since the printing press was invented, access to knowledge has spread far beyond the elite.",
+    "exampleVi": "Kể từ khi máy in được phát minh, việc tiếp cận tri thức đã lan rộng vượt xa tầng lớp tinh hoa.",
+    "exampleForm": "invented",
+    "collocations": [
+      "invent a machine",
+      "newly invented",
+      "invent a new way of"
+    ],
+    "synonyms": [
+      "devise",
+      "create",
+      "originate"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "interpret",
+    "ipa": "/ɪnˈtɜːprɪt/",
+    "pos": "verb",
+    "meaningEn": "to explain or understand the meaning of something in a particular way",
+    "meaningVi": "giải thích, hiểu (theo cách nào đó), thông dịch",
+    "example": "The same statistics can be interpreted in very different ways depending on the researcher's agenda.",
+    "exampleVi": "Cùng một số liệu thống kê có thể được hiểu theo những cách rất khác nhau tùy vào mục đích của nhà nghiên cứu.",
+    "exampleForm": "interpreted",
+    "collocations": [
+      "interpret data",
+      "interpret something as",
+      "be widely interpreted"
+    ],
+    "synonyms": [
+      "explain",
+      "construe",
+      "translate"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "comet",
+    "ipa": "/ˈkɒmɪt/",
+    "pos": "noun",
+    "meaningEn": "an icy object in space that has a bright tail when near the sun",
+    "meaningVi": "sao chổi",
+    "example": "In ancient times, the appearance of a comet was often seen as a sign of disaster.",
+    "exampleVi": "Vào thời cổ đại, sự xuất hiện của sao chổi thường được xem là điềm báo tai họa.",
+    "exampleForm": "comet",
+    "collocations": [
+      "comet's tail",
+      "Halley's Comet",
+      "a comet passes"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "proverb",
+    "ipa": "/ˈprɒvɜːb/",
+    "pos": "noun",
+    "meaningEn": "a short well-known saying that expresses a general truth or advice",
+    "meaningVi": "tục ngữ, ngạn ngữ",
+    "example": "As the old proverb goes, prevention is better than cure, especially when it comes to health.",
+    "exampleVi": "Như câu tục ngữ xưa nói, phòng bệnh hơn chữa bệnh, đặc biệt là khi nói đến sức khỏe.",
+    "exampleForm": "proverb",
+    "collocations": [
+      "an old proverb",
+      "as the proverb goes",
+      "a Chinese proverb"
+    ],
+    "synonyms": [
+      "saying",
+      "adage",
+      "maxim"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "instrument",
+    "ipa": "/ˈɪnstrəmənt/",
+    "pos": "noun",
+    "meaningEn": "an object used to make music; a tool for precise work",
+    "meaningVi": "nhạc cụ, dụng cụ",
+    "example": "Learning to play a musical instrument can improve children's concentration and memory.",
+    "exampleVi": "Học chơi một loại nhạc cụ có thể cải thiện khả năng tập trung và trí nhớ của trẻ em.",
+    "exampleForm": "instrument",
+    "collocations": [
+      "play an instrument",
+      "musical instrument",
+      "surgical instrument"
+    ],
+    "synonyms": [
+      "tool",
+      "device",
+      "implement"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "pursue",
+    "ipa": "/pəˈsjuː/",
+    "pos": "verb",
+    "meaningEn": "to try to achieve something over a period of time; to follow",
+    "meaningVi": "theo đuổi, thực hiện",
+    "example": "Many graduates choose to pursue a career in technology because of the high salaries on offer.",
+    "exampleVi": "Nhiều sinh viên tốt nghiệp chọn theo đuổi sự nghiệp trong ngành công nghệ vì mức lương cao.",
+    "exampleForm": "pursue",
+    "collocations": [
+      "pursue a career",
+      "pursue a goal",
+      "pursue higher education"
+    ],
+    "synonyms": [
+      "follow",
+      "seek",
+      "strive for"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "portraiture",
+    "ipa": "/ˈpɔːtrətʃə/",
+    "pos": "noun",
+    "meaningEn": "the art of making portraits by painting, drawing or photography",
+    "meaningVi": "nghệ thuật vẽ/chụp chân dung",
+    "example": "Before photography was invented, portraiture was largely a privilege reserved for wealthy families.",
+    "exampleVi": "Trước khi nhiếp ảnh ra đời, nghệ thuật vẽ chân dung phần lớn là đặc quyền dành cho các gia đình giàu có.",
+    "exampleForm": "portraiture",
+    "collocations": [
+      "Renaissance portraiture",
+      "photographic portraiture",
+      "the art of portraiture"
+    ],
+    "synonyms": [],
+    "level": "C2"
+  },
+  {
+    "word": "appropriate",
+    "ipa": "/əˈprəʊpriət/",
+    "pos": "adjective",
+    "meaningEn": "suitable or right for a particular situation or purpose",
+    "meaningVi": "thích hợp, phù hợp, đúng mực",
+    "example": "Parents should ensure that the content their children watch online is appropriate for their age.",
+    "exampleVi": "Cha mẹ nên đảm bảo rằng nội dung con cái xem trên mạng là phù hợp với độ tuổi của chúng.",
+    "exampleForm": "appropriate",
+    "collocations": [
+      "appropriate for",
+      "take appropriate action",
+      "it is appropriate to"
+    ],
+    "synonyms": [
+      "suitable",
+      "proper",
+      "fitting"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "blame",
+    "ipa": "/bleɪm/",
+    "pos": "verb",
+    "meaningEn": "to say or think that someone is responsible for something bad",
+    "meaningVi": "đổ lỗi, khiển trách",
+    "example": "It is unfair to blame young people alone for the decline in traditional values.",
+    "exampleVi": "Thật không công bằng khi chỉ đổ lỗi cho giới trẻ về sự suy giảm các giá trị truyền thống.",
+    "exampleForm": "blame",
+    "collocations": [
+      "blame somebody for",
+      "be to blame",
+      "blame something on"
+    ],
+    "synonyms": [
+      "accuse",
+      "hold responsible",
+      "criticise"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "prestige",
+    "ipa": "/preˈstiːʒ/",
+    "pos": "noun",
+    "meaningEn": "respect and admiration that comes from success, quality or status",
+    "meaningVi": "uy tín, thanh thế",
+    "example": "Some students choose universities based on prestige rather than the quality of the course itself.",
+    "exampleVi": "Một số sinh viên chọn trường đại học dựa trên uy tín thay vì chất lượng của chính khóa học.",
+    "exampleForm": "prestige",
+    "collocations": [
+      "social prestige",
+      "gain prestige",
+      "a symbol of prestige"
+    ],
+    "synonyms": [
+      "status",
+      "reputation",
+      "kudos"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "circulation",
+    "ipa": "/ˌsɜːkjəˈleɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the movement of blood around the body; movement of something around",
+    "meaningVi": "sự tuần hoàn (máu), sự lưu thông",
+    "example": "Regular exercise improves blood circulation and significantly reduces the risk of heart disease.",
+    "exampleVi": "Tập thể dục thường xuyên cải thiện tuần hoàn máu và giảm đáng kể nguy cơ mắc bệnh tim.",
+    "exampleForm": "circulation",
+    "collocations": [
+      "blood circulation",
+      "poor circulation",
+      "in circulation"
+    ],
+    "synonyms": [
+      "flow",
+      "movement"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "rhythm",
+    "ipa": "/ˈrɪðəm/",
+    "pos": "noun",
+    "meaningEn": "a regular repeated pattern of sounds, beats or movements",
+    "meaningVi": "nhịp điệu",
+    "example": "Traditional folk music often has a simple rhythm that makes it easy for audiences to dance.",
+    "exampleVi": "Nhạc dân gian truyền thống thường có nhịp điệu đơn giản khiến khán giả dễ dàng nhảy theo.",
+    "exampleForm": "rhythm",
+    "collocations": [
+      "a steady rhythm",
+      "sense of rhythm",
+      "rhythm of life"
+    ],
+    "synonyms": [
+      "beat",
+      "tempo",
+      "pulse"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "rehearsal",
+    "ipa": "/rɪˈhɜːsl/",
+    "pos": "noun",
+    "meaningEn": "a practice of a performance before it is given to an audience",
+    "meaningVi": "buổi diễn tập, buổi tập dượt",
+    "example": "The school choir spent weeks in rehearsal before performing at the national music festival.",
+    "exampleVi": "Dàn hợp xướng của trường đã dành nhiều tuần tập dượt trước khi biểu diễn tại liên hoan âm nhạc quốc gia.",
+    "exampleForm": "rehearsal",
+    "collocations": [
+      "dress rehearsal",
+      "in rehearsal",
+      "final rehearsal"
+    ],
+    "synonyms": [
+      "practice",
+      "run-through"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "parade",
+    "ipa": "/pəˈreɪd/",
+    "pos": "noun",
+    "meaningEn": "a public procession celebrating a special day or event",
+    "meaningVi": "cuộc diễu hành, tuần hành",
+    "example": "Thousands of people lined the streets to watch the colourful parade on National Day.",
+    "exampleVi": "Hàng nghìn người xếp hàng dọc các con phố để xem cuộc diễu hành đầy màu sắc vào ngày Quốc khánh.",
+    "exampleForm": "parade",
+    "collocations": [
+      "military parade",
+      "street parade",
+      "hold a parade"
+    ],
+    "synonyms": [
+      "procession",
+      "march"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "clarity",
+    "ipa": "/ˈklærəti/",
+    "pos": "noun",
+    "meaningEn": "the quality of being clear and easy to understand",
+    "meaningVi": "sự rõ ràng, tính sáng sủa",
+    "example": "Examiners reward essays that present arguments with clarity and support them with relevant examples.",
+    "exampleVi": "Giám khảo đánh giá cao những bài luận trình bày lập luận rõ ràng và có các ví dụ phù hợp để minh họa.",
+    "exampleForm": "clarity",
+    "collocations": [
+      "with clarity",
+      "lack of clarity",
+      "clarity of thought"
+    ],
+    "synonyms": [
+      "clearness",
+      "lucidity",
+      "precision"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "implicit",
+    "ipa": "/ɪmˈplɪsɪt/",
+    "pos": "adjective",
+    "meaningEn": "suggested or understood without being directly expressed",
+    "meaningVi": "ngầm hiểu, ẩn ý",
+    "example": "Many advertisements contain an implicit message that happiness depends on owning the latest products.",
+    "exampleVi": "Nhiều quảng cáo chứa một thông điệp ngầm rằng hạnh phúc phụ thuộc vào việc sở hữu những sản phẩm mới nhất.",
+    "exampleForm": "implicit",
+    "collocations": [
+      "implicit message",
+      "implicit assumption",
+      "implicit in"
+    ],
+    "synonyms": [
+      "implied",
+      "unspoken",
+      "tacit"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "desirable",
+    "ipa": "/dɪˈzaɪərəbl/",
+    "pos": "adjective",
+    "meaningEn": "worth having or wanting; attractive or useful",
+    "meaningVi": "đáng ao ước, đáng khao khát",
+    "example": "Living close to good schools makes a neighbourhood highly desirable for young families.",
+    "exampleVi": "Việc sống gần các trường học tốt khiến một khu dân cư trở nên rất đáng mơ ước đối với các gia đình trẻ.",
+    "exampleForm": "desirable",
+    "collocations": [
+      "highly desirable",
+      "desirable outcome",
+      "it is desirable that"
+    ],
+    "synonyms": [
+      "attractive",
+      "sought-after",
+      "advisable"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "possibility",
+    "ipa": "/ˌpɒsəˈbɪləti/",
+    "pos": "noun",
+    "meaningEn": "a chance that something may happen or be true; an option",
+    "meaningVi": "khả năng, triển vọng, tiềm năng",
+    "example": "Scientists cannot rule out the possibility that artificial intelligence will replace many skilled jobs.",
+    "exampleVi": "Các nhà khoa học không thể loại trừ khả năng trí tuệ nhân tạo sẽ thay thế nhiều công việc đòi hỏi tay nghề.",
+    "exampleForm": "possibility",
+    "collocations": [
+      "rule out the possibility",
+      "a real possibility",
+      "explore the possibility of"
+    ],
+    "synonyms": [
+      "chance",
+      "likelihood",
+      "prospect"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "preferential",
+    "ipa": "/ˌprefəˈrenʃl/",
+    "pos": "adjective",
+    "meaningEn": "giving an advantage to a particular person or group",
+    "meaningVi": "ưu đãi, ưu tiên, thiên vị",
+    "example": "Critics argue that giving preferential treatment to local firms discourages foreign investment.",
+    "exampleVi": "Những người phản đối cho rằng việc dành sự ưu đãi cho các công ty trong nước làm nản lòng đầu tư nước ngoài.",
+    "exampleForm": "preferential",
+    "collocations": [
+      "preferential treatment",
+      "preferential rates",
+      "preferential access"
+    ],
+    "synonyms": [
+      "favourable",
+      "privileged",
+      "special"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "treatment",
+    "ipa": "/ˈtriːtmənt/",
+    "pos": "noun",
+    "meaningEn": "the way someone behaves towards a person; medical care for illness",
+    "meaningVi": "sự đối xử, cách đối đãi, sự điều trị",
+    "example": "Every citizen deserves equal treatment under the law, regardless of their wealth or background.",
+    "exampleVi": "Mọi công dân đều xứng đáng được đối xử bình đẳng trước pháp luật, bất kể sự giàu có hay xuất thân của họ.",
+    "exampleForm": "treatment",
+    "collocations": [
+      "equal treatment",
+      "receive treatment",
+      "medical treatment"
+    ],
+    "synonyms": [
+      "handling",
+      "care",
+      "therapy"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "toward",
+    "ipa": "/təˈwɔːd/",
+    "pos": "preposition",
+    "meaningEn": "in the direction of; in relation to someone or something",
+    "meaningVi": "về phía, hướng về, đối với",
+    "example": "Public attitudes toward remote work have changed dramatically since the pandemic began.",
+    "exampleVi": "Thái độ của công chúng đối với làm việc từ xa đã thay đổi đáng kể kể từ khi đại dịch bắt đầu.",
+    "exampleForm": "toward",
+    "collocations": [
+      "attitude toward",
+      "move toward",
+      "a step toward"
+    ],
+    "synonyms": [
+      "towards",
+      "regarding"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "conceptualize",
+    "ipa": "/kənˈseptʃuəlaɪz/",
+    "pos": "verb",
+    "meaningEn": "to form an idea or concept of something in your mind",
+    "meaningVi": "khái niệm hoá, hình dung thành khái niệm",
+    "example": "Young children often find it difficult to conceptualize abstract ideas such as time and money.",
+    "exampleVi": "Trẻ nhỏ thường gặp khó khăn trong việc hình dung những khái niệm trừu tượng như thời gian và tiền bạc.",
+    "exampleForm": "conceptualize",
+    "collocations": [
+      "conceptualize a problem",
+      "difficult to conceptualize",
+      "conceptualize something as"
+    ],
+    "synonyms": [
+      "conceive",
+      "envisage",
+      "formulate"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "expertise",
+    "ipa": "/ˌekspɜːˈtiːz/",
+    "pos": "noun",
+    "meaningEn": "a high level of knowledge or skill in a particular area",
+    "meaningVi": "chuyên môn, sự thành thạo, tinh thông",
+    "example": "Developing countries often lack the technical expertise needed to build modern infrastructure.",
+    "exampleVi": "Các nước đang phát triển thường thiếu chuyên môn kỹ thuật cần thiết để xây dựng cơ sở hạ tầng hiện đại.",
+    "exampleForm": "expertise",
+    "collocations": [
+      "technical expertise",
+      "lack the expertise",
+      "expertise in"
+    ],
+    "synonyms": [
+      "know-how",
+      "proficiency",
+      "skill"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "preserve",
+    "ipa": "/prɪˈzɜːv/",
+    "pos": "verb",
+    "meaningEn": "to keep something in its original state or protect it from harm",
+    "meaningVi": "bảo tồn, gìn giữ",
+    "example": "Governments should invest more in efforts to preserve historic buildings for future generations.",
+    "exampleVi": "Chính phủ nên đầu tư nhiều hơn vào các nỗ lực bảo tồn những công trình lịch sử cho các thế hệ tương lai.",
+    "exampleForm": "preserve",
+    "collocations": [
+      "preserve the environment",
+      "preserve cultural heritage",
+      "well preserved"
+    ],
+    "synonyms": [
+      "conserve",
+      "protect",
+      "maintain"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "derive",
+    "ipa": "/dɪˈraɪv/",
+    "pos": "verb",
+    "meaningEn": "to come from or develop from something; to obtain from a source",
+    "meaningVi": "bắt nguồn từ, xuất phát từ (derive from)",
+    "example": "Many English words are derived from Latin and Greek, which explains their complex spelling.",
+    "exampleVi": "Nhiều từ tiếng Anh bắt nguồn từ tiếng Latinh và Hy Lạp, điều này giải thích cách đánh vần phức tạp của chúng.",
+    "exampleForm": "derived",
+    "collocations": [
+      "be derived from",
+      "derive pleasure from",
+      "derive benefit from"
+    ],
+    "synonyms": [
+      "originate",
+      "stem",
+      "obtain"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "favour",
+    "ipa": "/ˈfeɪvə/",
+    "pos": "noun",
+    "meaningEn": "a kind act done to help someone; approval or support",
+    "meaningVi": "sự giúp đỡ, ân huệ, sự ưu ái",
+    "example": "In many cultures, people feel obliged to return a favour as soon as they possibly can.",
+    "exampleVi": "Ở nhiều nền văn hóa, người ta cảm thấy có nghĩa vụ đáp lại ân huệ càng sớm càng tốt.",
+    "exampleForm": "favour",
+    "collocations": [
+      "do somebody a favour",
+      "return a favour",
+      "in favour of"
+    ],
+    "synonyms": [
+      "kindness",
+      "good turn",
+      "approval"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "fall out of favour",
+    "ipa": "/ˌfɔːl aʊt əv ˈfeɪvə/",
+    "pos": "phrase",
+    "meaningEn": "to stop being popular or approved of",
+    "meaningVi": "không còn được ưa chuộng, thất sủng",
+    "example": "Handwritten letters have largely fallen out of favour since email and instant messaging became widespread.",
+    "exampleVi": "Thư viết tay phần lớn đã không còn được ưa chuộng kể từ khi email và tin nhắn tức thời trở nên phổ biến.",
+    "exampleForm": "fallen out of favour",
+    "collocations": [
+      "fall out of favour with",
+      "quickly fall out of favour"
+    ],
+    "synonyms": [
+      "become unpopular",
+      "go out of fashion"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "renewed",
+    "ipa": "/rɪˈnjuːd/",
+    "pos": "adjective",
+    "meaningEn": "happening again with new energy or strength after a pause",
+    "meaningVi": "(được) khơi lại, trở lại, mới mẻ",
+    "example": "Recent climate disasters have sparked renewed interest in renewable energy among policymakers.",
+    "exampleVi": "Những thảm họa khí hậu gần đây đã khơi lại sự quan tâm của các nhà hoạch định chính sách đối với năng lượng tái tạo.",
+    "exampleForm": "renewed",
+    "collocations": [
+      "renewed interest",
+      "renewed efforts",
+      "renewed calls for"
+    ],
+    "synonyms": [
+      "revived",
+      "fresh",
+      "restored"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "substance",
+    "ipa": "/ˈsʌbstəns/",
+    "pos": "noun",
+    "meaningEn": "a particular type of solid, liquid or gas material",
+    "meaningVi": "chất, vật chất",
+    "example": "Many cleaning products contain harmful substances that can pollute rivers and damage wildlife.",
+    "exampleVi": "Nhiều sản phẩm tẩy rửa chứa các chất độc hại có thể gây ô nhiễm sông ngòi và làm hại động vật hoang dã.",
+    "exampleForm": "substances",
+    "collocations": [
+      "harmful substances",
+      "toxic substance",
+      "chemical substance"
+    ],
+    "synonyms": [
+      "material",
+      "matter",
+      "compound"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "medicinal",
+    "ipa": "/məˈdɪsɪnl/",
+    "pos": "adjective",
+    "meaningEn": "used for treating illness or having healing properties",
+    "meaningVi": "(thuộc) dược liệu, dùng làm thuốc, có tác dụng chữa bệnh",
+    "example": "Rainforests contain countless plants with medicinal properties that have yet to be studied.",
+    "exampleVi": "Rừng mưa nhiệt đới có vô số loài thực vật có dược tính vẫn chưa được nghiên cứu.",
+    "exampleForm": "medicinal",
+    "collocations": [
+      "medicinal properties",
+      "medicinal plants",
+      "for medicinal purposes"
+    ],
+    "synonyms": [
+      "therapeutic",
+      "healing",
+      "curative"
+    ],
+    "level": "C1"
+  }
+]

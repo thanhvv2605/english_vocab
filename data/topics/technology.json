@@ -1,0 +1,760 @@
+[
+  {
+    "word": "artificial intelligence",
+    "ipa": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/",
+    "pos": "noun",
+    "meaningEn": "the ability of computers to perform tasks that normally need human intelligence",
+    "meaningVi": "trí tuệ nhân tạo",
+    "example": "Artificial intelligence is already being used to detect diseases earlier than human doctors can.",
+    "exampleVi": "Trí tuệ nhân tạo đã được sử dụng để phát hiện bệnh sớm hơn so với khả năng của các bác sĩ.",
+    "exampleForm": "Artificial intelligence",
+    "collocations": [
+      "advances in artificial intelligence",
+      "artificial intelligence systems",
+      "develop artificial intelligence"
+    ],
+    "synonyms": [
+      "AI",
+      "machine intelligence"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "automation",
+    "ipa": "/ˌɔːtəˈmeɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the use of machines and computers to do work previously done by people",
+    "meaningVi": "sự tự động hoá",
+    "example": "The rise of automation has led to fears that millions of factory jobs will disappear.",
+    "exampleVi": "Sự gia tăng của tự động hoá đã dấy lên nỗi lo rằng hàng triệu việc làm trong nhà máy sẽ biến mất.",
+    "exampleForm": "automation",
+    "collocations": [
+      "increased automation",
+      "factory automation",
+      "the rise of automation"
+    ],
+    "synonyms": [
+      "mechanisation",
+      "computerisation"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "algorithm",
+    "ipa": "/ˈælɡərɪðəm/",
+    "pos": "noun",
+    "meaningEn": "a set of rules a computer follows to solve a problem or make decisions",
+    "meaningVi": "thuật toán",
+    "example": "Social media algorithms tend to show users content that reinforces their existing opinions.",
+    "exampleVi": "Các thuật toán mạng xã hội có xu hướng hiển thị cho người dùng những nội dung củng cố quan điểm sẵn có của họ.",
+    "exampleForm": "algorithms",
+    "collocations": [
+      "search algorithm",
+      "complex algorithm",
+      "algorithms recommend"
+    ],
+    "synonyms": [
+      "formula",
+      "procedure"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "cutting-edge",
+    "ipa": "/ˌkʌtɪŋ ˈedʒ/",
+    "pos": "adjective",
+    "meaningEn": "the most modern and advanced",
+    "meaningVi": "tiên tiến nhất, hiện đại bậc nhất",
+    "example": "The hospital has invested heavily in cutting-edge equipment for diagnosing cancer.",
+    "exampleVi": "Bệnh viện đã đầu tư mạnh vào các thiết bị tiên tiến nhất để chẩn đoán ung thư.",
+    "exampleForm": "cutting-edge",
+    "collocations": [
+      "cutting-edge technology",
+      "cutting-edge research",
+      "cutting-edge equipment"
+    ],
+    "synonyms": [
+      "state-of-the-art",
+      "advanced"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "obsolete",
+    "ipa": "/ˈɒbsəliːt/",
+    "pos": "adjective",
+    "meaningEn": "no longer used because something newer has replaced it",
+    "meaningVi": "lỗi thời, lạc hậu",
+    "example": "Rapid technological change means that many devices become obsolete within a few years.",
+    "exampleVi": "Sự thay đổi công nghệ nhanh chóng khiến nhiều thiết bị trở nên lỗi thời chỉ sau vài năm.",
+    "exampleForm": "obsolete",
+    "collocations": [
+      "become obsolete",
+      "render something obsolete",
+      "obsolete technology"
+    ],
+    "synonyms": [
+      "outdated",
+      "outmoded"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "innovation",
+    "ipa": "/ˌɪnəˈveɪʃn/",
+    "pos": "noun",
+    "meaningEn": "a new idea, method or product, or the process of creating one",
+    "meaningVi": "sự đổi mới, sự cải tiến, phát kiến mới",
+    "example": "Governments should encourage innovation by offering tax breaks to technology start-ups.",
+    "exampleVi": "Chính phủ nên khuyến khích đổi mới bằng cách ưu đãi thuế cho các công ty khởi nghiệp công nghệ.",
+    "exampleForm": "innovation",
+    "collocations": [
+      "technological innovation",
+      "encourage innovation",
+      "drive innovation"
+    ],
+    "synonyms": [
+      "invention",
+      "advance"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "gadget",
+    "ipa": "/ˈɡædʒɪt/",
+    "pos": "noun",
+    "meaningEn": "a small, clever device or tool",
+    "meaningVi": "thiết bị, đồ dùng công nghệ nhỏ",
+    "example": "Teenagers today are under pressure to own the latest gadgets to fit in with their peers.",
+    "exampleVi": "Thanh thiếu niên ngày nay chịu áp lực phải sở hữu những thiết bị công nghệ mới nhất để hoà nhập với bạn bè.",
+    "exampleForm": "gadgets",
+    "collocations": [
+      "the latest gadgets",
+      "electronic gadgets",
+      "high-tech gadget"
+    ],
+    "synonyms": [
+      "device",
+      "gizmo"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "cybersecurity",
+    "ipa": "/ˌsaɪbəsɪˈkjʊərəti/",
+    "pos": "noun",
+    "meaningEn": "the protection of computer systems and data from attacks",
+    "meaningVi": "an ninh mạng",
+    "example": "Banks spend billions on cybersecurity to protect customers' personal and financial data.",
+    "exampleVi": "Các ngân hàng chi hàng tỷ đô la cho an ninh mạng nhằm bảo vệ dữ liệu cá nhân và tài chính của khách hàng.",
+    "exampleForm": "cybersecurity",
+    "collocations": [
+      "cybersecurity threats",
+      "strengthen cybersecurity",
+      "cybersecurity experts"
+    ],
+    "synonyms": [
+      "online security"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "data privacy",
+    "ipa": "/ˌdeɪtə ˈprɪvəsi/",
+    "pos": "noun",
+    "meaningEn": "people's right to control how their personal information is collected and used",
+    "meaningVi": "quyền riêng tư dữ liệu, bảo mật dữ liệu cá nhân",
+    "example": "Many users are unaware that free apps often sell their information, raising serious data privacy concerns.",
+    "exampleVi": "Nhiều người dùng không biết rằng các ứng dụng miễn phí thường bán thông tin của họ, gây ra những lo ngại nghiêm trọng về quyền riêng tư dữ liệu.",
+    "exampleForm": "data privacy",
+    "collocations": [
+      "data privacy concerns",
+      "protect data privacy",
+      "data privacy laws"
+    ],
+    "synonyms": [
+      "data protection"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "digital divide",
+    "ipa": "/ˌdɪdʒɪtl dɪˈvaɪd/",
+    "pos": "noun",
+    "meaningEn": "the gap between people who have access to modern technology and those who do not",
+    "meaningVi": "khoảng cách số (chênh lệch trong tiếp cận công nghệ)",
+    "example": "Providing free internet access in rural areas would help to bridge the digital divide.",
+    "exampleVi": "Cung cấp truy cập internet miễn phí ở vùng nông thôn sẽ giúp thu hẹp khoảng cách số.",
+    "exampleForm": "digital divide",
+    "collocations": [
+      "bridge the digital divide",
+      "widen the digital divide",
+      "narrow the digital divide"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "tech-savvy",
+    "ipa": "/ˈtek sævi/",
+    "pos": "adjective",
+    "meaningEn": "knowing a lot about modern technology and able to use it well",
+    "meaningVi": "thành thạo công nghệ, rành công nghệ",
+    "example": "Today's children are far more tech-savvy than their parents were at the same age.",
+    "exampleVi": "Trẻ em ngày nay thành thạo công nghệ hơn nhiều so với cha mẹ chúng ở cùng độ tuổi.",
+    "exampleForm": "tech-savvy",
+    "collocations": [
+      "tech-savvy generation",
+      "tech-savvy consumers",
+      "increasingly tech-savvy"
+    ],
+    "synonyms": [
+      "computer-literate"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "user-friendly",
+    "ipa": "/ˌjuːzə ˈfrendli/",
+    "pos": "adjective",
+    "meaningEn": "easy for people to use or understand",
+    "meaningVi": "thân thiện với người dùng, dễ sử dụng",
+    "example": "Online banking apps have become so user-friendly that even elderly people can use them confidently.",
+    "exampleVi": "Các ứng dụng ngân hàng trực tuyến đã trở nên dễ sử dụng đến mức ngay cả người cao tuổi cũng có thể dùng một cách tự tin.",
+    "exampleForm": "user-friendly",
+    "collocations": [
+      "user-friendly interface",
+      "user-friendly design",
+      "more user-friendly"
+    ],
+    "synonyms": [
+      "easy to use",
+      "intuitive"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "hacker",
+    "ipa": "/ˈhækə/",
+    "pos": "noun",
+    "meaningEn": "a person who secretly gets into other people's computer systems",
+    "meaningVi": "tin tặc",
+    "example": "Hackers stole the personal details of millions of customers from the company's database.",
+    "exampleVi": "Tin tặc đã đánh cắp thông tin cá nhân của hàng triệu khách hàng từ cơ sở dữ liệu của công ty.",
+    "exampleForm": "Hackers",
+    "collocations": [
+      "computer hacker",
+      "hackers gain access",
+      "targeted by hackers"
+    ],
+    "synonyms": [
+      "cybercriminal"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "malware",
+    "ipa": "/ˈmælweə/",
+    "pos": "noun",
+    "meaningEn": "software designed to damage a computer or steal information",
+    "meaningVi": "phần mềm độc hại",
+    "example": "Downloading files from untrusted websites can infect your computer with malware.",
+    "exampleVi": "Tải tệp từ các trang web không đáng tin cậy có thể khiến máy tính của bạn bị nhiễm phần mềm độc hại.",
+    "exampleForm": "malware",
+    "collocations": [
+      "infected with malware",
+      "malware attack",
+      "detect malware"
+    ],
+    "synonyms": [
+      "computer virus"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "virtual reality",
+    "ipa": "/ˌvɜːtʃuəl riˈæləti/",
+    "pos": "noun",
+    "meaningEn": "computer-generated images and sounds that make a user feel inside a real environment",
+    "meaningVi": "thực tế ảo",
+    "example": "Virtual reality allows medical students to practise complex operations without any risk to patients.",
+    "exampleVi": "Thực tế ảo cho phép sinh viên y khoa thực hành các ca phẫu thuật phức tạp mà không gây rủi ro cho bệnh nhân.",
+    "exampleForm": "Virtual reality",
+    "collocations": [
+      "virtual reality headset",
+      "immersive virtual reality",
+      "virtual reality technology"
+    ],
+    "synonyms": [
+      "VR"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "wearable",
+    "ipa": "/ˈweərəbl/",
+    "pos": "adjective",
+    "meaningEn": "(of a device) designed to be worn on the body",
+    "meaningVi": "có thể đeo trên người (thiết bị)",
+    "example": "Wearable devices such as smartwatches can track users' heart rate and sleep patterns.",
+    "exampleVi": "Các thiết bị đeo được như đồng hồ thông minh có thể theo dõi nhịp tim và giấc ngủ của người dùng.",
+    "exampleForm": "Wearable",
+    "collocations": [
+      "wearable technology",
+      "wearable devices",
+      "wearable fitness tracker"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "screen time",
+    "ipa": "/ˈskriːn taɪm/",
+    "pos": "noun",
+    "meaningEn": "the amount of time spent using a phone, computer or television",
+    "meaningVi": "thời gian sử dụng thiết bị điện tử",
+    "example": "Parents should limit their children's screen time to protect their eyesight and sleep.",
+    "exampleVi": "Cha mẹ nên hạn chế thời gian sử dụng thiết bị điện tử của con để bảo vệ thị lực và giấc ngủ của trẻ.",
+    "exampleForm": "screen time",
+    "collocations": [
+      "limit screen time",
+      "excessive screen time",
+      "reduce screen time"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "addictive",
+    "ipa": "/əˈdɪktɪv/",
+    "pos": "adjective",
+    "meaningEn": "making people unable to stop doing or using something",
+    "meaningVi": "gây nghiện",
+    "example": "Many mobile games are deliberately designed to be addictive in order to maximise profits.",
+    "exampleVi": "Nhiều trò chơi di động được cố ý thiết kế để gây nghiện nhằm tối đa hoá lợi nhuận.",
+    "exampleForm": "addictive",
+    "collocations": [
+      "highly addictive",
+      "addictive nature",
+      "potentially addictive"
+    ],
+    "synonyms": [
+      "habit-forming"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "digitise",
+    "ipa": "/ˈdɪdʒɪtaɪz/",
+    "pos": "verb",
+    "meaningEn": "to change documents, images or records into a digital form",
+    "meaningVi": "số hoá",
+    "example": "Many libraries have digitised their rare books so that anyone can read them online.",
+    "exampleVi": "Nhiều thư viện đã số hoá những cuốn sách quý hiếm để bất kỳ ai cũng có thể đọc trực tuyến.",
+    "exampleForm": "digitised",
+    "collocations": [
+      "digitise records",
+      "digitise archives",
+      "fully digitised"
+    ],
+    "synonyms": [
+      "computerise"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "streamline",
+    "ipa": "/ˈstriːmlaɪn/",
+    "pos": "verb",
+    "meaningEn": "to make a process simpler and more efficient",
+    "meaningVi": "tinh giản, hợp lý hoá (quy trình)",
+    "example": "Online systems have streamlined the process of applying for passports and visas.",
+    "exampleVi": "Các hệ thống trực tuyến đã giúp tinh giản quy trình xin hộ chiếu và thị thực.",
+    "exampleForm": "streamlined",
+    "collocations": [
+      "streamline the process",
+      "streamline operations",
+      "streamlined service"
+    ],
+    "synonyms": [
+      "simplify",
+      "rationalise"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "revolutionise",
+    "ipa": "/ˌrevəˈluːʃənaɪz/",
+    "pos": "verb",
+    "meaningEn": "to change something completely and in a very positive way",
+    "meaningVi": "cách mạng hoá, làm thay đổi hoàn toàn",
+    "example": "The smartphone has revolutionised the way people communicate, shop and access information.",
+    "exampleVi": "Điện thoại thông minh đã làm thay đổi hoàn toàn cách con người giao tiếp, mua sắm và tiếp cận thông tin.",
+    "exampleForm": "revolutionised",
+    "collocations": [
+      "revolutionise the industry",
+      "revolutionise the way",
+      "completely revolutionised"
+    ],
+    "synonyms": [
+      "transform"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "state-of-the-art",
+    "ipa": "/ˌsteɪt əv ði ˈɑːt/",
+    "pos": "adjective",
+    "meaningEn": "using the newest and most advanced methods or technology",
+    "meaningVi": "hiện đại nhất, tối tân",
+    "example": "The new airport is equipped with state-of-the-art security scanners.",
+    "exampleVi": "Sân bay mới được trang bị các máy quét an ninh hiện đại nhất.",
+    "exampleForm": "state-of-the-art",
+    "collocations": [
+      "state-of-the-art technology",
+      "state-of-the-art facilities",
+      "state-of-the-art equipment"
+    ],
+    "synonyms": [
+      "cutting-edge",
+      "advanced"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "machine learning",
+    "ipa": "/məˌʃiːn ˈlɜːnɪŋ/",
+    "pos": "noun",
+    "meaningEn": "a type of AI in which computers learn from data without being programmed",
+    "meaningVi": "học máy",
+    "example": "Online retailers use machine learning to predict what products customers are likely to buy.",
+    "exampleVi": "Các nhà bán lẻ trực tuyến sử dụng học máy để dự đoán những sản phẩm mà khách hàng có khả năng mua.",
+    "exampleForm": "machine learning",
+    "collocations": [
+      "machine learning algorithms",
+      "machine learning models",
+      "apply machine learning"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "cloud computing",
+    "ipa": "/ˌklaʊd kəmˈpjuːtɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the use of remote internet servers to store and process data",
+    "meaningVi": "điện toán đám mây",
+    "example": "Cloud computing enables small businesses to store large amounts of data at a low cost.",
+    "exampleVi": "Điện toán đám mây cho phép các doanh nghiệp nhỏ lưu trữ lượng dữ liệu lớn với chi phí thấp.",
+    "exampleForm": "Cloud computing",
+    "collocations": [
+      "cloud computing services",
+      "adopt cloud computing",
+      "cloud computing platform"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "connectivity",
+    "ipa": "/ˌkɒnekˈtɪvəti/",
+    "pos": "noun",
+    "meaningEn": "the ability to connect to the internet or other computers",
+    "meaningVi": "khả năng kết nối",
+    "example": "Poor internet connectivity in remote villages makes online learning almost impossible.",
+    "exampleVi": "Khả năng kết nối internet kém ở các làng hẻo lánh khiến việc học trực tuyến gần như không thể thực hiện được.",
+    "exampleForm": "connectivity",
+    "collocations": [
+      "internet connectivity",
+      "improve connectivity",
+      "high-speed connectivity"
+    ],
+    "synonyms": [
+      "connection",
+      "access"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "smartphone",
+    "ipa": "/ˈsmɑːtfəʊn/",
+    "pos": "noun",
+    "meaningEn": "a mobile phone that can connect to the internet and run apps",
+    "meaningVi": "điện thoại thông minh",
+    "example": "Should parents allow children under twelve to own a smartphone?",
+    "exampleVi": "Cha mẹ có nên cho phép trẻ dưới mười hai tuổi sở hữu điện thoại thông minh không?",
+    "exampleForm": "smartphone",
+    "collocations": [
+      "smartphone addiction",
+      "smartphone app",
+      "own a smartphone"
+    ],
+    "synonyms": [
+      "mobile phone"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "software",
+    "ipa": "/ˈsɒftweə/",
+    "pos": "noun",
+    "meaningEn": "programs used to operate computers and other devices",
+    "meaningVi": "phần mềm",
+    "example": "Teachers now use special software to detect plagiarism in students' essays.",
+    "exampleVi": "Giáo viên hiện nay sử dụng phần mềm chuyên dụng để phát hiện đạo văn trong bài luận của học sinh.",
+    "exampleForm": "software",
+    "collocations": [
+      "install software",
+      "software developer",
+      "software update"
+    ],
+    "synonyms": [
+      "program",
+      "application"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "upgrade",
+    "ipa": "/ˌʌpˈɡreɪd/",
+    "pos": "verb",
+    "meaningEn": "to improve a machine or system, or replace it with a better one",
+    "meaningVi": "nâng cấp",
+    "example": "Many consumers feel pressured to upgrade their phones every year, even when it is unnecessary.",
+    "exampleVi": "Nhiều người tiêu dùng cảm thấy bị áp lực phải nâng cấp điện thoại mỗi năm, ngay cả khi điều đó không cần thiết.",
+    "exampleForm": "upgrade",
+    "collocations": [
+      "upgrade software",
+      "upgrade to a newer model",
+      "upgrade the system"
+    ],
+    "synonyms": [
+      "improve",
+      "update"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "cyberbullying",
+    "ipa": "/ˈsaɪbəbʊliɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the use of the internet or phones to frighten or upset someone",
+    "meaningVi": "bắt nạt trên mạng",
+    "example": "Schools need clear policies to protect students from cyberbullying on social networks.",
+    "exampleVi": "Các trường học cần có chính sách rõ ràng để bảo vệ học sinh khỏi nạn bắt nạt trên mạng xã hội.",
+    "exampleForm": "cyberbullying",
+    "collocations": [
+      "victims of cyberbullying",
+      "tackle cyberbullying",
+      "experience cyberbullying"
+    ],
+    "synonyms": [
+      "online harassment"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "encryption",
+    "ipa": "/ɪnˈkrɪpʃn/",
+    "pos": "noun",
+    "meaningEn": "the process of changing information into a code to keep it secret",
+    "meaningVi": "sự mã hoá (dữ liệu)",
+    "example": "Messaging apps use end-to-end encryption so that only the sender and receiver can read messages.",
+    "exampleVi": "Các ứng dụng nhắn tin sử dụng mã hoá đầu cuối để chỉ người gửi và người nhận mới đọc được tin nhắn.",
+    "exampleForm": "encryption",
+    "collocations": [
+      "end-to-end encryption",
+      "data encryption",
+      "strong encryption"
+    ],
+    "synonyms": [
+      "encoding"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "facial recognition",
+    "ipa": "/ˌfeɪʃl ˌrekəɡˈnɪʃn/",
+    "pos": "noun",
+    "meaningEn": "technology that identifies people by analysing their faces",
+    "meaningVi": "nhận diện khuôn mặt",
+    "example": "The use of facial recognition cameras in public places has sparked a heated debate about privacy.",
+    "exampleVi": "Việc sử dụng camera nhận diện khuôn mặt ở nơi công cộng đã làm dấy lên cuộc tranh luận gay gắt về quyền riêng tư.",
+    "exampleForm": "facial recognition",
+    "collocations": [
+      "facial recognition technology",
+      "facial recognition software",
+      "facial recognition cameras"
+    ],
+    "synonyms": [
+      "face recognition"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "robotics",
+    "ipa": "/rəʊˈbɒtɪks/",
+    "pos": "noun",
+    "meaningEn": "the science of designing, building and using robots",
+    "meaningVi": "ngành rô-bốt học, công nghệ rô-bốt",
+    "example": "Advances in robotics mean that surgeons can now perform operations with greater precision.",
+    "exampleVi": "Những tiến bộ trong công nghệ rô-bốt giúp các bác sĩ phẫu thuật giờ đây có thể thực hiện ca mổ với độ chính xác cao hơn.",
+    "exampleForm": "robotics",
+    "collocations": [
+      "advances in robotics",
+      "robotics engineer",
+      "industrial robotics"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "interface",
+    "ipa": "/ˈɪntəfeɪs/",
+    "pos": "noun",
+    "meaningEn": "the way a user sees and interacts with a computer program",
+    "meaningVi": "giao diện",
+    "example": "A simple, intuitive interface is essential if older people are to adopt new technology.",
+    "exampleVi": "Một giao diện đơn giản, trực quan là điều thiết yếu nếu muốn người cao tuổi tiếp nhận công nghệ mới.",
+    "exampleForm": "interface",
+    "collocations": [
+      "user interface",
+      "intuitive interface",
+      "graphical interface"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "glitch",
+    "ipa": "/ɡlɪtʃ/",
+    "pos": "noun",
+    "meaningEn": "a small technical problem that stops something working properly",
+    "meaningVi": "trục trặc kỹ thuật, lỗi nhỏ",
+    "example": "A software glitch caused hundreds of flights to be delayed across Europe yesterday.",
+    "exampleVi": "Một trục trặc phần mềm đã khiến hàng trăm chuyến bay trên khắp châu Âu bị chậm trễ vào hôm qua.",
+    "exampleForm": "glitch",
+    "collocations": [
+      "technical glitch",
+      "software glitch",
+      "minor glitch"
+    ],
+    "synonyms": [
+      "bug",
+      "malfunction"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "disruptive",
+    "ipa": "/dɪsˈrʌptɪv/",
+    "pos": "adjective",
+    "meaningEn": "(of technology) changing an industry by replacing existing ways of doing things",
+    "meaningVi": "mang tính đột phá (làm thay đổi cả một ngành), gây xáo trộn",
+    "example": "Ride-hailing apps are a classic example of disruptive technology that transformed the taxi industry.",
+    "exampleVi": "Các ứng dụng gọi xe là ví dụ điển hình của công nghệ đột phá đã làm thay đổi ngành taxi.",
+    "exampleForm": "disruptive",
+    "collocations": [
+      "disruptive technology",
+      "disruptive innovation",
+      "highly disruptive"
+    ],
+    "synonyms": [
+      "game-changing"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "technophobe",
+    "ipa": "/ˈteknəfəʊb/",
+    "pos": "noun",
+    "meaningEn": "a person who dislikes or is afraid of new technology",
+    "meaningVi": "người ngại hoặc sợ công nghệ mới",
+    "example": "My grandfather is a self-confessed technophobe who still refuses to use a mobile phone.",
+    "exampleVi": "Ông tôi tự nhận mình là người sợ công nghệ và đến giờ vẫn không chịu dùng điện thoại di động.",
+    "exampleForm": "technophobe",
+    "collocations": [
+      "self-confessed technophobe",
+      "a complete technophobe"
+    ],
+    "synonyms": [
+      "Luddite"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "digital literacy",
+    "ipa": "/ˌdɪdʒɪtl ˈlɪtərəsi/",
+    "pos": "noun",
+    "meaningEn": "the ability to use digital technology and evaluate online information",
+    "meaningVi": "năng lực số, kỹ năng sử dụng công nghệ số",
+    "example": "Schools should teach digital literacy so that students can identify fake news online.",
+    "exampleVi": "Trường học nên dạy năng lực số để học sinh có thể nhận biết tin giả trên mạng.",
+    "exampleForm": "digital literacy",
+    "collocations": [
+      "improve digital literacy",
+      "digital literacy skills",
+      "lack of digital literacy"
+    ],
+    "synonyms": [
+      "computer literacy"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "telecommunications",
+    "ipa": "/ˌtelikəˌmjuːnɪˈkeɪʃnz/",
+    "pos": "noun",
+    "meaningEn": "sending information over distances by telephone, radio, internet, etc.",
+    "meaningVi": "viễn thông",
+    "example": "Investment in telecommunications infrastructure is crucial for economic growth in developing countries.",
+    "exampleVi": "Đầu tư vào cơ sở hạ tầng viễn thông là yếu tố then chốt cho tăng trưởng kinh tế ở các nước đang phát triển.",
+    "exampleForm": "telecommunications",
+    "collocations": [
+      "telecommunications network",
+      "telecommunications industry",
+      "telecommunications infrastructure"
+    ],
+    "synonyms": [
+      "telecoms"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "device",
+    "ipa": "/dɪˈvaɪs/",
+    "pos": "noun",
+    "meaningEn": "a piece of equipment made for a particular purpose, especially electronic",
+    "meaningVi": "thiết bị",
+    "example": "Most teenagers spend several hours a day on their electronic devices.",
+    "exampleVi": "Hầu hết thanh thiếu niên dành vài giờ mỗi ngày cho các thiết bị điện tử của mình.",
+    "exampleForm": "devices",
+    "collocations": [
+      "electronic devices",
+      "mobile devices",
+      "smart devices"
+    ],
+    "synonyms": [
+      "gadget",
+      "piece of equipment"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "information overload",
+    "ipa": "/ˌɪnfəˌmeɪʃn ˈəʊvələʊd/",
+    "pos": "noun",
+    "meaningEn": "a situation where there is too much information to process",
+    "meaningVi": "tình trạng quá tải thông tin",
+    "example": "Constant notifications from apps can lead to information overload and reduced concentration.",
+    "exampleVi": "Những thông báo liên tục từ các ứng dụng có thể dẫn đến tình trạng quá tải thông tin và giảm khả năng tập trung.",
+    "exampleForm": "information overload",
+    "collocations": [
+      "suffer from information overload",
+      "cope with information overload",
+      "cause information overload"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  }
+]

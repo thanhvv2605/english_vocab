@@ -1,0 +1,828 @@
+[
+  {
+    "word": "cultural exchange",
+    "ipa": "/ˌkʌltʃərəl ɪksˈtʃeɪndʒ/",
+    "pos": "noun",
+    "meaningEn": "the sharing of ideas, traditions and customs between different cultures",
+    "meaningVi": "giao lưu văn hoá",
+    "example": "International student programmes promote cultural exchange and help young people develop a global outlook.",
+    "exampleVi": "Các chương trình du học quốc tế thúc đẩy giao lưu văn hoá và giúp người trẻ có tầm nhìn toàn cầu.",
+    "exampleForm": "cultural exchange",
+    "collocations": [
+      "promote cultural exchange",
+      "a cultural exchange programme"
+    ],
+    "synonyms": [
+      "intercultural exchange"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "cultural identity",
+    "ipa": "/ˌkʌltʃərəl aɪˈdentəti/",
+    "pos": "noun",
+    "meaningEn": "the feeling of belonging to a particular culture or group",
+    "meaningVi": "bản sắc văn hoá",
+    "example": "Many people fear that small nations may lose their cultural identity as Western media becomes dominant.",
+    "exampleVi": "Nhiều người lo ngại rằng các quốc gia nhỏ có thể đánh mất bản sắc văn hoá khi truyền thông phương Tây chiếm ưu thế.",
+    "exampleForm": "cultural identity",
+    "collocations": [
+      "preserve cultural identity",
+      "a strong cultural identity",
+      "lose one's cultural identity"
+    ],
+    "synonyms": [
+      "sense of identity"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "heritage",
+    "ipa": "/ˈherɪtɪdʒ/",
+    "pos": "noun",
+    "meaningEn": "traditions, buildings and culture passed down from earlier generations",
+    "meaningVi": "di sản",
+    "example": "Governments should invest in protecting historic sites, as they form an essential part of a nation's heritage.",
+    "exampleVi": "Chính phủ nên đầu tư bảo vệ các di tích lịch sử, vì chúng là một phần thiết yếu trong di sản của một quốc gia.",
+    "exampleForm": "heritage",
+    "collocations": [
+      "cultural heritage",
+      "national heritage",
+      "heritage site"
+    ],
+    "synonyms": [
+      "legacy",
+      "tradition"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "assimilate",
+    "ipa": "/əˈsɪmɪleɪt/",
+    "pos": "verb",
+    "meaningEn": "to become part of a new society by adopting its customs",
+    "meaningVi": "hoà nhập, đồng hoá",
+    "example": "Immigrants who learn the local language usually assimilate into their new community far more easily.",
+    "exampleVi": "Những người nhập cư học ngôn ngữ địa phương thường hoà nhập vào cộng đồng mới dễ dàng hơn nhiều.",
+    "exampleForm": "assimilate",
+    "collocations": [
+      "assimilate into society",
+      "fully assimilate",
+      "assimilate immigrants"
+    ],
+    "synonyms": [
+      "integrate",
+      "adapt"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "multiculturalism",
+    "ipa": "/ˌmʌltiˈkʌltʃərəlɪzəm/",
+    "pos": "noun",
+    "meaningEn": "the existence of many different cultures together in one society",
+    "meaningVi": "chủ nghĩa đa văn hoá, sự đa văn hoá",
+    "example": "Supporters of multiculturalism argue that living alongside people from different backgrounds makes a society more open-minded.",
+    "exampleVi": "Những người ủng hộ chủ nghĩa đa văn hoá cho rằng việc sống cùng những người có xuất thân khác nhau khiến xã hội cởi mở hơn.",
+    "exampleForm": "multiculturalism",
+    "collocations": [
+      "promote multiculturalism",
+      "a policy of multiculturalism"
+    ],
+    "synonyms": [
+      "cultural pluralism"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "homogenisation",
+    "ipa": "/həˌmɒdʒənaɪˈzeɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the process of making different things become similar or the same",
+    "meaningVi": "sự đồng nhất hoá, sự rập khuôn",
+    "example": "The spread of global fast-food chains has led to the homogenisation of eating habits in many countries.",
+    "exampleVi": "Sự lan rộng của các chuỗi đồ ăn nhanh toàn cầu đã dẫn đến sự đồng nhất hoá thói quen ăn uống ở nhiều quốc gia.",
+    "exampleForm": "homogenisation",
+    "collocations": [
+      "cultural homogenisation",
+      "the homogenisation of culture"
+    ],
+    "synonyms": [
+      "standardisation",
+      "uniformity"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "westernisation",
+    "ipa": "/ˌwestənaɪˈzeɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the adoption of the culture and lifestyle of Western countries",
+    "meaningVi": "sự Âu hoá, sự phương Tây hoá",
+    "example": "In many Asian cities, the westernisation of young people's lifestyles is visible in their clothing and diet.",
+    "exampleVi": "Ở nhiều thành phố châu Á, sự phương Tây hoá lối sống của giới trẻ thể hiện rõ qua trang phục và chế độ ăn uống của họ.",
+    "exampleForm": "westernisation",
+    "collocations": [
+      "rapid westernisation",
+      "the westernisation of society"
+    ],
+    "synonyms": [
+      "Americanisation"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "custom",
+    "ipa": "/ˈkʌstəm/",
+    "pos": "noun",
+    "meaningEn": "a traditional way of behaving or doing something in a society",
+    "meaningVi": "phong tục, tập quán",
+    "example": "In Vietnam, it is a custom for younger relatives to visit their grandparents on the first day of Tet.",
+    "exampleVi": "Ở Việt Nam, có phong tục con cháu đến thăm ông bà vào ngày mùng một Tết.",
+    "exampleForm": "custom",
+    "collocations": [
+      "local customs",
+      "an ancient custom",
+      "follow a custom"
+    ],
+    "synonyms": [
+      "tradition",
+      "practice"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "ritual",
+    "ipa": "/ˈrɪtʃuəl/",
+    "pos": "noun",
+    "meaningEn": "a set of actions always performed in the same way, often religious",
+    "meaningVi": "nghi lễ, nghi thức",
+    "example": "Traditional wedding rituals are becoming simpler as young couples prefer smaller, more personal ceremonies.",
+    "exampleVi": "Các nghi lễ cưới truyền thống ngày càng được giản lược khi các cặp đôi trẻ ưa chuộng những buổi lễ nhỏ và mang tính cá nhân hơn.",
+    "exampleForm": "rituals",
+    "collocations": [
+      "religious ritual",
+      "perform a ritual",
+      "ancient rituals"
+    ],
+    "synonyms": [
+      "ceremony",
+      "rite"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "taboo",
+    "ipa": "/təˈbuː/",
+    "pos": "noun",
+    "meaningEn": "a subject or action that society considers unacceptable to discuss or do",
+    "meaningVi": "điều cấm kỵ",
+    "example": "In some communities, mental illness remains a taboo, so people are reluctant to seek professional help.",
+    "exampleVi": "Ở một số cộng đồng, bệnh tâm thần vẫn là điều cấm kỵ, nên mọi người ngần ngại tìm đến sự trợ giúp chuyên môn.",
+    "exampleForm": "taboo",
+    "collocations": [
+      "a social taboo",
+      "break a taboo",
+      "a taboo subject"
+    ],
+    "synonyms": [
+      "prohibition"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "social norm",
+    "ipa": "/ˌsəʊʃl ˈnɔːm/",
+    "pos": "noun",
+    "meaningEn": "an accepted standard of behaviour within a society or group",
+    "meaningVi": "chuẩn mực xã hội",
+    "example": "Social norms around marriage have changed dramatically, and cohabitation is now widely accepted in many countries.",
+    "exampleVi": "Các chuẩn mực xã hội về hôn nhân đã thay đổi mạnh mẽ, và việc sống chung trước hôn nhân hiện được chấp nhận rộng rãi ở nhiều nước.",
+    "exampleForm": "Social norms",
+    "collocations": [
+      "challenge social norms",
+      "conform to social norms",
+      "deeply rooted social norms"
+    ],
+    "synonyms": [
+      "convention"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "conformity",
+    "ipa": "/kənˈfɔːməti/",
+    "pos": "noun",
+    "meaningEn": "behaving in the same way as most other people in a group",
+    "meaningVi": "sự tuân theo số đông, sự rập khuôn",
+    "example": "Critics argue that school uniforms encourage conformity and discourage children from expressing their individuality.",
+    "exampleVi": "Những người phản đối cho rằng đồng phục học sinh khuyến khích sự rập khuôn và cản trở trẻ em thể hiện cá tính riêng.",
+    "exampleForm": "conformity",
+    "collocations": [
+      "social conformity",
+      "pressure for conformity"
+    ],
+    "synonyms": [
+      "compliance",
+      "conventionality"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "ageing population",
+    "ipa": "/ˌeɪdʒɪŋ ˌpɒpjuˈleɪʃn/",
+    "pos": "noun",
+    "meaningEn": "a population in which the proportion of older people is increasing",
+    "meaningVi": "dân số già hoá",
+    "example": "An ageing population places enormous pressure on healthcare systems and reduces the size of the workforce.",
+    "exampleVi": "Dân số già hoá gây áp lực rất lớn lên hệ thống y tế và làm thu hẹp lực lượng lao động.",
+    "exampleForm": "ageing population",
+    "collocations": [
+      "cope with an ageing population",
+      "the challenges of an ageing population"
+    ],
+    "synonyms": [
+      "greying population"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "retirement age",
+    "ipa": "/rɪˈtaɪəmənt eɪdʒ/",
+    "pos": "noun",
+    "meaningEn": "the age at which people normally stop working",
+    "meaningVi": "tuổi nghỉ hưu",
+    "example": "Several countries have raised the retirement age to ensure that pension systems remain financially sustainable.",
+    "exampleVi": "Một số quốc gia đã nâng tuổi nghỉ hưu để đảm bảo hệ thống lương hưu bền vững về mặt tài chính.",
+    "exampleForm": "retirement age",
+    "collocations": [
+      "raise the retirement age",
+      "reach retirement age",
+      "statutory retirement age"
+    ],
+    "synonyms": [
+      "pensionable age"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "care home",
+    "ipa": "/ˈkeə həʊm/",
+    "pos": "noun",
+    "meaningEn": "a place where old or ill people live and are looked after",
+    "meaningVi": "viện dưỡng lão, nhà dưỡng lão",
+    "example": "In Vietnam, sending elderly parents to a care home is still seen by many as neglecting one's duty.",
+    "exampleVi": "Ở Việt Nam, việc đưa cha mẹ già vào viện dưỡng lão vẫn bị nhiều người coi là thiếu trách nhiệm.",
+    "exampleForm": "care home",
+    "collocations": [
+      "live in a care home",
+      "residential care home"
+    ],
+    "synonyms": [
+      "nursing home",
+      "retirement home"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "elderly",
+    "ipa": "/ˈeldəli/",
+    "pos": "adjective",
+    "meaningEn": "old, used as a polite word for people",
+    "meaningVi": "cao tuổi, lớn tuổi",
+    "example": "In traditional Vietnamese families, adult children are expected to take care of their elderly parents.",
+    "exampleVi": "Trong các gia đình Việt Nam truyền thống, con cái trưởng thành được kỳ vọng sẽ chăm sóc cha mẹ già.",
+    "exampleForm": "elderly",
+    "collocations": [
+      "elderly parents",
+      "care for the elderly",
+      "elderly relatives"
+    ],
+    "synonyms": [
+      "aged",
+      "senior"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "dependency ratio",
+    "ipa": "/dɪˈpendənsi ˌreɪʃiəʊ/",
+    "pos": "noun",
+    "meaningEn": "the number of non-working people compared with working-age people",
+    "meaningVi": "tỷ lệ phụ thuộc",
+    "example": "As birth rates fall, the dependency ratio rises, meaning fewer workers must support each retiree.",
+    "exampleVi": "Khi tỷ lệ sinh giảm, tỷ lệ phụ thuộc tăng lên, nghĩa là ít người lao động hơn phải gánh vác mỗi người nghỉ hưu.",
+    "exampleForm": "dependency ratio",
+    "collocations": [
+      "a high dependency ratio",
+      "old-age dependency ratio"
+    ],
+    "synonyms": [],
+    "level": "C2"
+  },
+  {
+    "word": "inequality",
+    "ipa": "/ˌɪnɪˈkwɒləti/",
+    "pos": "noun",
+    "meaningEn": "an unfair situation in which some people have more wealth or opportunities",
+    "meaningVi": "sự bất bình đẳng",
+    "example": "The widening gap between the rich and the poor has made income inequality a major political issue.",
+    "exampleVi": "Khoảng cách giàu nghèo ngày càng lớn đã khiến bất bình đẳng thu nhập trở thành một vấn đề chính trị lớn.",
+    "exampleForm": "inequality",
+    "collocations": [
+      "income inequality",
+      "social inequality",
+      "reduce inequality"
+    ],
+    "synonyms": [
+      "disparity",
+      "imbalance"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "marginalised",
+    "ipa": "/ˈmɑːdʒɪnəlaɪzd/",
+    "pos": "adjective",
+    "meaningEn": "treated as unimportant and excluded from the main part of society",
+    "meaningVi": "bị gạt ra ngoài lề xã hội",
+    "example": "Free vocational training can give marginalised groups a real chance to escape poverty.",
+    "exampleVi": "Đào tạo nghề miễn phí có thể mang lại cho các nhóm yếu thế, bị gạt ra ngoài lề xã hội một cơ hội thực sự để thoát nghèo.",
+    "exampleForm": "marginalised",
+    "collocations": [
+      "marginalised groups",
+      "marginalised communities",
+      "socially marginalised"
+    ],
+    "synonyms": [
+      "excluded",
+      "disadvantaged"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "social mobility",
+    "ipa": "/ˌsəʊʃl məʊˈbɪləti/",
+    "pos": "noun",
+    "meaningEn": "the ability to move to a higher social or economic position",
+    "meaningVi": "sự dịch chuyển giai tầng xã hội, khả năng thăng tiến xã hội",
+    "example": "Access to quality education is widely regarded as the most effective way to improve social mobility.",
+    "exampleVi": "Việc tiếp cận nền giáo dục chất lượng được xem là cách hiệu quả nhất để tăng khả năng thăng tiến xã hội.",
+    "exampleForm": "social mobility",
+    "collocations": [
+      "improve social mobility",
+      "upward social mobility",
+      "a lack of social mobility"
+    ],
+    "synonyms": [
+      "upward mobility"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "discrimination",
+    "ipa": "/dɪˌskrɪmɪˈneɪʃn/",
+    "pos": "noun",
+    "meaningEn": "unfair treatment of people because of their race, gender, age, etc.",
+    "meaningVi": "sự phân biệt đối xử",
+    "example": "Laws against age discrimination help older employees keep their jobs and be treated fairly at work.",
+    "exampleVi": "Luật chống phân biệt đối xử theo tuổi tác giúp người lao động lớn tuổi giữ được việc làm và được đối xử công bằng.",
+    "exampleForm": "discrimination",
+    "collocations": [
+      "racial discrimination",
+      "gender discrimination",
+      "face discrimination"
+    ],
+    "synonyms": [
+      "bias",
+      "prejudice"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "stereotype",
+    "ipa": "/ˈsteriətaɪp/",
+    "pos": "noun",
+    "meaningEn": "a fixed, oversimplified idea about what a type of person is like",
+    "meaningVi": "định kiến, khuôn mẫu định sẵn (về một nhóm người)",
+    "example": "Films and advertisements often reinforce the stereotype that women are less capable leaders than men.",
+    "exampleVi": "Phim ảnh và quảng cáo thường củng cố định kiến rằng phụ nữ là những nhà lãnh đạo kém năng lực hơn nam giới.",
+    "exampleForm": "stereotype",
+    "collocations": [
+      "gender stereotype",
+      "reinforce a stereotype",
+      "challenge stereotypes"
+    ],
+    "synonyms": [
+      "cliché",
+      "generalisation"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "prejudice",
+    "ipa": "/ˈpredʒədɪs/",
+    "pos": "noun",
+    "meaningEn": "an unfair opinion or dislike formed without good reason or knowledge",
+    "meaningVi": "thành kiến, định kiến",
+    "example": "Travelling abroad can break down prejudice by exposing people to cultures they previously misunderstood.",
+    "exampleVi": "Đi du lịch nước ngoài có thể xoá bỏ thành kiến bằng cách cho mọi người tiếp xúc với những nền văn hoá mà trước đây họ hiểu sai.",
+    "exampleForm": "prejudice",
+    "collocations": [
+      "racial prejudice",
+      "overcome prejudice",
+      "deep-rooted prejudice"
+    ],
+    "synonyms": [
+      "bias",
+      "bigotry"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "integration",
+    "ipa": "/ˌɪntɪˈɡreɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the process of people from different groups mixing and living together",
+    "meaningVi": "sự hội nhập, sự hoà nhập",
+    "example": "Language classes for newcomers are essential for successful integration into the host society.",
+    "exampleVi": "Các lớp học ngôn ngữ cho người mới đến rất cần thiết để hoà nhập thành công vào xã hội nước sở tại.",
+    "exampleForm": "integration",
+    "collocations": [
+      "social integration",
+      "promote integration",
+      "successful integration"
+    ],
+    "synonyms": [
+      "inclusion",
+      "assimilation"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "folklore",
+    "ipa": "/ˈfəʊklɔː/",
+    "pos": "noun",
+    "meaningEn": "traditional stories, beliefs and customs of a community",
+    "meaningVi": "văn hoá dân gian, truyện dân gian",
+    "example": "Local folklore is often passed down orally from grandparents to grandchildren through bedtime stories.",
+    "exampleVi": "Văn hoá dân gian địa phương thường được ông bà truyền miệng cho con cháu qua những câu chuyện trước giờ ngủ.",
+    "exampleForm": "folklore",
+    "collocations": [
+      "local folklore",
+      "traditional folklore",
+      "in folklore"
+    ],
+    "synonyms": [
+      "legend",
+      "myth"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "ethnic minority",
+    "ipa": "/ˌeθnɪk maɪˈnɒrəti/",
+    "pos": "noun",
+    "meaningEn": "a group of people of a different race or culture from most of the population",
+    "meaningVi": "dân tộc thiểu số",
+    "example": "Children from ethnic minority groups in remote areas often have limited access to education.",
+    "exampleVi": "Trẻ em thuộc các nhóm dân tộc thiểu số ở vùng sâu vùng xa thường ít có cơ hội tiếp cận giáo dục.",
+    "exampleForm": "ethnic minority",
+    "collocations": [
+      "ethnic minority groups",
+      "ethnic minority communities"
+    ],
+    "synonyms": [
+      "minority group"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "tolerance",
+    "ipa": "/ˈtɒlərəns/",
+    "pos": "noun",
+    "meaningEn": "willingness to accept beliefs or behaviour different from your own",
+    "meaningVi": "sự khoan dung, lòng bao dung",
+    "example": "Schools have a responsibility to teach tolerance and respect for people of all religions.",
+    "exampleVi": "Trường học có trách nhiệm dạy sự khoan dung và tôn trọng đối với người thuộc mọi tôn giáo.",
+    "exampleForm": "tolerance",
+    "collocations": [
+      "religious tolerance",
+      "promote tolerance",
+      "tolerance of others"
+    ],
+    "synonyms": [
+      "acceptance",
+      "open-mindedness"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "social cohesion",
+    "ipa": "/ˌsəʊʃl kəʊˈhiːʒn/",
+    "pos": "noun",
+    "meaningEn": "the bonds that unite members of a society and make them cooperate",
+    "meaningVi": "sự gắn kết xã hội",
+    "example": "Community festivals strengthen social cohesion by bringing together neighbours who would otherwise rarely meet.",
+    "exampleVi": "Các lễ hội cộng đồng tăng cường sự gắn kết xã hội bằng cách quy tụ những người hàng xóm vốn hiếm khi gặp nhau.",
+    "exampleForm": "social cohesion",
+    "collocations": [
+      "strengthen social cohesion",
+      "undermine social cohesion"
+    ],
+    "synonyms": [
+      "unity",
+      "solidarity"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "deprived",
+    "ipa": "/dɪˈpraɪvd/",
+    "pos": "adjective",
+    "meaningEn": "without enough money, food, education or other basic things",
+    "meaningVi": "nghèo khó, thiếu thốn",
+    "example": "Children growing up in deprived areas are statistically less likely to go to university.",
+    "exampleVi": "Theo thống kê, trẻ em lớn lên ở những khu vực nghèo khó ít có khả năng vào đại học hơn.",
+    "exampleForm": "deprived",
+    "collocations": [
+      "deprived areas",
+      "socially deprived",
+      "deprived backgrounds"
+    ],
+    "synonyms": [
+      "impoverished",
+      "disadvantaged"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "underprivileged",
+    "ipa": "/ˌʌndəˈprɪvəlɪdʒd/",
+    "pos": "adjective",
+    "meaningEn": "having less money and fewer opportunities than most people",
+    "meaningVi": "kém may mắn, có hoàn cảnh khó khăn",
+    "example": "Scholarships enable talented students from underprivileged families to fulfil their academic potential.",
+    "exampleVi": "Học bổng giúp những học sinh tài năng có hoàn cảnh khó khăn phát huy hết tiềm năng học tập của mình.",
+    "exampleForm": "underprivileged",
+    "collocations": [
+      "underprivileged children",
+      "underprivileged families",
+      "the underprivileged"
+    ],
+    "synonyms": [
+      "disadvantaged",
+      "needy"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "poverty line",
+    "ipa": "/ˈpɒvəti laɪn/",
+    "pos": "noun",
+    "meaningEn": "the minimum income needed to buy basic necessities",
+    "meaningVi": "chuẩn nghèo, ngưỡng nghèo",
+    "example": "Despite economic growth, millions of families still live below the poverty line.",
+    "exampleVi": "Bất chấp tăng trưởng kinh tế, hàng triệu gia đình vẫn sống dưới chuẩn nghèo.",
+    "exampleForm": "poverty line",
+    "collocations": [
+      "live below the poverty line",
+      "lift families above the poverty line"
+    ],
+    "synonyms": [
+      "poverty threshold"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "philanthropy",
+    "ipa": "/fɪˈlænθrəpi/",
+    "pos": "noun",
+    "meaningEn": "the practice of giving money and help to people in need",
+    "meaningVi": "hoạt động từ thiện, lòng bác ái",
+    "example": "Although philanthropy by wealthy individuals is admirable, it cannot replace proper government support for the poor.",
+    "exampleVi": "Mặc dù hoạt động từ thiện của giới nhà giàu rất đáng trân trọng, nó không thể thay thế sự hỗ trợ đúng mức của chính phủ dành cho người nghèo.",
+    "exampleForm": "philanthropy",
+    "collocations": [
+      "corporate philanthropy",
+      "private philanthropy"
+    ],
+    "synonyms": [
+      "charity",
+      "benevolence"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "xenophobia",
+    "ipa": "/ˌzenəˈfəʊbiə/",
+    "pos": "noun",
+    "meaningEn": "extreme dislike or fear of people from other countries",
+    "meaningVi": "tâm lý bài ngoại",
+    "example": "Economic hardship can fuel xenophobia, as some people wrongly blame immigrants for unemployment.",
+    "exampleVi": "Khó khăn kinh tế có thể thổi bùng tâm lý bài ngoại, khi một số người đổ lỗi oan cho người nhập cư về tình trạng thất nghiệp.",
+    "exampleForm": "xenophobia",
+    "collocations": [
+      "fuel xenophobia",
+      "combat xenophobia",
+      "rising xenophobia"
+    ],
+    "synonyms": [
+      "nativism",
+      "hostility towards foreigners"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "gender equality",
+    "ipa": "/ˌdʒendər iˈkwɒləti/",
+    "pos": "noun",
+    "meaningEn": "the state in which men and women have the same rights and opportunities",
+    "meaningVi": "bình đẳng giới",
+    "example": "Although progress has been made, full gender equality in the workplace has not yet been achieved.",
+    "exampleVi": "Mặc dù đã có nhiều tiến bộ, bình đẳng giới hoàn toàn tại nơi làm việc vẫn chưa đạt được.",
+    "exampleForm": "gender equality",
+    "collocations": [
+      "promote gender equality",
+      "achieve gender equality"
+    ],
+    "synonyms": [
+      "sexual equality"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "solidarity",
+    "ipa": "/ˌsɒlɪˈdærəti/",
+    "pos": "noun",
+    "meaningEn": "support and agreement between people who share the same aims or problems",
+    "meaningVi": "tình đoàn kết",
+    "example": "During the pandemic, communities showed remarkable solidarity by delivering food to vulnerable neighbours.",
+    "exampleVi": "Trong đại dịch, các cộng đồng đã thể hiện tình đoàn kết đáng kinh ngạc qua việc mang thực phẩm đến cho những người hàng xóm dễ bị tổn thương.",
+    "exampleForm": "solidarity",
+    "collocations": [
+      "show solidarity",
+      "a sense of solidarity",
+      "social solidarity"
+    ],
+    "synonyms": [
+      "unity",
+      "togetherness"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "egalitarian",
+    "ipa": "/iˌɡælɪˈteəriən/",
+    "pos": "adjective",
+    "meaningEn": "believing that all people are equal and should have the same rights",
+    "meaningVi": "bình đẳng, theo chủ nghĩa bình đẳng",
+    "example": "Scandinavian countries are often described as egalitarian societies with relatively small income gaps.",
+    "exampleVi": "Các nước Bắc Âu thường được mô tả là những xã hội bình đẳng với khoảng cách thu nhập tương đối nhỏ.",
+    "exampleForm": "egalitarian",
+    "collocations": [
+      "an egalitarian society",
+      "egalitarian values"
+    ],
+    "synonyms": [
+      "equal",
+      "fair"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "cultural diversity",
+    "ipa": "/ˌkʌltʃərəl daɪˈvɜːsəti/",
+    "pos": "noun",
+    "meaningEn": "the existence of many different cultures within a society",
+    "meaningVi": "sự đa dạng văn hoá",
+    "example": "Cultural diversity enriches city life through a wide variety of food, festivals and art.",
+    "exampleVi": "Sự đa dạng văn hoá làm phong phú đời sống đô thị qua nhiều loại ẩm thực, lễ hội và nghệ thuật.",
+    "exampleForm": "Cultural diversity",
+    "collocations": [
+      "celebrate cultural diversity",
+      "respect cultural diversity"
+    ],
+    "synonyms": [
+      "multiculturalism"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "uphold",
+    "ipa": "/ʌpˈhəʊld/",
+    "pos": "verb",
+    "meaningEn": "to support or maintain a tradition, principle or law",
+    "meaningVi": "gìn giữ, duy trì, bảo vệ",
+    "example": "Older generations often feel a duty to uphold traditions that have been passed down for centuries.",
+    "exampleVi": "Thế hệ lớn tuổi thường cảm thấy có bổn phận gìn giữ những truyền thống đã được lưu truyền qua nhiều thế kỷ.",
+    "exampleForm": "uphold",
+    "collocations": [
+      "uphold traditions",
+      "uphold values",
+      "uphold the law"
+    ],
+    "synonyms": [
+      "maintain",
+      "preserve"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "erode",
+    "ipa": "/ɪˈrəʊd/",
+    "pos": "verb",
+    "meaningEn": "to gradually weaken or destroy something such as values or traditions",
+    "meaningVi": "làm xói mòn, làm mai một dần",
+    "example": "Some argue that mass tourism has eroded the traditional way of life in many rural villages.",
+    "exampleVi": "Một số người cho rằng du lịch đại trà đã làm xói mòn lối sống truyền thống ở nhiều làng quê.",
+    "exampleForm": "eroded",
+    "collocations": [
+      "erode traditional values",
+      "erode trust",
+      "gradually erode"
+    ],
+    "synonyms": [
+      "undermine",
+      "weaken"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "immigrant",
+    "ipa": "/ˈɪmɪɡrənt/",
+    "pos": "noun",
+    "meaningEn": "a person who comes to live permanently in a foreign country",
+    "meaningVi": "người nhập cư",
+    "example": "Skilled immigrants make a valuable contribution to the economy by filling shortages in key industries.",
+    "exampleVi": "Người nhập cư có tay nghề đóng góp giá trị cho nền kinh tế bằng cách lấp đầy sự thiếu hụt nhân lực trong các ngành then chốt.",
+    "exampleForm": "immigrants",
+    "collocations": [
+      "illegal immigrants",
+      "skilled immigrants",
+      "first-generation immigrants"
+    ],
+    "synonyms": [
+      "migrant",
+      "newcomer"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "globalisation",
+    "ipa": "/ˌɡləʊbəlaɪˈzeɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the process by which economies and cultures around the world become connected",
+    "meaningVi": "toàn cầu hoá",
+    "example": "Globalisation has made it easier for people to access products and ideas from other countries.",
+    "exampleVi": "Toàn cầu hoá đã giúp mọi người dễ dàng tiếp cận sản phẩm và ý tưởng từ các quốc gia khác.",
+    "exampleForm": "Globalisation",
+    "collocations": [
+      "the impact of globalisation",
+      "economic globalisation"
+    ],
+    "synonyms": [
+      "internationalisation"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "materialistic",
+    "ipa": "/məˌtɪəriəˈlɪstɪk/",
+    "pos": "adjective",
+    "meaningEn": "caring too much about money and possessions",
+    "meaningVi": "coi trọng vật chất, thực dụng",
+    "example": "Some argue that advertising has made young people increasingly materialistic.",
+    "exampleVi": "Một số người cho rằng quảng cáo đã khiến giới trẻ ngày càng coi trọng vật chất.",
+    "exampleForm": "materialistic",
+    "collocations": [
+      "a materialistic society",
+      "increasingly materialistic"
+    ],
+    "synonyms": [
+      "acquisitive",
+      "consumerist"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "poverty",
+    "ipa": "/ˈpɒvəti/",
+    "pos": "noun",
+    "meaningEn": "the state of being extremely poor",
+    "meaningVi": "sự nghèo đói, cảnh nghèo",
+    "example": "Access to quality education is one of the most effective ways to lift families out of poverty.",
+    "exampleVi": "Tiếp cận giáo dục chất lượng là một trong những cách hiệu quả nhất để giúp các gia đình thoát nghèo.",
+    "exampleForm": "poverty",
+    "collocations": [
+      "live in poverty",
+      "reduce poverty",
+      "extreme poverty"
+    ],
+    "synonyms": [
+      "deprivation",
+      "hardship"
+    ],
+    "level": "B1"
+  }
+]

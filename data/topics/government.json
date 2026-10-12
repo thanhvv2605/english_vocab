@@ -1,0 +1,796 @@
+[
+  {
+    "word": "legislation",
+    "ipa": "/ˌledʒɪsˈleɪʃn/",
+    "pos": "noun",
+    "meaningEn": "a law or a set of laws passed by a parliament",
+    "meaningVi": "luật pháp, bộ luật",
+    "example": "Strict legislation on smoking in public places has significantly reduced passive smoking.",
+    "exampleVi": "Luật nghiêm ngặt về hút thuốc nơi công cộng đã giúp giảm đáng kể tình trạng hút thuốc thụ động.",
+    "exampleForm": "legislation",
+    "collocations": [
+      "introduce legislation",
+      "pass legislation",
+      "tougher legislation"
+    ],
+    "synonyms": [
+      "law",
+      "statute"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "legislate",
+    "ipa": "/ˈledʒɪsleɪt/",
+    "pos": "verb",
+    "meaningEn": "to make a law about a particular issue",
+    "meaningVi": "ban hành luật, lập pháp",
+    "example": "Some argue that governments should legislate to limit the amount of sugar in processed food.",
+    "exampleVi": "Một số người cho rằng chính phủ nên ban hành luật giới hạn lượng đường trong thực phẩm chế biến sẵn.",
+    "exampleForm": "legislate",
+    "collocations": [
+      "legislate against",
+      "legislate for",
+      "legislate to protect"
+    ],
+    "synonyms": [
+      "make laws",
+      "regulate"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "enact",
+    "ipa": "/ɪˈnækt/",
+    "pos": "verb",
+    "meaningEn": "to make a proposal officially become law",
+    "meaningVi": "ban hành, thông qua (đạo luật)",
+    "example": "Laws protecting workers' rights were enacted only after years of public campaigning.",
+    "exampleVi": "Các đạo luật bảo vệ quyền lợi người lao động chỉ được ban hành sau nhiều năm vận động của công chúng.",
+    "exampleForm": "enacted",
+    "collocations": [
+      "enact a law",
+      "enact legislation",
+      "enact reforms"
+    ],
+    "synonyms": [
+      "pass",
+      "introduce"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "impose",
+    "ipa": "/ɪmˈpəʊz/",
+    "pos": "verb",
+    "meaningEn": "to officially introduce a rule, tax or punishment",
+    "meaningVi": "áp đặt, áp dụng (thuế, lệnh cấm, hình phạt)",
+    "example": "Several countries have imposed a tax on sugary drinks to tackle rising obesity rates.",
+    "exampleVi": "Một số quốc gia đã áp thuế đối với đồ uống có đường nhằm giải quyết tỷ lệ béo phì ngày càng tăng.",
+    "exampleForm": "imposed",
+    "collocations": [
+      "impose a ban",
+      "impose a tax",
+      "impose restrictions"
+    ],
+    "synonyms": [
+      "introduce",
+      "enforce"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "taxation",
+    "ipa": "/tækˈseɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the system of charging taxes, or money raised from taxes",
+    "meaningVi": "việc đánh thuế, hệ thống thuế",
+    "example": "Progressive taxation ensures that those who earn more contribute a larger share to public services.",
+    "exampleVi": "Hệ thống thuế luỹ tiến đảm bảo rằng những người thu nhập cao hơn đóng góp phần lớn hơn cho các dịch vụ công.",
+    "exampleForm": "taxation",
+    "collocations": [
+      "progressive taxation",
+      "high taxation",
+      "direct taxation"
+    ],
+    "synonyms": [
+      "tax system"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "taxpayer",
+    "ipa": "/ˈtækspeɪə/",
+    "pos": "noun",
+    "meaningEn": "a person or organisation that pays tax",
+    "meaningVi": "người nộp thuế",
+    "example": "It is unfair to expect taxpayers to fund expensive projects that benefit only a small minority.",
+    "exampleVi": "Thật không công bằng khi bắt người nộp thuế chi trả cho những dự án đắt đỏ chỉ mang lại lợi ích cho một nhóm thiểu số.",
+    "exampleForm": "taxpayers",
+    "collocations": [
+      "taxpayers' money",
+      "at the taxpayer's expense",
+      "ordinary taxpayers"
+    ],
+    "synonyms": [
+      "ratepayer"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "income tax",
+    "ipa": "/ˈɪnkʌm tæks/",
+    "pos": "noun",
+    "meaningEn": "tax paid on the money that people earn",
+    "meaningVi": "thuế thu nhập cá nhân",
+    "example": "Raising income tax for the highest earners could help fund free healthcare for everyone.",
+    "exampleVi": "Tăng thuế thu nhập đối với nhóm thu nhập cao nhất có thể giúp tài trợ cho dịch vụ y tế miễn phí cho mọi người.",
+    "exampleForm": "income tax",
+    "collocations": [
+      "pay income tax",
+      "raise income tax",
+      "cut income tax"
+    ],
+    "synonyms": [
+      "personal tax"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "levy",
+    "ipa": "/ˈlevi/",
+    "pos": "verb",
+    "meaningEn": "to officially demand and collect a tax or fee",
+    "meaningVi": "đánh (thuế), thu (phí)",
+    "example": "Some cities levy a charge on drivers entering the centre in order to reduce congestion.",
+    "exampleVi": "Một số thành phố thu phí các tài xế đi vào khu trung tâm nhằm giảm ùn tắc giao thông.",
+    "exampleForm": "levy",
+    "collocations": [
+      "levy a tax",
+      "levy a charge",
+      "levy a fine"
+    ],
+    "synonyms": [
+      "impose",
+      "charge"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "subsidise",
+    "ipa": "/ˈsʌbsɪdaɪz/",
+    "pos": "verb",
+    "meaningEn": "to pay part of the cost of something to make it cheaper",
+    "meaningVi": "trợ giá, trợ cấp, bao cấp",
+    "example": "The government should subsidise public transport so that it becomes an affordable alternative to driving.",
+    "exampleVi": "Chính phủ nên trợ giá giao thông công cộng để nó trở thành lựa chọn thay thế ô tô với chi phí hợp lý.",
+    "exampleForm": "subsidise",
+    "collocations": [
+      "heavily subsidise",
+      "subsidise public transport",
+      "state-subsidised"
+    ],
+    "synonyms": [
+      "fund",
+      "finance"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "public spending",
+    "ipa": "/ˌpʌblɪk ˈspendɪŋ/",
+    "pos": "noun",
+    "meaningEn": "money spent by the government on services such as health and education",
+    "meaningVi": "chi tiêu công",
+    "example": "Cuts in public spending often hit the poorest members of society the hardest.",
+    "exampleVi": "Việc cắt giảm chi tiêu công thường ảnh hưởng nặng nề nhất đến những người nghèo nhất trong xã hội.",
+    "exampleForm": "public spending",
+    "collocations": [
+      "cuts in public spending",
+      "increase public spending",
+      "public spending on health"
+    ],
+    "synonyms": [
+      "government expenditure"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "public funds",
+    "ipa": "/ˌpʌblɪk ˈfʌndz/",
+    "pos": "noun",
+    "meaningEn": "money that belongs to the government and comes from taxes",
+    "meaningVi": "ngân sách công, công quỹ",
+    "example": "Many people question whether public funds should be spent on space exploration while poverty persists.",
+    "exampleVi": "Nhiều người đặt câu hỏi liệu có nên dùng ngân sách công cho việc khám phá vũ trụ khi tình trạng nghèo đói vẫn còn hay không.",
+    "exampleForm": "public funds",
+    "collocations": [
+      "misuse of public funds",
+      "allocate public funds",
+      "waste public funds"
+    ],
+    "synonyms": [
+      "public money",
+      "taxpayers' money"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "welfare state",
+    "ipa": "/ˌwelfeə ˈsteɪt/",
+    "pos": "noun",
+    "meaningEn": "a system in which the government provides free services and benefits for citizens",
+    "meaningVi": "nhà nước phúc lợi",
+    "example": "Critics claim that a generous welfare state can discourage some people from looking for work.",
+    "exampleVi": "Những người chỉ trích cho rằng một nhà nước phúc lợi quá hào phóng có thể khiến một số người không muốn tìm việc làm.",
+    "exampleForm": "welfare state",
+    "collocations": [
+      "a generous welfare state",
+      "the modern welfare state"
+    ],
+    "synonyms": [
+      "social welfare system"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "social security",
+    "ipa": "/ˌsəʊʃl sɪˈkjʊərəti/",
+    "pos": "noun",
+    "meaningEn": "money paid by the government to people who are unemployed, ill or old",
+    "meaningVi": "an sinh xã hội, trợ cấp xã hội",
+    "example": "A reliable social security system protects families from falling into poverty when they lose their income.",
+    "exampleVi": "Một hệ thống an sinh xã hội đáng tin cậy giúp các gia đình không rơi vào cảnh nghèo đói khi mất nguồn thu nhập.",
+    "exampleForm": "social security",
+    "collocations": [
+      "social security benefits",
+      "social security system",
+      "rely on social security"
+    ],
+    "synonyms": [
+      "welfare",
+      "benefits"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "lobby",
+    "ipa": "/ˈlɒbi/",
+    "pos": "verb",
+    "meaningEn": "to try to persuade politicians to support or oppose a law",
+    "meaningVi": "vận động hành lang, vận động chính sách",
+    "example": "Powerful tobacco companies have lobbied hard against stricter rules on cigarette advertising.",
+    "exampleVi": "Các công ty thuốc lá quyền lực đã ra sức vận động hành lang chống lại các quy định chặt chẽ hơn về quảng cáo thuốc lá.",
+    "exampleForm": "lobbied",
+    "collocations": [
+      "lobby the government",
+      "lobby for change",
+      "lobby against"
+    ],
+    "synonyms": [
+      "campaign",
+      "pressure"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "bureaucracy",
+    "ipa": "/bjʊəˈrɒkrəsi/",
+    "pos": "noun",
+    "meaningEn": "complicated official rules and processes that make things slow",
+    "meaningVi": "thủ tục hành chính rườm rà, bộ máy quan liêu",
+    "example": "Excessive bureaucracy discourages young entrepreneurs from starting their own businesses.",
+    "exampleVi": "Thủ tục hành chính rườm rà khiến các doanh nhân trẻ nản lòng khi muốn tự khởi nghiệp.",
+    "exampleForm": "bureaucracy",
+    "collocations": [
+      "cut bureaucracy",
+      "excessive bureaucracy",
+      "government bureaucracy"
+    ],
+    "synonyms": [
+      "red tape",
+      "officialdom"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "policymaker",
+    "ipa": "/ˈpɒləsiˌmeɪkə/",
+    "pos": "noun",
+    "meaningEn": "a person responsible for making government policies",
+    "meaningVi": "nhà hoạch định chính sách",
+    "example": "Policymakers must consider the long-term consequences of their decisions, not just short-term popularity.",
+    "exampleVi": "Các nhà hoạch định chính sách phải cân nhắc hệ quả lâu dài của các quyết định, chứ không chỉ sự ủng hộ trước mắt.",
+    "exampleForm": "Policymakers",
+    "collocations": [
+      "government policymakers",
+      "urge policymakers to"
+    ],
+    "synonyms": [
+      "lawmaker",
+      "decision-maker"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "electorate",
+    "ipa": "/ɪˈlektərət/",
+    "pos": "noun",
+    "meaningEn": "all the people in a country who are allowed to vote",
+    "meaningVi": "cử tri, toàn thể cử tri",
+    "example": "Politicians often promise tax cuts before an election simply to win over the electorate.",
+    "exampleVi": "Các chính trị gia thường hứa giảm thuế trước bầu cử chỉ để lấy lòng cử tri.",
+    "exampleForm": "electorate",
+    "collocations": [
+      "appeal to the electorate",
+      "win over the electorate",
+      "a well-informed electorate"
+    ],
+    "synonyms": [
+      "voters"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "democracy",
+    "ipa": "/dɪˈmɒkrəsi/",
+    "pos": "noun",
+    "meaningEn": "a system of government in which people choose their leaders by voting",
+    "meaningVi": "nền dân chủ, chế độ dân chủ",
+    "example": "A free press is essential in a democracy because it holds those in power to account.",
+    "exampleVi": "Báo chí tự do là điều thiết yếu trong một nền dân chủ vì nó buộc những người nắm quyền phải chịu trách nhiệm.",
+    "exampleForm": "democracy",
+    "collocations": [
+      "a healthy democracy",
+      "parliamentary democracy",
+      "promote democracy"
+    ],
+    "synonyms": [
+      "self-government"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "authoritarian",
+    "ipa": "/ɔːˌθɒrɪˈteəriən/",
+    "pos": "adjective",
+    "meaningEn": "forcing people to obey strict rules and limiting their freedom",
+    "meaningVi": "độc đoán, chuyên quyền",
+    "example": "Authoritarian regimes often restrict freedom of speech to prevent criticism of the government.",
+    "exampleVi": "Các chế độ chuyên quyền thường hạn chế tự do ngôn luận để ngăn chặn sự chỉ trích chính phủ.",
+    "exampleForm": "Authoritarian",
+    "collocations": [
+      "an authoritarian regime",
+      "authoritarian rule",
+      "authoritarian government"
+    ],
+    "synonyms": [
+      "autocratic",
+      "dictatorial"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "accountable",
+    "ipa": "/əˈkaʊntəbl/",
+    "pos": "adjective",
+    "meaningEn": "responsible for your decisions and expected to explain them",
+    "meaningVi": "chịu trách nhiệm (giải trình)",
+    "example": "Ministers must be held accountable for how they spend taxpayers' money.",
+    "exampleVi": "Các bộ trưởng phải chịu trách nhiệm giải trình về cách họ chi tiêu tiền của người nộp thuế.",
+    "exampleForm": "accountable",
+    "collocations": [
+      "hold someone accountable",
+      "accountable to the public",
+      "politically accountable"
+    ],
+    "synonyms": [
+      "answerable",
+      "responsible"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "transparency",
+    "ipa": "/trænsˈpærənsi/",
+    "pos": "noun",
+    "meaningEn": "the quality of being open and honest about decisions and actions",
+    "meaningVi": "sự minh bạch",
+    "example": "Greater transparency in government contracts would make corruption much harder to hide.",
+    "exampleVi": "Minh bạch hơn trong các hợp đồng của chính phủ sẽ khiến nạn tham nhũng khó bị che giấu hơn nhiều.",
+    "exampleForm": "transparency",
+    "collocations": [
+      "greater transparency",
+      "lack of transparency",
+      "transparency and accountability"
+    ],
+    "synonyms": [
+      "openness"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "corruption",
+    "ipa": "/kəˈrʌpʃn/",
+    "pos": "noun",
+    "meaningEn": "dishonest or illegal behaviour by people in power, such as taking bribes",
+    "meaningVi": "nạn tham nhũng",
+    "example": "Widespread corruption undermines public trust and diverts money away from essential services.",
+    "exampleVi": "Nạn tham nhũng tràn lan làm suy giảm niềm tin của người dân và khiến tiền bị thất thoát khỏi các dịch vụ thiết yếu.",
+    "exampleForm": "corruption",
+    "collocations": [
+      "tackle corruption",
+      "widespread corruption",
+      "political corruption"
+    ],
+    "synonyms": [
+      "bribery",
+      "dishonesty"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "public sector",
+    "ipa": "/ˌpʌblɪk ˈsektə/",
+    "pos": "noun",
+    "meaningEn": "the part of the economy owned or controlled by the government",
+    "meaningVi": "khu vực công, khu vực nhà nước",
+    "example": "Salaries in the public sector are often lower, but jobs tend to be more secure.",
+    "exampleVi": "Lương trong khu vực công thường thấp hơn, nhưng công việc lại ổn định hơn.",
+    "exampleForm": "public sector",
+    "collocations": [
+      "public sector workers",
+      "public sector jobs",
+      "public sector pay"
+    ],
+    "synonyms": [
+      "state sector"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "privatise",
+    "ipa": "/ˈpraɪvətaɪz/",
+    "pos": "verb",
+    "meaningEn": "to sell a state-owned company or service to private owners",
+    "meaningVi": "tư nhân hoá",
+    "example": "When the railways were privatised, ticket prices rose while the quality of service barely improved.",
+    "exampleVi": "Khi ngành đường sắt được tư nhân hoá, giá vé tăng trong khi chất lượng dịch vụ hầu như không cải thiện.",
+    "exampleForm": "privatised",
+    "collocations": [
+      "privatise public services",
+      "fully privatised",
+      "plans to privatise"
+    ],
+    "synonyms": [
+      "sell off",
+      "denationalise"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "nationalise",
+    "ipa": "/ˈnæʃnəlaɪz/",
+    "pos": "verb",
+    "meaningEn": "to bring a private company or industry under government ownership",
+    "meaningVi": "quốc hữu hoá",
+    "example": "Some economists argue that essential utilities such as water should be nationalised.",
+    "exampleVi": "Một số nhà kinh tế cho rằng các dịch vụ thiết yếu như cấp nước nên được quốc hữu hoá.",
+    "exampleForm": "nationalised",
+    "collocations": [
+      "nationalise the railways",
+      "nationalised industries"
+    ],
+    "synonyms": [
+      "take into public ownership"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "state-funded",
+    "ipa": "/ˌsteɪt ˈfʌndɪd/",
+    "pos": "adjective",
+    "meaningEn": "paid for by the government",
+    "meaningVi": "do nhà nước tài trợ, được ngân sách nhà nước chi trả",
+    "example": "State-funded healthcare ensures that nobody is denied treatment simply because they cannot afford it.",
+    "exampleVi": "Dịch vụ y tế do nhà nước chi trả đảm bảo không ai bị từ chối điều trị chỉ vì không đủ khả năng chi trả.",
+    "exampleForm": "State-funded",
+    "collocations": [
+      "state-funded schools",
+      "state-funded healthcare"
+    ],
+    "synonyms": [
+      "publicly funded",
+      "government-funded"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "ban",
+    "ipa": "/bæn/",
+    "pos": "verb",
+    "meaningEn": "to officially say that something must not be done or used",
+    "meaningVi": "cấm, ra lệnh cấm",
+    "example": "Many countries have banned single-use plastic bags, and similar measures should be adopted worldwide.",
+    "exampleVi": "Nhiều quốc gia đã cấm túi ni-lông dùng một lần, và các biện pháp tương tự nên được áp dụng trên toàn thế giới.",
+    "exampleForm": "banned",
+    "collocations": [
+      "ban outright",
+      "be banned from",
+      "ban the sale of"
+    ],
+    "synonyms": [
+      "prohibit",
+      "outlaw"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "means-tested",
+    "ipa": "/ˈmiːnz ˌtestɪd/",
+    "pos": "adjective",
+    "meaningEn": "given only to people whose income is below a certain level",
+    "meaningVi": "được xét theo mức thu nhập",
+    "example": "Means-tested benefits ensure that limited resources go to those who genuinely need them.",
+    "exampleVi": "Các khoản trợ cấp được xét theo mức thu nhập đảm bảo rằng nguồn lực hạn chế đến tay những người thực sự cần.",
+    "exampleForm": "Means-tested",
+    "collocations": [
+      "means-tested benefits",
+      "means-tested support"
+    ],
+    "synonyms": [
+      "income-based"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "referendum",
+    "ipa": "/ˌrefəˈrendəm/",
+    "pos": "noun",
+    "meaningEn": "a vote in which all citizens decide on a single political question",
+    "meaningVi": "cuộc trưng cầu dân ý",
+    "example": "Major constitutional changes should be decided by a referendum rather than by politicians alone.",
+    "exampleVi": "Những thay đổi lớn về hiến pháp nên được quyết định bằng trưng cầu dân ý thay vì chỉ bởi các chính trị gia.",
+    "exampleForm": "referendum",
+    "collocations": [
+      "hold a referendum",
+      "call a referendum",
+      "a national referendum"
+    ],
+    "synonyms": [
+      "plebiscite",
+      "public vote"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "manifesto",
+    "ipa": "/ˌmænɪˈfestəʊ/",
+    "pos": "noun",
+    "meaningEn": "a written statement of a political party's aims and policies",
+    "meaningVi": "cương lĩnh tranh cử",
+    "example": "Voters are often disappointed when parties fail to deliver the promises made in their manifesto.",
+    "exampleVi": "Cử tri thường thất vọng khi các đảng không thực hiện được những lời hứa trong cương lĩnh tranh cử.",
+    "exampleForm": "manifesto",
+    "collocations": [
+      "election manifesto",
+      "manifesto pledge",
+      "publish a manifesto"
+    ],
+    "synonyms": [
+      "platform",
+      "policy statement"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "nanny state",
+    "ipa": "/ˌnæni ˈsteɪt/",
+    "pos": "noun",
+    "meaningEn": "a government that interferes too much in people's personal choices",
+    "meaningVi": "nhà nước bảo mẫu (can thiệp quá sâu vào đời sống cá nhân)",
+    "example": "Opponents of the sugar tax dismiss it as yet another example of the nanny state.",
+    "exampleVi": "Những người phản đối thuế đường gạt đi và coi nó là thêm một ví dụ về kiểu nhà nước bảo mẫu can thiệp quá sâu vào đời sống người dân.",
+    "exampleForm": "nanny state",
+    "collocations": [
+      "an example of the nanny state",
+      "nanny state policies"
+    ],
+    "synonyms": [
+      "paternalism"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "intervene",
+    "ipa": "/ˌɪntəˈviːn/",
+    "pos": "verb",
+    "meaningEn": "to become involved in a situation in order to change or improve it",
+    "meaningVi": "can thiệp",
+    "example": "When housing prices become unaffordable, the state has a duty to intervene in the market.",
+    "exampleVi": "Khi giá nhà vượt quá khả năng chi trả của người dân, nhà nước có trách nhiệm can thiệp vào thị trường.",
+    "exampleForm": "intervene",
+    "collocations": [
+      "intervene in the market",
+      "the government intervened",
+      "intervene directly"
+    ],
+    "synonyms": [
+      "step in",
+      "interfere"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "tax evasion",
+    "ipa": "/ˈtæks ɪˌveɪʒn/",
+    "pos": "noun",
+    "meaningEn": "the illegal act of not paying the tax you owe",
+    "meaningVi": "hành vi trốn thuế",
+    "example": "Billions are lost every year through tax evasion, money that could fund schools and hospitals.",
+    "exampleVi": "Hàng tỷ đô la bị thất thu mỗi năm do trốn thuế, số tiền có thể dùng để xây trường học và bệnh viện.",
+    "exampleForm": "tax evasion",
+    "collocations": [
+      "crack down on tax evasion",
+      "be accused of tax evasion"
+    ],
+    "synonyms": [
+      "tax fraud"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "tax burden",
+    "ipa": "/ˈtæks ˌbɜːdn/",
+    "pos": "noun",
+    "meaningEn": "the amount of tax that a person or group has to pay",
+    "meaningVi": "gánh nặng thuế",
+    "example": "An ageing population will increase the tax burden on younger workers in the coming decades.",
+    "exampleVi": "Dân số già hoá sẽ làm tăng gánh nặng thuế đối với những người lao động trẻ trong những thập kỷ tới.",
+    "exampleForm": "tax burden",
+    "collocations": [
+      "ease the tax burden",
+      "a heavy tax burden",
+      "shift the tax burden"
+    ],
+    "synonyms": [
+      "tax load"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "public services",
+    "ipa": "/ˌpʌblɪk ˈsɜːvɪsɪz/",
+    "pos": "noun",
+    "meaningEn": "services such as healthcare, education and transport provided by the government",
+    "meaningVi": "dịch vụ công",
+    "example": "Higher taxes are acceptable to most citizens if they lead to better public services.",
+    "exampleVi": "Đa số người dân chấp nhận mức thuế cao hơn nếu điều đó mang lại dịch vụ công tốt hơn.",
+    "exampleForm": "public services",
+    "collocations": [
+      "fund public services",
+      "improve public services",
+      "access to public services"
+    ],
+    "synonyms": [
+      "state services"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "turnout",
+    "ipa": "/ˈtɜːnaʊt/",
+    "pos": "noun",
+    "meaningEn": "the number of people who vote in an election",
+    "meaningVi": "tỷ lệ cử tri đi bầu",
+    "example": "Low turnout among young people suggests that many feel disconnected from mainstream politics.",
+    "exampleVi": "Tỷ lệ đi bầu thấp ở giới trẻ cho thấy nhiều người cảm thấy xa rời nền chính trị chính thống.",
+    "exampleForm": "turnout",
+    "collocations": [
+      "voter turnout",
+      "low turnout",
+      "a high turnout"
+    ],
+    "synonyms": [
+      "participation"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "civil liberties",
+    "ipa": "/ˌsɪvl ˈlɪbətiz/",
+    "pos": "noun",
+    "meaningEn": "the basic rights and freedoms of citizens, such as free speech",
+    "meaningVi": "quyền tự do dân sự",
+    "example": "Mass surveillance programmes raise serious concerns about the erosion of civil liberties.",
+    "exampleVi": "Các chương trình giám sát diện rộng làm dấy lên lo ngại nghiêm trọng về việc các quyền tự do dân sự bị xâm phạm.",
+    "exampleForm": "civil liberties",
+    "collocations": [
+      "protect civil liberties",
+      "threaten civil liberties"
+    ],
+    "synonyms": [
+      "civil rights",
+      "freedoms"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "red tape",
+    "ipa": "/ˌred ˈteɪp/",
+    "pos": "noun",
+    "meaningEn": "official rules and paperwork that seem unnecessary and cause delays",
+    "meaningVi": "thủ tục hành chính rườm rà, giấy tờ phiền hà",
+    "example": "Cutting red tape would make it much easier for small businesses to grow and create jobs.",
+    "exampleVi": "Cắt giảm thủ tục hành chính rườm rà sẽ giúp các doanh nghiệp nhỏ dễ dàng phát triển và tạo việc làm hơn.",
+    "exampleForm": "red tape",
+    "collocations": [
+      "cut red tape",
+      "bureaucratic red tape",
+      "tied up in red tape"
+    ],
+    "synonyms": [
+      "bureaucracy",
+      "paperwork"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "enforce",
+    "ipa": "/ɪnˈfɔːs/",
+    "pos": "verb",
+    "meaningEn": "to make sure that people obey a law or rule",
+    "meaningVi": "thực thi, cưỡng chế thi hành",
+    "example": "Introducing new regulations is pointless unless the authorities have the resources to enforce them.",
+    "exampleVi": "Ban hành quy định mới là vô ích nếu chính quyền không có đủ nguồn lực để thực thi chúng.",
+    "exampleForm": "enforce",
+    "collocations": [
+      "enforce the law",
+      "strictly enforce",
+      "enforce regulations"
+    ],
+    "synonyms": [
+      "implement",
+      "impose"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "sovereignty",
+    "ipa": "/ˈsɒvrənti/",
+    "pos": "noun",
+    "meaningEn": "the power of a country to govern itself independently",
+    "meaningVi": "chủ quyền",
+    "example": "Some nations are reluctant to join international agreements because they fear losing their sovereignty.",
+    "exampleVi": "Một số quốc gia ngần ngại tham gia các hiệp định quốc tế vì lo sợ mất chủ quyền.",
+    "exampleForm": "sovereignty",
+    "collocations": [
+      "national sovereignty",
+      "threaten sovereignty",
+      "sovereignty over"
+    ],
+    "synonyms": [
+      "independence",
+      "autonomy"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "austerity",
+    "ipa": "/ɒˈsterəti/",
+    "pos": "noun",
+    "meaningEn": "a government policy of cutting public spending to reduce debt",
+    "meaningVi": "chính sách thắt lưng buộc bụng, cắt giảm chi tiêu công",
+    "example": "Years of austerity have left many public hospitals short of staff and equipment.",
+    "exampleVi": "Nhiều năm thắt lưng buộc bụng đã khiến nhiều bệnh viện công thiếu nhân lực và trang thiết bị.",
+    "exampleForm": "austerity",
+    "collocations": [
+      "austerity measures",
+      "a period of austerity"
+    ],
+    "synonyms": [
+      "spending cuts"
+    ],
+    "level": "C1"
+  }
+]

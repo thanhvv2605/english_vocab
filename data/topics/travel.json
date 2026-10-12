@@ -1,0 +1,757 @@
+[
+  {
+    "word": "tourism",
+    "ipa": "/ˈtʊərɪzəm/",
+    "pos": "noun",
+    "meaningEn": "the business of providing services for people on holiday",
+    "meaningVi": "du lịch, ngành du lịch",
+    "example": "Tourism is a major source of income for many island nations, creating thousands of local jobs.",
+    "exampleVi": "Du lịch là nguồn thu nhập chính của nhiều quốc đảo, tạo ra hàng nghìn việc làm cho người dân địa phương.",
+    "exampleForm": "Tourism",
+    "collocations": [
+      "the tourism industry",
+      "promote tourism",
+      "domestic tourism"
+    ],
+    "synonyms": [
+      "travel industry"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "mass tourism",
+    "ipa": "/ˌmæs ˈtʊərɪzəm/",
+    "pos": "noun",
+    "meaningEn": "tourism involving very large numbers of people visiting the same places",
+    "meaningVi": "du lịch đại trà",
+    "example": "Mass tourism has damaged fragile ecosystems and driven up living costs for local residents.",
+    "exampleVi": "Du lịch đại trà đã gây tổn hại cho các hệ sinh thái mong manh và đẩy chi phí sinh hoạt của người dân địa phương lên cao.",
+    "exampleForm": "Mass tourism",
+    "collocations": [
+      "the effects of mass tourism",
+      "the rise of mass tourism"
+    ],
+    "synonyms": [
+      "overtourism"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "ecotourism",
+    "ipa": "/ˈiːkəʊˌtʊərɪzəm/",
+    "pos": "noun",
+    "meaningEn": "tourism to natural areas that aims to protect the environment and local people",
+    "meaningVi": "du lịch sinh thái",
+    "example": "Well-managed ecotourism can fund conservation projects while providing jobs for rural communities.",
+    "exampleVi": "Du lịch sinh thái được quản lý tốt có thể tài trợ cho các dự án bảo tồn đồng thời tạo việc làm cho cộng đồng nông thôn.",
+    "exampleForm": "ecotourism",
+    "collocations": [
+      "promote ecotourism",
+      "ecotourism projects"
+    ],
+    "synonyms": [
+      "green tourism"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "destination",
+    "ipa": "/ˌdestɪˈneɪʃn/",
+    "pos": "noun",
+    "meaningEn": "a place that people travel to",
+    "meaningVi": "điểm đến",
+    "example": "Vietnam has become a popular destination for travellers seeking beautiful beaches and affordable food.",
+    "exampleVi": "Việt Nam đã trở thành điểm đến được ưa chuộng đối với du khách tìm kiếm những bãi biển đẹp và đồ ăn giá rẻ.",
+    "exampleForm": "destination",
+    "collocations": [
+      "a popular destination",
+      "a tourist destination",
+      "holiday destination"
+    ],
+    "synonyms": [
+      "location"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "itinerary",
+    "ipa": "/aɪˈtɪnərəri/",
+    "pos": "noun",
+    "meaningEn": "a detailed plan of a journey, including places to visit",
+    "meaningVi": "lịch trình (chuyến đi)",
+    "example": "Package tours often follow a rigid itinerary, leaving little time for independent exploration.",
+    "exampleVi": "Các tour trọn gói thường theo một lịch trình cứng nhắc, để lại rất ít thời gian cho việc tự khám phá.",
+    "exampleForm": "itinerary",
+    "collocations": [
+      "plan an itinerary",
+      "a detailed itinerary",
+      "a flexible itinerary"
+    ],
+    "synonyms": [
+      "schedule",
+      "route"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "accommodation",
+    "ipa": "/əˌkɒməˈdeɪʃn/",
+    "pos": "noun",
+    "meaningEn": "a place to stay, such as a hotel or flat",
+    "meaningVi": "chỗ ở, nơi lưu trú",
+    "example": "The growth of home-sharing platforms has made cheap accommodation far easier to find.",
+    "exampleVi": "Sự phát triển của các nền tảng chia sẻ nhà ở đã giúp việc tìm chỗ ở giá rẻ dễ dàng hơn nhiều.",
+    "exampleForm": "accommodation",
+    "collocations": [
+      "cheap accommodation",
+      "book accommodation",
+      "tourist accommodation"
+    ],
+    "synonyms": [
+      "lodging"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "hospitality",
+    "ipa": "/ˌhɒspɪˈtæləti/",
+    "pos": "noun",
+    "meaningEn": "friendly treatment of guests; the business of hotels and restaurants",
+    "meaningVi": "sự hiếu khách, ngành dịch vụ nhà hàng – khách sạn",
+    "example": "Visitors are often impressed by the warm hospitality of local people in rural villages.",
+    "exampleVi": "Du khách thường ấn tượng bởi sự hiếu khách nồng hậu của người dân địa phương ở các làng quê.",
+    "exampleForm": "hospitality",
+    "collocations": [
+      "warm hospitality",
+      "the hospitality industry",
+      "hospitality sector"
+    ],
+    "synonyms": [
+      "friendliness",
+      "welcome"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "tourist attraction",
+    "ipa": "/ˈtʊərɪst əˌtrækʃn/",
+    "pos": "noun",
+    "meaningEn": "a place that many tourists visit because it is interesting",
+    "meaningVi": "điểm tham quan du lịch, địa điểm thu hút khách du lịch",
+    "example": "Ha Long Bay remains the country's most famous tourist attraction, drawing millions of visitors annually.",
+    "exampleVi": "Vịnh Hạ Long vẫn là điểm tham quan nổi tiếng nhất cả nước, thu hút hàng triệu du khách mỗi năm.",
+    "exampleForm": "tourist attraction",
+    "collocations": [
+      "a major tourist attraction",
+      "popular tourist attractions"
+    ],
+    "synonyms": [
+      "sight",
+      "landmark"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "landmark",
+    "ipa": "/ˈlændmɑːk/",
+    "pos": "noun",
+    "meaningEn": "a famous building or place that is easy to recognise",
+    "meaningVi": "địa danh nổi tiếng, công trình biểu tượng",
+    "example": "The Eiffel Tower is perhaps the most recognisable landmark in the world.",
+    "exampleVi": "Tháp Eiffel có lẽ là công trình biểu tượng dễ nhận biết nhất thế giới.",
+    "exampleForm": "landmark",
+    "collocations": [
+      "a famous landmark",
+      "historic landmarks",
+      "a local landmark"
+    ],
+    "synonyms": [
+      "monument"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "off the beaten track",
+    "ipa": "/ˌɒf ðə ˌbiːtn ˈtræk/",
+    "pos": "phrase",
+    "meaningEn": "in or to a place far away from where most tourists go",
+    "meaningVi": "nơi hẻo lánh, ít người lui tới (ngoài các tuyến du lịch quen thuộc)",
+    "example": "More adventurous travellers prefer to explore villages off the beaten track rather than crowded resorts.",
+    "exampleVi": "Những du khách ưa mạo hiểm thích khám phá các ngôi làng hẻo lánh hơn là những khu nghỉ dưỡng đông đúc.",
+    "exampleForm": "off the beaten track",
+    "collocations": [
+      "go off the beaten track",
+      "a village off the beaten track"
+    ],
+    "synonyms": [
+      "remote",
+      "secluded"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "broaden one's horizons",
+    "ipa": "/ˌbrɔːdn wʌnz həˈraɪznz/",
+    "pos": "phrase",
+    "meaningEn": "to increase your knowledge and experience of the world",
+    "meaningVi": "mở rộng tầm nhìn, mở mang hiểu biết",
+    "example": "Travelling abroad allows young people to broaden their horizons and become more tolerant of other cultures.",
+    "exampleVi": "Du lịch nước ngoài giúp người trẻ mở rộng tầm nhìn và trở nên bao dung hơn với các nền văn hoá khác.",
+    "exampleForm": "broaden their horizons",
+    "collocations": [
+      "help sb broaden their horizons",
+      "a chance to broaden one's horizons"
+    ],
+    "synonyms": [
+      "expand one's horizons",
+      "widen one's outlook"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "culture shock",
+    "ipa": "/ˈkʌltʃə ʃɒk/",
+    "pos": "noun",
+    "meaningEn": "a feeling of confusion when experiencing a very different culture",
+    "meaningVi": "sốc văn hoá",
+    "example": "International students frequently experience culture shock during their first few months abroad.",
+    "exampleVi": "Du học sinh thường trải qua cú sốc văn hoá trong vài tháng đầu tiên ở nước ngoài.",
+    "exampleForm": "culture shock",
+    "collocations": [
+      "experience culture shock",
+      "suffer from culture shock",
+      "overcome culture shock"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "jet lag",
+    "ipa": "/ˈdʒet læɡ/",
+    "pos": "noun",
+    "meaningEn": "tiredness caused by flying across different time zones",
+    "meaningVi": "mệt mỏi do lệch múi giờ",
+    "example": "Business travellers often struggle with jet lag, which can affect their performance in meetings.",
+    "exampleVi": "Người đi công tác thường bị mệt mỏi do lệch múi giờ, điều này có thể ảnh hưởng đến hiệu quả làm việc trong các cuộc họp.",
+    "exampleForm": "jet lag",
+    "collocations": [
+      "suffer from jet lag",
+      "get over jet lag",
+      "severe jet lag"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "sightseeing",
+    "ipa": "/ˈsaɪtsiːɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the activity of visiting interesting places as a tourist",
+    "meaningVi": "việc tham quan, ngắm cảnh",
+    "example": "Many visitors spend their mornings sightseeing and their afternoons relaxing on the beach.",
+    "exampleVi": "Nhiều du khách dành buổi sáng để tham quan và buổi chiều để thư giãn trên bãi biển.",
+    "exampleForm": "sightseeing",
+    "collocations": [
+      "go sightseeing",
+      "a sightseeing tour",
+      "do some sightseeing"
+    ],
+    "synonyms": [
+      "touring"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "package holiday",
+    "ipa": "/ˈpækɪdʒ ˌhɒlədeɪ/",
+    "pos": "noun",
+    "meaningEn": "a holiday where travel and accommodation are sold together at one price",
+    "meaningVi": "kỳ nghỉ trọn gói, tour trọn gói",
+    "example": "Package holidays appeal to families because they are convenient and often cheaper than booking separately.",
+    "exampleVi": "Các kỳ nghỉ trọn gói hấp dẫn các gia đình vì chúng tiện lợi và thường rẻ hơn so với đặt riêng lẻ.",
+    "exampleForm": "Package holidays",
+    "collocations": [
+      "book a package holiday",
+      "an all-inclusive package holiday"
+    ],
+    "synonyms": [
+      "package tour"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "backpacker",
+    "ipa": "/ˈbækpækə/",
+    "pos": "noun",
+    "meaningEn": "a person who travels cheaply, carrying their belongings in a rucksack",
+    "meaningVi": "khách du lịch ba lô, dân phượt",
+    "example": "Southeast Asia has long been a favourite region for backpackers on a tight budget.",
+    "exampleVi": "Đông Nam Á từ lâu đã là khu vực yêu thích của khách du lịch ba lô có ngân sách eo hẹp.",
+    "exampleForm": "backpackers",
+    "collocations": [
+      "budget backpackers",
+      "a backpacker hostel"
+    ],
+    "synonyms": [
+      "independent traveller"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "souvenir",
+    "ipa": "/ˌsuːvəˈnɪə/",
+    "pos": "noun",
+    "meaningEn": "something you buy to remind you of a place you visited",
+    "meaningVi": "quà lưu niệm, đồ kỷ niệm",
+    "example": "Buying handmade souvenirs directly from artisans helps support the local economy.",
+    "exampleVi": "Mua quà lưu niệm thủ công trực tiếp từ nghệ nhân góp phần hỗ trợ kinh tế địa phương.",
+    "exampleForm": "souvenirs",
+    "collocations": [
+      "a souvenir shop",
+      "buy souvenirs",
+      "keep as a souvenir"
+    ],
+    "synonyms": [
+      "memento",
+      "keepsake"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "exotic",
+    "ipa": "/ɪɡˈzɒtɪk/",
+    "pos": "adjective",
+    "meaningEn": "unusual and exciting because it comes from a distant country",
+    "meaningVi": "xa lạ và hấp dẫn, mang nét ngoại lai, kỳ thú",
+    "example": "Cheaper flights have enabled ordinary families to holiday in exotic locations once reserved for the wealthy.",
+    "exampleVi": "Vé máy bay rẻ hơn đã giúp các gia đình bình thường đi nghỉ ở những vùng đất xa xôi, mới lạ vốn chỉ dành cho người giàu.",
+    "exampleForm": "exotic",
+    "collocations": [
+      "exotic locations",
+      "exotic destinations",
+      "exotic food"
+    ],
+    "synonyms": [
+      "foreign",
+      "unfamiliar"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "picturesque",
+    "ipa": "/ˌpɪktʃəˈresk/",
+    "pos": "adjective",
+    "meaningEn": "very pretty, especially in an old-fashioned way",
+    "meaningVi": "đẹp như tranh vẽ, nên thơ",
+    "example": "The picturesque old town is lined with colourful houses and narrow cobbled streets.",
+    "exampleVi": "Khu phố cổ đẹp như tranh vẽ với những ngôi nhà đầy màu sắc và các con phố lát đá nhỏ hẹp.",
+    "exampleForm": "picturesque",
+    "collocations": [
+      "a picturesque village",
+      "picturesque scenery",
+      "picturesque setting"
+    ],
+    "synonyms": [
+      "scenic",
+      "charming"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "breathtaking",
+    "ipa": "/ˈbreθteɪkɪŋ/",
+    "pos": "adjective",
+    "meaningEn": "extremely beautiful or impressive",
+    "meaningVi": "đẹp ngỡ ngàng, ngoạn mục",
+    "example": "Trekkers are rewarded with breathtaking views of the mountains and terraced rice fields.",
+    "exampleVi": "Những người đi bộ đường dài được chiêm ngưỡng khung cảnh ngoạn mục của núi non và ruộng bậc thang.",
+    "exampleForm": "breathtaking",
+    "collocations": [
+      "breathtaking views",
+      "breathtaking scenery",
+      "breathtaking landscape"
+    ],
+    "synonyms": [
+      "stunning",
+      "spectacular"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "unspoilt",
+    "ipa": "/ˌʌnˈspɔɪlt/",
+    "pos": "adjective",
+    "meaningEn": "beautiful because it has not been changed by modern building or tourism",
+    "meaningVi": "còn hoang sơ, chưa bị tác động",
+    "example": "Remote islands quickly lose their unspoilt beauty once large hotels and resorts are built there.",
+    "exampleVi": "Những hòn đảo xa xôi nhanh chóng đánh mất vẻ đẹp hoang sơ một khi các khách sạn và khu nghỉ dưỡng lớn được xây dựng ở đó.",
+    "exampleForm": "unspoilt",
+    "collocations": [
+      "unspoilt beaches",
+      "unspoilt countryside",
+      "unspoilt beauty"
+    ],
+    "synonyms": [
+      "pristine",
+      "untouched"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "heritage site",
+    "ipa": "/ˈherɪtɪdʒ saɪt/",
+    "pos": "noun",
+    "meaningEn": "a place officially recognised as historically or culturally important",
+    "meaningVi": "di sản, khu di tích (văn hoá, lịch sử)",
+    "example": "Since being listed as a World Heritage Site, Hoi An has seen a dramatic rise in visitor numbers.",
+    "exampleVi": "Kể từ khi được công nhận là Di sản Thế giới, Hội An đã chứng kiến lượng khách tham quan tăng mạnh.",
+    "exampleForm": "Heritage Site",
+    "collocations": [
+      "a World Heritage Site",
+      "protect heritage sites",
+      "a UNESCO heritage site"
+    ],
+    "synonyms": [
+      "historic site"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "leisure",
+    "ipa": "/ˈleʒə/",
+    "pos": "noun",
+    "meaningEn": "time when you are not working and can relax or enjoy hobbies",
+    "meaningVi": "thời gian rảnh rỗi, sự giải trí",
+    "example": "As working hours fall, people are spending more of their leisure time on travel and hobbies.",
+    "exampleVi": "Khi giờ làm việc giảm, mọi người dành nhiều thời gian rảnh rỗi hơn cho du lịch và sở thích cá nhân.",
+    "exampleForm": "leisure",
+    "collocations": [
+      "leisure time",
+      "leisure activities",
+      "leisure facilities"
+    ],
+    "synonyms": [
+      "free time",
+      "recreation"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "getaway",
+    "ipa": "/ˈɡetəweɪ/",
+    "pos": "noun",
+    "meaningEn": "a short holiday away from your usual surroundings",
+    "meaningVi": "chuyến đi nghỉ ngắn ngày",
+    "example": "City dwellers increasingly book weekend getaways to the countryside to escape the stress of urban life.",
+    "exampleVi": "Cư dân thành phố ngày càng đặt những chuyến nghỉ cuối tuần về vùng quê để thoát khỏi áp lực cuộc sống đô thị.",
+    "exampleForm": "getaways",
+    "collocations": [
+      "a weekend getaway",
+      "a romantic getaway",
+      "a quick getaway"
+    ],
+    "synonyms": [
+      "short break",
+      "trip"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "embark on",
+    "ipa": "/ɪmˈbɑːk ɒn/",
+    "pos": "phrasal verb",
+    "meaningEn": "to start something new, important or difficult, such as a journey",
+    "meaningVi": "bắt đầu, dấn thân vào (một chuyến đi, một việc lớn)",
+    "example": "Many graduates embark on a gap year to travel before starting their careers.",
+    "exampleVi": "Nhiều sinh viên tốt nghiệp bắt đầu một năm nghỉ để đi du lịch trước khi bước vào sự nghiệp.",
+    "exampleForm": "embark on",
+    "collocations": [
+      "embark on a journey",
+      "embark on a career",
+      "embark on a trip"
+    ],
+    "synonyms": [
+      "begin",
+      "set out on"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "overseas",
+    "ipa": "/ˌəʊvəˈsiːz/",
+    "pos": "adverb",
+    "meaningEn": "in or to a foreign country, especially one across the sea",
+    "meaningVi": "ở nước ngoài, ra nước ngoài",
+    "example": "The number of Vietnamese people travelling overseas has risen sharply over the past decade.",
+    "exampleVi": "Số người Việt Nam đi du lịch nước ngoài đã tăng mạnh trong thập kỷ qua.",
+    "exampleForm": "overseas",
+    "collocations": [
+      "travel overseas",
+      "study overseas",
+      "work overseas"
+    ],
+    "synonyms": [
+      "abroad"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "high season",
+    "ipa": "/ˌhaɪ ˈsiːzn/",
+    "pos": "noun",
+    "meaningEn": "the time of year when most people visit a place and prices are highest",
+    "meaningVi": "mùa cao điểm (du lịch)",
+    "example": "Hotel prices can double during the high season, when beaches become extremely crowded.",
+    "exampleVi": "Giá khách sạn có thể tăng gấp đôi vào mùa cao điểm, khi các bãi biển trở nên cực kỳ đông đúc.",
+    "exampleForm": "high season",
+    "collocations": [
+      "during the high season",
+      "high-season prices"
+    ],
+    "synonyms": [
+      "peak season"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "influx",
+    "ipa": "/ˈɪnflʌks/",
+    "pos": "noun",
+    "meaningEn": "a large number of people or things arriving at the same time",
+    "meaningVi": "dòng người đổ về, sự tràn vào ồ ạt",
+    "example": "The sudden influx of tourists has put a huge strain on the island's water supply.",
+    "exampleVi": "Lượng khách du lịch đổ về đột ngột đã gây áp lực rất lớn lên nguồn cung cấp nước của hòn đảo.",
+    "exampleForm": "influx",
+    "collocations": [
+      "a massive influx",
+      "an influx of tourists",
+      "a sudden influx"
+    ],
+    "synonyms": [
+      "inflow",
+      "flood"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "commercialisation",
+    "ipa": "/kəˌmɜːʃəlaɪˈzeɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the process of making something mainly about earning money",
+    "meaningVi": "sự thương mại hoá",
+    "example": "Critics argue that the commercialisation of traditional festivals has stripped them of their cultural meaning.",
+    "exampleVi": "Những người phản đối cho rằng việc thương mại hoá các lễ hội truyền thống đã làm chúng mất đi ý nghĩa văn hoá.",
+    "exampleForm": "commercialisation",
+    "collocations": [
+      "the commercialisation of culture",
+      "excessive commercialisation"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "authentic",
+    "ipa": "/ɔːˈθentɪk/",
+    "pos": "adjective",
+    "meaningEn": "real and genuine, not a copy or made for tourists",
+    "meaningVi": "đích thực, nguyên bản, chân thực",
+    "example": "Homestays give visitors an authentic experience of local life that hotels simply cannot offer.",
+    "exampleVi": "Homestay mang đến cho du khách trải nghiệm chân thực về đời sống địa phương mà khách sạn không thể có được.",
+    "exampleForm": "authentic",
+    "collocations": [
+      "an authentic experience",
+      "authentic cuisine",
+      "authentic culture"
+    ],
+    "synonyms": [
+      "genuine",
+      "real"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "indigenous",
+    "ipa": "/ɪnˈdɪdʒənəs/",
+    "pos": "adjective",
+    "meaningEn": "naturally existing in or originally belonging to a place",
+    "meaningVi": "bản địa, bản xứ",
+    "example": "Tourism should benefit indigenous communities rather than turning their traditions into mere entertainment.",
+    "exampleVi": "Du lịch nên mang lại lợi ích cho cộng đồng bản địa thay vì biến truyền thống của họ thành trò giải trí đơn thuần.",
+    "exampleForm": "indigenous",
+    "collocations": [
+      "indigenous people",
+      "indigenous communities",
+      "indigenous culture"
+    ],
+    "synonyms": [
+      "native",
+      "local"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "wanderlust",
+    "ipa": "/ˈwɒndəlʌst/",
+    "pos": "noun",
+    "meaningEn": "a strong desire to travel",
+    "meaningVi": "niềm đam mê xê dịch, khao khát đi du lịch",
+    "example": "Social media has fuelled a sense of wanderlust among young people, who now see travel as essential.",
+    "exampleVi": "Mạng xã hội đã thổi bùng niềm đam mê xê dịch ở giới trẻ, những người giờ đây coi du lịch là điều thiết yếu.",
+    "exampleForm": "wanderlust",
+    "collocations": [
+      "a sense of wanderlust",
+      "fuel wanderlust"
+    ],
+    "synonyms": [],
+    "level": "C2"
+  },
+  {
+    "word": "sustainable tourism",
+    "ipa": "/səˌsteɪnəbl ˈtʊərɪzəm/",
+    "pos": "noun",
+    "meaningEn": "tourism that does not harm the environment or local culture in the long term",
+    "meaningVi": "du lịch bền vững",
+    "example": "Limiting visitor numbers at popular sites is a key step towards sustainable tourism.",
+    "exampleVi": "Giới hạn số lượng du khách tại các điểm tham quan nổi tiếng là một bước quan trọng hướng tới du lịch bền vững.",
+    "exampleForm": "sustainable tourism",
+    "collocations": [
+      "promote sustainable tourism",
+      "sustainable tourism practices"
+    ],
+    "synonyms": [
+      "responsible tourism"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "budget airline",
+    "ipa": "/ˌbʌdʒɪt ˈeəlaɪn/",
+    "pos": "noun",
+    "meaningEn": "an airline that offers cheap tickets with few extra services",
+    "meaningVi": "hãng hàng không giá rẻ",
+    "example": "The rise of budget airlines has made international travel affordable for millions of ordinary people.",
+    "exampleVi": "Sự phát triển của các hãng hàng không giá rẻ đã giúp hàng triệu người bình thường có thể đi du lịch quốc tế.",
+    "exampleForm": "budget airlines",
+    "collocations": [
+      "fly with a budget airline",
+      "the rise of budget airlines"
+    ],
+    "synonyms": [
+      "low-cost carrier"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "long-haul",
+    "ipa": "/ˌlɒŋ ˈhɔːl/",
+    "pos": "adjective",
+    "meaningEn": "travelling a long distance, especially by plane",
+    "meaningVi": "đường dài (chuyến bay)",
+    "example": "Long-haul flights produce large amounts of carbon emissions, so some travellers now choose destinations closer to home.",
+    "exampleVi": "Các chuyến bay đường dài thải ra lượng khí carbon lớn, vì vậy một số du khách hiện chọn những điểm đến gần nhà hơn.",
+    "exampleForm": "Long-haul",
+    "collocations": [
+      "long-haul flights",
+      "long-haul destinations",
+      "long-haul travel"
+    ],
+    "synonyms": [
+      "long-distance"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "excursion",
+    "ipa": "/ɪkˈskɜːʃn/",
+    "pos": "noun",
+    "meaningEn": "a short trip, usually made for pleasure or education by a group",
+    "meaningVi": "chuyến tham quan, chuyến dã ngoại",
+    "example": "Schools should organise more educational excursions to museums and historical sites.",
+    "exampleVi": "Các trường học nên tổ chức nhiều chuyến tham quan mang tính giáo dục hơn đến bảo tàng và di tích lịch sử.",
+    "exampleForm": "excursions",
+    "collocations": [
+      "a day excursion",
+      "go on an excursion",
+      "an educational excursion"
+    ],
+    "synonyms": [
+      "outing",
+      "day trip"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "tourist trap",
+    "ipa": "/ˈtʊərɪst træp/",
+    "pos": "noun",
+    "meaningEn": "a crowded place that charges tourists too much money",
+    "meaningVi": "nơi \"chặt chém\" khách du lịch",
+    "example": "Experienced travellers tend to avoid tourist traps where prices are inflated and the food is mediocre.",
+    "exampleVi": "Những du khách dày dạn kinh nghiệm thường tránh những nơi \"chặt chém\" khách, giá bị đội lên mà đồ ăn lại tầm thường.",
+    "exampleForm": "tourist traps",
+    "collocations": [
+      "avoid tourist traps",
+      "a notorious tourist trap"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "cuisine",
+    "ipa": "/kwɪˈziːn/",
+    "pos": "noun",
+    "meaningEn": "a style of cooking, especially of a particular country or region",
+    "meaningVi": "ẩm thực",
+    "example": "For many visitors, sampling the local cuisine is just as important as visiting famous sights.",
+    "exampleVi": "Với nhiều du khách, thưởng thức ẩm thực địa phương cũng quan trọng không kém việc tham quan các danh lam nổi tiếng.",
+    "exampleForm": "cuisine",
+    "collocations": [
+      "local cuisine",
+      "traditional cuisine",
+      "sample the cuisine"
+    ],
+    "synonyms": [
+      "cooking",
+      "food"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "unwind",
+    "ipa": "/ˌʌnˈwaɪnd/",
+    "pos": "verb",
+    "meaningEn": "to relax after a period of work or stress",
+    "meaningVi": "thư giãn, xả hơi",
+    "example": "A short holiday by the sea gives busy professionals a chance to unwind and recharge.",
+    "exampleVi": "Một kỳ nghỉ ngắn bên bờ biển giúp những người bận rộn có cơ hội thư giãn và nạp lại năng lượng.",
+    "exampleForm": "unwind",
+    "collocations": [
+      "a chance to unwind",
+      "unwind after work",
+      "relax and unwind"
+    ],
+    "synonyms": [
+      "relax",
+      "de-stress"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "globetrotter",
+    "ipa": "/ˈɡləʊbtrɒtə/",
+    "pos": "noun",
+    "meaningEn": "a person who travels to many different countries",
+    "meaningVi": "người đi du lịch khắp thế giới",
+    "example": "Thanks to remote work, a growing number of young globetrotters can earn a living while travelling.",
+    "exampleVi": "Nhờ làm việc từ xa, ngày càng nhiều người trẻ đi khắp thế giới có thể vừa kiếm sống vừa du lịch.",
+    "exampleForm": "globetrotters",
+    "collocations": [
+      "a seasoned globetrotter",
+      "a keen globetrotter"
+    ],
+    "synonyms": [
+      "world traveller"
+    ],
+    "level": "C1"
+  }
+]

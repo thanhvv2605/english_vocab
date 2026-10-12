@@ -1,0 +1,758 @@
+[
+  {
+    "word": "urbanisation",
+    "ipa": "/ˌɜːbənaɪˈzeɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the process by which more people move to and live in cities",
+    "meaningVi": "quá trình đô thị hoá",
+    "example": "Rapid urbanisation has placed enormous pressure on housing and public services in developing countries.",
+    "exampleVi": "Quá trình đô thị hoá nhanh chóng đã gây áp lực rất lớn lên nhà ở và dịch vụ công ở các nước đang phát triển.",
+    "exampleForm": "urbanisation",
+    "collocations": [
+      "rapid urbanisation",
+      "the pace of urbanisation",
+      "unplanned urbanisation"
+    ],
+    "synonyms": [
+      "urban growth"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "urban sprawl",
+    "ipa": "/ˌɜːbən ˈsprɔːl/",
+    "pos": "noun",
+    "meaningEn": "the uncontrolled spread of a city into the surrounding countryside",
+    "meaningVi": "sự mở rộng đô thị tràn lan (lấn ra vùng nông thôn)",
+    "example": "Urban sprawl not only destroys farmland but also forces residents to rely heavily on private cars.",
+    "exampleVi": "Sự mở rộng đô thị tràn lan không chỉ phá huỷ đất nông nghiệp mà còn buộc cư dân phụ thuộc nhiều vào ô tô cá nhân.",
+    "exampleForm": "Urban sprawl",
+    "collocations": [
+      "curb urban sprawl",
+      "the problem of urban sprawl"
+    ],
+    "synonyms": [
+      "suburban sprawl"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "congestion",
+    "ipa": "/kənˈdʒestʃən/",
+    "pos": "noun",
+    "meaningEn": "a situation in which a place is too crowded, especially with traffic",
+    "meaningVi": "sự tắc nghẽn (giao thông), tình trạng quá tải",
+    "example": "Expanding the metro network is one of the most effective ways to reduce congestion in city centres.",
+    "exampleVi": "Mở rộng mạng lưới tàu điện ngầm là một trong những cách hiệu quả nhất để giảm tắc nghẽn ở trung tâm thành phố.",
+    "exampleForm": "congestion",
+    "collocations": [
+      "traffic congestion",
+      "ease congestion",
+      "severe congestion"
+    ],
+    "synonyms": [
+      "traffic jams",
+      "overcrowding"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "commute",
+    "ipa": "/kəˈmjuːt/",
+    "pos": "verb",
+    "meaningEn": "to travel regularly between home and work",
+    "meaningVi": "đi lại thường xuyên (giữa nhà và nơi làm việc)",
+    "example": "Many office workers commute for over two hours a day because they cannot afford to live near the centre.",
+    "exampleVi": "Nhiều nhân viên văn phòng mất hơn hai tiếng mỗi ngày để đi làm vì họ không đủ khả năng sống gần trung tâm.",
+    "exampleForm": "commute",
+    "collocations": [
+      "commute to work",
+      "commute long distances",
+      "a daily commute"
+    ],
+    "synonyms": [
+      "travel to work"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "infrastructure",
+    "ipa": "/ˈɪnfrəstrʌktʃə/",
+    "pos": "noun",
+    "meaningEn": "the basic systems and structures a country or city needs, such as roads and power",
+    "meaningVi": "cơ sở hạ tầng",
+    "example": "Governments should invest more in transport infrastructure to keep pace with the growing urban population.",
+    "exampleVi": "Chính phủ nên đầu tư nhiều hơn vào cơ sở hạ tầng giao thông để theo kịp dân số đô thị ngày càng tăng.",
+    "exampleForm": "infrastructure",
+    "collocations": [
+      "transport infrastructure",
+      "invest in infrastructure",
+      "ageing infrastructure"
+    ],
+    "synonyms": [
+      "facilities"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "overcrowded",
+    "ipa": "/ˌəʊvəˈkraʊdɪd/",
+    "pos": "adjective",
+    "meaningEn": "containing too many people or things",
+    "meaningVi": "quá đông đúc, chật chội",
+    "example": "Overcrowded buses and trains discourage many people from using public transport during peak hours.",
+    "exampleVi": "Xe buýt và tàu quá đông đúc khiến nhiều người ngại sử dụng phương tiện công cộng vào giờ cao điểm.",
+    "exampleForm": "Overcrowded",
+    "collocations": [
+      "overcrowded cities",
+      "overcrowded housing",
+      "severely overcrowded"
+    ],
+    "synonyms": [
+      "congested",
+      "packed"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "affordable housing",
+    "ipa": "/əˌfɔːdəbl ˈhaʊzɪŋ/",
+    "pos": "noun",
+    "meaningEn": "homes that people on low or average incomes can afford to buy or rent",
+    "meaningVi": "nhà ở giá rẻ, nhà ở vừa túi tiền",
+    "example": "The shortage of affordable housing has pushed many young families out of the capital.",
+    "exampleVi": "Sự thiếu hụt nhà ở giá rẻ đã đẩy nhiều gia đình trẻ ra khỏi thủ đô.",
+    "exampleForm": "affordable housing",
+    "collocations": [
+      "a shortage of affordable housing",
+      "build affordable housing",
+      "access to affordable housing"
+    ],
+    "synonyms": [
+      "low-cost housing"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "high-rise",
+    "ipa": "/ˈhaɪ raɪz/",
+    "pos": "adjective",
+    "meaningEn": "describing a very tall modern building with many floors",
+    "meaningVi": "cao tầng",
+    "example": "High-rise apartment blocks allow cities to accommodate more residents on limited land.",
+    "exampleVi": "Các khu chung cư cao tầng cho phép thành phố chứa được nhiều cư dân hơn trên quỹ đất hạn chế.",
+    "exampleForm": "High-rise",
+    "collocations": [
+      "high-rise buildings",
+      "high-rise flats",
+      "high-rise development"
+    ],
+    "synonyms": [
+      "multi-storey",
+      "tower-block"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "densely populated",
+    "ipa": "/ˌdensli ˈpɒpjuleɪtɪd/",
+    "pos": "adjective",
+    "meaningEn": "having a very large number of people living in a small area",
+    "meaningVi": "đông dân cư, mật độ dân số cao",
+    "example": "In densely populated areas, even minor road works can cause severe traffic delays.",
+    "exampleVi": "Ở những khu vực đông dân cư, ngay cả việc sửa đường nhỏ cũng có thể gây ách tắc giao thông nghiêm trọng.",
+    "exampleForm": "densely populated",
+    "collocations": [
+      "densely populated areas",
+      "densely populated cities"
+    ],
+    "synonyms": [
+      "crowded",
+      "heavily populated"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "pedestrianise",
+    "ipa": "/pəˈdestriənaɪz/",
+    "pos": "verb",
+    "meaningEn": "to close a street to vehicles so that only people walking can use it",
+    "meaningVi": "biến thành khu phố đi bộ, cấm xe cộ lưu thông",
+    "example": "Several European cities have pedestrianised their historic centres to reduce pollution and attract shoppers.",
+    "exampleVi": "Nhiều thành phố châu Âu đã biến khu trung tâm lịch sử thành khu phố đi bộ để giảm ô nhiễm và thu hút người mua sắm.",
+    "exampleForm": "pedestrianised",
+    "collocations": [
+      "pedestrianise the city centre",
+      "pedestrianised streets",
+      "pedestrianised zone"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "public transport",
+    "ipa": "/ˌpʌblɪk ˈtrænspɔːt/",
+    "pos": "noun",
+    "meaningEn": "buses, trains and other vehicles available to everyone for a fare",
+    "meaningVi": "phương tiện giao thông công cộng",
+    "example": "Making public transport cheaper and more reliable would encourage commuters to leave their cars at home.",
+    "exampleVi": "Làm cho giao thông công cộng rẻ hơn và đáng tin cậy hơn sẽ khuyến khích người đi làm để ô tô ở nhà.",
+    "exampleForm": "public transport",
+    "collocations": [
+      "use public transport",
+      "invest in public transport",
+      "a public transport system"
+    ],
+    "synonyms": [
+      "mass transit"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "metropolis",
+    "ipa": "/məˈtrɒpəlɪs/",
+    "pos": "noun",
+    "meaningEn": "a very large city, often the most important one in a region",
+    "meaningVi": "đô thị lớn, thành phố lớn",
+    "example": "Within a few decades, the small fishing village grew into a bustling metropolis of ten million people.",
+    "exampleVi": "Chỉ trong vài thập kỷ, làng chài nhỏ đã phát triển thành một đô thị lớn sầm uất với mười triệu dân.",
+    "exampleForm": "metropolis",
+    "collocations": [
+      "a bustling metropolis",
+      "a sprawling metropolis",
+      "a modern metropolis"
+    ],
+    "synonyms": [
+      "megacity",
+      "conurbation"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "outskirts",
+    "ipa": "/ˈaʊtskɜːts/",
+    "pos": "noun",
+    "meaningEn": "the areas on the edge of a town or city",
+    "meaningVi": "vùng ngoại ô, vùng ven",
+    "example": "Many factories have been relocated to the outskirts of the city to improve air quality in the centre.",
+    "exampleVi": "Nhiều nhà máy đã được di dời ra vùng ngoại ô để cải thiện chất lượng không khí ở trung tâm thành phố.",
+    "exampleForm": "outskirts",
+    "collocations": [
+      "on the outskirts of",
+      "the northern outskirts"
+    ],
+    "synonyms": [
+      "suburbs",
+      "periphery"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "suburban",
+    "ipa": "/səˈbɜːbən/",
+    "pos": "adjective",
+    "meaningEn": "relating to the residential areas around the edge of a city",
+    "meaningVi": "thuộc ngoại ô",
+    "example": "Suburban residents often enjoy larger homes and quieter streets but face longer journeys to work.",
+    "exampleVi": "Cư dân ngoại ô thường có nhà rộng hơn, đường phố yên tĩnh hơn nhưng phải đi làm xa hơn.",
+    "exampleForm": "Suburban",
+    "collocations": [
+      "suburban areas",
+      "suburban life",
+      "suburban development"
+    ],
+    "synonyms": [
+      "residential"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "amenities",
+    "ipa": "/əˈmiːnətiz/",
+    "pos": "noun",
+    "meaningEn": "useful or pleasant facilities such as shops, parks and libraries",
+    "meaningVi": "tiện ích, tiện nghi (công cộng)",
+    "example": "City dwellers have easy access to amenities such as hospitals, libraries and sports centres.",
+    "exampleVi": "Cư dân thành thị dễ dàng tiếp cận các tiện ích như bệnh viện, thư viện và trung tâm thể thao.",
+    "exampleForm": "amenities",
+    "collocations": [
+      "local amenities",
+      "basic amenities",
+      "access to amenities"
+    ],
+    "synonyms": [
+      "facilities",
+      "services"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "gentrification",
+    "ipa": "/ˌdʒentrɪfɪˈkeɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the process of a poor area becoming wealthier as richer people move in",
+    "meaningVi": "sự tư sản hoá khu dân cư (khu nghèo được nâng cấp, đẩy người thu nhập thấp đi)",
+    "example": "Gentrification may revitalise neglected neighbourhoods, yet it often displaces long-term, low-income residents.",
+    "exampleVi": "Quá trình tư sản hoá có thể làm hồi sinh những khu phố bị bỏ bê, nhưng lại thường đẩy những cư dân thu nhập thấp lâu năm ra đi.",
+    "exampleForm": "Gentrification",
+    "collocations": [
+      "rapid gentrification",
+      "the effects of gentrification"
+    ],
+    "synonyms": [
+      "upmarket redevelopment"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "slum",
+    "ipa": "/slʌm/",
+    "pos": "noun",
+    "meaningEn": "a very poor, crowded area of a city with bad housing",
+    "meaningVi": "khu ổ chuột",
+    "example": "Millions of migrants end up living in slums that lack clean water and proper sanitation.",
+    "exampleVi": "Hàng triệu người di cư cuối cùng phải sống trong những khu ổ chuột thiếu nước sạch và điều kiện vệ sinh đầy đủ.",
+    "exampleForm": "slums",
+    "collocations": [
+      "urban slums",
+      "slum dwellers",
+      "live in a slum"
+    ],
+    "synonyms": [
+      "shanty town"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "homelessness",
+    "ipa": "/ˈhəʊmləsnəs/",
+    "pos": "noun",
+    "meaningEn": "the state of having no home",
+    "meaningVi": "tình trạng vô gia cư",
+    "example": "Soaring rents are widely regarded as the main cause of rising homelessness in major cities.",
+    "exampleVi": "Giá thuê nhà tăng vọt được nhiều người coi là nguyên nhân chính khiến tình trạng vô gia cư gia tăng ở các thành phố lớn.",
+    "exampleForm": "homelessness",
+    "collocations": [
+      "tackle homelessness",
+      "rising homelessness",
+      "the causes of homelessness"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "tenant",
+    "ipa": "/ˈtenənt/",
+    "pos": "noun",
+    "meaningEn": "a person who pays rent to live in a property",
+    "meaningVi": "người thuê nhà",
+    "example": "Stronger regulations are needed to protect tenants from sudden rent increases and unfair evictions.",
+    "exampleVi": "Cần có quy định chặt chẽ hơn để bảo vệ người thuê nhà khỏi việc tăng giá thuê đột ngột và bị đuổi đi một cách bất công.",
+    "exampleForm": "tenants",
+    "collocations": [
+      "protect tenants",
+      "tenants' rights",
+      "private tenants"
+    ],
+    "synonyms": [
+      "renter",
+      "occupant"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "green space",
+    "ipa": "/ˌɡriːn ˈspeɪs/",
+    "pos": "noun",
+    "meaningEn": "an area of grass, trees or plants in a town, such as a park",
+    "meaningVi": "không gian xanh, mảng xanh",
+    "example": "Access to green space has been shown to improve the mental well-being of city dwellers.",
+    "exampleVi": "Việc tiếp cận không gian xanh đã được chứng minh là cải thiện sức khoẻ tinh thần của cư dân thành phố.",
+    "exampleForm": "green space",
+    "collocations": [
+      "public green space",
+      "access to green space",
+      "preserve green spaces"
+    ],
+    "synonyms": [
+      "parkland",
+      "open space"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "urban regeneration",
+    "ipa": "/ˌɜːbən rɪˌdʒenəˈreɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the improvement of run-down city areas through investment and new building",
+    "meaningVi": "sự tái thiết đô thị, chỉnh trang đô thị",
+    "example": "The urban regeneration project transformed abandoned warehouses into offices, cafés and affordable flats.",
+    "exampleVi": "Dự án tái thiết đô thị đã biến những nhà kho bỏ hoang thành văn phòng, quán cà phê và căn hộ giá phải chăng.",
+    "exampleForm": "urban regeneration",
+    "collocations": [
+      "an urban regeneration scheme",
+      "urban regeneration project"
+    ],
+    "synonyms": [
+      "urban renewal",
+      "redevelopment"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "rural-urban migration",
+    "ipa": "/ˌrʊərəl ˌɜːbən maɪˈɡreɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the movement of people from the countryside to towns and cities",
+    "meaningVi": "di cư từ nông thôn ra thành thị",
+    "example": "Rural-urban migration is driven largely by the search for better-paid jobs and educational opportunities.",
+    "exampleVi": "Làn sóng di cư từ nông thôn ra thành thị chủ yếu bắt nguồn từ nhu cầu tìm việc làm lương cao hơn và cơ hội học tập.",
+    "exampleForm": "Rural-urban migration",
+    "collocations": [
+      "large-scale rural-urban migration",
+      "the causes of rural-urban migration"
+    ],
+    "synonyms": [
+      "urban migration"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "skyscraper",
+    "ipa": "/ˈskaɪskreɪpə/",
+    "pos": "noun",
+    "meaningEn": "a very tall building in a city",
+    "meaningVi": "nhà chọc trời, toà nhà cao tầng",
+    "example": "The city skyline has changed dramatically as glass skyscrapers have replaced traditional low-rise houses.",
+    "exampleVi": "Đường chân trời của thành phố đã thay đổi đáng kể khi những toà nhà chọc trời bằng kính thay thế nhà thấp tầng truyền thống.",
+    "exampleForm": "skyscrapers",
+    "collocations": [
+      "a towering skyscraper",
+      "modern skyscrapers"
+    ],
+    "synonyms": [
+      "tower block",
+      "high-rise"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "cycle lane",
+    "ipa": "/ˈsaɪkl leɪn/",
+    "pos": "noun",
+    "meaningEn": "a part of a road reserved for people riding bicycles",
+    "meaningVi": "làn đường dành cho xe đạp",
+    "example": "Building safe, separated cycle lanes would persuade more people to cycle to work.",
+    "exampleVi": "Xây dựng các làn đường dành riêng, an toàn cho xe đạp sẽ thuyết phục nhiều người đạp xe đi làm hơn.",
+    "exampleForm": "cycle lanes",
+    "collocations": [
+      "dedicated cycle lanes",
+      "build cycle lanes"
+    ],
+    "synonyms": [
+      "bike lane"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "rush hour",
+    "ipa": "/ˈrʌʃ aʊə/",
+    "pos": "noun",
+    "meaningEn": "the busy times of day when most people travel to or from work",
+    "meaningVi": "giờ cao điểm",
+    "example": "During rush hour, a journey of just ten kilometres can take more than an hour.",
+    "exampleVi": "Vào giờ cao điểm, một quãng đường chỉ mười cây số có thể mất hơn một tiếng đồng hồ.",
+    "exampleForm": "rush hour",
+    "collocations": [
+      "morning rush hour",
+      "rush-hour traffic",
+      "during rush hour"
+    ],
+    "synonyms": [
+      "peak hours"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "gridlock",
+    "ipa": "/ˈɡrɪdlɒk/",
+    "pos": "noun",
+    "meaningEn": "a situation in which traffic cannot move at all",
+    "meaningVi": "tình trạng kẹt xe hoàn toàn, ùn tắc cứng",
+    "example": "Without a congestion charge, the city centre would face daily gridlock within a few years.",
+    "exampleVi": "Nếu không có phí chống ùn tắc, trung tâm thành phố sẽ bị kẹt cứng hằng ngày chỉ trong vài năm tới.",
+    "exampleForm": "gridlock",
+    "collocations": [
+      "traffic gridlock",
+      "cause gridlock",
+      "total gridlock"
+    ],
+    "synonyms": [
+      "traffic jam",
+      "standstill"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "urban planning",
+    "ipa": "/ˌɜːbən ˈplænɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the designing and organising of how land in towns and cities is used",
+    "meaningVi": "quy hoạch đô thị",
+    "example": "Careful urban planning can ensure that new housing developments are well connected to schools and transport.",
+    "exampleVi": "Quy hoạch đô thị cẩn thận có thể đảm bảo các khu nhà ở mới được kết nối tốt với trường học và giao thông.",
+    "exampleForm": "urban planning",
+    "collocations": [
+      "poor urban planning",
+      "sustainable urban planning"
+    ],
+    "synonyms": [
+      "town planning",
+      "city planning"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "zoning",
+    "ipa": "/ˈzəʊnɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the official division of land into areas for particular uses",
+    "meaningVi": "phân vùng (quy hoạch sử dụng đất)",
+    "example": "Strict zoning laws prevent factories from being built close to schools and residential areas.",
+    "exampleVi": "Các luật phân vùng nghiêm ngặt ngăn việc xây nhà máy gần trường học và khu dân cư.",
+    "exampleForm": "zoning",
+    "collocations": [
+      "zoning laws",
+      "zoning regulations"
+    ],
+    "synonyms": [
+      "land-use planning"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "residential",
+    "ipa": "/ˌrezɪˈdenʃl/",
+    "pos": "adjective",
+    "meaningEn": "used for people to live in, rather than for offices or factories",
+    "meaningVi": "dành cho dân cư, thuộc khu dân cư",
+    "example": "Heavy lorries should be banned from residential streets to protect children and reduce noise.",
+    "exampleVi": "Nên cấm xe tải hạng nặng đi vào các tuyến phố dân cư để bảo vệ trẻ em và giảm tiếng ồn.",
+    "exampleForm": "residential",
+    "collocations": [
+      "residential areas",
+      "residential district",
+      "residential property"
+    ],
+    "synonyms": [
+      "housing"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "dilapidated",
+    "ipa": "/dɪˈlæpɪdeɪtɪd/",
+    "pos": "adjective",
+    "meaningEn": "old and in very bad condition",
+    "meaningVi": "đổ nát, xuống cấp, ọp ẹp",
+    "example": "Many low-income families still live in dilapidated buildings that are unsafe and poorly heated.",
+    "exampleVi": "Nhiều gia đình thu nhập thấp vẫn sống trong những toà nhà xuống cấp, không an toàn và thiếu hệ thống sưởi.",
+    "exampleForm": "dilapidated",
+    "collocations": [
+      "dilapidated buildings",
+      "dilapidated housing"
+    ],
+    "synonyms": [
+      "run-down",
+      "derelict"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "overpopulation",
+    "ipa": "/ˌəʊvəˌpɒpjuˈleɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the situation of having too many people living in an area",
+    "meaningVi": "tình trạng quá tải dân số, bùng nổ dân số",
+    "example": "Overpopulation in major cities has led to a serious shortage of housing, schools and hospitals.",
+    "exampleVi": "Tình trạng quá tải dân số ở các thành phố lớn đã dẫn đến sự thiếu hụt nghiêm trọng về nhà ở, trường học và bệnh viện.",
+    "exampleForm": "Overpopulation",
+    "collocations": [
+      "urban overpopulation",
+      "the problem of overpopulation"
+    ],
+    "synonyms": [
+      "overcrowding"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "sanitation",
+    "ipa": "/ˌsænɪˈteɪʃn/",
+    "pos": "noun",
+    "meaningEn": "systems for supplying clean water and removing waste",
+    "meaningVi": "hệ thống vệ sinh, cấp thoát nước",
+    "example": "Improving sanitation in informal settlements is essential to prevent the spread of infectious diseases.",
+    "exampleVi": "Cải thiện điều kiện vệ sinh ở các khu dân cư tự phát là điều thiết yếu để ngăn chặn sự lây lan của bệnh truyền nhiễm.",
+    "exampleForm": "sanitation",
+    "collocations": [
+      "poor sanitation",
+      "improve sanitation",
+      "sanitation facilities"
+    ],
+    "synonyms": [
+      "hygiene"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "relocate",
+    "ipa": "/ˌriːləʊˈkeɪt/",
+    "pos": "verb",
+    "meaningEn": "to move, or move people or a business, to a new place",
+    "meaningVi": "di dời, chuyển địa điểm",
+    "example": "Some companies have chosen to relocate their headquarters to smaller cities where rents are lower.",
+    "exampleVi": "Một số công ty đã chọn chuyển trụ sở chính đến các thành phố nhỏ hơn nơi giá thuê thấp hơn.",
+    "exampleForm": "relocate",
+    "collocations": [
+      "relocate to",
+      "be forced to relocate",
+      "relocate residents"
+    ],
+    "synonyms": [
+      "move",
+      "resettle"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "cosmopolitan",
+    "ipa": "/ˌkɒzməˈpɒlɪtən/",
+    "pos": "adjective",
+    "meaningEn": "containing people and influences from many different countries and cultures",
+    "meaningVi": "đa văn hoá, mang tính quốc tế",
+    "example": "Living in a cosmopolitan city exposes young people to a wide range of cultures and ideas.",
+    "exampleVi": "Sống ở một thành phố đa văn hoá giúp người trẻ tiếp xúc với nhiều nền văn hoá và tư tưởng khác nhau.",
+    "exampleForm": "cosmopolitan",
+    "collocations": [
+      "a cosmopolitan city",
+      "cosmopolitan atmosphere"
+    ],
+    "synonyms": [
+      "multicultural",
+      "international"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "vibrant",
+    "ipa": "/ˈvaɪbrənt/",
+    "pos": "adjective",
+    "meaningEn": "full of energy, activity and excitement",
+    "meaningVi": "sôi động, náo nhiệt, đầy sức sống",
+    "example": "The city's vibrant nightlife and cultural scene attract thousands of young professionals every year.",
+    "exampleVi": "Đời sống về đêm và các hoạt động văn hoá sôi động của thành phố thu hút hàng nghìn người trẻ có chuyên môn mỗi năm.",
+    "exampleForm": "vibrant",
+    "collocations": [
+      "a vibrant city",
+      "vibrant nightlife",
+      "vibrant community"
+    ],
+    "synonyms": [
+      "lively",
+      "dynamic"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "noise pollution",
+    "ipa": "/ˈnɔɪz pəˌluːʃn/",
+    "pos": "noun",
+    "meaningEn": "harmful or annoying levels of noise, especially from traffic or industry",
+    "meaningVi": "ô nhiễm tiếng ồn",
+    "example": "Constant noise pollution from traffic and construction can cause stress and sleep problems for residents.",
+    "exampleVi": "Ô nhiễm tiếng ồn liên tục từ xe cộ và công trình xây dựng có thể gây căng thẳng và mất ngủ cho cư dân.",
+    "exampleForm": "noise pollution",
+    "collocations": [
+      "reduce noise pollution",
+      "levels of noise pollution"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "low-income",
+    "ipa": "/ˌləʊ ˈɪnkʌm/",
+    "pos": "adjective",
+    "meaningEn": "earning or providing relatively little money",
+    "meaningVi": "thu nhập thấp",
+    "example": "Rising property prices have made it almost impossible for low-income households to buy a home.",
+    "exampleVi": "Giá bất động sản tăng cao khiến các hộ gia đình thu nhập thấp gần như không thể mua được nhà.",
+    "exampleForm": "low-income",
+    "collocations": [
+      "low-income families",
+      "low-income households",
+      "low-income neighbourhoods"
+    ],
+    "synonyms": [
+      "poor",
+      "disadvantaged"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "housing shortage",
+    "ipa": "/ˈhaʊzɪŋ ˌʃɔːtɪdʒ/",
+    "pos": "noun",
+    "meaningEn": "a situation in which there are not enough homes for people",
+    "meaningVi": "tình trạng thiếu nhà ở",
+    "example": "The government plans to build 300,000 homes a year to address the chronic housing shortage.",
+    "exampleVi": "Chính phủ có kế hoạch xây 300.000 căn nhà mỗi năm để giải quyết tình trạng thiếu nhà ở kéo dài.",
+    "exampleForm": "housing shortage",
+    "collocations": [
+      "a severe housing shortage",
+      "ease the housing shortage"
+    ],
+    "synonyms": [
+      "housing crisis"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "congestion charge",
+    "ipa": "/kənˈdʒestʃən tʃɑːdʒ/",
+    "pos": "noun",
+    "meaningEn": "a fee drivers must pay to drive into a busy city centre",
+    "meaningVi": "phí chống ùn tắc (phí lái xe vào trung tâm)",
+    "example": "Since the congestion charge was introduced, traffic in central London has fallen considerably.",
+    "exampleVi": "Kể từ khi áp dụng phí chống ùn tắc, lưu lượng giao thông ở trung tâm London đã giảm đáng kể.",
+    "exampleForm": "congestion charge",
+    "collocations": [
+      "introduce a congestion charge",
+      "pay the congestion charge"
+    ],
+    "synonyms": [
+      "road pricing"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "inner city",
+    "ipa": "/ˌɪnə ˈsɪti/",
+    "pos": "noun",
+    "meaningEn": "the central part of a city, often associated with poverty and social problems",
+    "meaningVi": "khu nội đô (thường là khu nghèo, nhiều tệ nạn)",
+    "example": "Children growing up in the inner city often have fewer opportunities than those in wealthier suburbs.",
+    "exampleVi": "Trẻ em lớn lên ở khu nội đô nghèo thường có ít cơ hội hơn so với trẻ em ở các vùng ngoại ô giàu có.",
+    "exampleForm": "inner city",
+    "collocations": [
+      "inner-city areas",
+      "inner-city schools",
+      "deprived inner city"
+    ],
+    "synonyms": [
+      "city centre"
+    ],
+    "level": "B2"
+  }
+]

@@ -1,0 +1,766 @@
+[
+  {
+    "word": "upbringing",
+    "ipa": "/ˈʌpbrɪŋɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the way a child is cared for and taught how to behave",
+    "meaningVi": "sự nuôi dạy, sự giáo dưỡng",
+    "example": "A child's upbringing has a lasting influence on their values and behaviour as an adult.",
+    "exampleVi": "Cách một đứa trẻ được nuôi dạy có ảnh hưởng lâu dài đến giá trị sống và hành vi của chúng khi trưởng thành.",
+    "exampleForm": "upbringing",
+    "collocations": [
+      "a strict upbringing",
+      "a sheltered upbringing",
+      "a happy upbringing"
+    ],
+    "synonyms": [
+      "rearing",
+      "nurture"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "bring up",
+    "ipa": "/ˌbrɪŋ ˈʌp/",
+    "pos": "phrasal verb",
+    "meaningEn": "to care for a child until they are an adult",
+    "meaningVi": "nuôi nấng, nuôi dạy",
+    "example": "My grandparents brought me up while my parents were working in another city.",
+    "exampleVi": "Ông bà đã nuôi nấng tôi trong thời gian bố mẹ tôi làm việc ở một thành phố khác.",
+    "exampleForm": "brought me up",
+    "collocations": [
+      "bring up children",
+      "be brought up by",
+      "brought up to respect"
+    ],
+    "synonyms": [
+      "raise",
+      "rear"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "nuclear family",
+    "ipa": "/ˌnjuːkliə ˈfæmli/",
+    "pos": "noun",
+    "meaningEn": "a family of parents and their children only",
+    "meaningVi": "gia đình hạt nhân",
+    "example": "In modern cities, the nuclear family has largely replaced the traditional multi-generational household.",
+    "exampleVi": "Ở các đô thị hiện đại, gia đình hạt nhân đã phần lớn thay thế kiểu gia đình truyền thống nhiều thế hệ.",
+    "exampleForm": "nuclear family",
+    "collocations": [
+      "the traditional nuclear family",
+      "live in a nuclear family"
+    ],
+    "synonyms": [],
+    "level": "B2"
+  },
+  {
+    "word": "extended family",
+    "ipa": "/ɪkˌstendɪd ˈfæmli/",
+    "pos": "noun",
+    "meaningEn": "a family including grandparents, aunts, uncles and cousins",
+    "meaningVi": "đại gia đình",
+    "example": "Living with an extended family means children can learn directly from their grandparents' life experience.",
+    "exampleVi": "Sống trong một đại gia đình giúp trẻ em có thể học hỏi trực tiếp từ kinh nghiệm sống của ông bà.",
+    "exampleForm": "extended family",
+    "collocations": [
+      "live with an extended family",
+      "members of the extended family"
+    ],
+    "synonyms": [
+      "multi-generational family"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "sibling",
+    "ipa": "/ˈsɪblɪŋ/",
+    "pos": "noun",
+    "meaningEn": "a brother or sister",
+    "meaningVi": "anh chị em ruột",
+    "example": "Children who grow up with siblings often learn to share and resolve conflicts at an early age.",
+    "exampleVi": "Trẻ lớn lên cùng anh chị em ruột thường học được cách chia sẻ và giải quyết mâu thuẫn từ sớm.",
+    "exampleForm": "siblings",
+    "collocations": [
+      "older sibling",
+      "younger sibling",
+      "have no siblings"
+    ],
+    "synonyms": [
+      "brother or sister"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "single-parent family",
+    "ipa": "/ˌsɪŋɡl ˌpeərənt ˈfæmli/",
+    "pos": "noun",
+    "meaningEn": "a family in which children live with only one parent",
+    "meaningVi": "gia đình đơn thân",
+    "example": "The number of single-parent families has risen steadily as divorce has become more socially acceptable.",
+    "exampleVi": "Số gia đình đơn thân tăng đều đặn khi ly hôn ngày càng được xã hội chấp nhận.",
+    "exampleForm": "single-parent families",
+    "collocations": [
+      "grow up in a single-parent family",
+      "support for single-parent families"
+    ],
+    "synonyms": [
+      "lone-parent family"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "generation gap",
+    "ipa": "/ˌdʒenəˈreɪʃn ɡæp/",
+    "pos": "noun",
+    "meaningEn": "differences in attitudes and values between young and older people",
+    "meaningVi": "khoảng cách thế hệ",
+    "example": "Rapid technological change has widened the generation gap between teenagers and their parents.",
+    "exampleVi": "Sự thay đổi công nghệ nhanh chóng đã nới rộng khoảng cách thế hệ giữa thanh thiếu niên và cha mẹ.",
+    "exampleForm": "generation gap",
+    "collocations": [
+      "bridge the generation gap",
+      "a widening generation gap"
+    ],
+    "synonyms": [
+      "generational divide"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "parenting",
+    "ipa": "/ˈpeərəntɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the process of raising and caring for children",
+    "meaningVi": "việc nuôi dạy con cái",
+    "example": "Poor parenting is frequently blamed for antisocial behaviour among teenagers.",
+    "exampleVi": "Việc nuôi dạy con không đúng cách thường bị coi là nguyên nhân của hành vi chống đối xã hội ở thanh thiếu niên.",
+    "exampleForm": "parenting",
+    "collocations": [
+      "parenting style",
+      "good parenting",
+      "parenting skills"
+    ],
+    "synonyms": [
+      "child-rearing"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "overprotective",
+    "ipa": "/ˌəʊvəprəˈtektɪv/",
+    "pos": "adjective",
+    "meaningEn": "too eager to protect someone, especially a child, from danger",
+    "meaningVi": "bao bọc thái quá",
+    "example": "Overprotective parents may prevent their children from developing independence and problem-solving skills.",
+    "exampleVi": "Những bậc cha mẹ bao bọc thái quá có thể cản trở con cái phát triển tính tự lập và kỹ năng giải quyết vấn đề.",
+    "exampleForm": "Overprotective",
+    "collocations": [
+      "overprotective parents",
+      "overprotective of"
+    ],
+    "synonyms": [
+      "smothering",
+      "cosseting"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "pamper",
+    "ipa": "/ˈpæmpə/",
+    "pos": "verb",
+    "meaningEn": "to give someone too much care, comfort and attention",
+    "meaningVi": "nuông chiều",
+    "example": "Only children are sometimes pampered by their parents and grandparents, which can make them less resilient.",
+    "exampleVi": "Con một đôi khi được bố mẹ và ông bà nuông chiều, điều này có thể khiến chúng kém kiên cường hơn.",
+    "exampleForm": "pampered",
+    "collocations": [
+      "pamper a child",
+      "be pampered by"
+    ],
+    "synonyms": [
+      "indulge",
+      "coddle"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "spoil",
+    "ipa": "/spɔɪl/",
+    "pos": "verb",
+    "meaningEn": "to give a child everything they want, so they behave badly",
+    "meaningVi": "làm hư (trẻ), chiều hư",
+    "example": "Buying children expensive gadgets whenever they ask for them is likely to spoil them.",
+    "exampleVi": "Mua cho trẻ những món đồ công nghệ đắt tiền mỗi khi chúng đòi rất dễ làm hư chúng.",
+    "exampleForm": "spoil",
+    "collocations": [
+      "spoil a child",
+      "a spoilt child",
+      "spoil someone rotten"
+    ],
+    "synonyms": [
+      "indulge",
+      "overindulge"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "sibling rivalry",
+    "ipa": "/ˌsɪblɪŋ ˈraɪvlri/",
+    "pos": "noun",
+    "meaningEn": "competition and jealousy between brothers and sisters",
+    "meaningVi": "sự ganh đua giữa anh chị em ruột",
+    "example": "Parents can reduce sibling rivalry by avoiding comparisons and giving each child individual attention.",
+    "exampleVi": "Cha mẹ có thể giảm sự ganh đua giữa các con bằng cách tránh so sánh và dành sự quan tâm riêng cho từng đứa.",
+    "exampleForm": "sibling rivalry",
+    "collocations": [
+      "intense sibling rivalry",
+      "reduce sibling rivalry"
+    ],
+    "synonyms": [
+      "sibling jealousy"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "role model",
+    "ipa": "/ˈrəʊl ˌmɒdl/",
+    "pos": "noun",
+    "meaningEn": "a person whose behaviour others admire and try to copy",
+    "meaningVi": "tấm gương, hình mẫu",
+    "example": "Parents are the first role models for their children, so they should set a good example.",
+    "exampleVi": "Cha mẹ là tấm gương đầu tiên của con cái, vì vậy họ nên làm gương tốt.",
+    "exampleForm": "role models",
+    "collocations": [
+      "a positive role model",
+      "act as a role model",
+      "a good role model"
+    ],
+    "synonyms": [
+      "example",
+      "idol"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "nurture",
+    "ipa": "/ˈnɜːtʃə/",
+    "pos": "verb",
+    "meaningEn": "to care for and encourage the growth or development of someone",
+    "meaningVi": "nuôi dưỡng, vun đắp",
+    "example": "Parents should nurture their children's natural curiosity instead of forcing them to follow a fixed path.",
+    "exampleVi": "Cha mẹ nên nuôi dưỡng sự tò mò tự nhiên của con thay vì ép chúng đi theo một con đường định sẵn.",
+    "exampleForm": "nurture",
+    "collocations": [
+      "nurture talent",
+      "nurture a child",
+      "nurture a relationship"
+    ],
+    "synonyms": [
+      "foster",
+      "cultivate"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "formative years",
+    "ipa": "/ˌfɔːmətɪv ˈjɪəz/",
+    "pos": "noun",
+    "meaningEn": "the period of childhood when a person's character develops",
+    "meaningVi": "những năm tháng hình thành nhân cách",
+    "example": "The experiences we have during our formative years shape the kind of adults we become.",
+    "exampleVi": "Những trải nghiệm trong những năm tháng hình thành nhân cách định hình con người chúng ta khi trưởng thành.",
+    "exampleForm": "formative years",
+    "collocations": [
+      "during the formative years",
+      "spend one's formative years"
+    ],
+    "synonyms": [
+      "early years",
+      "childhood"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "peer pressure",
+    "ipa": "/ˈpɪə ˌpreʃə/",
+    "pos": "noun",
+    "meaningEn": "pressure from people of your age to behave like them",
+    "meaningVi": "áp lực đồng trang lứa",
+    "example": "Many teenagers start smoking because of peer pressure rather than genuine personal choice.",
+    "exampleVi": "Nhiều thanh thiếu niên bắt đầu hút thuốc vì áp lực đồng trang lứa chứ không phải do thực sự muốn.",
+    "exampleForm": "peer pressure",
+    "collocations": [
+      "give in to peer pressure",
+      "resist peer pressure",
+      "under peer pressure"
+    ],
+    "synonyms": [
+      "social pressure"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "adolescence",
+    "ipa": "/ˌædəˈlesns/",
+    "pos": "noun",
+    "meaningEn": "the period of life when a child develops into an adult",
+    "meaningVi": "tuổi vị thành niên, tuổi dậy thì",
+    "example": "Adolescence is a period when young people often question the values of their parents.",
+    "exampleVi": "Tuổi vị thành niên là giai đoạn người trẻ thường đặt câu hỏi về các giá trị của cha mẹ mình.",
+    "exampleForm": "Adolescence",
+    "collocations": [
+      "during adolescence",
+      "early adolescence",
+      "the challenges of adolescence"
+    ],
+    "synonyms": [
+      "teenage years",
+      "youth"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "rebellious",
+    "ipa": "/rɪˈbeljəs/",
+    "pos": "adjective",
+    "meaningEn": "deliberately refusing to obey rules or people in authority",
+    "meaningVi": "nổi loạn, ương bướng",
+    "example": "It is natural for teenagers to go through a rebellious phase as they try to establish their own identity.",
+    "exampleVi": "Việc thanh thiếu niên trải qua giai đoạn nổi loạn khi cố gắng khẳng định bản thân là điều tự nhiên.",
+    "exampleForm": "rebellious",
+    "collocations": [
+      "a rebellious teenager",
+      "a rebellious phase",
+      "rebellious behaviour"
+    ],
+    "synonyms": [
+      "defiant",
+      "disobedient"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "bond",
+    "ipa": "/bɒnd/",
+    "pos": "noun",
+    "meaningEn": "a close emotional connection between people",
+    "meaningVi": "sự gắn bó, mối liên kết tình cảm",
+    "example": "Eating meals together every evening helps to strengthen the bond between parents and children.",
+    "exampleVi": "Ăn cơm cùng nhau mỗi tối giúp thắt chặt sự gắn bó giữa cha mẹ và con cái.",
+    "exampleForm": "bond",
+    "collocations": [
+      "a strong bond",
+      "strengthen the bond",
+      "family bonds"
+    ],
+    "synonyms": [
+      "connection",
+      "attachment"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "close-knit",
+    "ipa": "/ˌkləʊs ˈnɪt/",
+    "pos": "adjective",
+    "meaningEn": "describing a group whose members are very close and support each other",
+    "meaningVi": "gắn bó khăng khít",
+    "example": "I was lucky to grow up in a close-knit family where everyone supported each other.",
+    "exampleVi": "Tôi may mắn được lớn lên trong một gia đình gắn bó khăng khít, nơi mọi người luôn hỗ trợ lẫn nhau.",
+    "exampleForm": "close-knit",
+    "collocations": [
+      "a close-knit family",
+      "a close-knit community"
+    ],
+    "synonyms": [
+      "tight-knit",
+      "united"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "breadwinner",
+    "ipa": "/ˈbredwɪnə/",
+    "pos": "noun",
+    "meaningEn": "the member of a family who earns the money to support it",
+    "meaningVi": "trụ cột kinh tế (trong gia đình)",
+    "example": "In many households today, women are the main breadwinner while their husbands look after the children.",
+    "exampleVi": "Ở nhiều gia đình ngày nay, người phụ nữ là trụ cột kinh tế chính trong khi người chồng ở nhà chăm con.",
+    "exampleForm": "breadwinner",
+    "collocations": [
+      "the main breadwinner",
+      "the sole breadwinner"
+    ],
+    "synonyms": [
+      "earner",
+      "provider"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "homemaker",
+    "ipa": "/ˈhəʊmmeɪkə/",
+    "pos": "noun",
+    "meaningEn": "a person who manages a home and often raises children instead of working",
+    "meaningVi": "người nội trợ",
+    "example": "The traditional view that women should be homemakers is increasingly rejected by younger generations.",
+    "exampleVi": "Quan niệm truyền thống rằng phụ nữ nên làm người nội trợ ngày càng bị thế hệ trẻ bác bỏ.",
+    "exampleForm": "homemakers",
+    "collocations": [
+      "a full-time homemaker",
+      "become a homemaker"
+    ],
+    "synonyms": [
+      "housewife",
+      "househusband"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "divorce",
+    "ipa": "/dɪˈvɔːs/",
+    "pos": "noun",
+    "meaningEn": "the legal ending of a marriage",
+    "meaningVi": "sự ly hôn",
+    "example": "Children often suffer emotionally when their parents go through a bitter divorce.",
+    "exampleVi": "Trẻ em thường bị tổn thương về mặt tình cảm khi cha mẹ trải qua một cuộc ly hôn căng thẳng.",
+    "exampleForm": "divorce",
+    "collocations": [
+      "divorce rate",
+      "get a divorce",
+      "end in divorce"
+    ],
+    "synonyms": [
+      "separation",
+      "break-up"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "dysfunctional",
+    "ipa": "/dɪsˈfʌŋkʃənl/",
+    "pos": "adjective",
+    "meaningEn": "not working normally, especially in relationships within a family",
+    "meaningVi": "bất ổn, rạn nứt (gia đình)",
+    "example": "Many young offenders come from dysfunctional families where conflict and neglect are common.",
+    "exampleVi": "Nhiều người phạm tội tuổi vị thành niên xuất thân từ những gia đình bất ổn, nơi xung đột và sự bỏ bê diễn ra thường xuyên.",
+    "exampleForm": "dysfunctional",
+    "collocations": [
+      "a dysfunctional family",
+      "dysfunctional relationships"
+    ],
+    "synonyms": [
+      "troubled",
+      "broken"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "childcare",
+    "ipa": "/ˈtʃaɪldkeə/",
+    "pos": "noun",
+    "meaningEn": "the care of children, especially while parents are at work",
+    "meaningVi": "dịch vụ chăm sóc trẻ, việc trông trẻ",
+    "example": "The high cost of childcare forces many mothers to give up their careers.",
+    "exampleVi": "Chi phí chăm sóc trẻ cao khiến nhiều bà mẹ phải từ bỏ sự nghiệp.",
+    "exampleForm": "childcare",
+    "collocations": [
+      "affordable childcare",
+      "childcare facilities",
+      "childcare costs"
+    ],
+    "synonyms": [
+      "daycare",
+      "babysitting"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "get along with",
+    "ipa": "/ˌɡet əˈlɒŋ wɪð/",
+    "pos": "phrasal verb",
+    "meaningEn": "to have a friendly relationship with someone",
+    "meaningVi": "hoà thuận với, hợp tính với",
+    "example": "I get along with my younger brother really well because we share the same sense of humour.",
+    "exampleVi": "Tôi rất hợp với em trai vì hai anh em có cùng khiếu hài hước.",
+    "exampleForm": "get along with",
+    "collocations": [
+      "get along well with",
+      "get along with each other"
+    ],
+    "synonyms": [
+      "get on with",
+      "be on good terms with"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "look up to",
+    "ipa": "/ˌlʊk ˈʌp tuː/",
+    "pos": "phrasal verb",
+    "meaningEn": "to admire and respect someone",
+    "meaningVi": "ngưỡng mộ, kính trọng",
+    "example": "I have always looked up to my father because of his honesty and hard work.",
+    "exampleVi": "Tôi luôn ngưỡng mộ bố mình vì sự trung thực và chăm chỉ của ông.",
+    "exampleForm": "looked up to",
+    "collocations": [
+      "look up to one's parents",
+      "someone to look up to"
+    ],
+    "synonyms": [
+      "admire",
+      "respect"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "take after",
+    "ipa": "/ˌteɪk ˈɑːftə/",
+    "pos": "phrasal verb",
+    "meaningEn": "to look or behave like an older relative",
+    "meaningVi": "giống (bố mẹ, người thân lớn tuổi)",
+    "example": "People often say I take after my mother, as we are both calm and patient.",
+    "exampleVi": "Mọi người thường nói tôi giống mẹ, vì cả hai mẹ con đều điềm tĩnh và kiên nhẫn.",
+    "exampleForm": "take after",
+    "collocations": [
+      "take after one's mother",
+      "take after one's father"
+    ],
+    "synonyms": [
+      "resemble"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "personality trait",
+    "ipa": "/ˌpɜːsəˈnæləti treɪt/",
+    "pos": "noun",
+    "meaningEn": "a particular quality that forms part of someone's character",
+    "meaningVi": "nét tính cách",
+    "example": "Patience is perhaps the most important personality trait for anyone who works with young children.",
+    "exampleVi": "Kiên nhẫn có lẽ là nét tính cách quan trọng nhất đối với bất kỳ ai làm việc với trẻ nhỏ.",
+    "exampleForm": "personality trait",
+    "collocations": [
+      "a positive personality trait",
+      "inherit personality traits"
+    ],
+    "synonyms": [
+      "characteristic",
+      "quality"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "introverted",
+    "ipa": "/ˈɪntrəvɜːtɪd/",
+    "pos": "adjective",
+    "meaningEn": "quiet and more comfortable alone than with lots of people",
+    "meaningVi": "hướng nội",
+    "example": "Although I am quite introverted, I enjoy deep conversations with a few close friends.",
+    "exampleVi": "Mặc dù khá hướng nội, tôi rất thích những cuộc trò chuyện sâu sắc với vài người bạn thân.",
+    "exampleForm": "introverted",
+    "collocations": [
+      "shy and introverted",
+      "rather introverted"
+    ],
+    "synonyms": [
+      "reserved",
+      "withdrawn"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "outgoing",
+    "ipa": "/ˌaʊtˈɡəʊɪŋ/",
+    "pos": "adjective",
+    "meaningEn": "friendly and enjoying meeting and talking to people",
+    "meaningVi": "hoà đồng, cởi mở",
+    "example": "My sister is far more outgoing than I am and makes new friends wherever she goes.",
+    "exampleVi": "Chị gái tôi hoà đồng hơn tôi nhiều và đi đến đâu cũng kết bạn mới.",
+    "exampleForm": "outgoing",
+    "collocations": [
+      "an outgoing personality",
+      "friendly and outgoing"
+    ],
+    "synonyms": [
+      "sociable",
+      "extroverted"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "conscientious",
+    "ipa": "/ˌkɒnʃiˈenʃəs/",
+    "pos": "adjective",
+    "meaningEn": "careful to do your work or duties well and thoroughly",
+    "meaningVi": "tận tâm, chu đáo, có trách nhiệm",
+    "example": "My mother is extremely conscientious and never leaves a task unfinished.",
+    "exampleVi": "Mẹ tôi cực kỳ tận tâm và không bao giờ bỏ dở công việc nào.",
+    "exampleForm": "conscientious",
+    "collocations": [
+      "a conscientious student",
+      "conscientious worker"
+    ],
+    "synonyms": [
+      "diligent",
+      "meticulous"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "resilient",
+    "ipa": "/rɪˈzɪliənt/",
+    "pos": "adjective",
+    "meaningEn": "able to recover quickly from difficult situations",
+    "meaningVi": "kiên cường, có khả năng phục hồi",
+    "example": "Allowing children to face small failures helps them become more resilient later in life.",
+    "exampleVi": "Để trẻ đối mặt với những thất bại nhỏ giúp chúng trở nên kiên cường hơn sau này.",
+    "exampleForm": "resilient",
+    "collocations": [
+      "emotionally resilient",
+      "remarkably resilient"
+    ],
+    "synonyms": [
+      "tough",
+      "strong"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "empathy",
+    "ipa": "/ˈempəθi/",
+    "pos": "noun",
+    "meaningEn": "the ability to understand and share another person's feelings",
+    "meaningVi": "sự đồng cảm, thấu cảm",
+    "example": "Caring for a pet can teach young children empathy and a sense of responsibility.",
+    "exampleVi": "Chăm sóc thú cưng có thể dạy trẻ nhỏ sự đồng cảm và tinh thần trách nhiệm.",
+    "exampleForm": "empathy",
+    "collocations": [
+      "show empathy",
+      "a lack of empathy",
+      "empathy for others"
+    ],
+    "synonyms": [
+      "compassion",
+      "understanding"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "self-centred",
+    "ipa": "/ˌself ˈsentəd/",
+    "pos": "adjective",
+    "meaningEn": "interested only in yourself and not in other people",
+    "meaningVi": "ích kỷ, chỉ biết nghĩ cho bản thân",
+    "example": "Children who are never told no may grow up to be self-centred and inconsiderate.",
+    "exampleVi": "Những đứa trẻ chưa bao giờ bị từ chối có thể lớn lên trở thành người ích kỷ và vô tâm.",
+    "exampleForm": "self-centred",
+    "collocations": [
+      "selfish and self-centred",
+      "a self-centred attitude"
+    ],
+    "synonyms": [
+      "selfish",
+      "egocentric"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "stubborn",
+    "ipa": "/ˈstʌbən/",
+    "pos": "adjective",
+    "meaningEn": "refusing to change your opinion or behaviour",
+    "meaningVi": "bướng bỉnh, cứng đầu",
+    "example": "My grandfather is quite stubborn and refuses to use a smartphone despite our encouragement.",
+    "exampleVi": "Ông tôi khá cứng đầu và nhất quyết không dùng điện thoại thông minh dù cả nhà đã động viên.",
+    "exampleForm": "stubborn",
+    "collocations": [
+      "stubborn refusal",
+      "as stubborn as a mule"
+    ],
+    "synonyms": [
+      "obstinate",
+      "headstrong"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "compassionate",
+    "ipa": "/kəmˈpæʃənət/",
+    "pos": "adjective",
+    "meaningEn": "showing sympathy and care for people who are suffering",
+    "meaningVi": "giàu lòng trắc ẩn, nhân hậu",
+    "example": "Volunteering in care homes can help teenagers become more compassionate towards the elderly.",
+    "exampleVi": "Làm tình nguyện ở viện dưỡng lão có thể giúp thanh thiếu niên trở nên giàu lòng trắc ẩn hơn với người già.",
+    "exampleForm": "compassionate",
+    "collocations": [
+      "a compassionate person",
+      "compassionate towards"
+    ],
+    "synonyms": [
+      "caring",
+      "kind-hearted"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "bicker",
+    "ipa": "/ˈbɪkə/",
+    "pos": "verb",
+    "meaningEn": "to argue about unimportant things",
+    "meaningVi": "cãi vặt, cãi nhau vì chuyện vặt",
+    "example": "My brother and I used to bicker constantly as children, but now we are very close.",
+    "exampleVi": "Hồi nhỏ, tôi và anh trai thường xuyên cãi vặt, nhưng giờ hai anh em rất thân thiết.",
+    "exampleForm": "bicker",
+    "collocations": [
+      "bicker about",
+      "constantly bicker",
+      "bicker over"
+    ],
+    "synonyms": [
+      "squabble",
+      "quarrel"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "dote on",
+    "ipa": "/ˈdəʊt ɒn/",
+    "pos": "phrasal verb",
+    "meaningEn": "to love someone very much and show it excessively",
+    "meaningVi": "cưng chiều hết mực, yêu thương hết mực",
+    "example": "My grandparents dote on their only grandson and would do anything to make him happy.",
+    "exampleVi": "Ông bà tôi cưng chiều hết mực đứa cháu trai duy nhất và sẵn sàng làm mọi thứ để cháu vui.",
+    "exampleForm": "dote on",
+    "collocations": [
+      "dote on one's grandchildren",
+      "doting parents"
+    ],
+    "synonyms": [
+      "adore",
+      "idolise"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "intergenerational",
+    "ipa": "/ˌɪntədʒenəˈreɪʃənl/",
+    "pos": "adjective",
+    "meaningEn": "involving or between different generations of people",
+    "meaningVi": "giữa các thế hệ, liên thế hệ",
+    "example": "Intergenerational living allows grandparents to help with childcare while receiving support in return.",
+    "exampleVi": "Mô hình sống nhiều thế hệ giúp ông bà hỗ trợ chăm sóc cháu đồng thời nhận được sự chăm sóc lại từ con cháu.",
+    "exampleForm": "Intergenerational",
+    "collocations": [
+      "intergenerational relationships",
+      "intergenerational conflict",
+      "intergenerational living"
+    ],
+    "synonyms": [
+      "cross-generational"
+    ],
+    "level": "C2"
+  }
+]

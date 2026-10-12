@@ -1,0 +1,802 @@
+[
+  {
+    "word": "mainstream media",
+    "ipa": "/ˌmeɪnstriːm ˈmiːdiə/",
+    "pos": "noun",
+    "meaningEn": "large traditional news organisations that influence public opinion",
+    "meaningVi": "truyền thông chính thống",
+    "example": "Many young people now distrust the mainstream media and get their news from social platforms instead.",
+    "exampleVi": "Nhiều người trẻ ngày nay không tin tưởng truyền thông chính thống và thay vào đó tiếp nhận tin tức từ mạng xã hội.",
+    "exampleForm": "mainstream media",
+    "collocations": [
+      "distrust of the mainstream media",
+      "mainstream media coverage"
+    ],
+    "synonyms": [
+      "traditional media"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "sensationalism",
+    "ipa": "/senˈseɪʃənəlɪzəm/",
+    "pos": "noun",
+    "meaningEn": "presenting news in a shocking way to attract attention",
+    "meaningVi": "lối đưa tin giật gân",
+    "example": "Sensationalism in the news often exaggerates risks and creates unnecessary public panic.",
+    "exampleVi": "Lối đưa tin giật gân thường phóng đại rủi ro và gây ra sự hoang mang không cần thiết trong công chúng.",
+    "exampleForm": "Sensationalism",
+    "collocations": [
+      "media sensationalism",
+      "accused of sensationalism"
+    ],
+    "synonyms": [
+      "exaggeration"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "tabloid",
+    "ipa": "/ˈtæblɔɪd/",
+    "pos": "noun",
+    "meaningEn": "a popular newspaper with short stories, many pictures and celebrity gossip",
+    "meaningVi": "báo lá cải",
+    "example": "Tabloids frequently publish intrusive stories about celebrities' private lives to boost their sales.",
+    "exampleVi": "Báo lá cải thường xuyên đăng những câu chuyện xâm phạm đời tư của người nổi tiếng để tăng doanh số.",
+    "exampleForm": "Tabloids",
+    "collocations": [
+      "tabloid newspaper",
+      "tabloid press",
+      "tabloid journalism"
+    ],
+    "synonyms": [
+      "gutter press"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "broadsheet",
+    "ipa": "/ˈbrɔːdʃiːt/",
+    "pos": "noun",
+    "meaningEn": "a serious newspaper with in-depth news reports",
+    "meaningVi": "báo chính luận, báo khổ lớn (đưa tin nghiêm túc)",
+    "example": "Broadsheets tend to offer more balanced analysis of political issues than tabloid newspapers.",
+    "exampleVi": "Các tờ báo chính luận thường đưa ra những phân tích cân bằng hơn về các vấn đề chính trị so với báo lá cải.",
+    "exampleForm": "Broadsheets",
+    "collocations": [
+      "broadsheet newspaper",
+      "quality broadsheets"
+    ],
+    "synonyms": [
+      "quality newspaper"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "censorship",
+    "ipa": "/ˈsensəʃɪp/",
+    "pos": "noun",
+    "meaningEn": "the control or removal of information, books, films or news",
+    "meaningVi": "sự kiểm duyệt",
+    "example": "Some degree of censorship is necessary to protect children from violent or harmful content.",
+    "exampleVi": "Một mức độ kiểm duyệt nhất định là cần thiết để bảo vệ trẻ em khỏi nội dung bạo lực hoặc có hại.",
+    "exampleForm": "censorship",
+    "collocations": [
+      "internet censorship",
+      "strict censorship",
+      "impose censorship"
+    ],
+    "synonyms": [
+      "suppression"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "freedom of the press",
+    "ipa": "/ˌfriːdəm əv ðə ˈpres/",
+    "pos": "phrase",
+    "meaningEn": "the right of newspapers and media to report without government control",
+    "meaningVi": "tự do báo chí",
+    "example": "Freedom of the press is essential for holding powerful individuals and institutions accountable.",
+    "exampleVi": "Tự do báo chí là điều thiết yếu để buộc những cá nhân và tổ chức quyền lực phải chịu trách nhiệm.",
+    "exampleForm": "Freedom of the press",
+    "collocations": [
+      "protect freedom of the press",
+      "restrict freedom of the press"
+    ],
+    "synonyms": [
+      "press freedom"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "journalism",
+    "ipa": "/ˈdʒɜːnəlɪzəm/",
+    "pos": "noun",
+    "meaningEn": "the work of collecting and reporting news",
+    "meaningVi": "nghề báo, báo chí",
+    "example": "Investigative journalism plays a vital role in exposing corruption and abuse of power.",
+    "exampleVi": "Báo chí điều tra đóng vai trò thiết yếu trong việc phơi bày tham nhũng và lạm dụng quyền lực.",
+    "exampleForm": "journalism",
+    "collocations": [
+      "investigative journalism",
+      "citizen journalism",
+      "quality journalism"
+    ],
+    "synonyms": [
+      "reporting",
+      "the press"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "misinformation",
+    "ipa": "/ˌmɪsɪnfəˈmeɪʃn/",
+    "pos": "noun",
+    "meaningEn": "wrong information, especially when it spreads widely",
+    "meaningVi": "thông tin sai lệch",
+    "example": "During the pandemic, misinformation about vaccines spread rapidly across social networking sites.",
+    "exampleVi": "Trong đại dịch, thông tin sai lệch về vắc-xin đã lan truyền nhanh chóng trên các trang mạng xã hội.",
+    "exampleForm": "misinformation",
+    "collocations": [
+      "spread misinformation",
+      "combat misinformation",
+      "health misinformation"
+    ],
+    "synonyms": [
+      "disinformation",
+      "false information"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "fake news",
+    "ipa": "/ˌfeɪk ˈnjuːz/",
+    "pos": "noun",
+    "meaningEn": "false stories that look like news, spread to mislead people",
+    "meaningVi": "tin giả",
+    "example": "Teaching students how to recognise fake news should be a priority for schools today.",
+    "exampleVi": "Dạy học sinh cách nhận biết tin giả nên là một ưu tiên của các trường học ngày nay.",
+    "exampleForm": "fake news",
+    "collocations": [
+      "spread fake news",
+      "recognise fake news",
+      "tackle fake news"
+    ],
+    "synonyms": [
+      "hoax",
+      "false news"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "biased",
+    "ipa": "/ˈbaɪəst/",
+    "pos": "adjective",
+    "meaningEn": "unfairly supporting one side or opinion",
+    "meaningVi": "thiên vị, thiếu khách quan",
+    "example": "Readers should be aware that some news channels provide heavily biased reports on political issues.",
+    "exampleVi": "Người đọc nên ý thức rằng một số kênh tin tức đưa tin rất thiên vị về các vấn đề chính trị.",
+    "exampleForm": "biased",
+    "collocations": [
+      "politically biased",
+      "biased reporting",
+      "heavily biased"
+    ],
+    "synonyms": [
+      "one-sided",
+      "partial",
+      "prejudiced"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "coverage",
+    "ipa": "/ˈkʌvərɪdʒ/",
+    "pos": "noun",
+    "meaningEn": "the reporting of a particular event or subject in the news",
+    "meaningVi": "sự đưa tin, mức độ phủ sóng (trên truyền thông)",
+    "example": "Extensive media coverage of the floods prompted thousands of people to donate to relief efforts.",
+    "exampleVi": "Việc truyền thông đưa tin rộng rãi về trận lũ đã thúc đẩy hàng nghìn người quyên góp cho công tác cứu trợ.",
+    "exampleForm": "coverage",
+    "collocations": [
+      "media coverage",
+      "extensive coverage",
+      "live coverage"
+    ],
+    "synonyms": [
+      "reporting"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "headline",
+    "ipa": "/ˈhedlaɪn/",
+    "pos": "noun",
+    "meaningEn": "the title of a news story, printed in large letters",
+    "meaningVi": "tiêu đề, dòng tít (bài báo)",
+    "example": "Many readers only skim the headlines and never read the full article.",
+    "exampleVi": "Nhiều độc giả chỉ lướt qua các dòng tít mà không bao giờ đọc hết bài báo.",
+    "exampleForm": "headlines",
+    "collocations": [
+      "hit the headlines",
+      "make headlines",
+      "front-page headline"
+    ],
+    "synonyms": [
+      "title"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "broadcast",
+    "ipa": "/ˈbrɔːdkɑːst/",
+    "pos": "verb",
+    "meaningEn": "to send out a programme on television or radio",
+    "meaningVi": "phát sóng, truyền hình",
+    "example": "Major sporting events are broadcast live to hundreds of millions of viewers worldwide.",
+    "exampleVi": "Các sự kiện thể thao lớn được truyền hình trực tiếp tới hàng trăm triệu khán giả trên toàn thế giới.",
+    "exampleForm": "broadcast",
+    "collocations": [
+      "broadcast live",
+      "broadcast nationally",
+      "broadcast a programme"
+    ],
+    "synonyms": [
+      "air",
+      "transmit"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "commercial",
+    "ipa": "/kəˈmɜːʃl/",
+    "pos": "noun",
+    "meaningEn": "an advertisement on television or radio",
+    "meaningVi": "quảng cáo (trên truyền hình, đài phát thanh)",
+    "example": "Television commercials for junk food should be banned during children's programmes.",
+    "exampleVi": "Quảng cáo đồ ăn vặt trên truyền hình nên bị cấm trong các chương trình dành cho trẻ em.",
+    "exampleForm": "commercials",
+    "collocations": [
+      "TV commercial",
+      "run a commercial"
+    ],
+    "synonyms": [
+      "advert",
+      "advertisement"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "endorse",
+    "ipa": "/ɪnˈdɔːs/",
+    "pos": "verb",
+    "meaningEn": "to say publicly that you support a product, usually in an advertisement",
+    "meaningVi": "quảng bá, đứng ra bảo chứng (cho sản phẩm), tán thành",
+    "example": "Young fans are easily persuaded to buy products endorsed by their favourite celebrities.",
+    "exampleVi": "Người hâm mộ trẻ tuổi dễ bị thuyết phục mua những sản phẩm được người nổi tiếng mà họ yêu thích quảng bá.",
+    "exampleForm": "endorsed",
+    "collocations": [
+      "endorse a product",
+      "endorse a brand",
+      "publicly endorse"
+    ],
+    "synonyms": [
+      "promote",
+      "back"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "target audience",
+    "ipa": "/ˌtɑːɡɪt ˈɔːdiəns/",
+    "pos": "noun",
+    "meaningEn": "the particular group of people an advertisement or programme is aimed at",
+    "meaningVi": "đối tượng khán giả mục tiêu, nhóm khách hàng mục tiêu",
+    "example": "Advertisers use personal data from social media to reach their target audience more precisely.",
+    "exampleVi": "Các nhà quảng cáo sử dụng dữ liệu cá nhân từ mạng xã hội để tiếp cận nhóm khách hàng mục tiêu chính xác hơn.",
+    "exampleForm": "target audience",
+    "collocations": [
+      "reach a target audience",
+      "identify the target audience"
+    ],
+    "synonyms": [
+      "target market"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "persuasive",
+    "ipa": "/pəˈsweɪsɪv/",
+    "pos": "adjective",
+    "meaningEn": "able to make people believe or do something",
+    "meaningVi": "có sức thuyết phục",
+    "example": "Advertisements are designed to be highly persuasive, often targeting viewers' emotions rather than logic.",
+    "exampleVi": "Quảng cáo được thiết kế để có sức thuyết phục cao, thường đánh vào cảm xúc của người xem hơn là lý trí.",
+    "exampleForm": "persuasive",
+    "collocations": [
+      "highly persuasive",
+      "persuasive techniques",
+      "persuasive argument"
+    ],
+    "synonyms": [
+      "convincing",
+      "compelling"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "manipulate",
+    "ipa": "/məˈnɪpjuleɪt/",
+    "pos": "verb",
+    "meaningEn": "to control or influence someone in a clever, unfair way",
+    "meaningVi": "thao túng, lôi kéo",
+    "example": "Political campaigns may manipulate public opinion by targeting voters with misleading online advertisements.",
+    "exampleVi": "Các chiến dịch chính trị có thể thao túng dư luận bằng cách nhắm tới cử tri qua những quảng cáo trực tuyến gây hiểu lầm.",
+    "exampleForm": "manipulate",
+    "collocations": [
+      "manipulate public opinion",
+      "manipulate consumers",
+      "easily manipulated"
+    ],
+    "synonyms": [
+      "influence",
+      "exploit"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "go viral",
+    "ipa": "/ɡəʊ ˈvaɪrəl/",
+    "pos": "phrase",
+    "meaningEn": "to spread very quickly on the internet",
+    "meaningVi": "lan truyền chóng mặt, gây sốt (trên mạng)",
+    "example": "A single post can go viral within hours, reaching millions of users around the globe.",
+    "exampleVi": "Chỉ một bài đăng cũng có thể gây sốt trong vài giờ, tiếp cận hàng triệu người dùng trên toàn cầu.",
+    "exampleForm": "go viral",
+    "collocations": [
+      "a video goes viral",
+      "go viral on social media"
+    ],
+    "synonyms": [
+      "spread rapidly"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "influencer",
+    "ipa": "/ˈɪnfluənsə/",
+    "pos": "noun",
+    "meaningEn": "a person who uses social media to affect what followers buy or think",
+    "meaningVi": "người có tầm ảnh hưởng (trên mạng xã hội)",
+    "example": "Brands now spend huge sums paying influencers to promote their products to young followers.",
+    "exampleVi": "Các thương hiệu hiện chi những khoản tiền khổng lồ để thuê người có tầm ảnh hưởng quảng bá sản phẩm tới những người theo dõi trẻ tuổi.",
+    "exampleForm": "influencers",
+    "collocations": [
+      "social media influencer",
+      "influencer marketing"
+    ],
+    "synonyms": [
+      "content creator"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "clickbait",
+    "ipa": "/ˈklɪkbeɪt/",
+    "pos": "noun",
+    "meaningEn": "online content with a misleading title designed to make people click",
+    "meaningVi": "nội dung câu view, tiêu đề giật tít",
+    "example": "Many news websites rely on clickbait to increase traffic and advertising income.",
+    "exampleVi": "Nhiều trang tin tức dựa vào những tiêu đề câu view để tăng lượng truy cập và thu nhập từ quảng cáo.",
+    "exampleForm": "clickbait",
+    "collocations": [
+      "clickbait headlines",
+      "fall for clickbait"
+    ],
+    "synonyms": [],
+    "level": "C1"
+  },
+  {
+    "word": "echo chamber",
+    "ipa": "/ˈekəʊ ˌtʃeɪmbə/",
+    "pos": "noun",
+    "meaningEn": "a situation where people only hear opinions that match their own",
+    "meaningVi": "buồng vang, môi trường chỉ nghe thấy quan điểm giống mình",
+    "example": "Social media algorithms can trap users in an echo chamber where their views are never challenged.",
+    "exampleVi": "Thuật toán mạng xã hội có thể nhốt người dùng trong một buồng vang, nơi quan điểm của họ không bao giờ bị phản biện.",
+    "exampleForm": "echo chamber",
+    "collocations": [
+      "online echo chamber",
+      "create an echo chamber"
+    ],
+    "synonyms": [
+      "filter bubble"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "paparazzi",
+    "ipa": "/ˌpæpəˈrætsi/",
+    "pos": "noun",
+    "meaningEn": "photographers who follow famous people to take pictures to sell",
+    "meaningVi": "thợ săn ảnh, phóng viên săn ảnh người nổi tiếng",
+    "example": "Celebrities often complain that the paparazzi follow them everywhere, even when they are with their children.",
+    "exampleVi": "Người nổi tiếng thường phàn nàn rằng các tay săn ảnh bám theo họ khắp nơi, ngay cả khi họ đi cùng con cái.",
+    "exampleForm": "paparazzi",
+    "collocations": [
+      "hounded by the paparazzi",
+      "avoid the paparazzi"
+    ],
+    "synonyms": [
+      "photographers"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "invasion of privacy",
+    "ipa": "/ɪnˌveɪʒn əv ˈprɪvəsi/",
+    "pos": "phrase",
+    "meaningEn": "an action that interferes with someone's private life without permission",
+    "meaningVi": "sự xâm phạm quyền riêng tư",
+    "example": "Publishing private photographs without consent is a serious invasion of privacy, even for public figures.",
+    "exampleVi": "Đăng ảnh riêng tư khi chưa được đồng ý là một hành vi xâm phạm quyền riêng tư nghiêm trọng, ngay cả với người của công chúng.",
+    "exampleForm": "invasion of privacy",
+    "collocations": [
+      "a gross invasion of privacy",
+      "constitute an invasion of privacy"
+    ],
+    "synonyms": [
+      "intrusion"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "propaganda",
+    "ipa": "/ˌprɒpəˈɡændə/",
+    "pos": "noun",
+    "meaningEn": "biased or false information used to promote a political cause",
+    "meaningVi": "tuyên truyền (thường mang tính một chiều, sai lệch)",
+    "example": "Authoritarian regimes have long used state media as a tool for spreading propaganda.",
+    "exampleVi": "Các chế độ độc tài từ lâu đã sử dụng truyền thông nhà nước như một công cụ để tuyên truyền một chiều.",
+    "exampleForm": "propaganda",
+    "collocations": [
+      "political propaganda",
+      "spread propaganda",
+      "propaganda campaign"
+    ],
+    "synonyms": [
+      "indoctrination"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "word of mouth",
+    "ipa": "/ˌwɜːd əv ˈmaʊθ/",
+    "pos": "phrase",
+    "meaningEn": "the passing of information or recommendations from person to person",
+    "meaningVi": "truyền miệng",
+    "example": "Small restaurants often rely on word of mouth rather than expensive advertising to attract customers.",
+    "exampleVi": "Các nhà hàng nhỏ thường dựa vào sự truyền miệng thay vì quảng cáo tốn kém để thu hút khách hàng.",
+    "exampleForm": "word of mouth",
+    "collocations": [
+      "by word of mouth",
+      "word-of-mouth marketing"
+    ],
+    "synonyms": [
+      "recommendation"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "subscriber",
+    "ipa": "/səbˈskraɪbə/",
+    "pos": "noun",
+    "meaningEn": "a person who pays to receive a service or follows a channel",
+    "meaningVi": "người đăng ký, người theo dõi (kênh), thuê bao",
+    "example": "Streaming services have attracted millions of subscribers at the expense of traditional television.",
+    "exampleVi": "Các dịch vụ phát trực tuyến đã thu hút hàng triệu người đăng ký, khiến truyền hình truyền thống bị lép vế.",
+    "exampleForm": "subscribers",
+    "collocations": [
+      "paying subscribers",
+      "gain subscribers",
+      "subscriber base"
+    ],
+    "synonyms": [
+      "follower",
+      "member"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "publicity",
+    "ipa": "/pʌbˈlɪsəti/",
+    "pos": "noun",
+    "meaningEn": "public attention given to someone or something by the media",
+    "meaningVi": "sự chú ý của công chúng, sự quảng bá",
+    "example": "Some celebrities deliberately create scandals simply to attract publicity.",
+    "exampleVi": "Một số người nổi tiếng cố tình tạo ra scandal chỉ để thu hút sự chú ý của công chúng.",
+    "exampleForm": "publicity",
+    "collocations": [
+      "attract publicity",
+      "negative publicity",
+      "publicity stunt"
+    ],
+    "synonyms": [
+      "attention",
+      "promotion"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "slogan",
+    "ipa": "/ˈsləʊɡən/",
+    "pos": "noun",
+    "meaningEn": "a short, memorable phrase used in advertising or politics",
+    "meaningVi": "khẩu hiệu, câu slogan",
+    "example": "A catchy slogan can make a brand instantly recognisable to consumers.",
+    "exampleVi": "Một câu khẩu hiệu bắt tai có thể khiến thương hiệu được người tiêu dùng nhận ra ngay lập tức.",
+    "exampleForm": "slogan",
+    "collocations": [
+      "catchy slogan",
+      "advertising slogan",
+      "campaign slogan"
+    ],
+    "synonyms": [
+      "catchphrase",
+      "tagline"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "airtime",
+    "ipa": "/ˈeətaɪm/",
+    "pos": "noun",
+    "meaningEn": "the amount of time given to a subject on radio or television",
+    "meaningVi": "thời lượng phát sóng",
+    "example": "Women's sports still receive far less airtime than men's competitions on major television channels.",
+    "exampleVi": "Các môn thể thao nữ vẫn nhận được thời lượng phát sóng ít hơn nhiều so với các giải đấu nam trên những kênh truyền hình lớn.",
+    "exampleForm": "airtime",
+    "collocations": [
+      "receive airtime",
+      "prime-time airtime",
+      "give airtime to"
+    ],
+    "synonyms": [
+      "broadcast time"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "editorial",
+    "ipa": "/ˌedɪˈtɔːriəl/",
+    "pos": "noun",
+    "meaningEn": "a newspaper article giving the editor's opinion on an issue",
+    "meaningVi": "bài xã luận",
+    "example": "The newspaper published an editorial criticising the government's handling of the housing crisis.",
+    "exampleVi": "Tờ báo đã đăng một bài xã luận chỉ trích cách chính phủ xử lý cuộc khủng hoảng nhà ở.",
+    "exampleForm": "editorial",
+    "collocations": [
+      "newspaper editorial",
+      "write an editorial"
+    ],
+    "synonyms": [
+      "leading article",
+      "opinion piece"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "impartial",
+    "ipa": "/ɪmˈpɑːʃl/",
+    "pos": "adjective",
+    "meaningEn": "not supporting any side; fair and neutral",
+    "meaningVi": "công bằng, khách quan, không thiên vị",
+    "example": "Public broadcasters have a duty to provide impartial reporting on controversial political issues.",
+    "exampleVi": "Các đài truyền hình công có nghĩa vụ đưa tin khách quan về những vấn đề chính trị gây tranh cãi.",
+    "exampleForm": "impartial",
+    "collocations": [
+      "impartial reporting",
+      "impartial information",
+      "remain impartial"
+    ],
+    "synonyms": [
+      "unbiased",
+      "neutral",
+      "objective"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "gullible",
+    "ipa": "/ˈɡʌləbl/",
+    "pos": "adjective",
+    "meaningEn": "easily tricked because you believe what people tell you",
+    "meaningVi": "cả tin, dễ bị lừa",
+    "example": "Gullible consumers may believe exaggerated claims about miracle diet products advertised online.",
+    "exampleVi": "Những người tiêu dùng cả tin có thể tin vào lời quảng cáo phóng đại về các sản phẩm giảm cân thần kỳ trên mạng.",
+    "exampleForm": "Gullible",
+    "collocations": [
+      "gullible consumers",
+      "naive and gullible"
+    ],
+    "synonyms": [
+      "naive",
+      "credulous"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "troll",
+    "ipa": "/trəʊl/",
+    "pos": "noun",
+    "meaningEn": "a person who posts offensive comments online to upset others",
+    "meaningVi": "kẻ chuyên gây rối, khiêu khích trên mạng",
+    "example": "Many public figures have quit social media after being targeted by anonymous trolls.",
+    "exampleVi": "Nhiều người của công chúng đã rời bỏ mạng xã hội sau khi bị những kẻ gây rối giấu tên nhắm vào.",
+    "exampleForm": "trolls",
+    "collocations": [
+      "internet troll",
+      "anonymous trolls",
+      "targeted by trolls"
+    ],
+    "synonyms": [
+      "online abuser"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "watchdog",
+    "ipa": "/ˈwɒtʃdɒɡ/",
+    "pos": "noun",
+    "meaningEn": "a person or organisation that monitors companies or governments to prevent wrongdoing",
+    "meaningVi": "cơ quan giám sát, người giám sát",
+    "example": "A free press acts as a watchdog, exposing wrongdoing by politicians and large corporations.",
+    "exampleVi": "Báo chí tự do đóng vai trò là cơ quan giám sát, phơi bày sai phạm của các chính trị gia và tập đoàn lớn.",
+    "exampleForm": "watchdog",
+    "collocations": [
+      "media watchdog",
+      "act as a watchdog",
+      "consumer watchdog"
+    ],
+    "synonyms": [
+      "monitor",
+      "regulator"
+    ],
+    "level": "C2"
+  },
+  {
+    "word": "news outlet",
+    "ipa": "/ˈnjuːz ˌaʊtlet/",
+    "pos": "noun",
+    "meaningEn": "an organisation that publishes or broadcasts news",
+    "meaningVi": "cơ quan báo chí, kênh tin tức",
+    "example": "Reading the same story from several news outlets helps readers form a more balanced view.",
+    "exampleVi": "Đọc cùng một câu chuyện từ nhiều kênh tin tức giúp người đọc có cái nhìn cân bằng hơn.",
+    "exampleForm": "news outlets",
+    "collocations": [
+      "major news outlets",
+      "independent news outlet"
+    ],
+    "synonyms": [
+      "media organisation"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "columnist",
+    "ipa": "/ˈkɒləmnɪst/",
+    "pos": "noun",
+    "meaningEn": "a journalist who regularly writes an article for a newspaper or magazine",
+    "meaningVi": "người phụ trách chuyên mục, nhà bình luận báo chí",
+    "example": "Newspaper columnists can shape public debate by expressing strong opinions on social issues.",
+    "exampleVi": "Những cây bút chuyên mục trên báo có thể định hướng cuộc tranh luận trong xã hội bằng cách bày tỏ quan điểm mạnh mẽ về các vấn đề xã hội.",
+    "exampleForm": "columnists",
+    "collocations": [
+      "newspaper columnist",
+      "political columnist"
+    ],
+    "synonyms": [
+      "commentator",
+      "writer"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "ratings",
+    "ipa": "/ˈreɪtɪŋz/",
+    "pos": "noun",
+    "meaningEn": "measurements of how many people watch or listen to a programme",
+    "meaningVi": "tỷ suất người xem, lượng khán giả theo dõi",
+    "example": "Reality shows often rely on conflict and drama to boost their ratings.",
+    "exampleVi": "Các chương trình truyền hình thực tế thường dựa vào xung đột và kịch tính để tăng tỷ suất người xem.",
+    "exampleForm": "ratings",
+    "collocations": [
+      "boost ratings",
+      "TV ratings",
+      "high ratings"
+    ],
+    "synonyms": [
+      "viewing figures",
+      "audience figures"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "sponsor",
+    "ipa": "/ˈspɒnsə/",
+    "pos": "verb",
+    "meaningEn": "to pay for an event or programme in exchange for advertising",
+    "meaningVi": "tài trợ",
+    "example": "Fast-food companies should not be allowed to sponsor sporting events watched by young children.",
+    "exampleVi": "Các công ty đồ ăn nhanh không nên được phép tài trợ cho những sự kiện thể thao có trẻ nhỏ theo dõi.",
+    "exampleForm": "sponsor",
+    "collocations": [
+      "sponsor an event",
+      "sponsor a team",
+      "sponsored by"
+    ],
+    "synonyms": [
+      "fund",
+      "finance",
+      "back"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "bombard",
+    "ipa": "/bɒmˈbɑːd/",
+    "pos": "verb",
+    "meaningEn": "to direct a large amount of information or questions at someone",
+    "meaningVi": "dội tới tấp, tấn công dồn dập (bằng thông tin, quảng cáo)",
+    "example": "Children today are bombarded with advertisements every time they go online.",
+    "exampleVi": "Trẻ em ngày nay bị quảng cáo tấn công tới tấp mỗi khi lên mạng.",
+    "exampleForm": "bombarded",
+    "collocations": [
+      "bombarded with advertisements",
+      "bombarded with information"
+    ],
+    "synonyms": [
+      "overwhelm",
+      "flood"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "advertising",
+    "ipa": "/ˈædvətaɪzɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the business of persuading people to buy products or services",
+    "meaningVi": "quảng cáo, ngành quảng cáo",
+    "example": "Many parents believe that advertising aimed at children should be strictly regulated.",
+    "exampleVi": "Nhiều phụ huynh cho rằng quảng cáo nhắm vào trẻ em cần được quản lý chặt chẽ.",
+    "exampleForm": "advertising",
+    "collocations": [
+      "advertising campaign",
+      "online advertising",
+      "misleading advertising"
+    ],
+    "synonyms": [
+      "marketing",
+      "promotion"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "social media",
+    "ipa": "/ˌsəʊʃl ˈmiːdiə/",
+    "pos": "noun",
+    "meaningEn": "websites and apps that let people share content and communicate online",
+    "meaningVi": "mạng xã hội, truyền thông xã hội",
+    "example": "Teenagers who spend hours on social media may compare themselves unfavourably with others.",
+    "exampleVi": "Thanh thiếu niên dành hàng giờ trên mạng xã hội có thể tự so sánh bản thân một cách tiêu cực với người khác.",
+    "exampleForm": "social media",
+    "collocations": [
+      "social media platforms",
+      "use social media",
+      "social media users"
+    ],
+    "synonyms": [],
+    "level": "B1"
+  }
+]
