@@ -1,131 +1,131 @@
 # IELTS Vocab
 
-Ứng dụng web **miễn phí, mã nguồn mở** giúp học thuộc từ vựng IELTS bằng phương pháp lặp lại ngắt quãng. Ứng dụng chạy ngay trên máy của bạn, không cần tài khoản, không cần mạng, không thu thập dữ liệu. Giao diện có tiếng Việt và tiếng Anh.
+A **free, open-source** web app for memorising IELTS vocabulary with spaced repetition. It runs on your own computer: no account, no internet connection, no data collection. The interface is available in English and Vietnamese.
 
-> Dự án được chia sẻ để mọi người cùng học. Nếu thấy hữu ích, hãy cho repo một ⭐ và góp thêm từ vựng hoặc báo lỗi nhé.
+> This project is shared so everyone can learn together. If you find it useful, please give the repo a ⭐, contribute words, or report mistakes.
 
-## Tính năng
+## Features
 
-- **719 từ IELTS soạn sẵn** trong 17 nhóm: từ vựng học thuật, biểu đồ & xu hướng (Writing Task 1), môi trường, giáo dục, công nghệ, sức khoẻ, công việc, kinh tế, xã hội, tội phạm & pháp luật, chính phủ, truyền thông, khoa học, đô thị & giao thông, du lịch, gia đình, cùng một **sổ tay mẫu** (xem [Bộ từ vựng](#bộ-từ-vựng)).
-- Mỗi từ có **phiên âm IPA (Anh – Anh)**, từ loại, trình độ CEFR (B1–C2), nghĩa tiếng Việt, định nghĩa tiếng Anh, **câu ví dụ phong cách IELTS** kèm bản dịch, cụm từ thường gặp và từ đồng nghĩa.
-- **Lặp lại ngắt quãng bằng FSRS**, thuật toán hiện đại mà Anki cũng dùng. Ứng dụng dự đoán lúc bạn sắp quên từng từ để nhắc ôn đúng lúc.
-- **Học từ mới theo nhóm 5 từ**: xem và nghe từng từ, rồi tự kiểm tra hai bước (chọn nghĩa, sau đó tự gõ lại từ). Từ nào sai sẽ được hỏi lại ngay trong buổi học.
-- **Luyện tập** với 5 dạng câu hỏi: Anh → Việt, Việt → Anh, chính tả, nghe và gõ lại, điền từ vào câu. Luyện tập không làm thay đổi lịch ôn.
-- **Kho từ**: tìm kiếm có dấu hoặc không dấu, lọc theo chủ đề / trạng thái / dấu sao, ghi mẹo nhớ, thêm từ của riêng bạn hoặc nhập cả danh sách.
-- Phát âm bằng giọng đọc có sẵn của máy (Anh – Anh hoặc Anh – Mỹ), chế độ sáng / tối, dùng được trên điện thoại và máy tính, có phím tắt.
+- **719 ready-made IELTS words** in 17 groups: academic vocabulary, charts & trends (Writing Task 1), environment, education, technology, health, work, economy, society, crime & law, government, media, science, cities & transport, travel, family, plus a **sample notebook** (see [Word list](#word-list)).
+- Every word has **British IPA**, part of speech, CEFR level (B1–C2), Vietnamese meaning, English definition, an **IELTS-style example sentence** with translation, common collocations and synonyms.
+- **FSRS spaced repetition**, the modern algorithm also used by Anki. It predicts when you are about to forget each word and schedules the review at the right time.
+- **Learn new words in batches of 5**: study and listen to each word, then test yourself in two steps (pick the meaning, then type the word). Anything you get wrong comes back later in the same session.
+- **Practice** with 5 question types: English → Vietnamese, Vietnamese → English, spelling, listen and type, and fill in the blank. Practice never changes your review schedule.
+- **Word bank**: search with or without Vietnamese diacritics, filter by topic, status or star, write memory tips, add your own words or import a whole list.
+- Pronunciation using your device's built-in voices (British or American), light and dark themes, works on phone and desktop, full keyboard shortcuts.
 
-## Cài đặt và chạy
+## Getting started
 
-Cần cài **[Node.js](https://nodejs.org) 20 trở lên** (chọn bản LTS).
+You need **[Node.js](https://nodejs.org) 20 or later** (the LTS version is recommended).
 
-### 1. Tải mã nguồn
+### 1. Get the code
 
 ```bash
 git clone https://github.com/thanhvv2605/english_vocab.git
 cd english_vocab
 ```
 
-Nếu không dùng Git, bấm **Code → Download ZIP** trên GitHub rồi giải nén.
+Without Git, click **Code → Download ZIP** on GitHub and unzip it.
 
-### 2. Chạy ứng dụng
+### 2. Run the app
 
-**macOS:** nhấp đúp vào file `Mo IELTS Vocab.command`. Lần đầu sẽ mất khoảng một phút để cài đặt, sau đó trình duyệt tự mở http://localhost:5199. Giữ cửa sổ Terminal mở trong lúc học.
+**macOS:** double-click `Mo IELTS Vocab.command`. The first run takes about a minute to install dependencies, then your browser opens http://localhost:5199. Keep the Terminal window open while you study.
 
-> Nếu macOS báo không mở được file vì “không xác định được nhà phát triển”, hãy **nhấp chuột phải → Open**. Nếu bạn tải bản ZIP và file không chạy, mở Terminal trong thư mục dự án và chạy `chmod +x "Mo IELTS Vocab.command"`.
+> If macOS refuses to open the file because it is from an "unidentified developer", **right-click → Open** instead. If you downloaded the ZIP and the file does not run, open Terminal in the project folder and run `chmod +x "Mo IELTS Vocab.command"`.
 
-**Windows, Linux hoặc dùng Terminal:**
+**Windows, Linux, or from a terminal:**
 
 ```bash
-npm install     # chỉ cần chạy lần đầu
-npm start       # build và mở http://localhost:5199
+npm install     # first time only
+npm start       # builds and opens http://localhost:5199
 ```
 
-Muốn dừng ứng dụng thì nhấn `Ctrl + C` trong Terminal.
+Press `Ctrl + C` in the terminal to stop the app.
 
-## Cách học hiệu quả
+## How to study effectively
 
-1. **Mỗi ngày mở trang “Hôm nay”.** Làm phần **Ôn tập** trước, sau đó mới **Học từ mới**. Ôn đúng hạn quan trọng hơn học nhiều từ mới.
-2. Khi ôn, hãy cố nhớ ra nghĩa *trước khi* lật thẻ, rồi tự đánh giá thật lòng:
-   - **Quên**: không nhớ ra, từ sẽ quay lại sau ít phút.
-   - **Khó**: nhớ ra nhưng rất chật vật.
-   - **Nhớ**: nhớ ra sau một chút suy nghĩ (lựa chọn thường dùng nhất).
-   - **Dễ**: nhớ ngay lập tức.
-3. Bắt đầu với **10 từ mới mỗi ngày**. Sau khoảng 2–3 tuần, số từ cần ôn mỗi ngày sẽ ổn định ở mức khoảng 5–8 lần số từ mới.
-4. Mỗi tuần một lần, dùng **Luyện tập → Từ hay quên** để củng cố những từ khó.
-5. Ghi **mẹo nhớ** của riêng bạn vào phần ghi chú của từng từ (trong Kho từ).
+1. **Open the "Today" page every day.** Do your **Review** first, then **Learn** new words. Reviewing on time matters more than learning many new words.
+2. When reviewing, try to recall the meaning *before* revealing the card, then rate yourself honestly:
+   - **Forgot**: you could not recall it; the word comes back in a few minutes.
+   - **Hard**: you recalled it, but with real difficulty.
+   - **Good**: you recalled it after a moment's thought (the most common choice).
+   - **Easy**: you recalled it instantly.
+3. Start with **10 new words a day**. After 2–3 weeks your daily reviews settle at roughly 5–8 times the number of new words.
+4. Once a week, use **Practice → Weak words** to strengthen the words you keep forgetting.
+5. Write your own **memory tips** in each word's notes (in the Words page).
 
-### Phím tắt
+### Keyboard shortcuts
 
-| Phím | Tác dụng |
+| Key | Action |
 | --- | --- |
-| `Space` / `Enter` | Lật thẻ / tiếp tục |
-| `1` `2` `3` `4` | Đánh giá Quên / Khó / Nhớ / Dễ, hoặc chọn đáp án trắc nghiệm |
-| `P` | Nghe phát âm |
-| `Z` | Hoàn tác lần đánh giá vừa rồi |
-| `K` | “Tôi biết từ này rồi” (khi học từ mới) |
+| `Space` / `Enter` | Reveal card / continue |
+| `1` `2` `3` `4` | Rate Forgot / Hard / Good / Easy, or pick a multiple-choice answer |
+| `P` | Play pronunciation |
+| `Z` | Undo the last rating |
+| `K` | "I already know this" (when learning new words) |
 
-## Dữ liệu và quyền riêng tư
+## Your data and privacy
 
-- Toàn bộ tiến độ được lưu trong trình duyệt của máy bạn (IndexedDB). Ứng dụng **không có máy chủ, không gửi dữ liệu đi đâu cả**.
-- Dữ liệu gắn với địa chỉ **http://localhost:5199**. Hãy luôn dùng đúng địa chỉ này và cùng một trình duyệt, nếu không bạn sẽ thấy như bị mất tiến độ.
-- Vào **Cài đặt → Xuất bản sao lưu** định kỳ, nhất là trước khi xoá dữ liệu trình duyệt, đổi trình duyệt hoặc đổi máy. Dùng **Khôi phục từ bản sao lưu** để lấy lại dữ liệu.
+- All progress is stored in your browser on this computer (IndexedDB). The app **has no server and sends nothing anywhere**.
+- Data is tied to the address **http://localhost:5199**. Always use this exact address and the same browser, or it will look as if your progress is gone.
+- Use **Settings → Export backup** regularly, especially before clearing browser data or switching browsers or computers. Use **Restore from backup** to bring it back.
 
-## Bộ từ vựng
+## Word list
 
-Từ vựng gốc nằm trong `data/topics/`, mỗi chủ đề là một file JSON theo định dạng mô tả trong [`data/SCHEMA.md`](data/SCHEMA.md).
+The source vocabulary lives in `data/topics/`, one JSON file per topic, in the format described in [`data/SCHEMA.md`](data/SCHEMA.md).
 
-- `notebook.json` (**Sổ tay của tôi**, 75 từ) là sổ tay mẫu của tác giả. Nhóm này luôn được học trước tiên. Bạn có thể giữ nguyên, thay bằng từ của mình, hoặc để file thành `[]` nếu chỉ muốn học theo chủ đề.
-- Các file còn lại là 16 chủ đề IELTS phổ biến, mỗi chủ đề khoảng 40 từ.
+- `notebook.json` (**My notebook**, 75 words) is the author's sample notebook. It is always learned first. Keep it, replace it with your own words, or set the file to `[]` if you only want to study by topic.
+- The other 16 files are common IELTS topics with about 40 words each.
 
-Sau khi sửa dữ liệu, chạy `npm run data` (lệnh `npm start` cũng tự chạy bước này). Lần mở ứng dụng tiếp theo, từ mới sẽ được đồng bộ vào, còn tiến độ, dấu sao và ghi chú đã có vẫn được giữ nguyên.
+After editing the data, run `npm run data` (`npm start` also does this). The next time you open the app, new words are synced in while your existing progress, stars and notes are kept.
 
-> Nội dung được soạn và kiểm tra cẩn thận nhưng vẫn có thể còn sai sót. Nếu thấy phiên âm, nghĩa hay câu ví dụ chưa đúng, hãy [mở issue](../../issues) hoặc gửi pull request.
+> The content was written and checked carefully, but mistakes are still possible. If you spot a wrong IPA, meaning or example, please [open an issue](../../issues) or send a pull request.
 
-## Đóng góp
+## Contributing
 
-Mọi đóng góp đều được hoan nghênh: thêm từ, sửa nghĩa, dịch giao diện, sửa lỗi hay cải thiện tính năng.
+All contributions are welcome: new words, corrected meanings, translations, bug fixes and new features.
 
-1. Fork repo và tạo nhánh mới.
-2. Thực hiện thay đổi:
-   - **Thêm hoặc sửa từ:** sửa file trong `data/topics/` theo đúng `data/SCHEMA.md`. Chạy `npm run data` để kiểm tra; script sẽ báo lỗi nếu thiếu trường, sai từ loại, sai trình độ hoặc `exampleForm` không có trong câu ví dụ.
-   - **Giao diện:** `src/i18n/en.ts` là bản chuẩn; mọi khoá mới phải có bản dịch trong `vi.ts`.
-3. Chạy `npm test` (và `npm run test:e2e` nếu bạn sửa giao diện) trước khi gửi pull request.
+1. Fork the repo and create a branch.
+2. Make your changes:
+   - **Adding or editing words:** edit the files in `data/topics/` following `data/SCHEMA.md`. Run `npm run data` to validate; it reports missing fields, invalid parts of speech or levels, and any `exampleForm` that does not appear in its example sentence.
+   - **Interface text:** `src/i18n/en.ts` is the source of truth; every new key needs a translation in `vi.ts`.
+3. Run `npm test` (and `npm run test:e2e` if you changed the UI) before opening a pull request.
 
-### Lệnh dành cho lập trình viên
+### Developer commands
 
-| Lệnh | Mô tả |
+| Command | Description |
 | --- | --- |
-| `npm run dev` | Chạy chế độ phát triển (cổng 5199, tự tải lại) |
-| `npm start` | Build bản production và chạy ở cổng 5199 |
-| `npm test` | Unit test (Vitest): FSRS, sinh câu hỏi, cơ sở dữ liệu, sao lưu, dữ liệu từ vựng, i18n |
-| `npm run test:e2e` | Test end-to-end (Playwright) trên bản build thật, chạy ở cổng 4317 riêng nên không đụng tới dữ liệu học |
-| `npm run typecheck` | Kiểm tra kiểu TypeScript |
-| `npm run data` | Kiểm tra và gộp `data/topics/*.json` thành `src/data/words.json` |
+| `npm run dev` | Development server (port 5199, hot reload) |
+| `npm start` | Production build, served on port 5199 |
+| `npm test` | Unit tests (Vitest): FSRS, question generation, database, backup, word data, i18n |
+| `npm run test:e2e` | End-to-end tests (Playwright) against a real build, on a separate port (4317) so your study data is never touched |
+| `npm run typecheck` | TypeScript type check |
+| `npm run data` | Validate and merge `data/topics/*.json` into `src/data/words.json` |
 
-Lần đầu chạy test e2e cần cài trình duyệt cho Playwright: `npx playwright install chromium`.
+Before the first e2e run, install the Playwright browser: `npx playwright install chromium`.
 
-**Công nghệ:** React 19, TypeScript, Vite, Tailwind CSS 4, Dexie (IndexedDB), [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs). Font Be Vietnam Pro và Bricolage Grotesque được đóng gói sẵn nên ứng dụng chạy được khi không có mạng.
+**Tech stack:** React 19, TypeScript, Vite, Tailwind CSS 4, Dexie (IndexedDB), [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs). The Be Vietnam Pro and Bricolage Grotesque fonts are bundled, so the app works offline.
 
-### Cấu trúc thư mục
+### Project structure
 
 ```
-data/topics/        Từ vựng gốc theo chủ đề (JSON, xem data/SCHEMA.md)
-scripts/            build-data.mjs: kiểm tra và gộp dữ liệu
-src/db/             Cơ sở dữ liệu, thao tác học/ôn, thống kê, sao lưu
-src/lib/            FSRS, sinh câu hỏi, xử lý văn bản, phát âm
-src/i18n/           Bản dịch giao diện (en.ts là chuẩn, vi.ts bắt buộc đủ khoá)
-src/pages/          Hôm nay, Học từ mới, Ôn tập, Luyện tập, Kho từ, Cài đặt
-e2e/                Test Playwright
+data/topics/        Source vocabulary by topic (JSON, see data/SCHEMA.md)
+scripts/            build-data.mjs: validates and merges the data
+src/db/             Database, learn/review actions, stats, backup
+src/lib/            FSRS, question generation, text utilities, speech
+src/i18n/           UI translations (en.ts is the source; vi.ts must have every key)
+src/pages/          Today, Learn, Review, Practice, Words, Settings
+e2e/                Playwright tests
 ```
 
-## Giấy phép
+## License
 
-- **Mã nguồn:** [MIT](LICENSE).
-- **Dữ liệu từ vựng** (`data/topics/`, `src/data/words.json`): [CC BY 4.0](data/LICENSE). Bạn được tự do dùng lại, chỉnh sửa và chia sẻ, kể cả cho mục đích thương mại, miễn là ghi nguồn dẫn về dự án này.
+- **Code:** [MIT](LICENSE).
+- **Vocabulary data** (`data/topics/`, `src/data/words.json`): [CC BY 4.0](data/LICENSE). You are free to reuse, adapt and share it, including commercially, as long as you credit this project.
 
-## Ghi nhận
+## Acknowledgements
 
-- [FSRS](https://github.com/open-spaced-repetition/fsrs4anki) và [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) của nhóm Open Spaced Repetition.
-- Font [Be Vietnam Pro](https://fonts.google.com/specimen/Be+Vietnam+Pro) và [Bricolage Grotesque](https://fonts.google.com/specimen/Bricolage+Grotesque) (SIL Open Font License).
+- [FSRS](https://github.com/open-spaced-repetition/fsrs4anki) and [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) by Open Spaced Repetition.
+- [Be Vietnam Pro](https://fonts.google.com/specimen/Be+Vietnam+Pro) and [Bricolage Grotesque](https://fonts.google.com/specimen/Bricolage+Grotesque) fonts (SIL Open Font License).
 
-IELTS là thương hiệu đã đăng ký của British Council, IDP: IELTS Australia và Cambridge University Press & Assessment. Dự án này không liên kết với hay được bảo trợ bởi các tổ chức trên.
+IELTS is a registered trademark of the British Council, IDP: IELTS Australia and Cambridge University Press & Assessment. This project is not affiliated with or endorsed by these organisations.
